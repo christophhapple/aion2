@@ -1,0 +1,40 @@
+# Reset rules and tracked routines. Times in UTC.
+# Edit freely: remove what you don't do, add what's missing.
+
+resets:
+  daily: "07:00"        # UNCONFIRMED — sources disagree (see knowledge/resets.md). Verify via in-game tooltip.
+  weekly: { day: wednesday, time: "07:00" }   # Wednesday is confirmed by several sources; time follows daily.
+
+# Fields: id (used in the log), name, reset (daily|weekly), cap (default 1), characters (default: all), notes
+# Caps are from early guides — confirm in-game and correct here.
+routines:
+  - id: duty
+    name: Duty Missions
+    reset: daily
+    cap: 5
+
+  - id: nightmare
+    name: Nightmare
+    reset: daily
+    cap: 2
+    notes: Attempt only consumed on a clear. Unused attempts bank (cap unconfirmed).
+
+  - id: odyle
+    name: Spend Odyle Energy
+    reset: daily
+    notes: Regens 15 per 3h; a cube claim costs 40. Don't let it cap.
+
+  - id: daily-dungeon
+    name: Daily Dungeon
+    reset: weekly
+    cap: 14
+    notes: Shared server pool across characters.
+
+  - id: ascension
+    name: Ascension Trial
+    reset: weekly
+    cap: 3
+
+  - id: weekly-quests
+    name: Weekly quests
+    reset: weekly
