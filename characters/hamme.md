@@ -15,6 +15,9 @@
 Same as Dhamira: Krao Cave claimed · Draupnir 1/3 · Urugugu Canyon claimed · Fire Temple claimed ·
 Vakron 0/3 · Ferocious Horn Den 0/3.
 
+## Professions (2026-10-10)
+Gathering at Professional 50 (promotion done). No crafting yet.
+
 ## Notes
 - Plays together with Dhamira; asks the user for direction. Advice for Hamme uses the same knowledge,
   adjusted for a Sorcerer (DPS) instead of a Cleric (healer).

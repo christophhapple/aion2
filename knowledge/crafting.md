@@ -27,8 +27,11 @@ Researched 2026-10-10. Few solid global sources; best is [70] (2026-10-06). Unve
   active, each successful Ruby extraction drops one (bound) [70][73]. Ruby spots in Verteron: Fortress
   Ruins (outer wall, SE of the Dawn Legion Base), Ellun River Midstream, Destroyed Abyss Gate, Kraka
   Footpath [73].
+- **After the promotion: Professional 1–50, and no further promotion quest so far** (in-game 2026-10-10,
+  at Professional 50). This matches proficiency 1–100 in [71].
 - Gathering skill points per proficiency level (Common/Specialty); "Proficient Handling" raises the
-  success gauge (+5 → +50) [71]. Respec 50,000 Kinah [77, unverified].
+  success gauge (+5 → +50) [71]. **There aren't enough skill points to take every gathering skill**
+  (in-game 2026-10-10), so picks should follow what you farm. Respec 50,000 Kinah [77, unverified].
 - Nodes: ~3 harvest attempts as a mini-game; failed rolls block a slot. Shared between players, respawn
   timer unknown [73][77].
 - **No gathering/crafting energy or daily cap found** [70][71]. (Odyle *Energy* is the dungeon-cube

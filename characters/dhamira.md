@@ -19,6 +19,8 @@ Krao Cave claimed · Draupnir 1/3 · Urugugu Canyon claimed · Fire Temple claim
 Ferocious Horn Den 0/3. Conquest pity progress: not recorded yet.
 
 ## Professions (2026-10-10)
-No crafting yet. Gathers whatever comes along, no plan. Unsure what's worth it (research pending).
+- Gathering (Essence Extraction): **Professional 50**, promotion done. Gathers whatever comes along.
+  Skill point picks are general for now; rework once crafting goals are set (todo).
+- Crafting: none yet. Not worth it for now (see `knowledge/crafting.md`).
 
 ## Notes

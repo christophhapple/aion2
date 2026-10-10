@@ -10,6 +10,7 @@ tracker itself goes in `backlog.md`.
 - [ ] Verify (Abyss, low priority): what happens when you die there (penalty, respawn point)? Does Abyss time keep running while dead or standing in Western Root?
 - [ ] Verify: Nightmare: number of floors/levels, Phantasmal Fragments per clear, shop items + prices
 - [ ] Verify: Transfer tab: what does the preview show, and what makes a piece an eligible source? (once you have eligible gear)
+- [ ] *(low priority, later)* Rework gathering skill point picks once crafting goals are set and you switch to targeted farming (not enough points for everything; respec reportedly costs 50,000 Kinah)
 - [ ] *(low priority, later)* Update `characters/dhamira-build.md` to match what's actually in use
   in the game: the build isn't finished and has already drifted. Check hotkeys, Stigmas and skill points
   in the game, then tell Claude the differences.
