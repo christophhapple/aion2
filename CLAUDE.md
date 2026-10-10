@@ -12,7 +12,8 @@ database and Claude is the interface. The user talks in plain language ("did nig
 | `routines.yaml` | Reset rules + the dailies/weeklies to track | YAML |
 | `log/YYYY-MM.md` | Append-only record of what was done | Markdown list, one line per entry |
 | `goals.md` | Farming/progress targets with counts | Markdown table |
-| `knowledge/` | Game info (researched or told by the user), always with source + date | Markdown |
+| `knowledge/` | Game info (researched or told by the user), with provenance, see below | Markdown |
+| `todo.md` | One-off tasks and reminders (game or tracker), `- [ ]` checkboxes | Markdown |
 
 ## Rules
 
@@ -33,6 +34,24 @@ database and Claude is the interface. The user talks in plain language ("did nig
   in the form `log: Dhamira nightmare ×2` / `char: Dhamira GS 1050` / `goals: …` / `routines: …`.
   No need to ask first.
 - Keep it light: don't add fields or files until the user needs them.
+
+## Knowledge reliability
+
+Aion 2 is very new: online info is scarce, often from the Korean version, contradictory, and goes stale
+with patches. Therefore:
+
+- **Precedence:** what the user observes in-game > official patch notes > community guides > Claude's
+  own assumptions (never write the last one down as fact).
+- **Tag every fact** with its source and status, inline: `(in-game 2026-10-12)`, `(patch notes v1.2)`,
+  `(guide: expcarry, 2026-09, unverified)`. Add the patch version when known, otherwise the date. The
+  current patch is noted at the top of `knowledge/README.md`.
+- **Contradictions:** list both claims with sources; don't silently pick one.
+- **Corrections:** when the user says something in-game doesn't match, update the fact, tag it
+  `in-game <date>`, and keep a one-line `~~old claim~~` note only if it helps to know guides are wrong
+  about it. Commit as `knowledge: …`.
+- **New patch:** when the user mentions a patch, update the version in `knowledge/README.md` and flag
+  guide-sourced facts on affected topics as possibly stale.
+- When answering game questions, say how confident the answer is if it rests on unverified sources.
 
 ## Computing status
 
