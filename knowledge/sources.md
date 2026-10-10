@@ -111,3 +111,5 @@ Added 2026-10-10 (Abyss research).
 89. wikily.gg, Ereshkigal Monolith, undated: https://wikily.gg/aion-2/monoliths/ereshkigal-monolith
 90. playnews, Empyrean Traces guide, undated, 403: https://playnews.gg/en/guides/
 91. playnews, Aug 12 KR patch (healing changes), Aug 2026, **KR**, 403: https://playnews.gg/en/news/
+92. Leprestore, what to do after 45, ~2026-10, G: https://leprestore.com/guides/aion2/what-to-do-after-45/
+93. playnews (DE), Kampfrunen (Clash Runes), undated, ?: https://www.playnews.gg/de/guides/aion-2-kampfrunen-wie-erhalt-und-rustet-man-sie-aus

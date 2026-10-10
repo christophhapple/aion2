@@ -11,6 +11,10 @@ are about the **Korean** version (cap 50 since 2026-07-01). Gear score (GS) thre
   Featherdown, 2 Statue Scrap and a title. A full region gives 120 Daevanion, 120 skill points, 75k stones [18].
 - **Strongholds:** open-world commander + chest; 13 in Altgard [18] **vs** 15 per home region [38][41]. Each gives **2 Noble Belt Enhance
   Scrolls** + 15k Kina [18].
+- **Regional quests** (shown in green in the game, per the user 2026-10-10): **one-time, not
+  repeatable** [92]. Reportedly 116 in total, 58 per faction (one source). Rewards: Wisdom Stones (skill
+  points), Daevanion Crystals, gear, titles, Kinah, materials [92]; some give Clash Runes [19][20].
+  Guides: finish one-time permanent power first, then move to repeatable content (expeditions) [92][93].
 - Find them: Map → Exploration tab → Sealed Dungeon / Stronghold sub-tab ("?" icons, Travel button) [18].
   Rifts open more [14].
 
