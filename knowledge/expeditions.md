@@ -74,7 +74,7 @@ third mode" [46]~~. KR added Hard in Dec 2025 [52][53, KR]. **Vakron Conquest re
 
 | Source | Stones | Limit |
 |---|---|---|
-| **Daily Dungeon** (Daeva Bio-Research Base) | **10,000** per clear | 14/week per server [3][4] |
+| **Daily Dungeon** (Daeva Bio-Research Base; **solo**, score-based reward) | **10,000** per clear | 14/week per server ("Unknown Fissure" pool) [3][4][97] |
 | Ascension Trial | 3,500 per clear | 3/week; GS ~1500 [14] |
 | First Conquest Normal clear (achievement, one-time per dungeon) | 2,480 | once |
 | Conquest final boss | 2,000 | Odyle + cube count |
@@ -91,3 +91,8 @@ All from [56] except limits.
 4. Next gate **GS 1400:** Urugugu + Vakron Conquest (need 2+ players). Then Transcendence at 1600.
 
 Party finding: in-game Quick Join / Party tools (unconfirmed) [46]; third-party LFG sites exist.
+
+**Daily Dungeons** (from level 30): three short **solo** instances, one of them Daeva Bio-Research Base
+(defeat Balaur test subjects before they transform; the score sets the Enhance Stone reward) [97][98].
+Weekly pool 14 per server, reset Wednesday [3][97]. **vs** 7 free entries, extendable to 30 with
+Challenge Tickets [99, forum, low trust].

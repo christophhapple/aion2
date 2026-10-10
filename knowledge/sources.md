@@ -116,3 +116,6 @@ Added 2026-10-10 (Abyss research).
 94. mein-mmo, Space-Time Rifts (timers, what to do, getting home), ~2026-10, G: https://mein-mmo.de/en/aion-2-space-time-rifts-everything-about-timers-what-you-can-do-there-and-how-to-safely-get-home,1591462/
 95. gamesfuze, Spacetime Rift guide (enemy territory), ~2026-10, ?: https://gamesfuze.com/guides/aion-2-spacetime-rift-guide-how-to-rift-into-enemy-territory/
 96. selphie1999gaming, Spacetime Rifts: exploring the enemy map, ~2026-10, ?: https://selphie1999gaming.com/game-guides/aion-2/aion-2-spacetime-rifts-how-to-explore-the-enemy-map/
+97. Skycoach, dungeons guide, ~2026-10, ? (boosting site): https://skycoach.gg/blog/aion-2/articles/dungeons-guide
+98. u4n, dungeon types (group/solo/limits), ~2026-10, ? (gold seller): https://www.u4n.com/index.php/news/aion-2-dungeons-guide-types-group-solo-limit-rewards-tickets.html
+99. Forum post on dungeon tickets, low trust: https://eporady.starostwo.ketrzyn.pl/viewtopic.php?p=26512
