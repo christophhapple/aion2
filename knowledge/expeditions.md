@@ -47,6 +47,25 @@ at launch [47] **vs** an "unlabeled third mode" at 2400–2600 [46]. Vakron gate
   [45][46][49]. Once you own a dungeon's set, cubes give mostly stones [51].
 - Each expedition has an Artwork (Pantheon piece) and a sealed wing [49].
 
+## Exploration or Conquest at max level? (analysis, from the numbers above)
+
+**Odyle Energy (120/day) is the real limit**, so compare stones per Odyle:
+
+| Cube | Odyle | Stones | Stones per Odyle |
+|---|---|---|---|
+| Krao / Urugugu Exploration | 20 | 1,000–1,500 | **50–75** |
+| Fire Temple Exploration | 30 | 1,000–1,500 | 33–50 |
+| Any Conquest | 40 | 2,000 | 50 |
+| Draupnir / Vakron / Horn Den Exploration | 40 | 1,000–1,500 | 25–38 (worst) |
+
+- **For stones:** Krao and Urugugu Exploration are as good as or better than Conquest per Odyle, and
+  their 7 weekly counts are separate from Conquest's. They reportedly don't use the 10/week cube count,
+  which covers Conquest and Transcendence [49].
+- **Conquest is still needed** for what Exploration doesn't give: the IL 54 gear set, wing feathers,
+  pity rewards (14 claims for ★1), and the one-time 2,480-stone first-clear achievement.
+- Suggested mix: Conquest until you have the Krao/Draupnir set pieces you want, then spend the rest on
+  Krao/Urugugu Exploration (20). Skip 40-cost Exploration cubes. Unverified: check cube costs in-game.
+
 ## Enhance Stones per run (other sources for comparison)
 
 | Source | Stones | Limit |

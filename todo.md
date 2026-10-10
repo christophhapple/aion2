@@ -4,8 +4,6 @@ One-off things to do or check in the game. Daily/weekly routines live in `routin
 tracker itself goes in `backlog.md`.
 
 ## Open
-- [ ] **Check first:** spare amulet + belt scrolls. Guides say 30 per item in total, so Epic +9 amulet → ~11 left, Epic +8 belt → ~12 minus the missing Strongholds. Look in inventory/Cube; also open the Monolith level-reward list (info button) for unclaimed rewards. Did the amulet/belt start at Rare?
-- [ ] Verify: Substance Morph: Power Shards per Empyrean Trace (keep the stack until then)
 - [ ] Verify: expedition menu: does Conquest have a Hard/third mode? Cube cost per mode (Krao Exploration 20?)? Is a pity counter visible?
 - [ ] Verify: "Remaining Unobtained Cube Count": where is it shown, and does 0 block Conquest entry?
 - [ ] Verify: Vakron Sky Island entry requirement: GS 1400 or 1800? (entry tooltip)
@@ -17,6 +15,8 @@ tracker itself goes in `backlog.md`.
   in the game, then tell Claude the differences.
 
 ## Done
+- [x] Spare amulet scrolls: plenty; Enhance Stones are the limit (2026-10-10)
+- [x] Feather conversion: 1 Empyrean Trace = 10 Power Shards, not worth it; keep them (2026-10-10)
 - [x] Confirm the daily reset time: 07:00 UTC (2026-10-10)
 - [x] Note the client version: 2.0.6.0.2026100701 (2026-10-10)
 - [x] Gear score vs. item level: the game shows no name; use "gear score"/"GS" like players do (2026-10-10)

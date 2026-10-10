@@ -35,8 +35,9 @@ on global yet) [23][30]. Enhancement cap per grade: Common/Rare +5, Epic +10, Un
   [35][38][41].
 - Each +1: **1 scroll** + Enhance Stones + a little Kina, always succeeds (in-game 2026-10-10 up to Epic
   +9; guides agree for all tiers [35][38]).
-- **Scroll budget: 30 per item, all one-time**, i.e. exactly 10 per tier [35][36][38]. Scrolls spent so
-  far = 10 × completed tiers + current level. E.g. Epic +9 has used 19, so **11 should be left**.
+- **Scroll budget:** guides say 30 per item, all one-time, i.e. 10 per tier [35][36][38]. In practice
+  **amulet scrolls are plentiful and Enhance Stones are the real limit** (in-game 2026-10-10: Epic amulet,
+  "loads" of unused scrolls). Either the 30 figure is wrong or there are more sources; being researched.
 - Transmute (Substance Morph): item must be +10 and unequipped, becomes next tier at +0; no scroll cost
   listed; once per character per step [35][38].
 - Stones and Kina per tier, +0→+10 [38]: Rare 9,280 stones / 232k · Epic 63,060 / 1.58M ·
@@ -51,8 +52,8 @@ on global yet) [23][30]. Enhancement cap per grade: Common/Rare +5, Epic +10, Un
 - Scrolls: **Monolith only** [34]: 1 per level for levels 2–29, 2 at level 30 = 30 total [36][38]. No
   other source after level 30 [34]. Monolith levels cost Empyrean Traces (feathers) of your own faction's
   regions (Verteron for Elyos) [37].
-- **Spare feathers after Monolith 30:** global: convert to **Power Shards** via Substance Morph, rate
-  unknown [37][39]. KR has 1 Trace → 50 Enhance Stones (capped 1,680/server) [40, KR], **not on global
+- **Spare feathers after Monolith 30:** global: convert to **Power Shards** via Substance Morph:
+  **1 Empyrean Trace → 10 Power Shards** (in-game 2026-10-10), judged not worth it [37][39]. KR has 1 Trace → 50 Enhance Stones (capped 1,680/server) [40, KR], **not on global
   yet**; one guide expects it later [39, speculation]. Advice: keep the stack, morph only what you need [39].
 - Reshanta (Abyss) has its own Monolith (max 20, PvP rewards) with its own feathers [37].
 - Fierce Battle Amulet (Abyss) uses Abyss Shop scrolls, which don't work on the Revelation Amulet [35][38].
