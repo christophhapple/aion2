@@ -5,13 +5,18 @@
 Guides and news name patches by date, not version, so tag patch-related facts as `patch 2026-10-07`.
 The client version's suffix (`20261007…`) shows the patch date, so the two can be matched.
 
+## Terminology
+- **Gear score (GS)** = **item level (IL)**: same number. The game shows no name for it; players
+  in-game say "gear score"/"GS", guides often say "item level". This repo uses **GS**.
+
+## Reliability
 Reliability rules: see "Knowledge reliability" in `CLAUDE.md`. In short, in-game observation beats
 patch notes, which beat guides. Every fact is tagged with its source and date or patch.
 
 | File | Topic |
 |---|---|
 | `resets.md` | Reset times, entry caps |
-| `endgame.md` | Endgame content ladder by item level |
+| `endgame.md` | Endgame content ladder by gear score |
 | `gear.md` | Gear progression, currencies, Cleric notes |
 | `cleric-skills.md` | Cleric active + Stigma skills (from in-game tooltips) |
 | `sources.md` | Numbered source list ([n] references) |

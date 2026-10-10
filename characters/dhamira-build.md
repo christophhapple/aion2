@@ -2,7 +2,10 @@
 
 Imported 2026-10-10 from the Claude doc "AION 2 Cleric - Skills & Build Notes"
 (https://claude.ai/artifact/P16n3oAFFuZ5CtkTDhNgCU, rev 9 of 2026-10-09). **This file is now the source
-of truth**; the doc is no longer updated. Skill effects: `knowledge/cleric-skills.md`.
+of truth**; the doc was deleted. Skill effects: `knowledge/cleric-skills.md`.
+
+> **Out of date:** unfinished, and already drifted from the setup used in the game (2026-10-10). Don't treat
+> as the current setup; ask the user when it matters. Update planned (todo.md, low priority).
 
 Target content: mostly group PvE. Current preset is offensive, for the leveling/gearing stretch where
 nothing threatens you.

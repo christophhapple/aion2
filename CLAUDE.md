@@ -39,7 +39,9 @@ database and Claude is the interface. The user talks in plain language ("did nig
 - **Respect `account.md`:** the player is currently free to play. Don't base advice on paid content
   (Daeva Pass, membership) unless asked, and note when a guide's numbers assume a subscription.
 - **Todos:** something the user must do or check in the game goes in `todo.md`; a change to this repo
-  (files, skills, structure) goes in `backlog.md`. Mark items done with the date instead of deleting them.
+  (files, skills, structure) goes in `backlog.md`. Finished items move to "Done" with the date; dropped items are deleted.
+- **Terminology:** write "gear score" / "GS", never "item level" / "IL" (same thing; guides use IL).
+  When reading guides, translate IL → GS. Glossary: `knowledge/README.md`.
 - Keep it light: don't add fields or files until the user needs them.
 
 ## Knowledge reliability
@@ -69,4 +71,5 @@ Show times to the user in local time (system timezone, currently CET/CEST — ch
 
 ## Skills
 
-`/today` open routines + next resets · `/log` record a play session · `/review` weekly summary.
+`/today` open routines + next resets · `/log` record a play session · `/review` weekly summary ·
+`/todo` in-game todos · `/backlog` tracker backlog (both: no args = show, args = add).

@@ -2,12 +2,12 @@
 
 Researched 2026-10-10. Global launch 2026-10-05 (early access 2026-09-30). All entries are from guides and
 unverified unless tagged `in-game`. Guides mentioning level 50, Brawler, Doom difficulty or Eltnen/Morheim
-are about the **Korean** version (cap 50 since 2026-07-01). Item-level (IL) thresholds differ by
-100–200 between guides. Source numbers refer to the list at the bottom.
+are about the **Korean** version (cap 50 since 2026-07-01). Gear score (GS) thresholds differ by
+100–200 between guides. Source numbers [n] refer to `sources.md`.
 
-## Progression ladder by item level
+## Progression ladder by gear score
 
-| IL | Content | Notes |
+| GS | Content | Notes |
 |---|---|---|
 | any (45) | Sealed Dungeons, Strongholds | Mostly one-time; skill points, Daevanion board, belt upgrade [1] |
 | 45 | Nightmare (solo boss) | 2/day; Phantasmal Fragments → Pantheon [1][4]. Attempt spent only on clear + banks to 14 [3] **vs** every try costs a ticket [4] |
