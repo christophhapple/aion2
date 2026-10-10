@@ -4,6 +4,7 @@ Ideas and tasks for building this tracker. In-game tasks go in `todo.md`.
 
 ## Open
 - [ ] Progression map: review the draft with the user, fix with in-game checks
+- [ ] Update Hamme's page (`share/progression.html`) with what was learned after its last publish: enemy map via Spacetime Rifts (7 rift quests from Mino, skill points + Daevanion), Daily Dungeon is solo with 14 tickets/week, weekly reset Wed 09:00 local confirmed, regional quests are one-time, Abyss basics for PvE players
 - [ ] *(later)* Research **pets**: farmed by killing enemies that drop their souls (per the user); owning pets gives stats/Combat Power. Find out how much CP, how much work, and how it compares with other activities. Expected to be lower value, so not soon.
 - [ ] *(later)* Research **legions** (guilds): benefits of joining? Revisit with more GS, when group content matters more.
 
