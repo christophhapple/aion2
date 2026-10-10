@@ -18,4 +18,7 @@ Build: [dhamira-build.md](dhamira-build.md)
 Krao Cave claimed · Draupnir 1/3 · Urugugu Canyon claimed · Fire Temple claimed · Vakron 0/3 ·
 Ferocious Horn Den 0/3. Conquest pity progress: not recorded yet.
 
+## Professions (2026-10-10)
+No crafting yet. Gathers whatever comes along, no plan. Unsure what's worth it (research pending).
+
 ## Notes

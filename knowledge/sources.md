@@ -83,3 +83,16 @@ Added 2026-10-10 (schedule research).
 67. aion2hub news (articles 2026-09-29 to 10-09 citing NC notices), G/EU: https://aion2hub.com/news
 68. expcarry, Odyle Energy guide, post-launch, G: https://expcarry.com/aion-2-odyle-energy-guide
 69. thegameswiki / Fextralife Shugo Festival pages, date unclear, **KR** (7 keys/week claim)
+
+Added 2026-10-10 (crafting research).
+
+70. Leprestore, crafting + gathering guide, 2026-10-06, G: https://leprestore.com/guides/aion2/crafting-gathering-guide/
+71. wikily.gg, gathering, 2026-09-30 (modified 2026-10-06), G: https://wikily.gg/aion-2/gathering
+72. allthings.how, crafting/materials, 2026-10-06, G: https://allthings.how/?p=234758
+73. fandomwire, Splendent Ruby farming, undated, G: https://fandomwire.com/how-to-farm-splendent-ruby-in-aion-2/
+74. Destructoid, Enhance Stones, 2026-10-06, likely G: https://www.destructoid.com/how-to-get-and-use-enhance-stones-in-aion-2/
+75. gameplay.tips, enhancement guide, 2026-10-01, compares Asia vs. G: https://gameplay.tips/guides/aion-2-enhancement-guide-upgrading-your-gear.html
+76. aion2hub, crafting calculator (Dragon Lord helm), undated, G recipe with KR/TW view: https://aion2hub.com/tools/crafting-calculator/splendent-wise-dragon-lord-helm-210330117
+77. ExitLag, life skills guide, undated, snippets only (403), low reliability: https://www.exitlag.com/blog/aion-2-life-skills-guide/
+78. SBS Biz, 2026-04-08, **KR**: https://biz.sbs.co.kr/amp/article/20000302922
+79. Inven, live broadcast summary, 2026, **KR**: https://m.inven.co.kr/webzine/wznews.php?idx=313506
