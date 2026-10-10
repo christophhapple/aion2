@@ -5,7 +5,8 @@
 | Class | Cleric |
 | Level | 45 (max) |
 | Campaign | Main story done |
-| Gear score | 1000 |
+| Gear score | 1106 |
+| Combat Power | 53.42K |
 | Server | Nania (EU) |
 | Updated | 2026-10-10 |
 

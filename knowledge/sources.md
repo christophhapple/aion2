@@ -35,3 +35,6 @@ Added 2026-10-10 (progression research). G = global, KR = Korean version/pre-lau
 28. gamesfuze, Abyss Points gear, updated 2026-10-01, ?: https://gamesfuze.com/guides/aion-2-best-gear-to-buy-with-abyss-points/
 29. selphie1999gaming, Revelation Amulet, 2026-10-08, ?: https://selphie1999gaming.com/game-guides/aion-2/aion-2-revelation-amulet-upgrade-guide/
 30. Search snippets only, not opened, **low reliability**: allthings.how/?p=244900 (rarity caps), ?p=234794 + ?p=234196 (belt/amulet transmute), ?p=244661 (expedition brackets, test client)
+31. videogameschronicle, Item extraction, date not checked, ?: https://www.videogameschronicle.com/guide/aion-2-item-extraction-what-to-do-with-old-gear/
+32. allthings.how, guide (extraction), search summary only, ?: https://allthings.how/?p=234746
+33. thegameswiki, Succession crafting, community wiki, **KR** (Season 3, 2026-04-08): https://thegameswiki.com/aion-2/wiki/succession-crafting

@@ -33,8 +33,9 @@ In rough order of "cheap and safe first":
 1. **Clear all Sealed Dungeons and Strongholds** in your faction's regions. A full region gives about
    120 skill points, 120 Daevanion crystals and 75k Enhance Stones. Each Stronghold gives 2 belt scrolls,
    the **only** belt scroll source. Track progress: Map → Exploration tab [18].
-2. **Enhance all gear to +10.** +1 to +10 **always succeeds** [21][22], so it's risk-free and costs only
-   stones and Kina. Above +10 it's chance-based; skip that for now.
+2. **Enhance all gear to +10.** +1 to +10 **always succeeds** [21][22], and extracting a replaced piece
+   returns 100% of the stones (not the Kina) [31][32]. So even gear you'll swap soon costs only Kina.
+   Above +10 it's chance-based; skip that for now.
 3. **Belt and amulet:** Epic +10 → transmute to Unique → Unique +10. Belt scrolls come from Strongholds,
    amulet scrolls from Monolith levels (feathers) [18][29].
 4. **Daily Krao Cave/Draupnir** with Odyle Energy for stones and gear. Pity rewards after 14 clears [23][24].
@@ -43,9 +44,8 @@ In rough order of "cheap and safe first":
 7. Abyss: optional for now. Weekly quests and the short PvE corridors are the low-risk part [27].
 
 ## Watch out
-- **Clash Runes above +1 are risky:** +2 is 80%, and sources disagree whether a failure destroys the
-  rune (from +3 [19], unspecified [20]) or only drops a level [21]. Check the in-game enhance window
-  before trying.
+- **Clash Runes above +1:** a failure **destroys the rune** (in-game 2026-10-10); +2 is 80% [20][21].
+  Only try with a spare rune.
 - Above +10 on normal gear: 65% → 20% success; failures cost materials only, never the item [21][22].
 - Belt and amulet can't be exchanged once maxed [14].
 

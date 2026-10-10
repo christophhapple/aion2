@@ -18,7 +18,11 @@ on global yet) [23][30]. Enhancement cap per grade: Common/Rare +5, Epic +10, Un
 - +11 → +15: 65 / 50 / 35 / 25 / 20%, +5% to the next attempt after each failure [21].
 - Above +15: Amplify Stones, 66% → 20%, 600k–3M Kina per try [21].
 - Failure never breaks or downgrades the item; only materials are lost [22].
-- Extracting replaced gear reportedly returns the stones [12, low].
+- **Extraction** (gear inventory menu) returns **100% of the Enhance Stones** invested up to +10;
+  the Kina spent is lost [31][32][22]. Unclear for stones spent above +10. So enhancing gear you'll
+  replace soon costs only Kina. Check the extraction confirmation window, which shows the exact return.
+- **Succession / Transfer crafting** (carry enhancement onto a new piece): Korean Season 3 feature
+  (2026-04-08) [33, KR]. Not confirmed on global.
 - Wing → enhancement stone conversion capped at 20/week per server (patch 2026-10-07) [7].
 
 ## Belt (Noble Belt)
@@ -38,8 +42,8 @@ on global yet) [23][30]. Enhancement cap per grade: Common/Rare +5, Epic +10, Un
 - 2 slots [19][20]; ~40 GS per rune [20].
 - Upgrade: Clash Rune Enhance Scrolls + Kina + Enhance Stones. Success: +1 100%, +2 80%, +3 66%,
   +4 50%, … +10 10%; no pity [20][21].
-- **Failure: contradiction.** Destroys the rune from +3 [19] **vs** drops a level *or* destroys it [20]
-  **vs** only drops a level [21]. All advise stopping at +1 unless you have spares.
+- **Failure destroys the rune** (in-game 2026-10-10: tooltip on a +1 rune says "destroyed upon enhance
+  failure"). ~~Only drops a level [21]~~ is wrong. Only upgrade past +1 with a spare rune.
 - Sources: regional quests at Lv 30/32/35/37/45 (~4 per faction) [19][20]; Nightmare shop (500
   Phantasmal Fragments per chest) [20]; Season shop (4,000 Oath Coins) [20]; events, free Daeva Pass
   track, world bosses [20]. Premium pass + cash shop are paid (not relevant, F2P).
