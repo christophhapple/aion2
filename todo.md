@@ -4,8 +4,7 @@ One-off things to do or check in the game. Daily/weekly routines live in `routin
 tracker itself goes in `backlog.md`.
 
 ## Open
-- [ ] Verify: weekly reset: Wednesday 07:00 UTC (= 09:00 local)? Hover the Daily Dungeon counter: "Weekly recharge in …" should point to Wed 2026-10-14 09:00
-- [ ] Check: rift quests from Mino in Verteron: done, partly, or not started? Does the Exploration tab count Altgard separately, or is it part of your 93%?
+- [ ] Pick up the 7 rift quests from Mino in Verteron (needed before you can enter a Spacetime Rift); set your Kibelisk somewhere safe first
 - [ ] Verify: after 2026-10-25 (DST change), do event times stay on the local clock? (Rift should still open at 02, 05, 08 … 23)
 - [ ] Verify: other siege days (Mon/Thu 21:00?) and Nahma (Fri/Sun 21:00?). Saturday 21:00 is confirmed
 - [ ] Verify: Substance Morph: can an unused Clash Rune Enhance Scroll become 100 Enhance Stones? (Do you have spare ones?)
@@ -18,6 +17,8 @@ tracker itself goes in `backlog.md`.
   in the game, then tell Claude the differences.
 
 ## Done
+- [x] Weekly reset: Wednesday 07:00 UTC = 09:00 local (Daily Dungeon countdown) (2026-10-10)
+- [x] Rift quests: none done yet; Exploration tab counts Altgard separately (2026-10-10)
 - [x] Server time = local time (clock tooltip; game time is 7h behind) (2026-10-10)
 - [x] Abyss siege on Saturday 21:00 (Abyss window) (2026-10-10)
 - [x] Expedition pity counters: Exploration 1 or 3, Conquest 14/21/28; all match the guides (2026-10-10)

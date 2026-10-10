@@ -28,7 +28,7 @@ are about the **Korean** version (cap 50 since 2026-07-01). Gear score (GS) thre
     content type [18].
   - Safety: open PvP there. Attacking an enemy guard flags you for PvP for 10 min. If you die inside a
     rift you respawn at your **Kibelisk** on the enemy map, so place it somewhere safe first [95].
-- Find them: Map → Exploration tab → Sealed Dungeon / Stronghold sub-tab ("?" icons, Travel button) [18].
+- Find them: Map → Exploration tab (the enemy region is counted separately from your own, in-game 2026-10-10) → Sealed Dungeon / Stronghold sub-tab ("?" icons, Travel button) [18].
   Rifts open more [14].
 
 ## Expeditions

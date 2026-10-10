@@ -3,7 +3,7 @@
 Researched 2026-10-10. Early-launch guides, partly contradictory — in-game tooltips win.
 **How to verify:** hover any entry counter in-game → "Daily recharge in" / "Weekly recharge in" countdown.
 
-- **Weekly reset: Wednesday** — consistent across all sources.
+- **Weekly reset: Wednesday 07:00 UTC** (= 09:00 CEST / 08:00 CET) (in-game 2026-10-10: Daily Dungeon "weekly recharge" countdown).
 - **Daily reset: 07:00 UTC** (in-game 2026-10-10) = 09:00 CEST / 08:00 CET. Matches expcarry;
   ~~metabot's "16:00 server time"~~ is wrong for EU.
 - Daily: Duty Missions ×5, Nightmare ×2 (consumed only on clear, banks), Odyle Energy (+15/3h, cube = 40),

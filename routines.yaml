@@ -3,7 +3,7 @@
 
 resets:
   daily: "07:00"        # in-game 2026-10-10
-  weekly: { day: wednesday, time: "07:00" }   # Wednesday: guides (consistent); time assumed same as daily
+  weekly: { day: wednesday, time: "07:00" }   # in-game 2026-10-10 (Daily Dungeon countdown)
 
 # Fields: id (used in the log), name, reset (daily|weekly), cap (default 1), characters (default: all), notes
 # Caps are from early guides — confirm in-game and correct here.
