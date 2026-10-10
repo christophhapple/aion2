@@ -2,6 +2,7 @@
 
 | | |
 |---|---|
+| Played by | the user |
 | Class | Cleric |
 | Faction | Elyos (home region: Verteron) |
 | Level | 45 (max) |

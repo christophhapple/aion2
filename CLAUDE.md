@@ -8,7 +8,8 @@ database and Claude is the interface. The user talks in plain language ("did nig
 
 | Path | Holds | Format |
 |---|---|---|
-| `characters/<name>.md` | One file per character: class, level, gear score, notes | Markdown, key facts in a table |
+| `characters/<name>.md` | One file per character: who plays it, class, level, gear score, notes. Characters not played by the user (e.g. Hamme, a friend's) get no routine tracking | Markdown, key facts in a table |
+| `share/` | Pages published as Artifacts for other people (see "Shared pages") | HTML |
 | `characters/<name>-build.md` | That character's build: hotkeys, Stigma presets, skill points, priorities | Markdown |
 | `routines.yaml` | Reset rules + the dailies/weeklies to track | YAML |
 | `log/YYYY-MM.md` | Append-only record of what was done | Markdown list, one line per entry |
@@ -65,6 +66,17 @@ with patches. Therefore:
 - **Keep `knowledge/` character-neutral**: game facts only, reusable for alts and other players. A
   character's state (levels, GS, gear, progress %) goes in `characters/` and `goals.md`. Facts the
   user observed in-game still go into knowledge (tagged `in-game`), just without "my X is at Y".
+
+## Shared pages
+
+| File | Artifact | For |
+|---|---|---|
+| `share/progression.html` | https://claude.ai/artifact/F3iG6ZURLga2drR3yxQqRx | Hamme (friend): progression map |
+
+- Generated from `knowledge/` (mainly `progression.md`, `expeditions.md`, `gear.md`). Character-neutral,
+  no personal data. Each fact shows an "In-game" or "Guides" tag.
+- When those knowledge files change in a way the page shows, update the HTML and republish with the
+  Artifact tool, passing the URL above as `url`, so the link stays the same. Mention it in the reply.
 
 ## Computing status
 

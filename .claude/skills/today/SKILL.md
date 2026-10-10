@@ -4,7 +4,8 @@ description: Show which Aion 2 dailies/weeklies are still open per character, an
 ---
 
 1. Get the current time: `date "+%Y-%m-%dT%H:%M%:z"`.
-2. Read `routines.yaml`, the list of `characters/`, and the current (and, right after a month change, previous) `log/YYYY-MM.md`.
+2. Read `routines.yaml`, the character files in `characters/` (only those "Played by: the user"; skip
+   friends' characters and `*-build.md`), and the current (and, right after a month change, previous) `log/YYYY-MM.md`.
 3. For each character and routine, compute done/cap in the current reset period (see "Computing status" in CLAUDE.md).
 4. Output compactly:
    - Per character: open routines first (`nightmare 0/2`), then a one-line "done: …".

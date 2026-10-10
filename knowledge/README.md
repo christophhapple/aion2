@@ -9,6 +9,10 @@ The client version's suffix (`20261007…`) shows the patch date, so the two can
 - **Gear score (GS)** = **item level (IL)**: same number. The game shows no name for it; players
   in-game say "gear score"/"GS", guides often say "item level". This repo uses **GS**.
 
+- **Factions are mirrored:** Elyos and Asmodian have the same systems, gear and progression; only
+  names differ (home region Verteron vs. Altgard, region-specific feathers, etc.). A guide's numbers for
+  one faction's region apply to the other unless stated otherwise.
+
 ## Reliability
 Reliability rules: see "Knowledge reliability" in `CLAUDE.md`. In short, in-game observation beats
 patch notes, which beat guides. Every fact is tagged with its source and date or patch.
