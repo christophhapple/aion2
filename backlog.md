@@ -4,7 +4,6 @@ Ideas and tasks for building this tracker. In-game tasks go in `todo.md`.
 
 ## Open
 - [ ] Progression map: review the draft with the user, fix with in-game checks
-
 - [ ] *(later)* Research **pets**: farmed by killing enemies that drop their souls (per the user); owning pets gives stats/Combat Power. Find out how much CP, how much work, and how it compares with other activities. Expected to be lower value, so not soon.
 - [ ] *(later)* Research **legions** (guilds): benefits of joining? Revisit with more GS, when group content matters more.
 
