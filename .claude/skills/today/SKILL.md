@@ -11,5 +11,6 @@ description: Show which Aion 2 dailies/weeklies are still open per character, an
    - Weekly routines: also show remaining count and days left until the weekly reset — flag ones at risk of being lost.
    - Next daily and weekly reset in local time, with "in Xh Ym".
    - Active goals from `goals.md`, one line each, only if any exist.
-   - Open items from `todo.md` (section "Open"), one line each.
-5. Don't modify files. If the reset time is still marked UNCONFIRMED, add one short reminder line at the end.
+   - Open items from `todo.md` (section "Open"), one line each. Flag ones whose date is today or past.
+   - Last line: `Tracker backlog: <n> open — <first item>` from `backlog.md`, if anything is open.
+5. Don't modify files.

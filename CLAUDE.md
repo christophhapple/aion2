@@ -13,7 +13,9 @@ database and Claude is the interface. The user talks in plain language ("did nig
 | `log/YYYY-MM.md` | Append-only record of what was done | Markdown list, one line per entry |
 | `goals.md` | Farming/progress targets with counts | Markdown table |
 | `knowledge/` | Game info (researched or told by the user), with provenance, see below | Markdown |
-| `todo.md` | One-off tasks and reminders (game or tracker), `- [ ]` checkboxes | Markdown |
+| `account.md` | Account-wide facts: region, server, F2P/subscription status | Markdown table |
+| `todo.md` | One-off **in-game** tasks and reminders, `- [ ]` checkboxes | Markdown |
+| `backlog.md` | Tasks and ideas for **building this tracker** | Markdown |
 
 ## Rules
 
@@ -33,6 +35,10 @@ database and Claude is the interface. The user talks in plain language ("did nig
 - **Auto-commit** after every change to tracked data, one commit per logical update, short message
   in the form `log: Dhamira nightmare ×2` / `char: Dhamira GS 1050` / `goals: …` / `routines: …`.
   No need to ask first.
+- **Respect `account.md`:** the player is currently free to play. Don't base advice on paid content
+  (Daeva Pass, membership) unless asked, and note when a guide's numbers assume a subscription.
+- **Todos:** something the user must do or check in the game goes in `todo.md`; a change to this repo
+  (files, skills, structure) goes in `backlog.md`. Mark items done with the date instead of deleting them.
 - Keep it light: don't add fields or files until the user needs them.
 
 ## Knowledge reliability
@@ -42,9 +48,9 @@ with patches. Therefore:
 
 - **Precedence:** what the user observes in-game > official patch notes > community guides > Claude's
   own assumptions (never write the last one down as fact).
-- **Tag every fact** with its source and status, inline: `(in-game 2026-10-12)`, `(patch notes v1.2)`,
-  `(guide: expcarry, 2026-09, unverified)`. Add the patch version when known, otherwise the date. The
-  current patch is noted at the top of `knowledge/README.md`.
+- **Tag every fact** with its source and status, inline: `(in-game 2026-10-12)`, `(patch 2026-10-07)`,
+  `(guide: expcarry, 2026-09, unverified)`. Patches are named by date. The current client version is
+  at the top of `knowledge/README.md`.
 - **Contradictions:** list both claims with sources; don't silently pick one.
 - **Corrections:** when the user says something in-game doesn't match, update the fact, tag it
   `in-game <date>`, and keep a one-line `~~old claim~~` note only if it helps to know guides are wrong

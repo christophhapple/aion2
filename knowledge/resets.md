@@ -4,8 +4,8 @@ Researched 2026-10-10. Early-launch guides, partly contradictory — in-game too
 **How to verify:** hover any entry counter in-game → "Daily recharge in" / "Weekly recharge in" countdown.
 
 - **Weekly reset: Wednesday** — consistent across all sources.
-- **Daily reset hour: unconfirmed.** expcarry says 07:00 UTC (09:00 CEST / 08:00 CET); metabot says
-  "16:00 server time". Note: local reset hour may shift with DST even if the server time doesn't.
+- **Daily reset: 07:00 UTC** (in-game 2026-10-10) = 09:00 CEST / 08:00 CET. Matches expcarry;
+  ~~metabot's "16:00 server time"~~ is wrong for EU.
 - Daily: Duty Missions ×5, Nightmare ×2 (consumed only on clear, banks), Odyle Energy (+15/3h, cube = 40),
   Shugo Festival keys ×3, Dimensional Invasion key ×1.
 - Weekly (don't bank — use before Wednesday): Daily Dungeon pool 14 (shared per server across alts),

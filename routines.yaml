@@ -2,8 +2,8 @@
 # Edit freely: remove what you don't do, add what's missing.
 
 resets:
-  daily: "07:00"        # UNCONFIRMED — sources disagree (see knowledge/resets.md). Verify via in-game tooltip.
-  weekly: { day: wednesday, time: "07:00" }   # Wednesday is confirmed by several sources; time follows daily.
+  daily: "07:00"        # in-game 2026-10-10
+  weekly: { day: wednesday, time: "07:00" }   # Wednesday: guides (consistent); time assumed same as daily
 
 # Fields: id (used in the log), name, reset (daily|weekly), cap (default 1), characters (default: all), notes
 # Caps are from early guides — confirm in-game and correct here.

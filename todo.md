@@ -1,11 +1,12 @@
-# Todo
+# Todo (in-game)
 
-Things to do in the game or for this tracker (not daily routines; those live in `routines.yaml`).
+One-off things to do or check in the game. Daily/weekly routines live in `routines.yaml`; work on the
+tracker itself goes in `backlog.md`.
 
 ## Open
-- [ ] **Game:** check the daily reset time in the game (hover an entry counter, read "Daily recharge in"), then update `routines.yaml`
-- [ ] **Tracker:** bring over the Dhamira build from the other Claude chat
-- [ ] **Game:** note the current patch/version number (login screen or patch notes) so we can tag knowledge with it
-- [ ] **Game:** around 2026-10-16, check the announcement of the Ludra raid's return (knowledge/endgame.md)
+- [ ] Around 2026-10-16, check the announcement of the Ludra raid's return (knowledge/endgame.md)
+- [ ] Check whether the game says "gear score" or "item level", so the tracker uses the same term
 
 ## Done
+- [x] Confirm the daily reset time: 07:00 UTC (2026-10-10)
+- [x] Note the client version: 2.0.6.0.2026100701 (2026-10-10)
