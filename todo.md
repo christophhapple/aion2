@@ -6,6 +6,7 @@ tracker itself goes in `backlog.md`.
 ## Open
 - [ ] Verify: expedition menu: does Conquest have a Hard/third mode? Cube cost per mode (Krao Exploration 20?)? Is a pity counter visible?
 - [ ] Verify: "Remaining Unobtained Cube Count": where is it shown, and does 0 block Conquest entry?
+- [ ] Verify: item rarity colors: hover one item of each grade (Common, Rare, Epic, Unique, Heroic?) and note the name/frame color
 - [ ] Verify: Vakron Sky Island entry requirement: GS 1400 or 1800? (entry tooltip)
 - [ ] Verify: Nightmare: number of floors/levels, Phantasmal Fragments per clear, shop items + prices
 - [ ] Verify: extraction return: does extracting an enhanced piece give back 100% of the Enhance Stones? (confirmation window)

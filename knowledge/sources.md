@@ -64,3 +64,10 @@ Added 2026-10-10 (expedition research).
 54. thegameswiki, expedition dungeons / odyle energy, snippets only, likely **KR**: https://thegameswiki.com/aion-2/wiki/expedition-dungeons
 55. couga54 guides, dungeons, checked 2026-10-10, G names / TW footage: https://couga54.github.io/aion2-guides/en/dungeons/
 56. metabot, Enhance Stone currency page, undated, G client build 0.0.4387.0: https://metabot.gg/en/aion-2/currencies/enhance-stone
+
+Added 2026-10-10 (rarity + amulet research).
+
+57. wikily.gg, Aion 2, accessed 2026-10-10, ?: https://wikily.gg/aion-2
+58. allthings.how, materials guide, updated 2026-10-06, ?: https://allthings.how/?p=234735
+59. allthings.how, Noble Belt guide, updated 2026-10-06, ?: https://allthings.how/?p=234622
+60. allthings.how, upgrade Revelation Amulet + Noble Belt, updated 2026-10-06, ? (fetched; was snippet-only in [30]): https://allthings.how/?p=234794
