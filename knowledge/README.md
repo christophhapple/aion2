@@ -16,6 +16,7 @@ patch notes, which beat guides. Every fact is tagged with its source and date or
 
 | File | Topic | Last checked |
 |---|---|---|
+| `progression.md` | **One-page progression map: start here** | 2026-10-10 |
 | `resets.md` | Reset times, entry caps | 2026-10-10 |
 | `endgame.md` | Endgame content ladder by gear score | 2026-10-10 |
 | `gear.md` | Gear progression, currencies, Cleric notes | 2026-10-10 |

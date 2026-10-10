@@ -1,17 +1,17 @@
 # Goals
 
 One-time targets in the game, each with a clear "done" state. Repeating things are routines (`routines.yaml`).
+Background: `knowledge/progression.md`.
 
 | Goal | Character | Current | Target | Why |
 |---|---|---|---|---|
-| Gear score 1000 → 1400 | Dhamira | 1000 | 1400 | Unlocks the next expedition tier (Vakron Sky Island) |
-| Finish one-time content (Sealed Dungeons, Strongholds) | Dhamira | ? | all cleared | Skill points, Daevanion board, belt materials: cheap GS you only get once |
-| Upgrade belt | Dhamira | epic +8 | TBD | Never replaced, so the investment isn't wasted |
-| Upgrade Revelation amulet | Dhamira | epic +9 | TBD | Never replaced, so the investment isn't wasted |
-| Clash Runes to +1 | Dhamira | 2 at +1 | all at +1 | Cheap GS; higher levels can break |
-| First Nightmare clear | Dhamira | not yet | cleared once | Start of the Pantheon upgrade path |
+| Gear score 1000 → 1400 | Dhamira | 1000 | 1400 | Next expedition tier (Vakron; gate 1400 **vs** 1800, unverified) |
+| Finish one-time content (Sealed Dungeons, Strongholds) | Dhamira | ? (Map → Exploration tab) | 100% | Skill points, Daevanion, 75k stones per region; Strongholds = only belt scroll source |
+| Enhance all gear to +10 | Dhamira | ? | all slots +10 | +1 to +10 always succeeds (guides), so it's risk-free GS |
+| Upgrade belt | Dhamira | Epic +8 | Unique (next: Epic +10 → transmute) | Never replaced; scrolls from Strongholds |
+| Upgrade Revelation amulet | Dhamira | Epic +9 | Unique (next: Epic +10 → transmute) | Never replaced; scrolls from Monolith levels (feathers) |
+| First Nightmare clear | Dhamira | not yet | cleared once | Phantasmal Fragments → Clash Rune chests, Pantheon |
 | First visit to the Abyss | Dhamira | not yet | been there | Find out whether the PvP is worth it |
 
-TBD targets get set once the progression research is in (`knowledge/progression.md`).
-
 ## Done
+- [x] Clash Runes to +1: both slots at +1 (only 2 slots exist, per guides) (2026-10-10)

@@ -1,33 +1,55 @@
 # Gear progression
 
-Researched 2026-10-10; guide-sourced and unverified unless tagged `in-game`. Sources: `sources.md`.
+Researched 2026-10-10; guide-sourced and unverified unless tagged `in-game`. Sources [n]: `sources.md`.
+Overview: `progression.md`.
 
-## What raises gear score (GS)
-Gear, enhancement, Manastones/Soulstones, Daevanion board, Clash Runes, Arcana, belt, amulet [1][2].
-Arcana: basic card +20 GS, green +40, upgradeable [2]; one guide says it's the biggest lever [12, low].
+## What raises GS
+Gear, enhancement, Manastones/Theostones, belt, amulet, Ascension bracelets, Clash Runes, Arcana
+[1][2][15]. Daevanion board and Pantheon raise **Combat Power, not GS** [14].
+Arcana per card: basic +20, green +40 [2][14] **vs** green +40, blue +60, unique +80 [17, KR-era].
 
-## GS phases [2]
-1000–1400 → 1400–1600 → 1600–1700 → 1700–2200 → 2200+. Campaign end ≈ 900–1000 GS [1][2].
+## Rarity ladder
+Common → Rare → Epic → Unique → Heroic (Mythic exists in client data; reportedly no Heroic/Mythic gear
+on global yet) [23][30]. Enhancement cap per grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
 
-## Priorities at ~1000 GS [2][12]
-1. **Belt** (Stronghold scrolls) and **Revelation amulet** (feathers): never replaced, safe to invest.
-2. **Clash Runes** to level 1 only; higher levels can break.
-3. Engrave with cheap stones now; save good stones for long-term gear.
-4. Content order: regional quests / Sealed Dungeons / Strongholds / Daevanion board → Krao Cave +
-   Draupnir to ~1400 → Vakron Sky Island → Transcendence at 1600; Nightmare + Abyss throughout [1][2].
-5. BiS isn't needed for PvE; meet the GS / Combat Power minimums [2].
+## Enhancement (normal gear)
+- **+1 to +10: always succeeds** [21][22] (earlier: "always" [12] **vs** chance-based only from +10 [12];
+  now confirmed by two fetched sources).
+- +11 → +15: 65 / 50 / 35 / 25 / 20%, +5% to the next attempt after each failure [21].
+- Above +15: Amplify Stones, 66% → 20%, 600k–3M Kina per try [21].
+- Failure never breaks or downgrades the item; only materials are lost [22].
+- Extracting replaced gear reportedly returns the stones [12, low].
+- Wing → enhancement stone conversion capped at 20/week per server (patch 2026-10-07) [7].
 
-## Enhancement
-- Failure doesn't destroy the item; extracting replaced gear reportedly returns the stones [12, low].
-- +1 to +10 always succeeds **vs** chance-based only from +10 to +15 [12, low].
-- Wing → enhancement stone conversion is capped at 20/week per server (patch 2026-10-07) [7].
+## Belt (Noble Belt)
+- Path: Rare +10 → transmute → Epic +10 → transmute → Unique +10 [17][30].
+- Each step: Noble Belt Enhance Scroll + Enhance Stones + Kina [30, snippet].
+- Scrolls come **only from Strongholds**, 2 each [18][1].
+- Dhamira: Epic +8 (2026-10-10) → next: Epic +9, +10, transmute to Unique.
+
+## Revelation amulet
+- Same Rare → Epic → Unique ladder [29].
+- Scrolls: 1 per Monolith level, upgraded with Empyrean Traces (feathers) [29]. Monolith max level 30
+  [30, snippet]; ~140 feathers in total to Unique +10 [17, KR-era].
+- Dhamira: Epic +9 (2026-10-10) → next: Epic +10, transmute to Unique.
+- Belt and amulet can't be exchanged once maxed [14].
+
+## Clash Runes
+- 2 slots [19][20]; ~40 GS per rune [20].
+- Upgrade: Clash Rune Enhance Scrolls + Kina + Enhance Stones. Success: +1 100%, +2 80%, +3 66%,
+  +4 50%, … +10 10%; no pity [20][21].
+- **Failure: contradiction.** Destroys the rune from +3 [19] **vs** drops a level *or* destroys it [20]
+  **vs** only drops a level [21]. All advise stopping at +1 unless you have spares.
+- Sources: regional quests at Lv 30/32/35/37/45 (~4 per faction) [19][20]; Nightmare shop (500
+  Phantasmal Fragments per chest) [20]; Season shop (4,000 Oath Coins) [20]; events, free Daeva Pass
+  track, world bosses [20]. Premium pass + cash shop are paid (not relevant, F2P).
+- Dhamira: both slots at +1 (2026-10-10).
 
 ## Currencies
-Kinah (gold) · Odyle Energy (+15/3h = 120/day; cap 560 [3] **vs** 840 [4]) · Abyss Points ·
-Phantasmal Fragments (Pantheon) · Shugo Festival keys, Stigma Shards, Potential Stones [1][2][3].
+Kinah (gold) · Odyle Energy (+15/3h = 120/day; cap 560 [3] **vs** 840 [4]) · Enhance Stones ·
+Amplify Stone (Fragments) · Abyss Points · Phantasmal Fragments (Nightmare shop) · Oath Coins (Season
+shop) · Shugo Festival keys, Stigma Shards, Potential Stones [1][2][3][20].
 
 ## Cleric (healer) [10, version unstated]
 Stats: Wisdom + Life (god stats), Constitution + Power (primary); Heal Boost (PvE), Status Effect Resist
-(PvP). Attack also raises healing. Key skills: Healing Light, Radiant Recovery, Light of Regeneration;
-stigmas Absolution, Benevolence. No sourced slot priority found. The user's own build from another chat
-will supersede this (see todo.md).
+(PvP). Attack also raises healing. Dhamira's own build: `characters/dhamira-build.md` (outdated).
