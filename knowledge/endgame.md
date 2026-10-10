@@ -25,7 +25,7 @@ Older KR-client drop data for Krao (guaranteed epic piece, pity at 14 gives a Be
 | GS | Content | Notes |
 |---|---|---|
 | 45 (or 1000 [19]) | **Nightmare** (solo boss) | 2 attempts/day, bank to 14, spent only on clear [3][17] (earlier **vs** every try costs a ticket [4]). Up to 1,500 Phantasmal Fragments per run [26]. Shop: Clash Rune chests (500) [20], Amplify Stone Fragments, Soul Codex [3]. Weekly clears give Daevanion points [14]. Floors/tiers undocumented. |
-| 45 + 1000 | **Abyss**: Lower Reshanta (PvP) | 7h/week per layer (14h only with paid membership) [3]. Abyss Points → Stigma shards, consumables, wings; unique accessories best from ~1600 [14][27]. PvE parts: weekly scroll quests, 2-minute artifact corridors, field bosses. Risk: ganking; stay at the edges [27]. Abyss gear is PvP-statted [28]. |
+| 45 + 1000 | **Abyss**: Lower Reshanta (PvP). **Details: `abyss.md`** | 7h/week per layer (14h only with paid membership) [3]. Abyss Points → Stigma shards, consumables, wings; unique accessories best from ~1600 [14][27]. PvE parts: weekly scroll quests, 2-minute artifact corridors, field bosses. Risk: ganking; stay at the edges [27]. Abyss gear is PvP-statted [28]. |
 | ~1500 | Ascension Trial (Forgotten Repository) | 3/week, score-scaled rewards [3][14]; save runs for the last day [4] |
 | 1600 | **Transcendence** (5-player, timed) | Arcana cards; stages at 1600/1900/2200/2500 [15][21]; 1 count per 12h, 40 Odyle per cube [3] |
 | ~2800 | Raid: Abyssal Forge: Ludra | **Removed on global** for rework [8][9] |

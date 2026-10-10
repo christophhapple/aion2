@@ -96,3 +96,18 @@ Added 2026-10-10 (crafting research).
 77. ExitLag, life skills guide, undated, snippets only (403), low reliability: https://www.exitlag.com/blog/aion-2-life-skills-guide/
 78. SBS Biz, 2026-04-08, **KR**: https://biz.sbs.co.kr/amp/article/20000302922
 79. Inven, live broadcast summary, 2026, **KR**: https://m.inven.co.kr/webzine/wznews.php?idx=313506
+
+Added 2026-10-10 (Abyss research).
+
+80. allthings.how, What to Do in Chaotic Lower Reshanta, updated 2026-10-08, ?: https://allthings.how/?p=247152
+81. allthings.how, Chaotic Lower Reshanta: bosses, entry, updated 2026-10-07, ?: https://allthings.how/?p=244652
+82. thegameswiki, PvP and the Abyss, undated, KR/TW, snippet only: https://thegameswiki.com/aion-2/wiki/pvp-and-the-abyss
+83. Steam guide + aion2timers, ~2026-10-05, G, snippet only: https://steamcommunity.com/sharedfiles/filedetails/?id=3810829552
+84. thegameswiki Reshanta + allthings.how ?p=244658, undated, KR/TW, snippet only: https://thegameswiki.com/aion-2/wiki/reshanta
+85. ExitLag news + toolkitof.care forum, undated/June 2026, snippet only, **low trust**: https://www.exitlag.com/news/aion-2-global-version/
+86. ddaily.co.kr, 2025-12-03, **KR**: https://ddaily.co.kr/page/view/2025120316293332849
+87. allakhazam, Death (Aion 1), **Aion 1 only**: https://wow.allakhazam.com/wiki/Death_(Aion)
+88. gamemeca / inven, Nov 2025, **KR**, snippet only
+89. wikily.gg, Ereshkigal Monolith, undated: https://wikily.gg/aion-2/monoliths/ereshkigal-monolith
+90. playnews, Empyrean Traces guide, undated, 403: https://playnews.gg/en/guides/
+91. playnews, Aug 12 KR patch (healing changes), Aug 2026, **KR**, 403: https://playnews.gg/en/news/
