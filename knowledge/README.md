@@ -12,11 +12,12 @@ The client version's suffix (`20261007…`) shows the patch date, so the two can
 ## Reliability
 Reliability rules: see "Knowledge reliability" in `CLAUDE.md`. In short, in-game observation beats
 patch notes, which beat guides. Every fact is tagged with its source and date or patch.
+`/verify` re-checks facts and updates "Last checked".
 
-| File | Topic |
-|---|---|
-| `resets.md` | Reset times, entry caps |
-| `endgame.md` | Endgame content ladder by gear score |
-| `gear.md` | Gear progression, currencies, Cleric notes |
-| `cleric-skills.md` | Cleric active + Stigma skills (from in-game tooltips) |
-| `sources.md` | Numbered source list ([n] references) |
+| File | Topic | Last checked |
+|---|---|---|
+| `resets.md` | Reset times, entry caps | 2026-10-10 |
+| `endgame.md` | Endgame content ladder by gear score | 2026-10-10 |
+| `gear.md` | Gear progression, currencies, Cleric notes | 2026-10-10 |
+| `cleric-skills.md` | Cleric active + Stigma skills (from in-game tooltips) | 2026-10-09 |
+| `sources.md` | Numbered source list ([n] references) | — |

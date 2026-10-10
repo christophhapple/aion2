@@ -72,4 +72,5 @@ Show times to the user in local time (system timezone, currently CET/CEST — ch
 ## Skills
 
 `/today` open routines + next resets · `/log` record a play session · `/review` weekly summary ·
-`/todo` in-game todos · `/backlog` tracker backlog (both: no args = show, args = add).
+`/todo` in-game todos · `/backlog` tracker backlog (both: no args = show, args = add) ·
+`/verify` re-check knowledge, generate in-game checks.
