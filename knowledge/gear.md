@@ -30,20 +30,32 @@ on global yet) [23][30]. Enhancement cap per grade: Common/Rare +5, Epic +10, Un
   and Soul Binding to an equal or higher tier piece in the same slot [33, KR].
 - Wing → enhancement stone conversion capped at 20/week per server (patch 2026-10-07) [7].
 
+## Belt and Revelation amulet (shared rules)
+- Path: Rare +0→+10 → transmute → Epic +0→+10 → transmute → Unique +0→+10. **Cap on global: Unique +10**
+  [35][38][41].
+- Each +1: **1 scroll** + Enhance Stones + a little Kina, always succeeds (in-game 2026-10-10 up to Epic
+  +9; guides agree for all tiers [35][38]).
+- **Scroll budget: 30 per item, all one-time**, i.e. exactly 10 per tier [35][36][38]. Scrolls spent so
+  far = 10 × completed tiers + current level. E.g. Epic +9 has used 19, so **11 should be left**.
+- Transmute (Substance Morph): item must be +10 and unequipped, becomes next tier at +0; no scroll cost
+  listed; once per character per step [35][38].
+- Stones and Kina per tier, +0→+10 [38]: Rare 9,280 stones / 232k · Epic 63,060 / 1.58M ·
+  **Unique 200,980 / 5.03M**. So Unique is the expensive part, and stones are the limit.
+- Belt and amulet are never replaced and can't be exchanged once maxed [14][42].
+
 ## Belt (Noble Belt)
-- Path: Rare +10 → transmute → Epic +10 → transmute → Unique +10 [17][30].
-- Each step: **1 scroll** + Enhance Stones + a little Kina (in-game 2026-10-10, up to Epic +8; assumed
-  the same at higher rarities).
-- Scrolls come **only from Strongholds**, 2 each [18][1].
+- Scrolls: **Stronghold first clears only**, 2 each; 15 home-region Strongholds × 2 = 30 [38][41].
+  Enemy-region Strongholds (via rifts after 45): no scrolls [41] **vs** count toward 30 [35].
 
 ## Revelation amulet
-- Same Rare → Epic → Unique ladder [29].
-- Each step: 1 scroll + Enhance Stones + a little Kina (in-game 2026-10-10, same as belt).
-- Scrolls: 1 per Monolith level, upgraded with Empyrean Traces (feathers) [29]; ~140 feathers in total to
-  Unique +10 [17, KR-era]. Monolith is regional (Verteron for Elyos). **Verteron Monolith at level 30
-  with spare "Empyrean Trace: Verteron" left over** (in-game 2026-10-10), which matches max level 30
-  [30, snippet]. Open question: where do further scrolls come from, and what are the spare feathers for?
-- Belt and amulet can't be exchanged once maxed [14].
+- Scrolls: **Monolith only** [34]: 1 per level for levels 2–29, 2 at level 30 = 30 total [36][38]. No
+  other source after level 30 [34]. Monolith levels cost Empyrean Traces (feathers) of your own faction's
+  regions (Verteron for Elyos) [37].
+- **Spare feathers after Monolith 30:** global: convert to **Power Shards** via Substance Morph, rate
+  unknown [37][39]. KR has 1 Trace → 50 Enhance Stones (capped 1,680/server) [40, KR], **not on global
+  yet**; one guide expects it later [39, speculation]. Advice: keep the stack, morph only what you need [39].
+- Reshanta (Abyss) has its own Monolith (max 20, PvP rewards) with its own feathers [37].
+- Fierce Battle Amulet (Abyss) uses Abyss Shop scrolls, which don't work on the Revelation Amulet [35][38].
 
 ## Clash Runes
 - 2 slots [19][20]; ~40 GS per rune [20].

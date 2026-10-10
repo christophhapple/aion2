@@ -4,6 +4,8 @@ One-off things to do or check in the game. Daily/weekly routines live in `routin
 tracker itself goes in `backlog.md`.
 
 ## Open
+- [ ] **Check first:** spare amulet + belt scrolls. Guides say 30 per item in total, so Epic +9 amulet → ~11 left, Epic +8 belt → ~12 minus the missing Strongholds. Look in inventory/Cube; also open the Monolith level-reward list (info button) for unclaimed rewards. Did the amulet/belt start at Rare?
+- [ ] Verify: Substance Morph: Power Shards per Empyrean Trace (keep the stack until then)
 - [ ] Verify: Vakron Sky Island entry requirement: GS 1400 or 1800? (entry tooltip)
 - [ ] Verify: Nightmare: number of floors/levels, Phantasmal Fragments per clear, shop items + prices
 - [ ] Verify: extraction return: does extracting an enhanced piece give back 100% of the Enhance Stones? (confirmation window)

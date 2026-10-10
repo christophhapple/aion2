@@ -38,3 +38,13 @@ Added 2026-10-10 (progression research). G = global, KR = Korean version/pre-lau
 31. videogameschronicle, Item extraction, date not checked, ?: https://www.videogameschronicle.com/guide/aion-2-item-extraction-what-to-do-with-old-gear/
 32. allthings.how, guide (extraction), search summary only, ?: https://allthings.how/?p=234746
 33. thegameswiki, Succession crafting, community wiki, **KR** (Season 3, 2026-04-08): https://thegameswiki.com/aion-2/wiki/succession-crafting
+34. Fextralife wiki, Revelation Amulet Enhance Scroll, updated 2026-10-07, likely G: https://aion2.wiki.fextralife.com/Revelation_Amulet_Enhance_Scroll
+35. allthings.how, upgrade Revelation Amulet + Noble Belt, updated 2026-10-06, ?: https://allthings.how/aion-2-how-to-upgrade-the-revelation-amulet-and-noble-belt/
+36. allthings.how, get and upgrade the Revelation Amulet, search snippet only, ?: https://allthings.how/aion-2-how-to-get-and-upgrade-the-revelation-amulet/
+37. selphie1999gaming, Empyrean Traces, 2026-10-06, ?: https://selphie1999gaming.com/game-guides/aion-2/aion-2-empyrean-traces-how-to-use-empyrean-feathers/
+38. gametruth, Noble Belt + Revelation Amulet upgrade, 2026-10-06, ?: https://gametruth.com/guides/aion-2-noble-belt-revelation-amulet-upgrade/
+39. gamerblurb, what to do with extra feathers, ~2026-10-08, G: https://gamerblurb.com/guides/aion-2-what-to-do-with-extra-feathers
+40. aion2hub, KR patch 2025-12-03, **KR**: https://aion2hub.com/updates/aion-2-update-2025-12-03
+41. gamerant, Noble Belt enhance scroll, 2026-10-05, ?: https://gamerant.com/aion-2-upgrade-noble-belt-enhance-scroll/
+42. mobalytics, gear score guide, updated 2026-10-07, snippet only (403): https://mobalytics.gg/gamebase/guides/aion-2-gear-score
+43. youthdaily.co.kr, Brooch slot, 2026-07-16, **KR**: https://youthdaily.co.kr/news/article.html?no=219731
