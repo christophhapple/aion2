@@ -22,7 +22,7 @@ routines:
   - id: odyle
     name: Spend Odyle Energy
     reset: daily
-    notes: Regens 15 per 3h; a cube claim costs 40. Don't let it cap.
+    notes: Regens 15 per 3h (120/day), cap 560. Cubes cost 20–40 (see knowledge/expeditions.md). Don't let it cap.
 
   - id: daily-dungeon
     name: Daily Dungeon
@@ -34,6 +34,7 @@ routines:
     name: Ascension Trial
     reset: weekly
     cap: 3
+    notes: Needs GS ~1500 (unverified); ~3,500 Enhance Stones per clear.
 
   - id: weekly-quests
     name: Weekly quests
