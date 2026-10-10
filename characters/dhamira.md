@@ -9,4 +9,6 @@
 | Server | Nania (EU) |
 | Updated | 2026-10-10 |
 
+Build: [dhamira-build.md](dhamira-build.md)
+
 ## Notes

@@ -13,4 +13,5 @@ patch notes, which beat guides. Every fact is tagged with its source and date or
 | `resets.md` | Reset times, entry caps |
 | `endgame.md` | Endgame content ladder by item level |
 | `gear.md` | Gear progression, currencies, Cleric notes |
+| `cleric-skills.md` | Cleric active + Stigma skills (from in-game tooltips) |
 | `sources.md` | Numbered source list ([n] references) |

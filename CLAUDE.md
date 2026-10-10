@@ -9,6 +9,7 @@ database and Claude is the interface. The user talks in plain language ("did nig
 | Path | Holds | Format |
 |---|---|---|
 | `characters/<name>.md` | One file per character: class, level, gear score, notes | Markdown, key facts in a table |
+| `characters/<name>-build.md` | That character's build: hotkeys, Stigma presets, skill points, priorities | Markdown |
 | `routines.yaml` | Reset rules + the dailies/weeklies to track | YAML |
 | `log/YYYY-MM.md` | Append-only record of what was done | Markdown list, one line per entry |
 | `goals.md` | Farming/progress targets with counts | Markdown table |
