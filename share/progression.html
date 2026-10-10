@@ -17,6 +17,7 @@
   --ok-soft: #e1f1e7;
   --warn: #a2401f;
   --warn-soft: #f8e4dc;
+  --g-common: #6b7180; --g-rare: #2f8a3e; --g-epic: #2f6fd0; --g-unique: #b8860b;
   --font-display: "Marcellus", "Palatino Linotype", Georgia, serif;
   --font-body: "Source Sans 3", "Segoe UI", system-ui, sans-serif;
   --font-mono: "IBM Plex Mono", ui-monospace, Consolas, monospace;
@@ -26,14 +27,28 @@
     --bg: #11151d; --surface: #181e29; --fg: #e4e8f0; --muted: #9aa4b8; --line: #2a3242;
     --sky: #86b4e2; --gold: #e2ad4c; --gold-soft: #33280f; --ok: #6cc795; --ok-soft: #173326;
     --warn: #f08c68; --warn-soft: #3a1d13; color-scheme: dark;
+    --g-common: #e8eaf0; --g-rare: #6fd17f; --g-epic: #6fa4ff; --g-unique: #f0c050;
   }
 }
 :root[data-theme="dark"] {
   --bg: #11151d; --surface: #181e29; --fg: #e4e8f0; --muted: #9aa4b8; --line: #2a3242;
   --sky: #86b4e2; --gold: #e2ad4c; --gold-soft: #33280f; --ok: #6cc795; --ok-soft: #173326;
   --warn: #f08c68; --warn-soft: #3a1d13; color-scheme: dark;
+  --g-common: #e8eaf0; --g-rare: #6fd17f; --g-epic: #6fa4ff; --g-unique: #f0c050;
 }
 * { box-sizing: border-box; }
+.grades { display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center; }
+.grade { display: inline-flex; align-items: center; gap: 0.45rem; padding: 0.3rem 0.7rem; border: 1px solid var(--line);
+  border-radius: 999px; background: var(--surface); font-weight: 600; font-size: 0.95rem; }
+.grade::before { content: ""; width: 0.7rem; height: 0.7rem; border-radius: 50%; background: currentColor; border: 1px solid var(--line); }
+.grade.c { color: var(--g-common); } .grade.r { color: var(--g-rare); } .grade.e { color: var(--g-epic); }
+.grade.u { color: var(--g-unique); } .grade.h { color: var(--muted); font-weight: 400; }
+.arrow { color: var(--muted); }
+.clock { display: grid; grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr)); gap: 0.75rem; }
+.slot { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 0.8rem 1rem; display: grid; gap: 0.2rem; align-content: start; }
+.slot .when { font-family: var(--font-mono); color: var(--gold); font-size: 1.05rem; }
+.slot .what { font-weight: 700; }
+.slot .note { color: var(--muted); font-size: 0.92rem; }
 body {
   background: var(--bg); color: var(--fg);
   font: 400 1.0625rem/1.6 var(--font-body);
@@ -110,6 +125,15 @@ footer ul { margin: 0; padding-left: 1.2rem; display: grid; gap: 0.2rem; }
         <p>The Daevanion board and Pantheon raise Combat Power (how strong you are), but not GS <span class="tag guide">Guides</span>.</p>
       </div>
     </div>
+    <h3>Item grades, lowest to highest</h3>
+    <div class="grades" aria-label="Item grades">
+      <span class="grade c">Common</span><span class="arrow">→</span>
+      <span class="grade r">Rare</span><span class="arrow">→</span>
+      <span class="grade e">Epic</span><span class="arrow">→</span>
+      <span class="grade u">Unique</span><span class="arrow">→</span>
+      <span class="grade h">Heroic (not seen yet)</span>
+    </div>
+    <p class="dim">Colors as shown in the game: white, green, blue, gold <span class="tag game">In-game</span>. Unique is the highest grade for gear in Europe right now.</p>
   </section>
 
   <section aria-labelledby="ladder">
@@ -178,9 +202,44 @@ footer ul { margin: 0; padding-left: 1.2rem; display: grid; gap: 0.2rem; }
     <ul class="plain">
       <li>Path: Rare +10 → transmute → Epic +10 → transmute → Unique +10 (the current maximum). <span class="tag guide">Guides</span></li>
       <li>Each +1 costs 1 scroll, Enhance Stones and a little Kina. <span class="tag game">In-game</span></li>
-      <li>Each item gets <strong>30 scrolls in total</strong>, 10 per tier. Belt scrolls come only from Strongholds (2 each), amulet scrolls only from Monolith levels. If your amulet isn't at Unique +10, look for unused scrolls. <span class="tag guide">Guides</span></li>
+      <li>Both start at Rare +0. Each item gets <strong>30 scrolls in total</strong>, 10 per tier. A maxed Monolith (level 30) has given you all 30 amulet scrolls, so scrolls are rarely the limit; Enhance Stones are. <span class="tag game">In-game</span></li>
+      <li>Belt scrolls come from Strongholds; amulet scrolls only from Monolith levels. <span class="tag guide">Guides</span></li>
       <li>The Unique tier is expensive: about 200,000 stones and 5 million Kina from +0 to +10. <span class="tag guide">Guides</span></li>
       <li>Spare feathers after Monolith level 30: keep them. Korea can convert them into Enhance Stones; Europe can't yet.</li>
+    </ul>
+  </section>
+
+  <section aria-labelledby="schedule">
+    <h2 id="schedule">When things happen</h2>
+    <p>Times are EU server time, which seems to match the Central European clock. There's no official schedule; these come from community trackers. <span class="tag guide">Guides</span></p>
+    <div class="clock">
+      <div class="slot"><span class="when">every hour :00</span><span class="what">Shugo Festival</span><span class="note">10 min minigames. Keys +3 a day, up to 12 saved.</span></div>
+      <div class="slot"><span class="when">every hour :30</span><span class="what">Dimensional Invasion</span><span class="note">Join within ~3 min. Key +1 a day, up to 7 saved.</span></div>
+      <div class="slot"><span class="when">02 · 05 · 08 · 11<br>14 · 17 · 20 · 23</span><span class="what">Spacetime Rift</span><span class="note">Every 3 hours, portal open 10 min. PvP zone with dungeons and materials.</span></div>
+      <div class="slot"><span class="when">Mon · Thu · Sat 21:00</span><span class="what">Abyss Artifact Siege</span><span class="note">30 min, faction PvP. Bosses follow at 21:30.</span></div>
+      <div class="slot"><span class="when">Fri · Sun 21:00</span><span class="what">Abyss boss Nahma</span><span class="note">30 min.</span></div>
+      <div class="slot"><span class="when">daily 07:00 UTC</span><span class="what">Daily reset</span><span class="note">09:00 local now, 08:00 after the clock change on 25 Oct. Weekly reset on Wednesday. <span class="tag game">In-game</span></span></div>
+    </div>
+    <h3>Things that refill on their own</h3>
+    <p>No need to hurry until they get close to full. Anything above the cap is lost.</p>
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th>Counter</th><th>Refills</th><th>Cap</th></tr></thead>
+        <tbody>
+          <tr><td>Odyle Energy</td><td class="num">+15 every 3h</td><td class="num">560 <span class="dim">(full after ~4½ days)</span></td></tr>
+          <tr><td>Conquest reward count</td><td class="num">+1 every 8h</td><td class="num">21</td></tr>
+          <tr><td>Nightmare attempts</td><td class="num">+2 a day</td><td class="num">14</td></tr>
+          <tr><td>Transcendence reward count</td><td class="num">+1 every 12h</td><td class="num">14</td></tr>
+          <tr><td>Abyss time</td><td class="num">7h per layer, weekly</td><td class="dim">no carry-over</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <h3>Dates to remember</h3>
+    <ul class="plain">
+      <li><strong>14 Oct:</strong> items from gift code TAKEFLIGHTAION2 expire.</li>
+      <li><strong>25 Oct:</strong> clock change; the daily reset moves to 08:00 local.</li>
+      <li><strong>28 Oct:</strong> the Planet's Call event pass ends.</li>
+      <li><strong>15 Dec:</strong> Daeva Pass Season 1 ends.</li>
     </ul>
   </section>
 

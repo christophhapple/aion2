@@ -71,9 +71,9 @@ with patches. Therefore:
 
 | File | Artifact | For |
 |---|---|---|
-| `share/progression.html` | https://claude.ai/artifact/F3iG6ZURLga2drR3yxQqRx | Hamme (friend): progression map |
+| `share/progression.html` | https://claude.ai/artifact/F3iG6ZURLga2drR3yxQqRx | Hamme (friend): progression map, item grades, schedule |
 
-- Generated from `knowledge/` (mainly `progression.md`, `expeditions.md`, `gear.md`). Character-neutral,
+- Generated from `knowledge/` (mainly `progression.md`, `expeditions.md`, `gear.md`, `schedule.md`). Character-neutral,
   no personal data. Each fact shows an "In-game" or "Guides" tag.
 - When those knowledge files change in a way the page shows, update the HTML and republish with the
   Artifact tool, passing the URL above as `url`, so the link stays the same. Mention it in the reply.

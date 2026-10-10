@@ -15,7 +15,15 @@ rarities, unconfirmed). **Enhance Stones are the bottleneck** for enhancing (in-
 **Common → Rare → Epic → Unique → Heroic** (confirmed by several sources [23][57][58]). "Special" is a
 separate grade for consumables, skins, Arcana crystals [57][58]. Mythic exists in client data; no
 Heroic/Mythic gear on global yet, so global gear tops out at Unique [21][30]. Enhancement cap per
-grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet]. **Colors: no source found**, needs an in-game check.
+grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
+
+| Grade | Color (in-game 2026-10-10) |
+|---|---|
+| Common | white |
+| Rare | green |
+| Epic | blue |
+| Unique | gold |
+| Heroic | not seen yet |
 
 ## Enhancement (normal gear)
 - **+1 to +10: always succeeds** [21][22] (earlier: "always" [12] **vs** chance-based only from +10 [12];
@@ -41,8 +49,8 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet]. **Colors: no source f
   in Smoke"; amulet: main story around level 16 [60][59][57].
 - **Scroll budget:** 30 per item from Rare to Unique +10, i.e. 10 per tier [35][36][38][60]. A maxed
   Monolith (30) gives all 30 amulet scrolls up front, so an Epic +9 amulet still has ~11 spare, enough
-  for everything left. That matches "loads of unused scrolls, **Enhance Stones are the real limit**"
-  (in-game 2026-10-10).
+  for everything left. **Confirmed: Monolith 30 + Epic +9 amulet → exactly 11 scrolls left** (in-game
+  2026-10-10). Enhance Stones are the real limit (in-game).
 - Transmute (Substance Morph): item must be +10 and unequipped, becomes next tier at +0; no scroll cost
   listed; once per character per step [35][38].
 - Stones and Kina per tier, +0→+10 [38]: Rare 9,280 stones / 232k · Epic 63,060 / 1.58M ·

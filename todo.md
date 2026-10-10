@@ -11,7 +11,6 @@ tracker itself goes in `backlog.md`.
 - [ ] Verify: Shugo keys: +3/day banking to 12, or 7/week? Per account or per character?
 - [ ] Verify: expedition menu: does Conquest have a Hard/third mode? Cube cost per mode (Krao Exploration 20?)? Is a pity counter visible?
 - [ ] Verify: "Remaining Unobtained Cube Count": where is it shown, and does 0 block Conquest entry?
-- [ ] Verify: item rarity colors: hover one item of each grade (Common, Rare, Epic, Unique, Heroic?) and note the name/frame color
 - [ ] Verify: Vakron Sky Island entry requirement: GS 1400 or 1800? (entry tooltip)
 - [ ] Verify: Nightmare: number of floors/levels, Phantasmal Fragments per clear, shop items + prices
 - [ ] Verify: extraction return: does extracting an enhanced piece give back 100% of the Enhance Stones? (confirmation window)
@@ -21,7 +20,8 @@ tracker itself goes in `backlog.md`.
   in the game, then tell Claude the differences.
 
 ## Done
-- [x] Spare amulet scrolls: plenty; Enhance Stones are the limit (2026-10-10)
+- [x] Item rarity colors: Common white, Rare green, Epic blue, Unique gold; Heroic not seen yet (2026-10-10)
+- [x] Amulet scrolls: exactly 11 left, matches the 30-scroll math (2026-10-10)
 - [x] Feather conversion: 1 Empyrean Trace = 10 Power Shards, not worth it; keep them (2026-10-10)
 - [x] Confirm the daily reset time: 07:00 UTC (2026-10-10)
 - [x] Note the client version: 2.0.6.0.2026100701 (2026-10-10)
