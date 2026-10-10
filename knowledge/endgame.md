@@ -15,6 +15,19 @@ are about the **Korean** version (cap 50 since 2026-07-01). Gear score (GS) thre
   repeatable** [92]. Reportedly 116 in total, 58 per faction (one source). Rewards: Wisdom Stones (skill
   points), Daevanion Crystals, gear, titles, Kinah, materials [92]; some give Clash Runes [19][20].
   Guides: finish one-time permanent power first, then move to repeatable content (expeditions) [92][93].
+- **Enemy faction's map via Spacetime Rifts** (from level 45): Elyos get into Altgard, Asmodians into
+  Verteron [94][95][96]. Unlock: accept all **7 rift quests from Mino in Verteron** (Elyos; Uru in Altgard
+  for Asmodians), then enter the purple portal within its 10-min window; you get **1 hour** on the enemy
+  map. Rifts open every 3h (times: `schedule.md`) [94][95].
+  - There: enemy-region **Strongholds** (belt scrolls [95]; **vs** no scrolls [41]), **Sealed Dungeons**
+    (each takes about a minute [95]), field bosses (gear for skins/supply requests) [95].
+  - **Each of the 7 rift quests gives a Wisdom Stone (skill point) + Daevanion Crystal**, plus XP, bound
+    Kinah, Abyss Points, materials [94][96].
+  - Whether enemy-region Sealed Dungeons pay the same bundle (2 skill points + 2 Daevanion each, i.e.
+    another ~120 + 120 for a full region) is **not confirmed**; it's plausible since they're the same
+    content type [18].
+  - Safety: open PvP there. Attacking an enemy guard flags you for PvP for 10 min. If you die inside a
+    rift you respawn at your **Kibelisk** on the enemy map, so place it somewhere safe first [95].
 - Find them: Map → Exploration tab → Sealed Dungeon / Stronghold sub-tab ("?" icons, Travel button) [18].
   Rifts open more [14].
 

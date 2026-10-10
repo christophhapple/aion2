@@ -4,6 +4,8 @@ One-off things to do or check in the game. Daily/weekly routines live in `routin
 tracker itself goes in `backlog.md`.
 
 ## Open
+- [ ] Verify: weekly reset: Wednesday 07:00 UTC (= 09:00 local)? Hover the Daily Dungeon counter: "Weekly recharge in …" should point to Wed 2026-10-14 09:00
+- [ ] Check: rift quests from Mino in Verteron: done, partly, or not started? Does the Exploration tab count Altgard separately, or is it part of your 93%?
 - [ ] Verify: after 2026-10-25 (DST change), do event times stay on the local clock? (Rift should still open at 02, 05, 08 … 23)
 - [ ] Verify: other siege days (Mon/Thu 21:00?) and Nahma (Fri/Sun 21:00?). Saturday 21:00 is confirmed
 - [ ] Verify: Substance Morph: can an unused Clash Rune Enhance Scroll become 100 Enhance Stones? (Do you have spare ones?)

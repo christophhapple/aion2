@@ -113,3 +113,6 @@ Added 2026-10-10 (Abyss research).
 91. playnews, Aug 12 KR patch (healing changes), Aug 2026, **KR**, 403: https://playnews.gg/en/news/
 92. Leprestore, what to do after 45, ~2026-10, G: https://leprestore.com/guides/aion2/what-to-do-after-45/
 93. playnews (DE), Kampfrunen (Clash Runes), undated, ?: https://www.playnews.gg/de/guides/aion-2-kampfrunen-wie-erhalt-und-rustet-man-sie-aus
+94. mein-mmo, Space-Time Rifts (timers, what to do, getting home), ~2026-10, G: https://mein-mmo.de/en/aion-2-space-time-rifts-everything-about-timers-what-you-can-do-there-and-how-to-safely-get-home,1591462/
+95. gamesfuze, Spacetime Rift guide (enemy territory), ~2026-10, ?: https://gamesfuze.com/guides/aion-2-spacetime-rift-guide-how-to-rift-into-enemy-territory/
+96. selphie1999gaming, Spacetime Rifts: exploring the enemy map, ~2026-10, ?: https://selphie1999gaming.com/game-guides/aion-2/aion-2-spacetime-rifts-how-to-explore-the-enemy-map/
