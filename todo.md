@@ -4,10 +4,8 @@ One-off things to do or check in the game. Daily/weekly routines live in `routin
 tracker itself goes in `backlog.md`.
 
 ## Open
-- [ ] Verify: server clock: does the Spacetime Rift open at 20:00 on your clock (i.e. server = CEST)? And after 2026-10-25, do event times stay on the local clock?
-- [ ] Verify: Abyss siege days (Mon/Thu/Sat 21:00?) and Nahma (Fri/Sun 21:00?)
-- [ ] Verify: expedition pity counters: what do they show and guarantee? (details pending from the user)
-- [ ] Verify: Vakron Sky Island entry requirement: GS 1400 or 1800? (entry tooltip; not found yet)
+- [ ] Verify: after 2026-10-25 (DST change), do event times stay on the local clock? (Rift should still open at 02, 05, 08 … 23)
+- [ ] Verify: other siege days (Mon/Thu 21:00?) and Nahma (Fri/Sun 21:00?). Saturday 21:00 is confirmed
 - [ ] Verify: Nightmare: number of floors/levels, Phantasmal Fragments per clear, shop items + prices
 - [ ] Verify: Transfer tab: what does the preview show, and what makes a piece an eligible source? (once you have eligible gear)
 - [ ] *(low priority, later)* Update `characters/dhamira-build.md` to match what's actually in use
@@ -15,6 +13,10 @@ tracker itself goes in `backlog.md`.
   in the game, then tell Claude the differences.
 
 ## Done
+- [x] Server time = local time (clock tooltip; game time is 7h behind) (2026-10-10)
+- [x] Abyss siege on Saturday 21:00 (Abyss window) (2026-10-10)
+- [x] Expedition pity counters: Exploration 1 or 3, Conquest 14/21/28; all match the guides (2026-10-10)
+- [x] Vakron Conquest requires GS 1400 (2026-10-10)
 - [x] Expedition modes: only Exploration (easy) and Conquest (hard), no third mode (2026-10-10)
 - [x] Cube costs confirmed: Krao Exploration 20, Conquest 40 Odyle (2026-10-10)
 - [x] Cube limit: 10 opens/week, shown on the Conquest view; at 0 you can't enter; Exploration not limited (2026-10-10)

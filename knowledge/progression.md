@@ -23,7 +23,7 @@ The loop: run content → Enhance Stones + gear → enhance → higher GS → ne
 | 45 | Nightmare (solo boss) | Phantasmal Fragments → Clash Rune chests, Pantheon pieces |
 | 700 | Conquest ★1: **Krao Cave** (weapons/accessories), **Draupnir** (armor) | 2,000 stones per boss, IL 54 set |
 | 1000 | Abyss (PvP zone) | Abyss Points; worth it from ~1600 |
-| **1400** | Conquest ★2: **Urugugu Canyon** (weapons/accessories), **Vakron Sky Island** (armor); 2+ players | IL 70 set |
+| **1400** | Conquest ★2: **Urugugu Canyon** (weapons/accessories), **Vakron Sky Island** (armor, 1400 in-game); 2+ players | IL 70 set |
 | ~1500 | Ascension Trial (3/week) | 3,500 stones per clear |
 | 1600 | Transcendence (stages 1600/1900/2200/2500) | Arcana cards (big GS) |
 | 2100 | Conquest ★3: **Fire Temple** (weapons/accessories), **Ferocious Horn Den** (armor) | IL 84–86 set |

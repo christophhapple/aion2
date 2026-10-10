@@ -23,7 +23,10 @@ of Nihility, Hall of Illusion, Azure Breath Island, Citadel of the Fallen Daeva.
 Transcendence is a separate dungeon type, not an expedition (stages 1600/1900/2200/2500) [47][49].
 
 **Settled in-game:** no Hard/third mode on global (2026-10-10); ~~Normal/Hard 700/2400… [45]~~, ~~"unlabeled
-third mode" [46]~~. KR added Hard in Dec 2025 [52][53, KR]. **Open:** Vakron gate 1400 [46][47][48] **vs** 1600 [55].
+third mode" [46]~~. KR added Hard in Dec 2025 [52][53, KR]. **Vakron Conquest requires GS 1400** (in-game
+2026-10-10); ~~1600 [55]~~, ~~1800 [14][17]~~.
+- Pity counters are shown per dungeon and mode in the expedition screen; the Exploration ones are shown as
+  "claimed" once reached, so they look like a one-time reward (in-game 2026-10-10).
 
 ## How rewards work
 
@@ -35,7 +38,7 @@ third mode" [46]~~. KR added Hard in Dec 2025 [52][53, KR]. **Open:** Vakron gat
 | Cube cost (Odyle) | Krao, Urugugu **20** (Krao in-game) · Fire Temple **30** · Draupnir, Vakron, Horn Den **40** [46][49][51] | **40** (in-game) |
 | Weekly cube limit | **none** (in-game) | **10 cube opens per week** (in-game), shared with Transcendence [49] |
 | Final boss, guaranteed | 4 Silentium + **1,000–1,500 Enhance Stones** [49] | 7 Silentium + **2,000 Enhance Stones** [49] (1,000–2,000 [56]) |
-| Pity (claims to guarantee) | Krao, Urugugu, Fire Temple 1 · Draupnir, Vakron, Horn Den 3 [49] | ★1: 14 · ★2: 21 · ★3: 28 [49] |
+| Pity (runs to guarantee) | Krao, Urugugu, Fire Temple 1 · Draupnir, Vakron, Horn Den 3 (in-game) | ★1 Krao, Draupnir: 14 · ★2 Urugugu, Vakron: 21 · ★3 Fire Temple, Horn Den: 28 (in-game) |
 
 - **Unobtained cube count:** 10 per week per server (Wednesday reset), shown in the expedition screen
   on the Conquest view. **At 0 you cannot enter** (in-game tooltip 2026-10-10; ~~only a warning [50]~~).
