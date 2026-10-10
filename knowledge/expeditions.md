@@ -94,5 +94,5 @@ Party finding: in-game Quick Join / Party tools (unconfirmed) [46]; third-party 
 
 **Daily Dungeons** (from level 30): three short **solo** instances, one of them Daeva Bio-Research Base
 (defeat Balaur test subjects before they transform; the score sets the Enhance Stone reward) [97][98].
-Weekly pool 14 per server, reset Wednesday [3][97]. **vs** 7 free entries, extendable to 30 with
-Challenge Tickets [99, forum, low trust].
+**Tickets: 14 per week, cap 14, refill on the weekly reset** (in-game 2026-10-10) [3][97]. Can be extended
+**by** up to 30 extra tickets, probably via shop/premium (in-game; ignored, F2P). ~~7 free entries [99]~~.
