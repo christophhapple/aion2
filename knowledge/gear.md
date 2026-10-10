@@ -31,9 +31,9 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
 - +11 → +15: 65 / 50 / 35 / 25 / 20%, +5% to the next attempt after each failure [21].
 - Above +15: Amplify Stones, 66% → 20%, 600k–3M Kina per try [21].
 - Failure never breaks or downgrades the item; only materials are lost [22].
-- **Extraction** (gear inventory menu) returns **100% of the Enhance Stones** invested up to +10;
-  the Kina spent is lost [31][32][22]. Unclear for stones spent above +10. So enhancing gear you'll
-  replace soon costs only Kina. Check the extraction confirmation window, which shows the exact return.
+- **Extraction** (gear inventory menu) returns **100% of the Enhance Stones** invested (in-game test
+  2026-10-10; the window doesn't show the amount beforehand). Kina spent is lost [31][32][22]. Unclear
+  for stones spent above +10. So enhancing gear you'll replace soon costs only Kina.
 - **Transfer** (carry enhancement onto a new piece; community name "succession crafting"): **exists on
   global**, Enhancement window → "Transfer" tab, choose source + destination gear (in-game 2026-10-10).
   Rules and preview not seen yet (no eligible source gear). Korean wiki: carries enhancement, breakthrough

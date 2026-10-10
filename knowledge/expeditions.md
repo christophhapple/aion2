@@ -6,7 +6,8 @@ Guides write "item level"; the gates below are GS.
 ## The six live expeditions
 
 Three tiers, each a pair: one drops **weapons + accessories**, the other **armor** [46][48].
-Every expedition has two modes: **Exploration** (easy) and **Conquest** (normal) [46][47][49].
+Every expedition has **exactly two modes: Exploration (easy) and Conquest (hard)**; no third/Hard mode
+(in-game 2026-10-10).
 
 | Tier | Expedition | Exploration (Lv / GS) | Conquest (Lv / GS) | Party | Conquest loot |
 |---|---|---|---|---|---|
@@ -21,9 +22,8 @@ Five more exist in client data, gated at 2800–3800 GS (Hard 3000–4500): Dyin
 of Nihility, Hall of Illusion, Azure Breath Island, Citadel of the Fallen Daeva. Not confirmed live [46][48].
 Transcendence is a separate dungeon type, not an expedition (stages 1600/1900/2200/2500) [47][49].
 
-**Contradictions:** Hard mode on global: Normal/Hard 700/2400, 1400/2500, 2100/2600 [45] **vs** no Hard
-at launch [47] **vs** an "unlabeled third mode" at 2400–2600 [46]. Vakron gate 1400 [46][47][48] **vs** 1600
-[55]. KR added Hard in Dec 2025 [52][53, KR].
+**Settled in-game:** no Hard/third mode on global (2026-10-10); ~~Normal/Hard 700/2400… [45]~~, ~~"unlabeled
+third mode" [46]~~. KR added Hard in Dec 2025 [52][53, KR]. **Open:** Vakron gate 1400 [46][47][48] **vs** 1600 [55].
 
 ## How rewards work
 
@@ -32,13 +32,15 @@ at launch [47] **vs** an "unlabeled third mode" at 2400–2600 [46]. Vakron gate
 | | Exploration | Conquest |
 |---|---|---|
 | Reward counts | 7 per dungeon, refill to 7 on Wednesday, don't bank [46][50] | +1 every 8h, bank up to 21 [46][47][50] |
-| Cube cost (Odyle) | Krao, Urugugu **20** · Fire Temple **30** · Draupnir, Vakron, Horn Den **40** [46][49][51] | **40** [46][49][51] |
+| Cube cost (Odyle) | Krao, Urugugu **20** (Krao in-game) · Fire Temple **30** · Draupnir, Vakron, Horn Den **40** [46][49][51] | **40** (in-game) |
+| Weekly cube limit | **none** (in-game) | **10 cube opens per week** (in-game), shared with Transcendence [49] |
 | Final boss, guaranteed | 4 Silentium + **1,000–1,500 Enhance Stones** [49] | 7 Silentium + **2,000 Enhance Stones** [49] (1,000–2,000 [56]) |
 | Pity (claims to guarantee) | Krao, Urugugu, Fire Temple 1 · Draupnir, Vakron, Horn Den 3 [49] | ★1: 14 · ★2: 21 · ★3: 28 [49] |
 
-- **Unobtained cube count:** 10 per week per server (Wednesday reset). A clear **without opening the
-  cube still uses one** [46][49][50]. At 0 you can't enter Conquest/Transcendence [49] **vs** only a
-  warning [50]. Don't clear without claiming.
+- **Unobtained cube count:** 10 per week per server (Wednesday reset), shown in the expedition screen
+  on the Conquest view. **At 0 you cannot enter** (in-game tooltip 2026-10-10; ~~only a warning [50]~~).
+  Applies to Conquest, not Exploration (in-game); shared with Transcendence [49]. A clear without
+  opening the cube still uses one [46][49][50]: always claim.
 - Odyle Energy: +15 per 3h = 120/day (= 3 cubes at 40, or 6 at 20). Cap 560 (840 is membership, paid);
   overflow is lost [47][49][51].
 - Every Conquest drops ≥1 feather for that boss's wing (Substance Morph) [45]. Sealed wings convert to
@@ -59,8 +61,7 @@ at launch [47] **vs** an "unlabeled third mode" at 2400–2600 [46]. Vakron gate
 | Draupnir / Vakron / Horn Den Exploration | 40 | 1,000–1,500 | 25–38 (worst) |
 
 - **For stones:** Krao and Urugugu Exploration are as good as or better than Conquest per Odyle, and
-  their 7 weekly counts are separate from Conquest's. They reportedly don't use the 10/week cube count,
-  which covers Conquest and Transcendence [49].
+  they don't use the 10/week cube limit, which only gates Conquest (in-game) and Transcendence [49].
 - **Conquest is still needed** for what Exploration doesn't give: the IL 54 gear set, wing feathers,
   pity rewards (14 claims for ★1), and the one-time 2,480-stone first-clear achievement.
 - Suggested mix: Conquest until you have the Krao/Draupnir set pieces you want, then spend the rest on

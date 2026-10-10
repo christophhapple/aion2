@@ -33,7 +33,7 @@ reading the global client [61][62][63]; unverified unless tagged `in-game`. Sour
 | Conquest reward count | +1 / 8h | 21 | character |
 | Transcendence reward count | +1 / 12h | 14 | character |
 | Nightmare attempts | +2 / day | 14 | character |
-| **Shugo Festival keys** | +3 / day at reset | 12 (21 paid) | account per server [50][63]. ~~7/week~~ is KR [69] |
+| **Shugo Festival keys** | +3 / day at reset | 12 (21 paid) | **per server, not per character** (in-game 2026-10-10). ~~7/week~~ is KR [69] |
 | **Invasion keys** | +1 / day | 7 | account per server (some say account-wide) |
 | Duty Missions | 5 / day | 20 held | account per server |
 | Abyss time | 7h per layer (Lower, Middle) / week; no carry-over | – | character |
@@ -51,7 +51,7 @@ unobtained Odyle cubes 10 (server) [50].
 | 2026-10-14 | Free same-faction server transfers open [67] |
 | 2026-10-16 | Twitch launch drops end; Ludra rework/First Clear event date to be announced [67] |
 | 2026-10-25 | DST change: reset 09:00 → 08:00 local |
-| **2026-10-28** | **Planet's Call** (50-level event pass) ends at maintenance [50][65] |
+| 2026-10-28 | Planet's Call (50-level event pass) ends at maintenance [50][65]. No tasks, only XP from normal play (in-game), so not worth planning around |
 | 2026-11-09 | Community launch events end [67] |
 | 2026-12-01 | Log in before this for pre-registration/wishlist rewards [67] |
 | 2026-12-15 | Daeva Pass Season 1 ends at maintenance (free track) [65][66] |
