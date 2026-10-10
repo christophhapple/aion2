@@ -71,3 +71,15 @@ Added 2026-10-10 (rarity + amulet research).
 58. allthings.how, materials guide, updated 2026-10-06, ?: https://allthings.how/?p=234735
 59. allthings.how, Noble Belt guide, updated 2026-10-06, ?: https://allthings.how/?p=234622
 60. allthings.how, upgrade Revelation Amulet + Noble Belt, updated 2026-10-06, ? (fetched; was snippet-only in [30]): https://allthings.how/?p=234794
+
+Added 2026-10-10 (schedule research).
+
+61. daevaguides, timers, updated 2026-10-06, G (EU/NA in UTC): https://daevaguides.com/en/guides/timers/index.html
+62. shugo.gg, timers, updated 2026-10-09, EU/NA/KR/TW: https://shugo.gg/timers
+63. metabot, events, undated, G client build 0.0.4387.0: https://metabot.gg/en/aion-2/events
+64. metabot, Artifact Siege, search summary only, EU in UTC: https://metabot.gg/en/aion-2/events/artifact-siege
+65. shugo.gg, Global Daeva Pass Season 1 (cites official 9/30 notice), G: https://shugo.gg/news/global-daeva-pass-season-1
+66. NCSoft official notice, 2026-09-30, G: https://aion2.plaync.com/en-us/board/notice/view?articleId=6abbb27d71f8fb7c2a7a32a9
+67. aion2hub news (articles 2026-09-29 to 10-09 citing NC notices), G/EU: https://aion2hub.com/news
+68. expcarry, Odyle Energy guide, post-launch, G: https://expcarry.com/aion-2-odyle-energy-guide
+69. thegameswiki / Fextralife Shugo Festival pages, date unclear, **KR** (7 keys/week claim)

@@ -89,4 +89,4 @@ Show times to the user in local time (system timezone, currently CET/CEST — ch
 
 `/today` open routines + next resets · `/log` record a play session · `/review` weekly summary ·
 `/todo` in-game todos · `/backlog` tracker backlog (both: no args = show, args = add) ·
-`/verify` re-check knowledge, generate in-game checks.
+`/verify` re-check knowledge, generate in-game checks · `/plan 2h` plan a session around events and timers.

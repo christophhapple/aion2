@@ -4,6 +4,11 @@ One-off things to do or check in the game. Daily/weekly routines live in `routin
 tracker itself goes in `backlog.md`.
 
 ## Open
+- [ ] **By 2026-10-14:** use the consumables from gift code TAKEFLIGHTAION2 (expire for EU on the 14th), if you redeemed it
+- [ ] **By 2026-10-28:** finish what you can of the Planet's Call event pass (ends at maintenance)
+- [ ] Verify: server clock: does the Spacetime Rift open at 20:00 on your clock (i.e. server = CEST)? And after 2026-10-25, do event times stay on the local clock?
+- [ ] Verify: Abyss siege days (Mon/Thu/Sat 21:00?) and Nahma (Fri/Sun 21:00?)
+- [ ] Verify: Shugo keys: +3/day banking to 12, or 7/week? Per account or per character?
 - [ ] Verify: expedition menu: does Conquest have a Hard/third mode? Cube cost per mode (Krao Exploration 20?)? Is a pity counter visible?
 - [ ] Verify: "Remaining Unobtained Cube Count": where is it shown, and does 0 block Conquest entry?
 - [ ] Verify: item rarity colors: hover one item of each grade (Common, Rare, Epic, Unique, Heroic?) and note the name/frame color

@@ -17,7 +17,7 @@ routines:
     name: Nightmare
     reset: daily
     cap: 2
-    notes: Attempt only consumed on a clear. Unused attempts bank (cap unconfirmed).
+    notes: Attempt only consumed on a clear. Unused attempts bank up to 14.
 
   - id: odyle
     name: Spend Odyle Energy
@@ -39,3 +39,14 @@ routines:
   - id: weekly-quests
     name: Weekly quests
     reset: weekly
+
+  - id: shugo
+    name: Shugo Festival (use keys)
+    reset: daily
+    cap: 3
+    notes: Every hour at :00. +3 keys/day, banks to 12 (per account + server), so no rush until near 12.
+
+  - id: invasion
+    name: Dimensional Invasion (use key)
+    reset: daily
+    notes: Every hour at :30. +1 key/day, banks to 7 (per account + server). Rewards from level 45.

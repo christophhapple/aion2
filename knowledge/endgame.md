@@ -37,7 +37,7 @@ Combat Power, not GS [14].
 
 ## Other caps
 Daily Dungeon 14/week per server · Duty Missions 5/day per server · Battlefield 3 win rewards/week ·
-Subjugation 3 tickets/week · Abyss events 2×/week, likely Wed + Sat [3][4].
+Subjugation 3 tickets/week · Abyss sieges Mon/Thu/Sat 21:00 server time (~~Wed + Sat~~ is KR), see `schedule.md` [3][4][62].
 
 ## Upcoming (global)
 - Season 1 Daeva Pass: 2026-09-30 → 2026-12-16 [3] (free track only; F2P)
