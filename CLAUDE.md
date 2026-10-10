@@ -62,6 +62,10 @@ with patches. Therefore:
   guide-sourced facts on affected topics as possibly stale.
 - When answering game questions, say how confident the answer is if it rests on unverified sources.
 
+- **Keep `knowledge/` character-neutral**: game facts only, reusable for alts and other players. A
+  character's state (levels, GS, gear, progress %) goes in `characters/` and `goals.md`. Facts the
+  user observed in-game still go into knowledge (tagged `in-game`), just without "my X is at Y".
+
 ## Computing status
 
 A routine's current period starts at its most recent reset (`resets` in `routines.yaml`, in UTC):

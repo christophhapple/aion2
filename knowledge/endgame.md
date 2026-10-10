@@ -6,7 +6,7 @@ are about the **Korean** version (cap 50 since 2026-07-01). Gear score (GS) thre
 100–400 between guides. Source numbers [n] refer to `sources.md`. Overview: `progression.md`.
 
 ## One-time content
-- **Sealed Dungeons:** solo, 60 per region (Altgard [18]; Verteron also 60 [30, snippet]). Each gives
+- **Sealed Dungeons:** solo, 60 per region (Altgard = Asmodian [18]; Verteron = Elyos, also 60 [30, snippet]). Each gives
   15k Kina, 1,250 Enhance Stones, 2 Daevanion Crystals, 2 Wisdom Stones (skill points), 2 Wing
   Featherdown, 2 Statue Scrap and a title. A full region gives 120 Daevanion, 120 skill points, 75k stones [18].
 - **Strongholds:** open-world commander + chest; 13 in Altgard [18]. Each gives **2 Noble Belt Enhance

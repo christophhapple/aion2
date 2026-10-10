@@ -1,6 +1,6 @@
 # Progression map
 
-One-page overview for Dhamira (level 45, GS ~1000, F2P). Details and sources: `endgame.md`, `gear.md`.
+One-page overview for a level-45 character, written for free-to-play. Details and sources: `endgame.md`, `gear.md`.
 Drafted 2026-10-10 from guides; **unverified** unless tagged `in-game`. Thresholds vary by 100–400 GS
 between guides.
 
@@ -15,13 +15,13 @@ The loop: run content → get Enhance Stones, gear and materials → enhance →
 
 ## Ladder
 
-| GS | Unlocks | Main reward | Status |
+| GS | Unlocks | Main reward | Note |
 |---|---|---|---|
-| 45 (any GS) | Sealed Dungeons, Strongholds (one-time) | Skill points, Daevanion, Enhance Stones, **belt scrolls** | ← do now |
-| ~1000 | Expeditions **Krao Cave**, **Draupnir** | Enhance Stones, epic/unique gear + accessories, Amplify Stone Fragments | ← current tier |
-| ~1000 / 45 | **Nightmare** (solo boss) | Phantasmal Fragments → Clash Rune chests, Pantheon pieces | ← available |
-| 45 + 1000 | **Abyss** (PvP zone) | Abyss Points → Stigma shards, wings; accessories best from ~1600 | low priority for now |
-| 1400 **vs** 1800 | Expedition **Vakron Sky Island** | Gear meant to go to +10 | next goal |
+| 45 (any GS) | Sealed Dungeons, Strongholds (one-time) | Skill points, Daevanion, Enhance Stones, **belt scrolls** | first |
+| ~1000 | Expeditions **Krao Cave**, **Draupnir** | Enhance Stones, epic/unique gear + accessories, Amplify Stone Fragments | from ~1000 |
+| ~1000 / 45 | **Nightmare** (solo boss) | Phantasmal Fragments → Clash Rune chests, Pantheon pieces | from 45 |
+| 45 + 1000 | **Abyss** (PvP zone) | Abyss Points → Stigma shards, wings; accessories best from ~1600 | low priority below ~1600 |
+| 1400 **vs** 1800 | Expedition **Vakron Sky Island** | Gear meant to go to +10 | |
 | ~1500 | Ascension Trial (3/week) | Score-scaled rewards | |
 | 1600 | **Transcendence** (5-player, timed) | **Arcana cards** (big GS) | |
 | 2100–2200 | Fire Temple (weapons/accessories), Ferocious Horn Den (other slots) | Next gear tier | |

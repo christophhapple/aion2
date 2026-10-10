@@ -3,6 +3,7 @@
 | | |
 |---|---|
 | Class | Cleric |
+| Faction | Elyos (home region: Verteron) |
 | Level | 45 (max) |
 | Campaign | Main story done |
 | Gear score | 1106 |

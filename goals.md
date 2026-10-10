@@ -6,7 +6,7 @@ Background: `knowledge/progression.md`.
 | Goal | Character | Current | Target | Why |
 |---|---|---|---|---|
 | Gear score 1000 → 1400 | Dhamira | 1106 | 1400 | Next expedition tier (Vakron; gate 1400 **vs** 1800, unverified) |
-| Finish one-time content (Sealed Dungeons, Strongholds) | Dhamira | ? (Map → Exploration tab) | 100% | Skill points, Daevanion, 75k stones per region; Strongholds = only belt scroll source |
+| Finish one-time content (Sealed Dungeons, Strongholds) | Dhamira | Sealed 93%, Strongholds 93% (2026-10-10) | 100% | Skill points, Daevanion, 75k stones per region; Strongholds = only belt scroll source |
 | Enhance all gear to +10 | Dhamira | ? | all slots +10 | +1 to +10 always succeeds (guides), so it's risk-free GS |
 | Upgrade belt | Dhamira | Epic +8 | Unique (next: Epic +10 → transmute) | Never replaced; scrolls from Strongholds |
 | Upgrade Revelation amulet | Dhamira | Epic +9 | Unique (next: Epic +10 → transmute) | Never replaced; scrolls from Monolith levels (feathers) |
