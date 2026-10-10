@@ -28,7 +28,7 @@ routines:
     name: Daily Dungeon
     reset: weekly
     cap: 14
-    notes: Shared server pool across characters.
+    notes: Shared server pool across characters. ~10,000 Enhance Stones per clear, the top stone source.
 
   - id: ascension
     name: Ascension Trial

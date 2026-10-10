@@ -48,3 +48,19 @@ Added 2026-10-10 (progression research). G = global, KR = Korean version/pre-lau
 41. gamerant, Noble Belt enhance scroll, 2026-10-05, ?: https://gamerant.com/aion-2-upgrade-noble-belt-enhance-scroll/
 42. mobalytics, gear score guide, updated 2026-10-07, snippet only (403): https://mobalytics.gg/gamebase/guides/aion-2-gear-score
 43. youthdaily.co.kr, Brooch slot, 2026-07-16, **KR**: https://youthdaily.co.kr/news/article.html?no=219731
+
+Added 2026-10-10 (expedition research).
+
+44. aion2pilot, expeditions, undated (official preview checked 2026-10-03), G: https://aion2pilot.com/expeditions
+45. game8, expeditions, updated 2026-10-09, ?: https://game8.co/games/Aion-2/archives/613040
+46. metabot, dungeon guide, updated 2026-10-10, G client: https://metabot.gg/en/aion-2/guides/dungeon-guide
+47. daevaguides, dungeons list, 2026-10-06, G: https://daevaguides.com/en/guides/dungeons-list/
+48. expcarry, dungeons guide, 2026-10-05, G: https://expcarry.com/aion-2-dungeons-guide
+49. Fextralife wiki, Expeditions, updated 2026-10-09, ?: https://aion2.wiki.fextralife.com/Expeditions
+50. metabot, daily/weekly checklist, updated 2026-10-10, G: https://metabot.gg/en/aion-2/guides/daily-weekly-checklist
+51. daevaguides, Odyle Energy, 2026-10-06, G: https://daevaguides.com/en/guides/odyle-energy/
+52. aion2hub, KR patch 2025-12-17, **KR**: https://aion2hub.com/updates/aion-2-update-2025-12-17
+53. aion2hub, KR patch 2025-12-24, **KR**: https://aion2hub.com/updates/aion-2-update-2025-12-24
+54. thegameswiki, expedition dungeons / odyle energy, snippets only, likely **KR**: https://thegameswiki.com/aion-2/wiki/expedition-dungeons
+55. couga54 guides, dungeons, checked 2026-10-10, G names / TW footage: https://couga54.github.io/aion2-guides/en/dungeons/
+56. metabot, Enhance Stone currency page, undated, G client build 0.0.4387.0: https://metabot.gg/en/aion-2/currencies/enhance-stone

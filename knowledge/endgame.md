@@ -9,22 +9,17 @@ are about the **Korean** version (cap 50 since 2026-07-01). Gear score (GS) thre
 - **Sealed Dungeons:** solo, 60 per region (Altgard = Asmodian [18]; Verteron = Elyos, also 60 [30, snippet]). Each gives
   15k Kina, 1,250 Enhance Stones, 2 Daevanion Crystals, 2 Wisdom Stones (skill points), 2 Wing
   Featherdown, 2 Statue Scrap and a title. A full region gives 120 Daevanion, 120 skill points, 75k stones [18].
-- **Strongholds:** open-world commander + chest; 13 in Altgard [18]. Each gives **2 Noble Belt Enhance
+- **Strongholds:** open-world commander + chest; 13 in Altgard [18] **vs** 15 per home region [38][41]. Each gives **2 Noble Belt Enhance
   Scrolls** + 15k Kina [18].
 - Find them: Map → Exploration tab → Sealed Dungeon / Stronghold sub-tab ("?" icons, Travel button) [18].
   Rifts open more [14].
 
 ## Expeditions
-Reward counts: 7 per week per dungeon per character [3]. Cubes cost Odyle Energy.
-- **Krao Cave** (~1000 GS [1][2]): main Enhance Stone farm [3]. Per clear (KR data, estimated rates):
-  2,000 Enhance Stones, 70k Kina, guaranteed epic piece from the final boss, 7.5% unique; pity at 14
-  clears gives a Berk accessory set [23]. Cube cost 20 Odyle [3] **vs** 40 [23, KR].
-- **Draupnir** (~1000 GS [1][2] **vs** 700 [15]): Normal/Hard, 40 Odyle per cube. Bakarma armor, Anguish
-  weapons/armor/accessories, Enhance Stones, Amplify Stone Fragments (1–2 Normal, 1–5 Hard), 70k/170k
-  Kina; pity at 14 (Normal) / 28 (Hard) cubes [24].
-- **Vakron Sky Island:** 1400 [15][16] **vs** 1800–2200 [14] **vs** parties ask 1800+ [17, KR-era;
-  maybe recommended, not the gate]. Normal/Hard; rewards not documented. Gear meant to go to +10 [14][17].
-- **Fire Temple** (weapons, accessories) and **Ferocious Horn Den** (other slots): 2100 [1][15] **vs** 2200 [2].
+**Details moved to `expeditions.md`** (2026-10-10 research, supersedes the older notes here).
+Summary: three tiers of paired dungeons. Conquest gates are GS 700 (Krao Cave, Draupnir), 1400
+(Urugugu Canyon, Vakron Sky Island) and 2100 (Fire Temple, Ferocious Horn Den). The easier Exploration
+mode opens earlier. ~~Krao/Draupnir at ~1000 GS [1][2]~~: Conquest opens at 700 [46][47][48].
+Older KR-client drop data for Krao (guaranteed epic piece, pity at 14 gives a Berk accessory set) [23, KR].
 
 ## Other content
 | GS | Content | Notes |
