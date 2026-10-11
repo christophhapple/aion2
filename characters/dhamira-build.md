@@ -27,7 +27,9 @@ The damage button. The macro is a **sequence** (see `knowledge/controls.md`): ea
 the next entry and loops; entries with nothing castable are skipped. So **priority goes into the slot
 queues**, and the macro just alternates between them. Delays at the default 10 ms.
 
-**Variant A (set up 2026-10-11, testing):** macro = **slot 10, slot 7**.
+**Variant A (chosen 2026-10-11):** macro = **slot 10, slot 7**. Condemnation fires far more than before;
+MP drains fast. Kept over B because refilling (left click) and bursting (macro) stay separate, so
+I choose when each happens instead of the macro mixing them.
 1. **Slot 10 · debuffs:** Debilitating Mark → Chain of Torment → Earth Punishment; first one off
    cooldown fires, otherwise skipped. Mark: 10s CD. Chain: 20s CD, 13s DoT. Earth Punishment: 30s
    CD, 10s DoT.
@@ -111,7 +113,8 @@ Options per skill: `knowledge/cleric-skills.md`. Lv 20 slots locked everywhere (
   slow/speed-down (Stun, Root, Combat Speed).
 - Exception: on a **debuff skill, maximize its debuffs** (Debilitating Mark, likely Chain of Torment).
 - **Mobility is paramount:** "becomes mobile" options come first.
-- MP isn't a bottleneck (2026-10-11): extra-MP options are low value.
+- MP: wasn't a bottleneck while Retribution was in the macro; with Variant A it drains fast, so MP
+  options (Retribution +20%, Thunder -20%) now pull their weight.
 - Harder content gets a second preset/build with its own rules (enemy damage-down, CC may matter there).
 
 | Skill | Picked (option no., Lv 8 + 12 slots) | Why |
