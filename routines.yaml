@@ -43,8 +43,9 @@ routines:
     cap: 10
     notes: 10 cube opens/week (in-game); at 0 you can't enter. Always open the cube after a clear, skipping still uses one. 40 Odyle each. Krao Cave + Draupnir at GS 700+.
 
-  - id: weekly-quests
-    name: Weekly quests
+  - id: commands
+    name: Command Scrolls (PvE)
+    notes: Journal → Duty → Commands (in-game). Bought from the Command Merchant in the capital, up to 12/week (guides). Worth it? Cost and rewards not checked yet.
     reset: weekly
 
   - id: shugo

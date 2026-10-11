@@ -154,3 +154,4 @@ Added 2026-10-11 (Sorcerer stats research).
 120. Search summary of Sorcerer guides (fextralife wiki, game8, games.gg, eloboost24), ~2026-10, ?: https://aion2.wiki.fextralife.com/Sorcerer_Builds
 121. gamesfuze pets guide + metabot soul farming + games.gg pet list, ~2026-10, ?, search summary: https://gamesfuze.com/guides/aion-2-how-to-unlock-pets-and-get-more-pet-souls/
 122. thegameswiki manastones-and-soulstones + metabot item pages, search summary, KR/global mix, ?: https://thegameswiki.com/aion-2/wiki/manastones-and-soulstones
+123. mein-mmo daily/weekly checklist + forum guide, search summary, ~2026-10, G: https://mein-mmo.de/en/aion-2-daily-weekly-checklist-perfect-start,1589979/
