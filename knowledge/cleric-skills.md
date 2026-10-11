@@ -43,8 +43,18 @@ All Lv. 22, unlocked after the Ascension quest. 4 of 13 can be slotted.
 ## Skill levels
 - **Where levels come from** (in-game 2026-10-11): skill points raise a skill to **Lv 10**; Lv 11–14 come
   from **Daevanion** board nodes; Lv 15–20 from **Arcana**. Leftover skill points can only go to passives.
-- Specialty slots unlock at skill level 8, 12 and 20; modifiers at 12 and 16. Respec is free.
-Known specialty: Earth's Retribution → "-7s Bolt cooldown on Discharge".
+- The skill window's tooltip shows Daevanion levels as a bonus: "Earth's Retribution (+4)" at Lv 14
+  (in-game 2026-10-11).
+- **Specialties (active skills):** each skill has **4 options** and **3 slots**, unlocking at skill
+  Lv 8, 12 and 20; you pick which options fill them. On top, a **fixed effect at Lv 16**, no choice
+  (in-game 2026-10-11). Respec is free. Earlier note said "modifiers at 12 and 16" (tooltips
+  2026-10-09); the Lv 16 fixed effect is probably what that meant.
+- **Stigma specialties** unlock with Stigma level, no choices (in-game 2026-10-11).
+
+### Specialty options (in-game 2026-10-11)
+| Skill | Options (pick into Lv 8 / 12 / 20 slots) | Fixed at Lv 16 |
+|---|---|---|
+| Earth's Retribution | +20% MP restored · +20% [Discharge] Chain Skill trigger chance (text cut off) · +50% Multi-Hit chance on hit · -7s [Bolt] cooldown on landing [Discharge] | Ignores Block and Evasion |
 
 ## Stats (guides, 2026-10, unverified)
 Guides disagree; most agree on the first point.
