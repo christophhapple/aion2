@@ -101,7 +101,7 @@ Stats: Wisdom + Life (god stats), Constitution + Power (primary); Heal Boost (Pv
 ## Wings
 - **Crafting a pair:** Pure Odyle + Sealed Wings are enough to craft one (in-game 2026-10-11: crafted
   Glorious Wings). Exact recipe amounts not recorded yet.
-- **Glorious Wings:** 3% lower MP costs when equipped [111]; a good fit for MP-hungry healers.
+- **Glorious Wings:** 3% lower MP costs when equipped (in-game 2026-10-11; [111]); a good fit for MP-hungry healers.
 - Every pair owned adds a small permanent bonus, equipped or not; 25 pairs unlock the title Dominator of
   Dimensions (`titles.md`) [109][115]. Talisra Wings: 4% Cooldown Reduction [111]. Ultimate Daeva
   Wings, Vakron and Nightmare wings are recommended for Combat Power [115].
