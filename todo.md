@@ -9,7 +9,6 @@ tracker itself goes in `backlog.md`.
 - [ ] Verify: other siege days (Mon/Thu 21:00?) and Nahma (Fri/Sun 21:00?). Saturday 21:00 is confirmed
 - [ ] Verify: Substance Morph: can an unused Clash Rune Enhance Scroll become 100 Enhance Stones? (Do you have spare ones?)
 - [ ] Verify (Abyss, low priority): what happens when you die there (penalty, respawn point)? Does Abyss time keep running while dead or standing in Western Root?
-- [ ] Verify (Dimensional Invasion, next round): do you get rewards (~700 Enhance Stones) without spending a key? How many card picks did you get, and at what rank/score? When does the key refill (guides say 16:00, probably wrong for EU)?
 - [ ] Check (next rift): Altgard Strongholds are marked on the map but showed no entrance. Look for a way in (quest, level, other side)
 - [ ] Quick wins check (Dhamira + Hamme): unused Daevanion Crystals or Wisdom Stones in the bag? Pets levelled (to 3)? Ascension Bracelet enhanced + Manastone? Empty Manastone sockets? Do you have "Through Hell and Back" (Roah Sealed Dungeon)? Joined a Legion? Shugo minigames played 3× each? See `knowledge/progression.md` "Often missed"
 - [ ] Check (once a pet is fully levelled): does targeting a monster of that pet type show it as done?
@@ -21,6 +20,7 @@ tracker itself goes in `backlog.md`.
   in the game, then tell Claude the differences.
 
 ## Done
+- [x] Dimensional Invasion: no rewards without a key (cancel keeps it); round ~5 of 10 min; Beritra Air Raid seen (2026-10-11)
 - [x] Titles equipped: Guardian + Saint of Verteron unlocked (Monolith 20/30), also for Hamme (2026-10-11)
 - [x] Rift quests: all 7 picked up (Mino moves around Verteron and gives different quests per spot); enemy Kibelisks guarded, no fast travel; Altgard Sealed Dungeons give no skill points; feathers there not collectable (2026-10-11)
 - [x] Weekly reset: Wednesday 07:00 UTC = 09:00 local (Daily Dungeon countdown) (2026-10-10)
