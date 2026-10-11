@@ -25,7 +25,8 @@ patch notes, which beat guides. Every fact is tagged with its source and date or
 | `expeditions.md` | All expeditions: gates, modes, cube costs, rewards, run order | 2026-10-10 |
 | `endgame.md` | One-time content, Nightmare, Abyss, Transcendence, Pantheon | 2026-10-10 |
 | `gear.md` | Gear progression, currencies, Cleric notes | 2026-10-10 |
-| `cleric-skills.md` | Cleric active + Stigma skills (from in-game tooltips) | 2026-10-09 |
+| `cleric-skills.md` | Cleric active + Stigma skills (from in-game tooltips), stat priorities (guides) | 2026-10-11 |
+| `titles.md` | Title slots, owned bonus, which titles to equip | 2026-10-11 |
 | `abyss.md` | Abyss: PvP rules, layers, low-risk PvE, healer advice | 2026-10-10 |
 | `crafting.md` | Professions, gathering, crafted gear, economy | 2026-10-10 |
 | `schedule.md` | Event times, refilling counters, dated deadlines (EU) | 2026-10-10 |

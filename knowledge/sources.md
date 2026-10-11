@@ -134,3 +134,12 @@ Added 2026-10-11 (Duty Missions research).
 106. games.gg, Duty Missions guide, updated 2026-10-05, ?: https://games.gg/aion-2/guides/aion-2-duty-missions-guide/
 107. neonsect, Level 45 Duties, 2026-10-07, G: https://neonsect.com/aion-2/aion-2-level-45-duties/
 108. allthings.how / thegameswiki duty quests, undated, ?, snippet only: https://thegameswiki.com/aion-2/wiki/duty-quests
+
+Added 2026-10-11 (titles and Cleric stats research).
+
+109. metabot.gg, Titles guide, 2026-10-08, global client, ~12,600 tracked characters, G: https://metabot.gg/en/aion-2/guides/titles-guide
+110. aion2.blog, Titles: equipped vs owned, updated 2026-10-04, G: https://aion2.blog/titles/
+111. metaroad.gg, Cleric PvE healer build, updated 2026-10-10, G (reflects late-Sep KR/TW patches): https://metaroad.gg/aion2/build-guides/cleric-pve-healer-build
+112. gegebase, Cleric PvE guide, ~2026-10, ?: https://gegebase.com/games/aion2/cleric_pve_guide
+113. oslink, Cleric build guide, ~2026-10, ?: https://www.oslink.io/blog/guide/aion-2-cleric-build-guide.html
+114. 2upskill, Cleric guide, 2026, ? (generic): https://2upskill.com/aion-2-cleric-guide-best-builds-skills-stigmas-and-macros-for-pve-pvp-2026/

@@ -11,6 +11,7 @@ tracker itself goes in `backlog.md`.
 - [ ] Verify (Abyss, low priority): what happens when you die there (penalty, respawn point)? Does Abyss time keep running while dead or standing in Western Root?
 - [ ] Verify (Dimensional Invasion, next round): do you get rewards (~700 Enhance Stones) without spending a key? How many card picks did you get, and at what rank/score? When does the key refill (guides say 16:00, probably wrong for EU)?
 - [ ] Check (next rift): Altgard Strongholds are marked on the map but showed no entrance. Look for a way in (quest, level, other side)
+- [ ] Titles (quick): equip Guardian of Verteron (Attack), Saint of Verteron (Defense) and Through Hell and Back (Other) if unlocked. Note the real bonuses if they differ from `knowledge/titles.md`
 - [ ] Verify: Nightmare: number of floors/levels, Phantasmal Fragments per clear, shop items + prices
 - [ ] Verify: Transfer tab: what does the preview show, and what makes a piece an eligible source? (once you have eligible gear)
 - [ ] *(low priority, later)* Rework gathering skill point picks once crafting goals are set and you switch to targeted farming (not enough points for everything; respec reportedly costs 50,000 Kinah)

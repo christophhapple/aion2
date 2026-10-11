@@ -43,3 +43,16 @@ All Lv. 22, unlocked after the Ascension quest. 4 of 13 can be slotted.
 ## Skill levels
 Specialty slots unlock at skill level 8, 12 and 20; modifiers at 12 and 16. Respec is free.
 Known specialty: Earth's Retribution → "-7s Bolt cooldown on Discharge".
+
+## Stats (guides, 2026-10, unverified)
+Guides disagree; most agree on the first point.
+- **Attack is the main stat, even for healing:** the passive Healing Enhancement converts Attack into
+  Heal Boost (rate not shown in-game) [111]. Another guide puts Healing Power first, then Attack [113].
+- Then **Critical Hit** (feeds Condemnation resets; capped at 50%), **Cooldown Reduction** and
+  **Combat Speed**, Double Chance [111][112]. A Cleric is "always short on crit" [112].
+- Survival-first lists (Constitution, Willpower, HP, defenses) exist [114], but read like generic advice.
+- Manastones: weapon → Weapon Damage Boost, Crit Damage Boost, Damage Boost, Attack; armor → one Crit
+  Damage Boost, rest Attack; skip Front Attack [111].
+- Daevanion: blue skill nodes first, then Cooldown Reduction + Combat Speed (Nezekan), Damage Boost/
+  Tolerance (Zikel), Crit Damage (Vaizel) [111].
+- Titles: see `titles.md`.
