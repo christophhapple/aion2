@@ -16,7 +16,7 @@ Build Notes"). Passives omitted (not customizable). Values only where the game s
 | Light of Regeneration | HP regen every 2s for 30s to caster + party within 40m (caster + 4 others; a party is 5 players); the tooltip lists +5% Defense and +5% Move Speed too (with options 1 and 4 active). **Cooldown 30s = duration**, so it can be kept up permanently; instant, mobile (in-game 2026-10-11) |
 | Condemnation | Earth damage to up to 4 enemies within 4m of the target; requires Chain of Torment on the target, i.e. only castable while Chain's DoT runs; 7 Stagger gauge damage; **3s CD**, reset on Critical Hit with option 4; instant, mobile (in-game 2026-10-11) |
 | Healing Light | Heals you + the lowest-HP party member within 40m; 50 MP, **6s CD**, instant, mobile (in-game 2026-10-11) |
-| Radiant Recovery | Party heal; removes 1 debuff |
+| Radiant Recovery | Heals caster + party within 40m; removes 1 debuff (2 with option 1); 9s CD with option 3 (likely 12s base); no MP cost shown; instant, mobile (in-game 2026-10-11) |
 | Bolt | Chargeable AoE Wind damage (max 3 charge levels); 300 MP, 45s CD |
 | Defiance | Breaks stun/knockdown/airborne/grab/frost/fear; 5s status immunity. Not a hotbar skill: own key (Space by the user's setup), only usable while crowd-controlled (in-game 2026-10-11) |
 
@@ -67,7 +67,7 @@ Numbered in the in-game order. Filled in from the game as we go; the guide colum
 | Light of Regeneration | 1 +5% Defense while healing · 2 +20% healing when HP is ≤50% · 3 +5% Incoming Heal while healing · 4 +5% Move Speed while healing · 5 +5% PvE Damage Tolerance (and PvP, text cut off) (in-game 2026-10-11) | reworked KR 2026-04-22 [134]; picks disagree [132] |
 | Condemnation | 1 restores 100 MP on hit · 2 up to +12% damage on fewer targets · 3 20% chance to Root for 3s · 4 resets cooldown on a Critical Hit (text cut off) · 5 Multi-Hit on hit (in-game 2026-10-11) | option 4 is the key pick; KR raised its chance to 75% [134]; picks 2, 3, 4 or 2, 4, 5 [132]; KR: level it before Judgment Thunder, Earth Punishment boosts it [131] |
 | Healing Light | 1 +2 consecutive uses · 2 +20% healing when HP is ≤50% · 3 50% chance to remove 1 debuff (cleanse) · 4 +2% HP restored · 5 -2s cooldown (in-game 2026-10-11) | KR "essentials": -2s CD + 2% max HP [131]; picks 4, 5 (+3 at Lv 20) [132] |
-| Radiant Recovery | — | options incl. cleanse up to 2, +1 consecutive cast, CD reduction, +10% incoming heal, +5% heal [10]; KR "most important skill" [131]; picks 1, 3, 5 [132] |
+| Radiant Recovery | 1 removes up to 2 debuffs · 2 +1 consecutive use · 3 -3s cooldown · 4 +10% Incoming Heal for 10s · 5 +5% HP restored (in-game 2026-10-11) | KR "most important skill" [131]; picks 1, 3, 5 [132] |
 | Bolt | — | options incl. +30% skill speed, more damage on fewer targets (KR 2026-04-01), guaranteed crit [10][129][134]; picks 2, 3, 4 [132] |
 | Defiance | — | options incl. 10% HP on use, longer Tenacity, Tenacity gives damage tolerance [10]; low priority |
 
