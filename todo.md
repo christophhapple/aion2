@@ -19,9 +19,9 @@ tracker itself goes in `backlog.md`.
 - [ ] Verify: Nightmare: number of floors/levels, Phantasmal Fragments per clear, shop items + prices
 - [ ] Verify: Transfer tab: what does the preview show, and what makes a piece an eligible source? (once you have eligible gear)
 - [ ] *(low priority, later)* Rework gathering skill point picks once crafting goals are set and you switch to targeted farming (not enough points for everything; respec reportedly costs 50,000 Kinah)
-- [ ] *(low priority, later)* Dhamira build: rework the skill-point priority in `characters/dhamira-build.md`
-  (hotbar, macro, Stigmas and levels updated 2026-10-11).
+
 ## Done
+- [x] Dhamira build page brought up to date with the game: hotbar, macro, Stigmas, levels, specialties, leveling priority (2026-10-11)
 - [x] Dhamira: slot 4 swapped to Prayer of Amplification → Divine Aura (2026-10-11)
 - [x] Dimensional Invasion: no rewards without a key (cancel keeps it); round ~5 of 10 min; Beritra Air Raid seen (2026-10-11)
 - [x] Titles equipped: Guardian + Saint of Verteron unlocked (Monolith 20/30), also for Hamme (2026-10-11)

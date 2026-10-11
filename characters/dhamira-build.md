@@ -2,9 +2,7 @@
 
 Imported 2026-10-10 from the Claude doc "AION 2 Cleric - Skills & Build Notes"; this file is the source of
 truth. Skill effects: `knowledge/cleric-skills.md`. Hotbar/macro mechanics: `knowledge/controls.md`.
-
-> **Partly out of date:** hotbar, macro, Stigmas and skill levels match the game (2026-10-11).
-> "Skill-point priority" is the old draft and not re-checked yet.
+Matches the game as of 2026-10-11 (hotbar, macro, Stigmas, levels, specialties).
 
 Target content: mostly group PvE. Current preset is offensive, for the leveling/gearing stretch where
 nothing threatens you.
@@ -121,15 +119,20 @@ Options per skill: `knowledge/cleric-skills.md`. Lv 20 slots locked everywhere (
 | Defiance | 1 chain skill Blessing of Regeneration (only 1 slot: Lv 10) | Blessing heals ~2.1k + 40% MP, more than option 3's 10% HP at ~13k max HP. Option 2 (1000 Stamina) might be useful. All situational. Lv 12 (Daevanion) opens slot 2 |
 | Earth's Retribution | 1 +20% MP restored · 3 +50% Multi-Hit | Option 1 despite MP not being short: when MP does run out, refill fast. Not 4 (-7s Bolt CD): Retribution was rarely cast, so it never triggered; building around it was a mistake. Not 2 (more Discharge) either: Discharge only mattered for the Bolt CD |
 
-## Skill-point priority (old draft, not re-checked)
-Points are limited: level each skill to its next useful breakpoint and stop. Respec is free.
-- **Tier 1, to level 12:** Earth's Retribution (builder + MP engine, carries the -7s Bolt CD
-  specialty); core passives Healing Enhancement, Earth's Grace, Empyrean Lord's Grace.
-- **Tier 2, level 8–10:** Chain of Torment, Debilitating Mark (first specialty at 8); Light of
-  Regeneration.
-- **Tier 3, low investment:** Healing Light, Radiant Recovery, Defiance, Salvation (work fine at low
-  level); Bolt (payoff comes via the Retribution specialty).
-- Endgame raid guides push Benevolence Lv 15/20 and Absolution Lv 10; ignore while leveling.
+## Leveling priority (2026-10-11)
+Skill points cap actives at Lv 10 (all done); spare points go to passives (key ones maxed, rest
+evenly). Further levels come from **Daevanion** (11–14) and **Arcana** (15–20); see
+`knowledge/cleric-skills.md` "Skill levels".
+
+**Daevanion (to 14), next nodes:**
+1. **Lightning Strike Scattershot 11 → 12:** opens slot 2 + option 4 (Multi-Hit).
+2. **Defiance 10 → 12:** opens slot 2 + option 4 (+2s Tenacity).
+3. Healing Light 13 → 14: just a level, no new slot.
+
+**Arcana (15–20), not started.** Lv 16 unlocks option 5, Lv 20 the 3rd slot. Candidates noted per skill
+in "Specialties"; strongest-looking: Scattershot (-1s all cooldowns per hit), Condemnation
+(Multi-Hit, guides say 16–20), Radiant Recovery (guides say 20), Healing Light (-2s CD). Order not
+decided yet.
 
 ## Reactive layer: trigger map
 - **One person's HP drops sharply** → Healing Light (fast, 6s CD, auto-targets lowest). Most-pressed.
