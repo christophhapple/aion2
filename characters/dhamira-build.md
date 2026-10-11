@@ -16,8 +16,9 @@ nothing threatens you.
   - **Macro = damage only**, and only damage where "whenever it's ready" is the right timing.
   - **Healing never goes in the macro**, not even proactive healing (Light of Regeneration): healing
     stays fully separate, on its own keys.
-  - **Timed damage stays manual:** Power Burst (Stagger), Divine Aura → Prayer of Amplification
-    (burst window), Bolt (charge).
+  - **Timed or placed damage stays manual:** Power Burst (saved for interrupt phases, see below),
+    Divine Aura (stationary: placed when the pack is grouped), Prayer of Amplification (burst
+    window), Bolt (charge).
 - The macro is held down; manual keys take precedence while holding it, so nothing needs releasing.
 - MP is single-source: everything is paid for by weaving Earth's Retribution between spenders.
 - No direct self-heal: heals are party-wide or auto-target the lowest HP. Self-preservation =
@@ -35,8 +36,9 @@ The damage/maintenance button. Entries are hotbar slots, tried in order; delays 
 4. **Slot 11 · Earth's Retribution**: always ready, so the macro never comes up empty. When MP runs
    dry, everything above is unavailable and the macro falls through to it: MP manages itself.
 
-Power Burst (manual) feeds entry 1: its heavy Stagger opens the window in which the macro picks up
-Scattershot.
+Scattershot fires whenever something is Staggered; wasting it costs nothing. Power Burst is *not*
+used to set it up: it's saved for fight phases where Stagger damage has to burst to interrupt an
+attack.
 
 ## Hotbar
 Slots numbered 1–12 from the left. Keys aren't tracked (the game stores them); only the two mouse
@@ -47,8 +49,8 @@ buttons matter for the setup above.
 | 1 | Light of Regeneration | manual, healing kept out of the macro (proactive, keep up) |
 | 2 | Healing Light | manual, reactive heal |
 | 3 | Radiant Recovery | manual, reactive heal |
-| 4 | Divine Aura → Prayer of Amplification | manual, timed for burst windows |
-| 5 | Power Burst | manual, timed for Stagger |
+| 4 | Divine Aura → Prayer of Amplification | manual: Aura placed on grouped packs, Prayer for burst windows |
+| 5 | Power Burst | manual, saved for Stagger interrupt phases |
 | 6 | *empty* | |
 | 7 | Lightning Strike Scattershot | macro only |
 | 8 | Light of Protection | toggle at the pull |
