@@ -23,31 +23,31 @@ nothing threatens you.
   No *dedicated* self-heal is needed; beyond that, self-preservation = positioning + reactive buttons.
 
 ## Macro (right click)
-The damage button. The macro is a **sequence** (see `knowledge/controls.md`): each press/hold steps to
-the next entry and loops; entries with nothing castable are skipped. So **priority goes into the slot
-queues**, and the macro just alternates between them. Delays at the default 10 ms.
+The damage button. The macro is a **sequence**, and slot queues probably cycle the same way (see
+`knowledge/controls.md`): each press/hold steps to the next entry or skill and loops; anything not
+castable is skipped. Delays at the default 10 ms. Holding any hotbar key repeats it too.
 
-**Variant A (chosen 2026-10-11):** macro = **slot 10, slot 7**. Condemnation fires far more than before;
-MP drains fast. Kept over B because refilling (left click) and bursting (macro) stay separate, so
-I choose when each happens instead of the macro mixing them.
-1. **Slot 10 · debuffs:** Debilitating Mark → Chain of Torment → Earth Punishment; first one off
-   cooldown fires, otherwise skipped. Mark: 10s CD. Chain: 20s CD, 13s DoT. Earth Punishment: 30s
-   CD, 10s DoT.
-2. **Slot 7 · damage:** Scattershot (only during Stagger) → Condemnation (only while Chain runs) →
-   Judgment Thunder (no cooldown, 96 MP).
+**Current setup (chosen 2026-10-11):** macro = **slot 10, slot 7**.
+1. **Slot 10 · debuffs + Condemnation:** Debilitating Mark → Chain of Torment → Earth Punishment →
+   Condemnation. Debuffs fire as they come off cooldown; in between, all three are on cooldown, so
+   every press lands on Condemnation. Mark: 10s CD. Chain: 20s CD, 13s DoT (Condemnation only while
+   it runs). Earth Punishment: 30s CD, 10s DoT.
    **Core damage window:** while Chain and Earth Punishment are both on the target, Condemnation always
-   crits and every crit resets it, so it fires on nearly every pass.
+   crits and every crit resets it: near-pure Condemnation.
+2. **Slot 7 · Scattershot:** only during Stagger, otherwise skipped. During Stagger it alternates
+   with slot 10; fine, since Condemnation hits harder (~4.0–4.5k vs ~2.1k) and slot 10 is skipped
+   when nothing's ready. Revisit at Scattershot Lv 16 (option 5): then give slot 7 a key and hold it.
 
-Earth's Retribution is **not** in the macro (a skill fits in only one slot, and left click needs it).
-MP runs down; refill by left click to ~50%, then back to the macro. If MP gets out of hand: Variant
-B = add slot 11 to the macro (10, 7, 11): Retribution once per pass, MP looks after itself.
+**Gap:** for ~7s of every 20s (Chain down, debuffs on cooldown) the macro casts nothing. Then hold
+key 4 (Judgment Thunder, slot 6).
 
-Slot queues probably cycle like the macro, so in the crit window slot 7 alternates Condemnation and
-Thunder instead of spamming Condemnation (in-game 2026-10-11). **Rejected:** repeating Condemnation's
-slot in the macro to weight it: makes the macro unwieldy and feels like a crutch.
+**MP:** Retribution isn't in the macro; MP drains fast. Refill by left click to ~50%, then back.
+Kept that way on purpose: refilling and bursting stay separate, so I choose when each happens.
 
-Previous setup (before 2026-10-11): macro 7, 10, 12, 11 with Scattershot, Thunder and Retribution
-in single slots; Retribution fired every pass, Condemnation at most once per pass.
+History (2026-10-11): original macro 7, 10, 12, 11 (Retribution every pass, Condemnation at most once
+per pass) → Variant A: 10, 7 with slot 7 = Scattershot → Condemnation → Thunder (Condemnation and
+Thunder alternated, since queues cycle) → current. **Rejected:** repeating slots in the macro to
+weight Condemnation: unwieldy, feels like a crutch.
 
 Scattershot fires whenever something is Staggered; wasting it costs nothing. Power Burst is *not*
 used to set it up: it's saved for fight phases where Stagger damage has to burst to interrupt an
@@ -66,13 +66,13 @@ buttons matter for the setup above.
 | 3 | Radiant Recovery | manual, reactive heal |
 | 4 | Prayer of Amplification → Divine Aura | manual, buff before damage: Prayer for burst windows (spending it early is fine, 60s CD), Aura placed on grouped packs |
 | 5 | Power Burst | manual, saved for Stagger interrupt phases |
-| 6 | *empty* | |
-| 7 | Lightning Strike Scattershot → Condemnation → Judgment Thunder | macro only: the damage queue |
+| 6 | Judgment Thunder | manual (key 4, held): fills the gaps when the macro has nothing to cast |
+| 7 | Lightning Strike Scattershot | macro only |
 | 8 | Light of Protection | toggle at the pull |
 | 9 | Bolt | manual (charge while moving) |
-| 10 | Debilitating Mark → Chain of Torment → Earth Punishment | macro only: the debuff queue |
+| 10 | Debilitating Mark → Chain of Torment → Earth Punishment → Condemnation | macro only: debuffs + Condemnation |
 | 11 | Earth's Retribution | left click only (pull / retarget, manual MP refill) |
-| 12 | *empty* (since 2026-10-11) | |
+| 12 | *empty* | |
 
 Defiance isn't a hotbar skill: it's on Space and only usable while crowd-controlled.
 
@@ -165,6 +165,8 @@ Everything pressed on top of the held macro.
 - **Stagger interrupt phase** → Power Burst + a fully charged Bolt (50 + 35 gauge).
 - **Burst window / pack grouped up** → slot 4: Prayer of Amplification, then Divine Aura.
 - **Bolt ready, nothing to save it for** → charge it while moving.
+- **Right click does nothing** (gap: no Chain on the target, debuffs on cooldown, ~7s of every 20s)
+  → hold key 4 (Judgment Thunder). Also on trash before Chain is up.
 
 **Utility**
 - **MP low** → left click (Earth's Retribution) until ~50%, then back to the macro.
