@@ -27,7 +27,7 @@ The damage button. The macro is a **sequence**, and slot queues probably cycle t
 `knowledge/controls.md`): each press/hold steps to the next entry or skill and loops; anything not
 castable is skipped. Delays at the default 10 ms. Holding any hotbar key repeats it too.
 
-**Current setup (chosen 2026-10-11):** macro = **slot 10, slot 7**.
+**Current setup (set up in-game 2026-10-11):** macro = **slot 10, slot 7**.
 1. **Slot 10 · debuffs + Condemnation:** Debilitating Mark → Chain of Torment → Earth Punishment →
    Condemnation. Debuffs fire as they come off cooldown; in between, all three are on cooldown, so
    every press lands on Condemnation. Mark: 10s CD. Chain: 20s CD, 13s DoT (Condemnation only while
@@ -38,7 +38,8 @@ castable is skipped. Delays at the default 10 ms. Holding any hotbar key repeats
    with slot 10; fine, since Condemnation hits harder (~4.0–4.5k vs ~2.1k) and slot 10 is skipped
    when nothing's ready. Revisit at Scattershot Lv 16 (option 5): then give slot 7 a key and hold it.
 
-**Gap:** for ~7s of every 20s (Chain down, debuffs on cooldown) the macro casts nothing. Then hold
+**Gap:** for ~7s of every 20s (Chain down, debuffs on cooldown) the macro casts nothing (confirmed
+in-game 2026-10-11). Then hold
 key 4 (Judgment Thunder, slot 6).
 
 **MP:** Retribution isn't in the macro; MP drains fast. Refill by left click to ~50%, then back.
