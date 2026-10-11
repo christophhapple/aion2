@@ -30,6 +30,9 @@ The damage/maintenance button. Entries are hotbar slots, tried in order; delays 
 2. **Slot 10 · debuff queue:** Debilitating Mark → Chain of Torment → Earth Punishment → Condemnation.
    Mark: 10s CD. Chain: 20s CD, DoT 13s, so Condemnation (needs Chain on the target) has a window of
    roughly 13 of every 20s. Earth Punishment: 10s DoT. Condemnation is the frequent repeater.
+   **Core damage window:** while Earth Punishment lines up with Chain, Condemnation always crits and
+   every crit resets it, so the macro casts it again and again. The queue order sets this up by
+   itself: Chain, then Earth Punishment, then Condemnation repeating.
 3. **Slot 12 · Judgment Thunder**: AoE damage (up to 4 targets). No cooldown, 96 MP: the macro
    spams it as long as MP lasts, so this is what actually drains MP.
 4. **Slot 11 · Earth's Retribution**: always ready, so the macro never comes up empty. When MP runs

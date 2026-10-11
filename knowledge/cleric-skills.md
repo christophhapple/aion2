@@ -14,7 +14,7 @@ Build Notes"). Passives omitted (not customizable). Values only where the game s
 | Chain of Torment | Earth damage to up to 4 enemies within 4m of the target; lowers enemy PvE Damage Tolerance; DoT every 1s for 10s (13s with option 2); 10 Stagger gauge damage; 150 MP, 20s CD (in-game 2026-10-11) |
 | Lightning Strike Scattershot | Single-target damage, only on a Staggered target within 20m; **no cooldown**, instant (in-game 2026-10-11) |
 | Light of Regeneration | HP regen every 2s for 30s to caster + party within 40m (caster + 4 others; a party is 5 players); the tooltip lists +5% Defense and +5% Move Speed too (with options 1 and 4 active). **Cooldown 30s = duration**, so it can be kept up permanently; instant, mobile (in-game 2026-10-11) |
-| Condemnation | Earth damage to up to 4 enemies within 4m of the target; requires Chain of Torment on the target, i.e. only castable while Chain's DoT runs; 7 Stagger gauge damage; **3s CD**, reset on Critical Hit with option 4; instant, mobile (in-game 2026-10-11) |
+| Condemnation | Earth damage to up to 4 enemies within 4m of the target; requires Chain of Torment on the target, i.e. only castable while Chain's DoT runs; 7 Stagger gauge damage; **3s CD**, with option 4 **every Critical Hit resets it (100%)**, so it can be recast again and again; instant, mobile (in-game 2026-10-11) |
 | Healing Light | Heals you + the lowest-HP party member within 40m; 50 MP, **6s CD**, instant, mobile (in-game 2026-10-11) |
 | Radiant Recovery | Heals caster + party within 40m; removes 1 debuff (2 with option 1); 9s CD with option 3 (likely 12s base); no MP cost shown; instant, mobile (in-game 2026-10-11) |
 | Bolt | Charge skill (max 3 charge levels): Wind damage to up to 4 enemies within 4m of the target, damage range very wide by charge level; **20–35 Stagger gauge damage**; cast 0.4s/0.7s/1.1s per charge level (read with option 3, +30% Skill Speed, active); 300 MP, 45s CD; mobile (in-game 2026-10-11) |
@@ -31,7 +31,7 @@ All Lv. 22, unlocked after the Ascension quest. 4 of 13 can be slotted.
 | Benevolence | Party regen for 20s (90s CD) |
 | Prayer of Amplification | +20% Attack for a duration |
 | Summon Resurrection | Revives a party member (only revive in the game) |
-| Earth Punishment | Earth damage + DoT 10s |
+| Earth Punishment | Earth damage + DoT 10s. **While it lines up with Condemnation, Condemnation always crits** (in-game 2026-10-11) |
 | Salvation | 3s immunity to damage and status effects |
 | Root | AoE Earth damage; chance to Root (100% on NPCs) |
 | Light of Protection | Toggle: party damage + defense buff (doesn't stack with Chanter's Undefeated Mantra) |
@@ -65,7 +65,7 @@ Numbered in the in-game order. Filled in from the game as we go; the guide colum
 | Chain of Torment | 1 slows target for 5s · 2 +3s DoT · 3 20% chance to Knockdown · 4 +10% PvE Damage Tolerance reduction · 5 ignores Block and Evasion and reduces … (text cut off) (in-game 2026-10-11) | picks 2, 4 [132] |
 | Lightning Strike Scattershot | 1 absorbs 5% HP · 2 restores 120 MP · 3 becomes a mobile skill · 4 (from Lv 12) Multi-Hit on hit · 5 (from Lv 16) -1s to all skill cooldowns on hit (in-game 2026-10-11) | picks 4, 5 [132] |
 | Light of Regeneration | 1 +5% Defense while healing · 2 +20% healing when HP is ≤50% · 3 +5% Incoming Heal while healing · 4 +5% Move Speed while healing · 5 +5% PvE Damage Tolerance (and PvP, text cut off) (in-game 2026-10-11) | reworked KR 2026-04-22 [134]; picks disagree [132] |
-| Condemnation | 1 restores 100 MP on hit · 2 up to +12% damage on fewer targets · 3 20% chance to Root for 3s · 4 resets cooldown on a Critical Hit (text cut off) · 5 Multi-Hit on hit (in-game 2026-10-11) | option 4 is the key pick; KR raised its chance to 75% [134]; picks 2, 3, 4 or 2, 4, 5 [132]; KR: level it before Judgment Thunder, Earth Punishment boosts it [131] |
+| Condemnation | 1 restores 100 MP on hit · 2 up to +12% damage on fewer targets · 3 20% chance to Root for 3s · 4 resets cooldown on a Critical Hit (100% chance) · 5 Multi-Hit on hit (in-game 2026-10-11) | option 4 is the key pick; reset chance per guides 50%, later 75% in KR [134]; global in-game: 100%; picks 2, 3, 4 or 2, 4, 5 [132]; KR: level it before Judgment Thunder, Earth Punishment boosts it [131] |
 | Healing Light | 1 +2 consecutive uses · 2 +20% healing when HP is ≤50% · 3 50% chance to remove 1 debuff (cleanse) · 4 +2% HP restored · 5 -2s cooldown (in-game 2026-10-11) | KR "essentials": -2s CD + 2% max HP [131]; picks 4, 5 (+3 at Lv 20) [132] |
 | Radiant Recovery | 1 removes up to 2 debuffs · 2 +1 consecutive use · 3 -3s cooldown · 4 +10% Incoming Heal for 10s · 5 +5% HP restored (in-game 2026-10-11) | KR "most important skill" [131]; picks 1, 3, 5 [132] |
 | Bolt | 1 30% chance to Stun for 3s (text cut off) · 2 +300 Skill Accuracy · 3 +30% Skill Speed · 4 up to +20% damage on fewer targets · 5 Critical Hit on hit (in-game 2026-10-11) | picks 2, 3, 4 [132] |
@@ -79,7 +79,7 @@ global.
 Guides disagree; most agree on the first point.
 - **Attack is the main stat, even for healing:** the passive Healing Enhancement converts Attack into
   Heal Boost (rate not shown in-game) [111]. Another guide puts Healing Power first, then Attack [113].
-- Then **Critical Hit** (feeds Condemnation resets; capped at 50%), **Cooldown Reduction** and
+- Then **Critical Hit** (feeds Condemnation resets; capped at 50%; matters less while Earth Punishment is up, since Condemnation crits anyway), **Cooldown Reduction** and
   **Combat Speed**, Double Chance [111][112]. A Cleric is "always short on crit" [112].
 - Survival-first lists (Constitution, Willpower, HP, defenses) exist [114], but read like generic advice.
 - Manastones: weapon → Weapon Damage Boost, Crit Damage Boost, Damage Boost, Attack; armor → one Crit
