@@ -7,7 +7,6 @@ Background: `knowledge/progression.md`.
 |---|---|---|---|---|
 | Gear score 1000 → 1400 | Dhamira | 1106 | 1400 | Unlocks Conquest ★2: Urugugu + Vakron (Vakron 1400 confirmed in-game) |
 | Finish one-time content (Sealed Dungeons, Strongholds) | Dhamira | Sealed 93%, Strongholds 93% (2026-10-10) | 100% | Skill points, Daevanion, 75k stones per region; Strongholds = only belt scroll source |
-| Enemy map (Altgard) rift quests via Spacetime Rifts | Dhamira | 4/7 done, all 7 picked up (2026-10-11) | 7/7 | Each gives a skill point (in-game). Altgard Sealed Dungeons: only Kina + stones; Strongholds: no entrance found; feathers: not collectable (all in-game). Go with Hamme |
 | Enhance all gear to +10 | Dhamira | ? | all slots +10 | +1 to +10 always succeeds (guides), so it's risk-free GS |
 | Upgrade belt | Dhamira | Epic +8 | Unique (next: Epic +10 → transmute) | Never replaced; scrolls from Strongholds |
 | Upgrade Revelation amulet | Dhamira | Epic +9 | Unique (next: Epic +10 → transmute) | Never replaced; scrolls from Monolith levels (feathers) |
@@ -16,4 +15,5 @@ Background: `knowledge/progression.md`.
 | First visit to the Abyss | Dhamira | not yet | been there | Find out whether the PvP is worth it |
 
 ## Done
+- [x] Enemy map rift quests 7/7, each gave a skill point (2026-10-11)
 - [x] Clash Runes to +1: both slots at +1 (only 2 slots exist, per guides) (2026-10-10)
