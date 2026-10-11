@@ -28,6 +28,7 @@ All in-game 2026-10-11.
 - **The same slot can appear several times in the macro** (in-game 2026-10-11). Repeating an entry is
   the way to give a skill more tries per pass.
 - **A skill can only be in one slot** (in-game 2026-10-11): it can't sit in two queues at once.
+- **Holding any hotbar key** repeats its skill as well, not just the macro key (in-game 2026-10-11).
 - **Holding the macro key** keeps it firing. Pressing another key while holding it takes precedence,
   so manual skills can be cast without letting go of the macro.
 - A slot can be in the macro and still be pressed on its own key.
