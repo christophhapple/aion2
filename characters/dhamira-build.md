@@ -43,7 +43,7 @@ The damage/maintenance button. Entries are hotbar slots, tried in order; delays 
 
 Scattershot fires whenever something is Staggered; wasting it costs nothing. Power Burst is *not*
 used to set it up: it's saved for fight phases where Stagger damage has to burst to interrupt an
-attack. Stagger gauge damage in the kit: Power Burst 50, **Bolt 20–35** (by charge), Debilitating Mark
+attack. Stagger gauge damage in the kit: Power Burst 50, **Bolt 20–35** (by charge), Earth Punishment 20 (in the macro), Debilitating Mark
 and Chain of Torment 10, Condemnation 7, Judgment Thunder 2. So for an interrupt phase, hold a fully
 charged Bolt alongside Power Burst (fight-dependent; Bolt has a 45s CD).
 
@@ -74,11 +74,16 @@ Defiance isn't a hotbar skill: it's on Space and only usable while crowd-control
 - Light of Protection (Lv 10): always-on party damage + defense
 - Prayer of Amplification (Lv 5): +20% party Attack
 - Power Burst (Lv 5): biggest single hit, heavy Stagger
-- Earth Punishment (Lv 5): single-target DoT (AoE already covered by baseline skills)
+- Earth Punishment (Lv 5): **the damage engine**: Condemnation always crits on its target, and every crit resets Condemnation. 30s CD, 10s DoT; Lv 20 adds +10s
 
 Shard plan: Light of Protection first, cheap levels on the others along the way. Target
 **15 / 10 / 10 / 10** (80 shards total, 50 more than now), later **20 / 10 / 10 / 10** (120, +90).
 Costs: `knowledge/endgame.md` "Stigma levels". Shards come in slowly.
+**Open:** Earth Punishment may deserve the Lv 20 target instead of Light of Protection. Its Lv 20
+(+10s duration) roughly doubles the always-crit Condemnation window (single target, macro casting on
+cooldown: ~13s → ~26s per minute, since Chain 20s CD/13s DoT and Earth Punishment 30s CD only
+partly overlap). Lv 10/15 also give Double Chance, Attack, Defense (self +10%, party +5%). Decide
+after comparing Light of Protection's Stigma levels.
 
 **Defensive / progression (not built yet)**, for when content starts to bite: likely Summon
 Resurrection + Salvation + Light of Protection + a flex (Benevolence for sustain, or Yustiel's Power

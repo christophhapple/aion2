@@ -31,7 +31,7 @@ All Lv. 22, unlocked after the Ascension quest. 4 of 13 can be slotted.
 | Benevolence | Party regen for 20s (90s CD) |
 | Prayer of Amplification | +20% Attack for a duration |
 | Summon Resurrection | Revives a party member (only revive in the game) |
-| Earth Punishment | Earth damage + DoT 10s. **While it lines up with Condemnation, Condemnation always crits** (in-game 2026-10-11) |
+| Earth Punishment | Earth damage to one enemy within 20m + DoT every 1s for 10s; **Condemnation always lands as a Critical Hit on targets with Earth Punishment**; 20 Stagger gauge damage; 200 MP, **30s CD**, instant, mobile. Stigma specialties (unlock by Stigma level, no choice): Lv 5 the Condemnation crit · Lv 10 +10% Double Chance to caster, +5% to party · Lv 15 +10% Attack and Defense to caster, +5% to party · Lv 20 +10s duration for Earth Punishment and [Earth's Blessing] (in-game 2026-10-11) |
 | Salvation | 3s immunity to damage and status effects |
 | Root | AoE Earth damage; chance to Root (100% on NPCs) |
 | Light of Protection | Toggle: party damage + defense buff (doesn't stack with Chanter's Undefeated Mantra) |
@@ -51,7 +51,7 @@ All Lv. 22, unlocked after the Ascension quest. 4 of 13 can be slotted.
   "16" and locked below that level (Scattershot at Lv 11; in-game 2026-10-11). This is what the older note
   "modifiers at 12 and 16" meant. Guides write picks as option numbers, e.g. "2, 4, 5" [132].
 - Changing specialties: free in KR [134]; global cost not confirmed, but no one reports one.
-- **Stigma specialties** unlock with Stigma level (5/10/15/20 [133]), no choices (in-game 2026-10-11).
+- **Stigma specialties** unlock with Stigma level at Lv 5/10/15/20, no choices (in-game 2026-10-11; also [133]).
 
 ### Specialty options
 Numbered in the in-game order. Filled in from the game as we go; the guide column is a pointer, not fact.
