@@ -12,8 +12,8 @@ Researched 2026-10-11 from guides reading the global client [109][110]. Unverifi
 ## Common picks (no heavy grind)
 | Slot | Title | Equipped bonus | How | Used by top chars [109] |
 |---|---|---|---|---|
-| Attack | **Guardian of Verteron / Altgard** | PvE Damage Boost +3%, Penetration +210 | Monolith level 20 | 45% |
-| Defense | **Saint of Verteron / Altgard** | Defense +300, Damage Tolerance +3%, Block +100 | Monolith level 30 | 59% |
+| Attack | **Guardian of Verteron / Altgard** | PvE Damage Boost +3%, Penetration +210 | Monolith level 20 (in-game 2026-10-11) | 45% |
+| Defense | **Saint of Verteron / Altgard** | Defense +300, Damage Tolerance +3%, Block +100 | Monolith level 30 (in-game 2026-10-11) | 59% |
 | Other | **Through Hell and Back** | Cooldown Reduction +3%, HP +900, Stamina +225 | Clear Sealed Dungeon *Ruins of the Ancient City of Roah* | 24% |
 | Other | Encountering Kaisinel's / Zikel's Core | HP Potion Recovery +400, Move Speed +3%, HP +900 | Complete Episode 6 | 24% |
 | Attack | Nice to Meet You | PvE Damage Boost +2.9% | Use the Spacetime Rift 50 times | – |
