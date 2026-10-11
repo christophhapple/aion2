@@ -10,7 +10,7 @@ Build Notes"). Passives omitted (not customizable). Values only where the game s
 | Earth's Retribution | Single-target Earth damage, restores 110 MP. The MP builder. **No cooldown**, 20m range (in-game 2026-10-11) |
 | Judgment Thunder | Wind damage to up to 4 enemies within 4m of the target; 2 Stagger gauge damage; **no cooldown**, 96 MP at Lv 14 with option 1 (in-game 2026-10-11) |
 | Debilitating Mark | Wind damage to up to 4 enemies within 4m of the target; lowers enemy PvE Damage Boost, Defense (with option 2); DoT every 1s; 10 Stagger gauge damage; 100 MP, 10s CD (in-game 2026-10-11) |
-| Divine Aura | Stationary aura, periodic Earth damage for 5s |
+| Divine Aura | Summons a stationary aura near the caster for 5s; periodically deals Earth damage to a selected target within 20m, up to 4 enemies within 4m of it (tooltip read with option 2, AoE, active); 30s CD, instant cast (in-game 2026-10-11) |
 | Chain of Torment | AoE Earth damage; lowers enemy damage tolerance; DoT 10s |
 | Lightning Strike Scattershot | Damage to a Staggered target only |
 | Light of Regeneration | Party HP regen every 2s for 30s |
@@ -61,7 +61,7 @@ Numbered in the in-game order. Filled in from the game as we go; the guide colum
 | Earth's Retribution | 1 +20% MP restored · 2 +20% [Discharge] chain-skill trigger chance (text cut off) · 3 +50% Multi-Hit chance · 4 -7s [Bolt] cooldown on [Discharge] · 5 ignores Block and Evasion (in-game 2026-10-11) | picks 2, 3 or 2, 4 (2, 3, 4 at Lv 20) [132]; "more Discharge + Bolt CD" [129]; KR: "not very meaningful" |
 | Judgment Thunder | 1 -20% MP consumed · 2 up to +12% damage when hitting fewer targets (text cut off; meaning per user) · 3 -10% enemy Combat Speed for 5s · 4 10% chance to Root 2s · 5 [Divine Punishment] triggers 1 extra time (in-game 2026-10-11) | picks 2, 4, 5 [132]; "single target, extra Divine Punishment, lower MP cost" [129] |
 | Debilitating Mark | 1 no MP cost and restores some MP (text cut off) · 2 -15% target Defense for the DoT duration · 3 20% chance to Stun (text cut off) · 4 +10% PvE (and PvP) Damage Boost reduction · 5 ignores Block and Evasion and reduces … (text cut off) (in-game 2026-10-11) | PvE picks 2, 4 [132] |
-| Divine Aura | — | options incl. +50% attack speed, +3s duration, -10s CD [10][129]; picks conflict (3, 4, 5 vs 1, 5) [132] |
+| Divine Aura | 1 -40% Move Speed for 3s on up to 4 enemies · 2 changes to an AoE skill · 3 +50% aura attack speed · 4 +3s aura duration · 5 -10s cooldown (in-game 2026-10-11) | picks conflict (3, 4, 5 vs 1, 5) [132] |
 | Chain of Torment | — | options incl. +3s DoT / slow / knockdown chance, -10% PvE damage tolerance [10]; picks 2, 4 [132] |
 | Lightning Strike Scattershot | — | Multi-Hit; reduce all cooldowns on hit [10][129]; picks 4, 5 [132] |
 | Light of Regeneration | — | options incl. stronger heal ≤50% HP, +5% incoming heal, +5% move speed, +5% PvE damage tolerance [10]; reworked KR 2026-04-22 [134]; picks disagree [132] |
