@@ -16,7 +16,7 @@ are about the **Korean** version (cap 50 since 2026-07-01). Gear score (GS) thre
   points), Daevanion Crystals, gear, titles, Kinah, materials [92]; some give Clash Runes [19][20].
   Guides: finish one-time permanent power first, then move to repeatable content (expeditions) [92][93].
 - **Enemy faction's map via Spacetime Rifts** (from level 45): Elyos get into Altgard, Asmodians into
-  Verteron [94][95][96]. Unlock: accept all **7 rift quests from Mino in Verteron** (Elyos; Uru in Altgard
+  Verteron [94][95][96]. Unlock: accept all **7 rift quests from Mino at the Dawn Legion Temporary Outpost, Verteron** (also listed under Regional Quests in the journal from Lv45; one guide says only 2 are Mino's) (Elyos; Uru in Altgard
   for Asmodians), then enter the purple portal within its 10-min window; you get **1 hour** on the enemy
   map. Rifts open every 3h (times: `schedule.md`) [94][95].
   - There: enemy-region **Strongholds** (belt scrolls [95]; **vs** no scrolls [41]), **Sealed Dungeons**
