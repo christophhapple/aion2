@@ -40,7 +40,7 @@ castable is skipped. Delays at the default 10 ms. Holding any hotbar key repeats
 
 **Gap:** for ~7s of every 20s (Chain down, debuffs on cooldown) the macro casts nothing (confirmed
 in-game 2026-10-11). Then hold
-key 4 (Judgment Thunder, slot 6).
+E (Judgment Thunder, slot 6).
 
 **MP:** Retribution isn't in the macro; MP drains fast. Refill by left click to ~50%, then back.
 Kept that way on purpose: refilling and bursting stay separate, so I choose when each happens.
@@ -58,7 +58,7 @@ charged Bolt alongside Power Burst (fight-dependent; Bolt has a 45s CD).
 
 ## Hotbar
 Slots numbered 1–12 from the left. Keys aren't tracked (the game stores them), except where the
-setup depends on them: right click (macro), left click (slot 11), key 4 (slot 6).
+setup depends on them: right click (macro), left click (slot 11), E (slot 6).
 
 | Slot | Queue | Use |
 |---|---|---|
@@ -67,7 +67,7 @@ setup depends on them: right click (macro), left click (slot 11), key 4 (slot 6)
 | 3 | Radiant Recovery | manual, reactive heal |
 | 4 | Prayer of Amplification → Divine Aura | manual, buff before damage: Prayer for burst windows (spending it early is fine, 60s CD), Aura placed on grouped packs |
 | 5 | Power Burst | manual, saved for Stagger interrupt phases |
-| 6 | Judgment Thunder | manual (key 4, held): fills the gaps when the macro has nothing to cast |
+| 6 | Judgment Thunder | manual (E, held): fills the gaps when the macro has nothing to cast |
 | 7 | Lightning Strike Scattershot | macro only |
 | 8 | Light of Protection | toggle at the pull |
 | 9 | Bolt | manual (charge while moving) |
@@ -167,7 +167,7 @@ Everything pressed on top of the held macro.
 - **Burst window / pack grouped up** → slot 4: Prayer of Amplification, then Divine Aura.
 - **Bolt ready, nothing to save it for** → charge it while moving.
 - **Right click does nothing** (gap: no Chain on the target, debuffs on cooldown, ~7s of every 20s)
-  → hold key 4 (Judgment Thunder). Also on trash before Chain is up.
+  → hold E (Judgment Thunder). Also on trash before Chain is up.
 
 **Utility**
 - **MP low** → left click (Earth's Retribution) until ~50%, then back to the macro.
