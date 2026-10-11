@@ -56,8 +56,8 @@ and Chain of Torment 10, Condemnation 7, Judgment Thunder 2. So for an interrupt
 charged Bolt alongside Power Burst (fight-dependent; Bolt has a 45s CD).
 
 ## Hotbar
-Slots numbered 1–12 from the left. Keys aren't tracked (the game stores them); only the two mouse
-buttons matter for the setup above.
+Slots numbered 1–12 from the left. Keys aren't tracked (the game stores them), except where the
+setup depends on them: right click (macro), left click (slot 11), key 4 (slot 6).
 
 | Slot | Queue | Use |
 |---|---|---|
