@@ -19,6 +19,7 @@ tracker itself goes in `backlog.md`.
 - [ ] Verify: Nightmare: number of floors/levels, Phantasmal Fragments per clear, shop items + prices
 - [ ] Verify: Transfer tab: what does the preview show, and what makes a piece an eligible source? (once you have eligible gear)
 - [ ] *(low priority, later)* Rework gathering skill point picks once crafting goals are set and you switch to targeted farming (not enough points for everything; respec reportedly costs 50,000 Kinah)
+- [ ] Dhamira: swap slot 4's queue to Prayer of Amplification → Divine Aura (buff before damage), then tell Claude
 - [ ] *(low priority, later)* Dhamira build: rework the skill-point priority in `characters/dhamira-build.md`
   (hotbar, macro, Stigmas and levels updated 2026-10-11). Note Defiance's skill level while at it.
 

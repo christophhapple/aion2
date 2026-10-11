@@ -49,7 +49,7 @@ buttons matter for the setup above.
 | 1 | Light of Regeneration | manual, healing kept out of the macro (proactive, keep up) |
 | 2 | Healing Light | manual, reactive heal |
 | 3 | Radiant Recovery | manual, reactive heal |
-| 4 | Divine Aura → Prayer of Amplification | manual: Aura placed on grouped packs, Prayer for burst windows |
+| 4 | Divine Aura → Prayer of Amplification *(planned: swap to Prayer first, buff before damage)* | manual: Aura placed on grouped packs, Prayer for burst windows |
 | 5 | Power Burst | manual, saved for Stagger interrupt phases |
 | 6 | *empty* | |
 | 7 | Lightning Strike Scattershot | macro only |
