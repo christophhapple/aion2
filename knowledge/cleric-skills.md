@@ -12,7 +12,7 @@ Build Notes"). Passives omitted (not customizable). Values only where the game s
 | Debilitating Mark | Wind damage to up to 4 enemies within 4m of the target; lowers enemy PvE Damage Boost, Defense (with option 2); DoT every 1s; 10 Stagger gauge damage; 100 MP, 10s CD (in-game 2026-10-11) |
 | Divine Aura | Summons a stationary aura near the caster for 5s; periodically deals Earth damage to a selected target within 20m, up to 4 enemies within 4m of it (tooltip read with option 2, AoE, active); 30s CD, instant cast (in-game 2026-10-11) |
 | Chain of Torment | Earth damage to up to 4 enemies within 4m of the target; lowers enemy PvE Damage Tolerance; DoT every 1s for 10s (13s with option 2); 10 Stagger gauge damage; 150 MP, 20s CD (in-game 2026-10-11) |
-| Lightning Strike Scattershot | Damage to a Staggered target only |
+| Lightning Strike Scattershot | Single-target damage, only on a Staggered target within 20m; **no cooldown**, instant (in-game 2026-10-11) |
 | Light of Regeneration | Party HP regen every 2s for 30s |
 | Condemnation | AoE Earth damage; requires Chain of Torment on target, i.e. only castable while Chain's DoT runs (in-game 2026-10-11) |
 | Healing Light | Heals you + the lowest-HP party member (6s CD) |
@@ -47,8 +47,8 @@ All Lv. 22, unlocked after the Ascension quest. 4 of 13 can be slotted.
   (in-game 2026-10-11).
 - **Specialties (active skills):** **3 slots**, unlocking at skill Lv 8, 12 and 20 (in-game 2026-10-11;
   also [129][131]). You fill them from **5 options**: options 1–3 available from Lv 8, option 4 from
-  Lv 12, option 5 from Lv 16 [133, snippet]. The in-game list matches: Earth's Retribution shows 5
-  options, the 5th marked "16" and locked at Lv 14 (in-game 2026-10-11). This is what the older note
+  Lv 12, option 5 from Lv 16 [133, snippet]. Confirmed in-game: options 4 and 5 are marked "12" and
+  "16" and locked below that level (Scattershot at Lv 11; in-game 2026-10-11). This is what the older note
   "modifiers at 12 and 16" meant. Guides write picks as option numbers, e.g. "2, 4, 5" [132].
 - Changing specialties: free in KR [134]; global cost not confirmed, but no one reports one.
 - **Stigma specialties** unlock with Stigma level (5/10/15/20 [133]), no choices (in-game 2026-10-11).
@@ -63,7 +63,7 @@ Numbered in the in-game order. Filled in from the game as we go; the guide colum
 | Debilitating Mark | 1 no MP cost and restores some MP (text cut off) · 2 -15% target Defense for the DoT duration · 3 20% chance to Stun (text cut off) · 4 +10% PvE (and PvP) Damage Boost reduction · 5 ignores Block and Evasion and reduces … (text cut off) (in-game 2026-10-11) | PvE picks 2, 4 [132] |
 | Divine Aura | 1 -40% Move Speed for 3s on up to 4 enemies · 2 changes to an AoE skill · 3 +50% aura attack speed · 4 +3s aura duration · 5 -10s cooldown (in-game 2026-10-11) | picks conflict (3, 4, 5 vs 1, 5) [132] |
 | Chain of Torment | 1 slows target for 5s · 2 +3s DoT · 3 20% chance to Knockdown · 4 +10% PvE Damage Tolerance reduction · 5 ignores Block and Evasion and reduces … (text cut off) (in-game 2026-10-11) | picks 2, 4 [132] |
-| Lightning Strike Scattershot | — | Multi-Hit; reduce all cooldowns on hit [10][129]; picks 4, 5 [132] |
+| Lightning Strike Scattershot | 1 absorbs 5% HP · 2 restores 120 MP · 3 becomes a mobile skill · 4 (from Lv 12) Multi-Hit on hit · 5 (from Lv 16) -1s to all skill cooldowns on hit (in-game 2026-10-11) | picks 4, 5 [132] |
 | Light of Regeneration | — | options incl. stronger heal ≤50% HP, +5% incoming heal, +5% move speed, +5% PvE damage tolerance [10]; reworked KR 2026-04-22 [134]; picks disagree [132] |
 | Condemnation | — | key option: crit/recast **resets its cooldown** (50%, KR raised to 75% [134]); also movable cast, +50% Multi-Hit; picks 2, 3, 4 or 2, 4, 5 [132]; KR: level it before Judgment Thunder, Earth Punishment boosts it [131] |
 | Healing Light | — | options incl. stronger heal ≤50% HP, cleanse chance, +2% max-HP heal, -2s CD; KR "essentials": -2s CD + 2% max HP [131]; picks 4, 5 (+3 at Lv 20) [132] |
