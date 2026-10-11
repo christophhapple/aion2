@@ -28,6 +28,7 @@ Researched 2026-10-11. Times: `schedule.md`. Sources [n]: `sources.md`. Unverifi
   So a round without a key is wasted; only join when you'll spend one.
 - Refill time: "16:00 server time" [100][102], probably wrong for EU like those sites' daily reset.
   Likely the normal daily reset (07:00 UTC): player's assumption, not checked.
+- Key count: no obvious place to see it while no invasion is running (in-game 2026-10-11, tentative). Check the join or reward screen.
 - Shared across characters on the server per some guides, account-wide per others (see `schedule.md`).
 - One KR wiki mentions a cap of 2 reward claims/day and 14/week [103]: likely KR only.
 

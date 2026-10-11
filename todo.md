@@ -12,6 +12,7 @@ tracker itself goes in `backlog.md`.
 - [ ] Check (next rift): Altgard Strongholds are marked on the map but showed no entrance. Look for a way in (quest, level, other side)
 - [ ] Quick wins check (Dhamira + Hamme): unused Daevanion Crystals or Wisdom Stones in the bag? Pets levelled (to 3)? Ascension Bracelet enhanced + Manastone? Empty Manastone sockets? Do you have "Through Hell and Back" (Roah Sealed Dungeon)? Joined a Legion? Shugo minigames played 3× each? See `knowledge/progression.md` "Often missed"
 - [ ] Check (once a pet is fully levelled): does targeting a monster of that pet type show it as done?
+- [ ] Check (next Invasion): where does the game show how many Invasion keys you have left (join screen, reward screen, inventory)?
 - [ ] Verify: Nightmare: number of floors/levels, Phantasmal Fragments per clear, shop items + prices
 - [ ] Verify: Transfer tab: what does the preview show, and what makes a piece an eligible source? (once you have eligible gear)
 - [ ] *(low priority, later)* Rework gathering skill point picks once crafting goals are set and you switch to targeted farming (not enough points for everything; respec reportedly costs 50,000 Kinah)
