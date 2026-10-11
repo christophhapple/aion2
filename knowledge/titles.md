@@ -35,7 +35,7 @@ titles) · Spacetime Rift 3 uses ("Hello There") · Golden Glow: take a gear pie
 
 ## Shugo Festival titles [124]
 Titles menu → **Adventure** category (categories: Adventure, Quest, Challenge, Dungeon, Item, Growth).
-One per minigame, reportedly for playing it 3 times [109]; all Rare. Owned bonuses are tiny (+2 PvE
+One per minigame, for **playing it 3 times** (in-game 2026-10-11); all Rare. Owned bonuses are tiny (+2 PvE
 Attack, +10 MP/Accuracy…), so they're mainly a collection thing.
 
 | Title | Minigame | Equipped |
@@ -51,5 +51,5 @@ Attack, +10 MP/Accuracy…), so they're mainly a collection thing.
 | Tile Discerner | Not This Tile? | MP +235 |
 
 Plus **Shugo Festival Rookie** (Rare) and **Shugo Festival Expert** (Epic) from the achievement
-"Shugo Festival Regular". Only one minigame runs per festival window (random) [125], so collecting all
-takes a while.
+"Shugo Festival Regular". **Each festival you choose which of the 9 minigames to play** (in-game
+2026-10-11); ~~one random minigame per window~~ [125].
