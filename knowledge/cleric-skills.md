@@ -13,7 +13,7 @@ Build Notes"). Passives omitted (not customizable). Values only where the game s
 | Divine Aura | Summons a stationary aura near the caster for 5s; periodically deals Earth damage to a selected target within 20m, up to 4 enemies within 4m of it (tooltip read with option 2, AoE, active); 30s CD, instant cast (in-game 2026-10-11) |
 | Chain of Torment | Earth damage to up to 4 enemies within 4m of the target; lowers enemy PvE Damage Tolerance; DoT every 1s for 10s (13s with option 2); 10 Stagger gauge damage; 150 MP, 20s CD (in-game 2026-10-11) |
 | Lightning Strike Scattershot | Single-target damage, only on a Staggered target within 20m; **no cooldown**, instant (in-game 2026-10-11) |
-| Light of Regeneration | HP regen every 2s for 30s to caster + party within 40m (up to 4 players); the tooltip lists +5% Defense and +5% Move Speed too (with options 1 and 4 active). **Cooldown 30s = duration**, so it can be kept up permanently; instant, mobile (in-game 2026-10-11) |
+| Light of Regeneration | HP regen every 2s for 30s to caster + party within 40m (caster + 4 others; a party is 5 players); the tooltip lists +5% Defense and +5% Move Speed too (with options 1 and 4 active). **Cooldown 30s = duration**, so it can be kept up permanently; instant, mobile (in-game 2026-10-11) |
 | Condemnation | AoE Earth damage; requires Chain of Torment on target, i.e. only castable while Chain's DoT runs (in-game 2026-10-11) |
 | Healing Light | Heals you + the lowest-HP party member (6s CD) |
 | Radiant Recovery | Party heal; removes 1 debuff |
