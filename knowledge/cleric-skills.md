@@ -7,7 +7,7 @@ Build Notes"). Passives omitted (not customizable). Values only where the game s
 
 | Skill | Effect |
 |---|---|
-| Earth's Retribution | Single-target Earth damage, restores 110 MP. The MP builder. **No cooldown**, 20m range (in-game 2026-10-11) |
+| Earth's Retribution | Single-target Earth damage, restores 110 MP. The MP builder. **No cooldown**, 20m range. Can trigger the chain skill **Discharge**, which deals damage of its own (in-game 2026-10-11) |
 | Judgment Thunder | Wind damage to up to 4 enemies within 4m of the target; 2 Stagger gauge damage; **no cooldown**, 96 MP at Lv 14 with option 1 (in-game 2026-10-11) |
 | Debilitating Mark | Wind damage to up to 4 enemies within 4m of the target; lowers enemy PvE Damage Boost, Defense (with option 2); DoT every 1s; 10 Stagger gauge damage; 100 MP, 10s CD (in-game 2026-10-11) |
 | Divine Aura | Summons a stationary aura near the caster for 5s; periodically deals Earth damage to a selected target within 20m, up to 4 enemies within 4m of it (tooltip read with option 2, AoE, active); 30s CD, instant cast (in-game 2026-10-11) |
