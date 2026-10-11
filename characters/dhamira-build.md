@@ -32,9 +32,11 @@ The damage/maintenance button. Entries are hotbar slots, tried in order; delays 
 2. **Slot 10 · debuff queue:** Debilitating Mark → Chain of Torment → Earth Punishment → Condemnation.
    Mark and Chain are 10s debuffs, Earth Punishment a 10s DoT; Condemnation needs Chain on the target
    and is the frequent repeater.
-3. **Slot 12 · Judgment Thunder**: AoE damage (up to 4 targets).
+3. **Slot 12 · Judgment Thunder**: AoE damage (up to 4 targets). No cooldown, 96 MP: the macro
+   spams it as long as MP lasts, so this is what actually drains MP.
 4. **Slot 11 · Earth's Retribution**: always ready, so the macro never comes up empty. When MP runs
    dry, everything above is unavailable and the macro falls through to it: MP manages itself.
+   In practice it fires only below 96 MP, so at low MP the macro alternates Thunder and Retribution.
 
 Scattershot fires whenever something is Staggered; wasting it costs nothing. Power Burst is *not*
 used to set it up: it's saved for fight phases where Stagger damage has to burst to interrupt an
@@ -91,8 +93,14 @@ Everything above is Mastery preset 1.
 
 ## Specialties (in-game 2026-10-11)
 Options per skill: `knowledge/cleric-skills.md`. Lv 20 slots locked everywhere (no Arcana yet).
+
+**Rule:** pick options that make *me* stronger (damage, MP, my heals) over options that weaken or
+control the enemy (slow, Root, enemy damage/speed down). Revisit for the defensive preset, when
+enemy damage-down may start to matter.
+
 | Skill | Picked (option no., Lv 8 + 12 slots) | Why |
 |---|---|---|
+| Judgment Thunder | 1 -20% MP consumed · 2 up to +12% damage | Rule below: own damage and MP over enemy slow/Root |
 | Earth's Retribution | 1 +20% MP restored · 3 +50% Multi-Hit | Not 4 (-7s Bolt CD): Retribution was rarely cast, so it never triggered; building around it was a mistake. Not 2 (more Discharge) either: Discharge only mattered for the Bolt CD |
 
 ## Skill-point priority (old draft, not re-checked)
