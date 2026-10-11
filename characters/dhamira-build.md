@@ -107,7 +107,7 @@ Options per skill: `knowledge/cleric-skills.md`. Lv 20 slots locked everywhere (
 |---|---|---|
 | Judgment Thunder | 1 -20% MP consumed · 2 up to +12% damage on fewer targets | Own damage and MP over enemy slow/Root. Option 2 pays off on single bosses. No cooldown, so -20% MP means more casts per refill |
 | Debilitating Mark | 2 -15% target Defense · 4 +10% enemy Damage Boost reduction | Debuff skill: maximize debuffs. Not 1 (no MP cost + MP restore): MP isn't short. Not 3 (Stun chance) |
-| Earth's Retribution | 1 +20% MP restored · 3 +50% Multi-Hit | Not 4 (-7s Bolt CD): Retribution was rarely cast, so it never triggered; building around it was a mistake. Not 2 (more Discharge) either: Discharge only mattered for the Bolt CD |
+| Earth's Retribution | 1 +20% MP restored · 3 +50% Multi-Hit | Option 1 despite MP not being short: when MP does run out, refill fast. Not 4 (-7s Bolt CD): Retribution was rarely cast, so it never triggered; building around it was a mistake. Not 2 (more Discharge) either: Discharge only mattered for the Bolt CD |
 
 ## Skill-point priority (old draft, not re-checked)
 Points are limited: level each skill to its next useful breakpoint and stop. Respec is free.
