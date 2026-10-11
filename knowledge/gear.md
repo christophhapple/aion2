@@ -91,3 +91,9 @@ shop) · Shugo Festival keys, Stigma Shards, Potential Stones [1][2][3][20].
 ## Cleric (healer) [10, version unstated]
 Stats: Wisdom + Life (god stats), Constitution + Power (primary); Heal Boost (PvE), Status Effect Resist
 (PvP). Attack also raises healing. Player builds live in `characters/`.
+
+## Ascension bracelets
+- Single source [115]: the story gives an **Ascension Bracelet** that stays useful for months; enhance it
+  to +10–11 (adds attack + defense) and put your one Superior Manastone in it. A second bracelet (IL 43)
+  comes from a faction quest. Name, slot count and upgrade path not confirmed elsewhere; Ascension guides
+  only mention an "Ascension item" from Ascension quests [117]. Check the equipment window in-game.

@@ -145,3 +145,4 @@ Added 2026-10-11 (titles and Cleric stats research).
 114. 2upskill, Cleric guide, 2026, ? (generic): https://2upskill.com/aion-2-cleric-guide-best-builds-skills-stigmas-and-macros-for-pve-pvp-2026/
 115. couga54 guides, progression after 45, checked 2026-10-10, G (datamine from pre-launch): https://couga54.github.io/aion2-guides/en/progression/
 116. aion2-wiki.wiki, increase Combat Power (+ search summary of level-45 guides), ~2026-10, ?: https://www.aion2-wiki.wiki/guide/aion-2-how-to-increase-combat-power
+117. games.gg, Ascension guide, 2026-10-08, ?: https://games.gg/aion-2/guides/aion-2-ascension-guide/
