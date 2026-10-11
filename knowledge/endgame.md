@@ -26,8 +26,14 @@ are about the **Korean** version (cap 50 since 2026-07-01). Gear score (GS) thre
   - Whether enemy-region Sealed Dungeons pay the same bundle (2 skill points + 2 Daevanion each, i.e.
     another ~120 + 120 for a full region) is **not confirmed**; it's plausible since they're the same
     content type [18].
-  - Safety: open PvP there. Attacking an enemy guard flags you for PvP for 10 min. If you die inside a
-    rift you respawn at your **Kibelisk** on the enemy map, so place it somewhere safe first [95].
+  - Safety: open PvP there. Attacking an enemy guard flags you for PvP for 10 min. Stay unflagged and
+    away from enemy outposts: their guards attack on sight [94].
+  - **Kibelisks on the enemy map (contradiction):** enemy Kibelisks are guarded by strong NPCs that kill
+    you if you get close, and Kibelisk fast travel isn't available there; walk, fly or mount [105]. One
+    guide says you respawn at a Kibelisk on the enemy map when you die [96?]. Others say dying sends
+    you **home** and ends the trip; you can't re-enter until the next rift [94][105]. Unverified.
+  - Getting home: automatic after the hour [95]. Early: Map (M) → circle icon top right → home region
+    → use a teleport scroll to a fast travel point [94].
 - Find them: Map → Exploration tab (the enemy region is counted separately from your own, in-game 2026-10-10) → Sealed Dungeon / Stronghold sub-tab ("?" icons, Travel button) [18].
   Rifts open more [14].
 

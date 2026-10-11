@@ -4,7 +4,7 @@ One-off things to do or check in the game. Daily/weekly routines live in `routin
 tracker itself goes in `backlog.md`.
 
 ## Open
-- [ ] Pick up the 7 rift quests from Mino in Verteron (needed before you can enter a Spacetime Rift); set your Kibelisk somewhere safe first
+- [ ] Pick up the 7 rift quests from Mino in Verteron (needed before you can enter a Spacetime Rift). Inside: stay away from enemy Kibelisks and outposts (guarded). Check: what happens when you die there (respawn on the enemy map, or sent home?)
 - [ ] Check: have you done a first Conquest clear of Krao Cave and Draupnir? Each gives a one-time ~2,480-stone achievement. Also note your Conquest pity progress (x/14) while you're there
 - [ ] Verify: after 2026-10-25 (DST change), do event times stay on the local clock? (Rift should still open at 02, 05, 08 … 23)
 - [ ] Verify: other siege days (Mon/Thu 21:00?) and Nahma (Fri/Sun 21:00?). Saturday 21:00 is confirmed
