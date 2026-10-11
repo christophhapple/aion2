@@ -37,6 +37,8 @@ The damage/maintenance button. Entries are hotbar slots, tried in order; delays 
 4. **Slot 11 · Earth's Retribution**: always ready, so the macro never comes up empty. When MP runs
    dry, everything above is unavailable and the macro falls through to it: MP manages itself.
    In practice it fires only below 96 MP, so at low MP the macro alternates Thunder and Retribution.
+   That's the safety net; in practice, when MP is noticed low, left click (Retribution) manually to
+   refill to ~50% (depending on time between heals/movement), then back to the macro.
 
 Scattershot fires whenever something is Staggered; wasting it costs nothing. Power Burst is *not*
 used to set it up: it's saved for fight phases where Stagger damage has to burst to interrupt an
@@ -94,13 +96,16 @@ Everything above is Mastery preset 1.
 ## Specialties (in-game 2026-10-11)
 Options per skill: `knowledge/cleric-skills.md`. Lv 20 slots locked everywhere (no Arcana yet).
 
-**Rule:** pick options that make *me* stronger (damage, MP, my heals) over options that weaken or
-control the enemy (slow, Root, enemy damage/speed down). Revisit for the defensive preset, when
-enemy damage-down may start to matter.
+**Rules (offensive build):**
+- Pick options that make *me* stronger (damage, MP, my heals) over crowd control and enemy
+  slow/speed-down (Stun, Root, Combat Speed).
+- Exception: on a **debuff skill, maximize its debuffs** (Debilitating Mark, likely Chain of Torment).
+- Harder content gets a second preset/build with its own rules (enemy damage-down, CC may matter there).
 
 | Skill | Picked (option no., Lv 8 + 12 slots) | Why |
 |---|---|---|
-| Judgment Thunder | 1 -20% MP consumed · 2 up to +12% damage | Rule below: own damage and MP over enemy slow/Root |
+| Judgment Thunder | 1 -20% MP consumed · 2 up to +12% damage on fewer targets | Own damage and MP over enemy slow/Root. Option 2 pays off on single bosses. No cooldown, so -20% MP means more casts per refill |
+| Debilitating Mark | 2 -15% target Defense · 4 +10% enemy Damage Boost reduction | Debuff skill: maximize debuffs. Not 1 (no MP cost + MP restore), not 3 (Stun chance) |
 | Earth's Retribution | 1 +20% MP restored · 3 +50% Multi-Hit | Not 4 (-7s Bolt CD): Retribution was rarely cast, so it never triggered; building around it was a mistake. Not 2 (more Discharge) either: Discharge only mattered for the Bolt CD |
 
 ## Skill-point priority (old draft, not re-checked)
