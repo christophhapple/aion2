@@ -23,9 +23,9 @@ are about the **Korean** version (cap 50 since 2026-07-01). Gear score (GS) thre
     (each takes about a minute [95]), field bosses (gear for skins/supply requests) [95].
   - **Each of the 7 rift quests gives a Wisdom Stone (skill point) + Daevanion Crystal**, plus XP, bound
     Kinah, Abyss Points, materials [94][96].
-  - Whether enemy-region Sealed Dungeons pay the same bundle (2 skill points + 2 Daevanion each, i.e.
-    another ~120 + 120 for a full region) is **not confirmed**; it's plausible since they're the same
-    content type [18].
+  - **Enemy-region Sealed Dungeons give no skill points and no Daevanion points**, only Kina and
+    Enhance Stones (in-game 2026-10-11). ~~Same bundle as home-region ones, another ~120 + 120~~ was
+    our own guess [18].
   - Safety: open PvP there. Attacking an enemy guard flags you for PvP for 10 min. Stay unflagged and
     away from enemy outposts: their guards attack on sight [94].
   - **Kibelisks on the enemy map (contradiction):** enemy Kibelisks are guarded by strong NPCs that kill
