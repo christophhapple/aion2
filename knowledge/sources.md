@@ -160,3 +160,11 @@ Added 2026-10-11 (Sorcerer stats research).
 126. metabot.gg, Daevanion planner, global client build 0.0.4387.0, G: https://metabot.gg/en/aion-2/daevanion
 127. gamesfuze, Daevanion guide + guildorder board planning, ~2026-10, ?: https://gamesfuze.com/guides/aion-2-daevanion-guide-best-node-priority-for-every-class-and-how-to-get-more-daevanion-points/
 128. Stigma guides (metabot, daevaguides, aion2builds calculator, aion2.run), search summary, ~2026-10, G client data 2.0.3.0: https://metabot.gg/en/aion-2/guides/stigma-guide
+129. expcarry, Cleric guide, modified 2026-10-06, G: https://expcarry.com/aion-2-cleric-guide
+130. games.gg, Cleric guide, 2026-10-04, G: https://games.gg/aion-2/guides/aion-2-cleric-guide/
+131. Inven, Cleric skill guide, "as of 2026-01-28", **KR**: https://www.inven.co.kr/board/aion2/6452/657
+132. Vortex Gaming, Cleric specialty picks (two posts, they disagree in places), undated, **KR**: https://vortexgaming.io/en/postdetail/977592 · https://vortexgaming.io/en/postdetail/688137
+133. thegameswiki, Cleric skills / skills and specialties, claims G snapshot 2026-09-18, snippets only (page blocked): https://thegameswiki.com/aion-2/wiki/skills-and-specialties
+134. aion2hub, KR patches 2026-04-01 / 04-22 / 08-12 (skill changes), **KR**: https://aion2hub.com/updates/aion-2-update-2026-04-01
+135. expcarry, Stigma/Daevanion upgrades and resets, 2026-09-27, G test client + KR/TW: https://expcarry.com/aion-2-stigma-daevanion-skill-upgrades-resets-progression
+136. pixelnitro, Cleric guide, 2026-09-27, ?: https://pixelnitro.com/?p=20616

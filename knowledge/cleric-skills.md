@@ -45,16 +45,35 @@ All Lv. 22, unlocked after the Ascension quest. 4 of 13 can be slotted.
   from **Daevanion** board nodes; Lv 15–20 from **Arcana**. Leftover skill points can only go to passives.
 - The skill window's tooltip shows Daevanion levels as a bonus: "Earth's Retribution (+4)" at Lv 14
   (in-game 2026-10-11).
-- **Specialties (active skills):** each skill has **4 options** and **3 slots**, unlocking at skill
-  Lv 8, 12 and 20; you pick which options fill them. On top, a **fixed effect at Lv 16**, no choice
-  (in-game 2026-10-11). Respec is free. Earlier note said "modifiers at 12 and 16" (tooltips
-  2026-10-09); the Lv 16 fixed effect is probably what that meant.
-- **Stigma specialties** unlock with Stigma level, no choices (in-game 2026-10-11).
+- **Specialties (active skills):** **3 slots**, unlocking at skill Lv 8, 12 and 20 (in-game 2026-10-11;
+  also [129][131]). You fill them from **5 options**: options 1–3 available from Lv 8, option 4 from
+  Lv 12, option 5 from Lv 16 [133, snippet]. The in-game list matches: Earth's Retribution shows 5
+  options, the 5th marked "16" and locked at Lv 14 (in-game 2026-10-11). This is what the older note
+  "modifiers at 12 and 16" meant. Guides write picks as option numbers, e.g. "2, 4, 5" [132].
+- Changing specialties: free in KR [134]; global cost not confirmed, but no one reports one.
+- **Stigma specialties** unlock with Stigma level (5/10/15/20 [133]), no choices (in-game 2026-10-11).
 
-### Specialty options (in-game 2026-10-11)
-| Skill | Options (pick into Lv 8 / 12 / 20 slots) | Fixed at Lv 16 |
+### Specialty options
+Numbered in the in-game order. Filled in from the game as we go; the guide column is a pointer, not fact.
+
+| Skill | Options 1–5 (in-game) | Guides (unverified) |
 |---|---|---|
-| Earth's Retribution | +20% MP restored · +20% [Discharge] Chain Skill trigger chance (text cut off) · +50% Multi-Hit chance on hit · -7s [Bolt] cooldown on landing [Discharge] | Ignores Block and Evasion |
+| Earth's Retribution | 1 +20% MP restored · 2 +20% [Discharge] chain-skill trigger chance (text cut off) · 3 +50% Multi-Hit chance · 4 -7s [Bolt] cooldown on [Discharge] · 5 ignores Block and Evasion (in-game 2026-10-11) | picks 2, 3 or 2, 4 (2, 3, 4 at Lv 20) [132]; "more Discharge + Bolt CD" [129]; KR: "not very meaningful" |
+| Judgment Thunder | — | one option: +1 Divine Punishment trigger; picks 2, 4, 5 [132]; single target, extra Divine Punishment, lower MP cost [129] |
+| Debilitating Mark | — | options incl. -15% Defense during DoT, -10% PvE damage boost [10]; PvE picks 2, 4 [132] |
+| Divine Aura | — | options incl. +50% attack speed, +3s duration, -10s CD [10][129]; picks conflict (3, 4, 5 vs 1, 5) [132] |
+| Chain of Torment | — | options incl. +3s DoT / slow / knockdown chance, -10% PvE damage tolerance [10]; picks 2, 4 [132] |
+| Lightning Strike Scattershot | — | Multi-Hit; reduce all cooldowns on hit [10][129]; picks 4, 5 [132] |
+| Light of Regeneration | — | options incl. stronger heal ≤50% HP, +5% incoming heal, +5% move speed, +5% PvE damage tolerance [10]; reworked KR 2026-04-22 [134]; picks disagree [132] |
+| Condemnation | — | key option: crit/recast **resets its cooldown** (50%, KR raised to 75% [134]); also movable cast, +50% Multi-Hit; picks 2, 3, 4 or 2, 4, 5 [132]; KR: level it before Judgment Thunder, Earth Punishment boosts it [131] |
+| Healing Light | — | options incl. stronger heal ≤50% HP, cleanse chance, +2% max-HP heal, -2s CD; KR "essentials": -2s CD + 2% max HP [131]; picks 4, 5 (+3 at Lv 20) [132] |
+| Radiant Recovery | — | options incl. cleanse up to 2, +1 consecutive cast, CD reduction, +10% incoming heal, +5% heal [10]; KR "most important skill" [131]; picks 1, 3, 5 [132] |
+| Bolt | — | options incl. +30% skill speed, more damage on fewer targets (KR 2026-04-01), guaranteed crit [10][129][134]; picks 2, 3, 4 [132] |
+| Defiance | — | options incl. 10% HP on use, longer Tenacity, Tenacity gives damage tolerance [10]; low priority |
+
+Level priorities guides agree on: **Radiant Recovery 20**, **Condemnation 16–20** (cooldown reset),
+Healing Light and Light of Regeneration 16 [130][131][132][10]. Several numbers are KR and may differ on
+global.
 
 ## Stats (guides, 2026-10, unverified)
 Guides disagree; most agree on the first point.
