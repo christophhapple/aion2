@@ -41,7 +41,9 @@ All Lv. 22, unlocked after the Ascension quest. 4 of 13 can be slotted.
 | Noble Aura | Follower aura that attacks your target for 5 min |
 
 ## Skill levels
-Specialty slots unlock at skill level 8, 12 and 20; modifiers at 12 and 16. Respec is free.
+- **Where levels come from** (in-game 2026-10-11): skill points raise a skill to **Lv 10**; Lv 11–14 come
+  from **Daevanion** board nodes; Lv 15–20 from **Arcana**. Leftover skill points can only go to passives.
+- Specialty slots unlock at skill level 8, 12 and 20; modifiers at 12 and 16. Respec is free.
 Known specialty: Earth's Retribution → "-7s Bolt cooldown on Discharge".
 
 ## Stats (guides, 2026-10, unverified)
