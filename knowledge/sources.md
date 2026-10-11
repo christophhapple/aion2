@@ -168,3 +168,22 @@ Added 2026-10-11 (Sorcerer stats research).
 134. aion2hub, KR patches 2026-04-01 / 04-22 / 08-12 (skill changes), **KR**: https://aion2hub.com/updates/aion-2-update-2026-04-01
 135. expcarry, Stigma/Daevanion upgrades and resets, 2026-09-27, G test client + KR/TW: https://expcarry.com/aion-2-stigma-daevanion-skill-upgrades-resets-progression
 136. pixelnitro, Cleric guide, 2026-09-27, ?: https://pixelnitro.com/?p=20616
+
+Added 2026-10-11 (Sorcerer skills research).
+
+137. couga54 guides, Sorcerer skills/Stigmas/specialties/rotation, updated 2026-10-06, checked 2026-10-10, G: https://couga54.github.io/aion2-guides/en/sorcerer/
+138. metabot.gg, Sorcerer class page (skills, Stigma usage, rotation), undated, G (states build 0.0.4387.0, via summarizer): https://metabot.gg/en/aion-2/classes/sorcerer
+139. fextralife wiki, Sorcerer Builds, updated 2026-10-09, ?: https://aion2.wiki.fextralife.com/Sorcerer_Builds
+140. metabot.gg, Stigma guide, 2026-10-01, updated 2026-10-10, G (states client 2.0.3.0): https://metabot.gg/en/aion-2/guides/stigma-guide
+141. expcarry, Sorcerer guide, modified 2026-10-06, G (may include scale-test numbers): https://expcarry.com/aion-2-sorcerer-guide
+142. gamesfuze, Sorcerer build, updated 2026-10-05, ?: https://gamesfuze.com/guides/aion-2-sorcerer-build-best-skills-stigmas-and-gear-for-pve-and-pvp/
+143. Vortex Gaming, Sorcerer video guide summary, ~2026-02, **KR** (translated names): https://vortexgaming.io/en/postdetail/675679
+144. aion2hub, KR patch 2026-04-22, **KR**: https://aion2hub.com/updates/aion-2-update-2026-04-22
+145. aion2hub, KR patch 2026-08-26, **KR**: https://aion2hub.com/updates/aion-2-update-2026-08-26
+146. aion2hub, KR patch 2026-03-11, **KR**: https://aion2hub.com/updates/aion-2-update-2026-03-11
+147. aion2hub, KR patch 2026-03-04, **KR**: https://aion2hub.com/updates/aion-2-update-2026-03-04
+148. aion2hub, KR patch 2026-04-01, **KR**, snippet only: https://aion2hub.com/updates/aion-2-update-2026-04-01
+149. aion2hub, KR patch 2026-06-04, **KR**, snippet only: https://aion2hub.com/updates/aion-2-update-2026-06-04
+150. aion2hub, KR patch 2026-01-28, **KR** (no Sorcerer section): https://aion2hub.com/updates/aion-2-update-2026-01-28
+151. thegameswiki, Sorcerer skills, undated, G?, snippet only (page blocked): https://thegameswiki.com/aion-2/wiki/sorcerer-skills
+152. Inven, Sorcerer tips board, undated, **KR**, snippet only: https://www.inven.co.kr/board/aion2/6444/2005
