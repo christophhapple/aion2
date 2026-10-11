@@ -10,6 +10,8 @@ All in-game 2026-10-11.
   Pressing it walks the slots in order, and each slot then resolves its own skill queue as above.
 - Each macro entry has a **Delay** field in ms (default 10). Probably a wait after that entry
   (unconfirmed).
+- **Holding the macro key** keeps it firing. Pressing another key while holding it takes precedence,
+  so manual skills can be cast without letting go of the macro.
 - A slot can be in the macro and still be pressed on its own key.
 - To use a skill in the macro it has to sit in a hotbar slot; that slot doesn't need a key.
 - Design consequence: put interchangeable maintenance/filler skills into queues and the macro; keep

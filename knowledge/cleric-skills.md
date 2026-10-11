@@ -18,7 +18,7 @@ Build Notes"). Passives omitted (not customizable). Values only where the game s
 | Healing Light | Heals you + the lowest-HP party member (6s CD) |
 | Radiant Recovery | Party heal; removes 1 debuff |
 | Bolt | Chargeable AoE Wind damage (max 3 charge levels); 300 MP, 45s CD |
-| Defiance | Breaks stun/knockdown/airborne/grab/frost/fear; 5s status immunity |
+| Defiance | Breaks stun/knockdown/airborne/grab/frost/fear; 5s status immunity. Not a hotbar skill: own key (Space by the user's setup), only usable while crowd-controlled (in-game 2026-10-11) |
 
 ## Stigma
 
