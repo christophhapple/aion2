@@ -93,7 +93,7 @@ Everything above is Mastery preset 1.
 Options per skill: `knowledge/cleric-skills.md`. Lv 20 slots locked everywhere (no Arcana yet).
 | Skill | Picked (option no., Lv 8 + 12 slots) | Why |
 |---|---|---|
-| Earth's Retribution | 1 +20% MP restored · 3 +50% Multi-Hit | Not the -7s Bolt CD: Retribution was rarely cast, so it never triggered; building around it was a mistake |
+| Earth's Retribution | 1 +20% MP restored · 3 +50% Multi-Hit | Not 4 (-7s Bolt CD): Retribution was rarely cast, so it never triggered; building around it was a mistake. Not 2 (more Discharge) either: Discharge only mattered for the Bolt CD |
 
 ## Skill-point priority (old draft, not re-checked)
 Points are limited: level each skill to its next useful breakpoint and stop. Respec is free.
