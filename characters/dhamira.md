@@ -25,5 +25,6 @@ Ferocious Horn Den 0/3. Conquest pity progress: not recorded yet.
 
 ## Gear notes (2026-10-11)
 - Ascension Bracelet: Unique +6, no Manastone yet; only one bracelet so far.
+- Wings: crafted Glorious Wings (2026-10-11).
 
 ## Notes
