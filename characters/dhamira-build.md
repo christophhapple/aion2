@@ -83,6 +83,13 @@ Lv 14: Earth's Retribution, Judgment Thunder, Debilitating Mark, Chain of Tormen
 Aura, Bolt, Light of Regeneration, Radiant Recovery · Lv 13: Healing Light · Lv 11: Lightning Strike
 Scattershot · Lv 10: Defiance (skill points only, no Daevanion yet). Stigmas: see above.
 Passives (10, names not recorded): 14, 13, 11, 9, 8, 8, 8, 8, 7, 7.
+Everything above is Mastery preset 1.
+
+## Specialties (in-game 2026-10-11)
+Options per skill: `knowledge/cleric-skills.md`. Lv 20 slots locked everywhere (no Arcana yet).
+| Skill | Picked (Lv 8, 12) | Why |
+|---|---|---|
+| Earth's Retribution | +20% MP restored · +50% Multi-Hit | |
 
 ## Skill-point priority (old draft, not re-checked)
 Points are limited: level each skill to its next useful breakpoint and stop. Respec is free.
