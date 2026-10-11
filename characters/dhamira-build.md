@@ -42,6 +42,10 @@ Earth's Retribution is **not** in the macro (a skill fits in only one slot, and 
 MP runs down; refill by left click to ~50%, then back to the macro. If MP gets out of hand: Variant
 B = add slot 11 to the macro (10, 7, 11): Retribution once per pass, MP looks after itself.
 
+Slot queues probably cycle like the macro, so in the crit window slot 7 alternates Condemnation and
+Thunder instead of spamming Condemnation (in-game 2026-10-11). **Rejected:** repeating Condemnation's
+slot in the macro to weight it: makes the macro unwieldy and feels like a crutch.
+
 Previous setup (before 2026-10-11): macro 7, 10, 12, 11 with Scattershot, Thunder and Retribution
 in single slots; Retribution fired every pass, Condemnation at most once per pass.
 
