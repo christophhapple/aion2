@@ -94,7 +94,7 @@ Stats: Wisdom + Life (god stats), Constitution + Power (primary); Heal Boost (Pv
 
 ## Ascension bracelets
 - **Ascension Bracelet exists; can be Unique grade** (in-game 2026-10-11: seen at Unique). Single source [115]: the story gives it and it stays useful for months; enhance it
-  to +10–11 (adds attack + defense) and put your one Superior Manastone in it. A second bracelet (IL 43)
+  to +10–11 (adds attack + defense) and put your one Superior Soulstone in it (accessories take Soulstones, in-game 2026-10-11). A second bracelet (IL 43)
   comes from a faction quest. Name, slot count and upgrade path not confirmed elsewhere; Ascension guides
   only mention an "Ascension item" from Ascension quests [117]. Check the equipment window in-game.
 
@@ -111,6 +111,6 @@ Stats: Wisdom + Life (god stats), Constitution + Power (primary); Heal Boost (Pv
 - One wiki: Manastones go into weapon/armor sockets, **Soulstones into accessory sockets** (bracelets
   included); same mechanics: each imprint rolls a random stat, re-imprinting a slot replaces it, higher
   stone tier = better odds [122, KR/global mix]. Another guide says one stone fills all sockets of a
-  piece at once [122]. Conflicts with [115] (Superior Manastone in the bracelet). Unverified.
+  piece at once [122]. **Confirmed: the Ascension Bracelet takes Soulstones, not Manastones** (in-game 2026-10-11). [115]'s "Superior Manastone in the bracelet" meant the category (see Naming).
 - **Naming:** "Manastone" is both the item category and one stone type. Tooltips: "Superior Soulstone (Bound): Common Manastone" and "Superior Manastone (Bound): Common Manastone" (in-game 2026-10-11). The part after the colon is the category (+ grade), not the stone type. Metabot lists Soulstones under "Manastone" too [122].
 - Save high-tier stones for pieces you keep (bracelet, belt, amulet); low-tier on gear you'll replace [122].
