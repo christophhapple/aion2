@@ -4,13 +4,13 @@ One-off things to do or check in the game. Daily/weekly routines live in `routin
 tracker itself goes in `backlog.md`.
 
 ## Open
-- [ ] Pick up the 7 rift quests from Mino in Verteron (needed before you can enter a Spacetime Rift). Inside: stay away from enemy Kibelisks and outposts (guarded). Check: what happens when you die there (respawn on the enemy map, or sent home?)
 - [ ] Check: have you done a first Conquest clear of Krao Cave and Draupnir? Each gives a one-time ~2,480-stone achievement. Also note your Conquest pity progress (x/14) while you're there
 - [ ] Verify: after 2026-10-25 (DST change), do event times stay on the local clock? (Rift should still open at 02, 05, 08 … 23)
 - [ ] Verify: other siege days (Mon/Thu 21:00?) and Nahma (Fri/Sun 21:00?). Saturday 21:00 is confirmed
 - [ ] Verify: Substance Morph: can an unused Clash Rune Enhance Scroll become 100 Enhance Stones? (Do you have spare ones?)
 - [ ] Verify (Abyss, low priority): what happens when you die there (penalty, respawn point)? Does Abyss time keep running while dead or standing in Western Root?
 - [ ] Verify (Dimensional Invasion, next round): do you get rewards (~700 Enhance Stones) without spending a key? How many card picks did you get, and at what rank/score? When does the key refill (guides say 16:00, probably wrong for EU)?
+- [ ] Check (next rift): Altgard Strongholds are marked on the map but showed no entrance. Look for a way in (quest, level, other side)
 - [ ] Verify: Nightmare: number of floors/levels, Phantasmal Fragments per clear, shop items + prices
 - [ ] Verify: Transfer tab: what does the preview show, and what makes a piece an eligible source? (once you have eligible gear)
 - [ ] *(low priority, later)* Rework gathering skill point picks once crafting goals are set and you switch to targeted farming (not enough points for everything; respec reportedly costs 50,000 Kinah)
@@ -19,6 +19,7 @@ tracker itself goes in `backlog.md`.
   in the game, then tell Claude the differences.
 
 ## Done
+- [x] Rift quests: all 7 picked up (Mino moves around Verteron and gives different quests per spot); enemy Kibelisks guarded, no fast travel; Altgard Sealed Dungeons give no skill points; feathers there not collectable (2026-10-11)
 - [x] Weekly reset: Wednesday 07:00 UTC = 09:00 local (Daily Dungeon countdown) (2026-10-10)
 - [x] Rift quests: none done yet; Exploration tab counts Altgard separately (2026-10-10)
 - [x] Server time = local time (clock tooltip; game time is 7h behind) (2026-10-10)

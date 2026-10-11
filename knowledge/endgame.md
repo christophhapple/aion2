@@ -16,22 +16,31 @@ are about the **Korean** version (cap 50 since 2026-07-01). Gear score (GS) thre
   points), Daevanion Crystals, gear, titles, Kinah, materials [92]; some give Clash Runes [19][20].
   Guides: finish one-time permanent power first, then move to repeatable content (expeditions) [92][93].
 - **Enemy faction's map via Spacetime Rifts** (from level 45): Elyos get into Altgard, Asmodians into
-  Verteron [94][95][96]. Unlock: accept all **7 rift quests from Mino at the Dawn Legion Temporary Outpost, Verteron** (also listed under Regional Quests in the journal from Lv45; one guide says only 2 are Mino's) (Elyos; Uru in Altgard
-  for Asmodians), then enter the purple portal within its 10-min window; you get **1 hour** on the enemy
+  Verteron [94][95][96]. Unlock: accept all **7 rift quests from Mino** (Elyos; Uru in Altgard for
+  Asmodians), then enter the purple portal within its 10-min window; you get **1 hour** on the enemy
   map. Rifts open every 3h (times: `schedule.md`) [94][95].
-  - There: enemy-region **Strongholds** (belt scrolls [95]; **vs** no scrolls [41]), **Sealed Dungeons**
-    (each takes about a minute [95]), field bosses (gear for skins/supply requests) [95].
-  - **Each of the 7 rift quests gives a Wisdom Stone (skill point) + Daevanion Crystal**, plus XP, bound
-    Kinah, Abyss Points, materials [94][96].
+  - **Mino appears at different spots in Verteron and gives different quests at each**, so you have to
+    visit several to collect all 7 (in-game 2026-10-11). ~~Only at the Dawn Legion Temporary Outpost~~
+    [94][96]. Accepted quests also show under Regional Quests in the journal.
+  - **Each rift quest gives a skill point** (in-game 2026-10-11), plus a Daevanion Crystal, XP, bound
+    Kinah, Abyss Points, materials [94][96]. Clearly worth doing.
   - **Enemy-region Sealed Dungeons give no skill points and no Daevanion points**, only Kina and
     Enhance Stones (in-game 2026-10-11). ~~Same bundle as home-region ones, another ~120 + 120~~ was
     our own guess [18].
+  - **Enemy-region Strongholds are marked on the map but have no entrance** (in-game 2026-10-11; to be
+    investigated further). Guides: belt scrolls there [95] **vs** no scrolls [41]. Possibly locked on
+    global for now or different in KR: unverified.
+  - **Enemy-region feathers are visible but can't be collected** (in-game 2026-10-11). Maybe unlocked
+    later or different in KR: unverified.
+  - Field bosses there drop gear for skins/supply requests [95].
   - Safety: open PvP there. Attacking an enemy guard flags you for PvP for 10 min. Stay unflagged and
     away from enemy outposts: their guards attack on sight [94].
-  - **Kibelisks on the enemy map (contradiction):** enemy Kibelisks are guarded by strong NPCs that kill
-    you if you get close, and Kibelisk fast travel isn't available there; walk, fly or mount [105]. One
-    guide says you respawn at a Kibelisk on the enemy map when you die [96?]. Others say dying sends
-    you **home** and ends the trip; you can't re-enter until the next rift [94][105]. Unverified.
+  - **Kibelisks on the enemy map:** enemy Kibelisks are guarded by strong NPCs that kill you if you get
+    close, and Kibelisk fast travel isn't available there; walk, fly or mount (in-game 2026-10-11;
+    [105]). **Kibelisk Summoning Stones** let you place your own Kibelisk anywhere; they seem rare
+    (in-game 2026-10-11). That likely explains the guide claim that you respawn at "your Kibelisk" on
+    the enemy map [96?]. Without one, dying reportedly sends you home and ends the trip until the next
+    rift [94][105] (unverified).
   - Getting home: automatic after the hour [95]. Early: Map (M) → circle icon top right → home region
     → use a teleport scroll to a fast travel point [94].
 - Find them: Map → Exploration tab (the enemy region is counted separately from your own, in-game 2026-10-10) → Sealed Dungeon / Stronghold sub-tab ("?" icons, Travel button) [18].
