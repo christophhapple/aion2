@@ -159,3 +159,4 @@ Added 2026-10-11 (Sorcerer stats research).
 125. metabot.gg, Shugo Festival event page, G: https://metabot.gg/en/aion-2/events/shugo-festival
 126. metabot.gg, Daevanion planner, global client build 0.0.4387.0, G: https://metabot.gg/en/aion-2/daevanion
 127. gamesfuze, Daevanion guide + guildorder board planning, ~2026-10, ?: https://gamesfuze.com/guides/aion-2-daevanion-guide-best-node-priority-for-every-class-and-how-to-get-more-daevanion-points/
+128. Stigma guides (metabot, daevaguides, aion2builds calculator, aion2.run), search summary, ~2026-10, G client data 2.0.3.0: https://metabot.gg/en/aion-2/guides/stigma-guide

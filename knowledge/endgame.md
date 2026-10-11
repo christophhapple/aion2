@@ -105,6 +105,17 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
   regional quests 58 = ~316, plus Shugo shop 50 and Nightmare shop 50 (300 Phantasmal Fragments each) =
   **~416**. Rift quests add a few. So ~150 short of the PvE boards: prioritize (see class notes).
 
+## Stigma levels: can you max all four?
+**In theory roughly yes, but only after buying out every shop: a long grind** (guides, 2026-10).
+- **Cap 20 on global** (client data); KR went to 25 with Advanced/Superior Stigma Shards [128].
+- **Shards per level:** 1–5: 1 each · 6–10: 2 · 11–15: 4 · 16–20: 8. Totals: Lv5 = 5, Lv10 = 15,
+  Lv15 = 35, **Lv20 = 75**; four Stigmas at 20 = **300** [128]. Shards per level rise (in-game 2026-10-11).
+- **Sources (per character)** [128]: character levels ~30 (23–39: 1 each, 40–45: 2 each) + 1 Ascension
+  reward · **Abyss shop: up to 200**, in steps of 10k / 15k / 20k / 25k Abyss Points each (cheapest
+  source) · **Nightmare shop: 35** at 1,500 Phantasmal Fragments each · **Shugo Festival shop: 35** at
+  300 Shugo Coins **vs** 300 Centuryroot Tokens each. Max ≈ **300**, i.e. just enough for 4 × 20.
+- Usual approach: one key Stigma to 20, the others at 5/10/15; the last 5 levels cost 40 of the 75 [128].
+
 ## Other caps
 Daily Dungeon 14/week per server · Duty Missions 5/day per server · Battlefield 3 win rewards/week ·
 Subjugation 3 tickets/week · Abyss sieges Mon/Thu/Sat 21:00 server time (~~Wed + Sat~~ is KR), see `schedule.md` [3][4][62].
