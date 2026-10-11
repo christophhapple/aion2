@@ -75,9 +75,14 @@ for a defensive cooldown). Open questions then: does the group run a Chanter (we
 Protection)? Are you the only healer?
 
 ## Skill levels (in-game 2026-10-11)
+All actives are at Lv 10 from skill points (the cap); the rest comes from Daevanion, a few nodes still
+missing. Arcana (Lv 15–20) not started. Spare skill points go to passives: the important ones are
+maxed, the rest get levelled evenly.
+
 Lv 14: Earth's Retribution, Judgment Thunder, Debilitating Mark, Chain of Torment, Condemnation, Divine
 Aura, Bolt, Light of Regeneration, Radiant Recovery · Lv 13: Healing Light · Lv 11: Lightning Strike
-Scattershot · Defiance: not recorded. Stigmas: see above.
+Scattershot · Lv 10: Defiance (skill points only, no Daevanion yet). Stigmas: see above.
+Passives (10, names not recorded): 14, 13, 11, 9, 8, 8, 8, 8, 7, 7.
 
 ## Skill-point priority (old draft, not re-checked)
 Points are limited: level each skill to its next useful breakpoint and stop. Respec is free.
