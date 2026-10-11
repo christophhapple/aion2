@@ -21,6 +21,7 @@ tracker itself goes in `backlog.md`.
 - [ ] *(low priority, later)* Rework gathering skill point picks once crafting goals are set and you switch to targeted farming (not enough points for everything; respec reportedly costs 50,000 Kinah)
 - [ ] Dhamira: screenshot all 13 Stigma tooltips (slotted ones first: Light of Protection, Prayer of Amplification, Power Burst) and go through them with Claude like the active skills. Settles the shard plan (Earth Punishment vs Light of Protection to 20) and what "Earth's Blessing" is
 - [ ] Dhamira: screenshot the 10 passive tooltips and go through them with Claude (names, effects, which are "important", where spare skill points go)
+- [ ] Test the macro (target dummy / easy mob): (1) during a Stagger, hold the macro: does only Scattershot repeat (priority list) or does it mix with Thunder/Retribution (sequence)? (2) Set all delays to 500 ms: does the pace drop even when only one entry can fire (delay applies to every entry) or only between casts? See `knowledge/controls.md`
 
 ## Done
 - [x] Dhamira build page brought up to date with the game: hotbar, macro, Stigmas, levels, specialties, leveling priority (2026-10-11)

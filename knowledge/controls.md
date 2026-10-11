@@ -12,6 +12,10 @@ All in-game 2026-10-11.
   cooldown, missing MP, out of range, or an unmet condition (e.g. "target must be Staggered").
 - **Macro:** one special queue holding any number of hotbar *slots*, in order, on its own key.
   Pressing it walks the slots in order, and each slot then resolves its own skill queue as above.
+  **Open (2026-10-11):** after a cast, does the macro restart at entry 1 (priority list) or continue
+  with the next entry (sequence)? A skill fired from the macro *felt* slower than on its own key
+  (in-game 2026-10-11), which would fit a sequence. Test: during a Stagger, hold the macro with
+  Scattershot as entry 1: only Scattershot repeating = priority; mixed with other entries = sequence.
 - Each macro entry has a **Delay** field in ms (default 10). Probably a wait after that entry
   (unconfirmed).
 - **Holding the macro key** keeps it firing. Pressing another key while holding it takes precedence,
