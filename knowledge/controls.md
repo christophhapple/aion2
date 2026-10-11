@@ -11,13 +11,14 @@ All in-game 2026-10-11.
   queue that's available and skips the rest. A skill is skipped for *any* reason it can't be cast:
   cooldown, missing MP, out of range, or an unmet condition (e.g. "target must be Staggered").
 - **Macro:** one special queue holding any number of hotbar *slots*, in order, on its own key.
-  Pressing it walks the slots in order, and each slot then resolves its own skill queue as above.
-  **Open (2026-10-11):** after a cast, does the macro restart at entry 1 (priority list) or continue
-  with the next entry (sequence)? A skill fired from the macro *felt* slower than on its own key
-  (in-game 2026-10-11), which would fit a sequence. Test: during a Stagger, hold the macro with
-  Scattershot as entry 1: only Scattershot repeating = priority; mixed with other entries = sequence.
+  **It's a sequence, not a priority list** (tested in-game 2026-10-11): it steps through the entries in
+  order and loops; after a cast it continues with the *next* entry, it doesn't restart at entry 1.
+  Entries with nothing castable are skipped. So a skill gets at most one try per pass, even if it's
+  ready again (tested with Scattershot during Stagger: it mixed with the other entries).
+- **Priority lives in the slot queues, order lives in the macro.** To make a skill fire "whenever
+  it's ready", put it first in a slot queue that the macro visits often, not in an entry of its own.
 - Each macro entry has a **Delay** field in ms (default 10). Probably a wait after that entry
-  (unconfirmed).
+  (unconfirmed). Unknown: can the same slot appear twice in the macro, and the same skill in two slots?
 - **Holding the macro key** keeps it firing. Pressing another key while holding it takes precedence,
   so manual skills can be cast without letting go of the macro.
 - A slot can be in the macro and still be pressed on its own key.

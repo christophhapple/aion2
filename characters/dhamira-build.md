@@ -23,23 +23,22 @@ nothing threatens you.
   No *dedicated* self-heal is needed; beyond that, self-preservation = positioning + reactive buttons.
 
 ## Macro (right click)
-The damage/maintenance button. Entries are hotbar slots, tried in order; delays left at the default 10 ms.
+The damage button. The macro is a **sequence** (see `knowledge/controls.md`): each press/hold steps to
+the next entry and loops; entries with nothing castable are skipped. Delays at the default 10 ms.
 
-1. **Slot 7 · Lightning Strike Scattershot**: only castable on a Staggered target, so it's skipped
-   until a Stagger window opens, then takes priority.
-2. **Slot 10 · debuff queue:** Debilitating Mark → Chain of Torment → Earth Punishment → Condemnation.
-   Mark: 10s CD. Chain: 20s CD, DoT 13s, so Condemnation (needs Chain on the target) has a window of
-   roughly 13 of every 20s. Earth Punishment: 10s DoT. Condemnation is the frequent repeater.
-   **Core damage window:** while Earth Punishment lines up with Chain, Condemnation always crits and
-   every crit resets it, so the macro casts it again and again. The queue order sets this up by
-   itself: Chain, then Earth Punishment, then Condemnation repeating.
-3. **Slot 12 · Judgment Thunder**: AoE damage (up to 4 targets). No cooldown, 96 MP: the macro
-   spams it as long as MP lasts, so this is what actually drains MP.
-4. **Slot 11 · Earth's Retribution**: always ready, so the macro never comes up empty. When MP runs
-   dry, everything above is unavailable and the macro falls through to it: MP manages itself.
-   In practice it fires only below 96 MP, so at low MP the macro alternates Thunder and Retribution.
-   That's the safety net; in practice, when MP is noticed low, left click (Retribution) manually to
-   refill to ~50% (depending on time between heals/movement), then back to the macro.
+Current setup (as tested 2026-10-11), one pass:
+1. **Slot 7 · Lightning Strike Scattershot**: only on a Staggered target, otherwise skipped.
+2. **Slot 10 · debuff queue:** Debilitating Mark → Chain of Torment → Earth Punishment → Condemnation
+   (first one available fires). Mark: 10s CD. Chain: 20s CD, 13s DoT; Condemnation only while it runs.
+   Earth Punishment: 30s CD, 10s DoT; Condemnation always crits on its target, each crit resets it.
+3. **Slot 12 · Judgment Thunder**: no cooldown, 96 MP, so it fires every pass while MP lasts.
+4. **Slot 11 · Earth's Retribution**: no cooldown, no condition, so it should **fire every pass** too. Likely
+   why MP is never short: roughly every 2nd–3rd cast would be a Retribution.
+
+Consequences of the sequence: Scattershot and Condemnation get **one cast per pass at most**, even
+when ready again; the always-crit Condemnation window isn't exploited. Redesign: open (2026-10-11).
+
+**Manual MP refill:** when MP is low, left click (Retribution) to ~50%, then back to the macro.
 
 Scattershot fires whenever something is Staggered; wasting it costs nothing. Power Burst is *not*
 used to set it up: it's saved for fight phases where Stagger damage has to burst to interrupt an
