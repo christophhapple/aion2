@@ -82,6 +82,10 @@ textarea:focus-visible, button:focus-visible { outline: 2px solid var(--gold); o
 .btn:disabled { opacity: 0.5; cursor: default; }
 .foot { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 0.25rem 1rem; font-size: 0.82rem; color: var(--muted); }
 .linkbtn { font: inherit; background: none; border: 0; padding: 0; color: var(--sky); cursor: pointer; text-decoration: underline; }
+.fallback { display: grid; gap: 0.5rem; background: var(--gold-soft); border-radius: 8px; padding: 0.75rem 0.9rem; font-size: 0.95rem; }
+.fallback p { margin: 0; }
+.fallback .row { flex-wrap: wrap; }
+a.btn { text-decoration: none; display: inline-block; }
 @media (prefers-reduced-motion: no-preference) { .thread { scroll-behavior: smooth; } }
 </style>
 
@@ -122,6 +126,14 @@ textarea:focus-visible, button:focus-visible { outline: 2px solid var(--gold); o
     <div class="foot">
       <span id="status">Enter to send · Shift+Enter for a new line</span>
       <button class="linkbtn" id="clear" type="button" hidden>New conversation</button>
+    </div>
+    <div class="fallback" id="fallback" hidden>
+      <p>This page can't ask Claude in your view (claude.ai doesn't allow it here). Instead, copy your question together with the notes and paste it into a new chat on claude.ai.</p>
+      <div class="row">
+        <button class="btn" id="copy" type="button">Copy question + notes</button>
+        <a class="btn ghost" href="https://claude.ai/new" target="_blank" rel="noopener">Open a new Claude chat</a>
+      </div>
+      <p class="note" id="copied" aria-live="polite"></p>
     </div>
   </form>
 </div>
@@ -202,13 +214,31 @@ function disable(msg) {
   sendBtn.disabled = true; q.disabled = true; chips.hidden = true;
   statusEl.textContent = msg;
   statusEl.classList.add("err");
+  showFallback();
 }
+
+// When this view can't ask Claude: hand the viewer the notes + question to paste into a normal chat
+function showFallback() {
+  sendBtn.hidden = true; stopBtn.hidden = true; q.disabled = false;
+  statusEl.textContent = "Type your question above, then copy it.";
+  statusEl.classList.remove("err");
+  $("fallback").hidden = false;
+}
+$("copy").addEventListener("click", () => {
+  const question = q.value.trim() || "(Ask your question here.)";
+  const text = RULES + "\n\n===== Question =====\n" + question;
+  const out = $("copied");
+  navigator.clipboard.writeText(text).then(
+    () => { out.textContent = "Copied. Paste it into the new chat and send. Follow-up questions in that chat need no copying."; },
+    () => { out.textContent = "Copying was blocked. Ask the page owner for the notes file instead."; }
+  );
+});
 
 async function ask(text) {
   text = text.trim();
   if (!text || ctl) return;
   const sample = await samplePromise;
-  if (!sample) { disable("Asking Claude isn't available here. Open this page on claude.ai while signed in."); return; }
+  if (!sample) { showFallback(); return; }
 
   chips.hidden = true;
   q.value = ""; autosize();
