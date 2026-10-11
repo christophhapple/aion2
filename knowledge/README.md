@@ -29,4 +29,5 @@ patch notes, which beat guides. Every fact is tagged with its source and date or
 | `abyss.md` | Abyss: PvP rules, layers, low-risk PvE, healer advice | 2026-10-10 |
 | `crafting.md` | Professions, gathering, crafted gear, economy | 2026-10-10 |
 | `schedule.md` | Event times, refilling counters, dated deadlines (EU) | 2026-10-10 |
+| `events.md` | Open-world events: Dimensional Invasion (rewards, keys, scoring) | 2026-10-11 |
 | `sources.md` | Numbered source list ([n] references) | — |

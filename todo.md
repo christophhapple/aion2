@@ -10,6 +10,7 @@ tracker itself goes in `backlog.md`.
 - [ ] Verify: other siege days (Mon/Thu 21:00?) and Nahma (Fri/Sun 21:00?). Saturday 21:00 is confirmed
 - [ ] Verify: Substance Morph: can an unused Clash Rune Enhance Scroll become 100 Enhance Stones? (Do you have spare ones?)
 - [ ] Verify (Abyss, low priority): what happens when you die there (penalty, respawn point)? Does Abyss time keep running while dead or standing in Western Root?
+- [ ] Verify (Dimensional Invasion, next round): do you get rewards (~700 Enhance Stones) without spending a key? How many card picks did you get, and at what rank/score? When does the key refill (guides say 16:00, probably wrong for EU)?
 - [ ] Verify: Nightmare: number of floors/levels, Phantasmal Fragments per clear, shop items + prices
 - [ ] Verify: Transfer tab: what does the preview show, and what makes a piece an eligible source? (once you have eligible gear)
 - [ ] *(low priority, later)* Rework gathering skill point picks once crafting goals are set and you switch to targeted farming (not enough points for everything; respec reportedly costs 50,000 Kinah)

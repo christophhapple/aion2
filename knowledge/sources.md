@@ -119,3 +119,11 @@ Added 2026-10-10 (Abyss research).
 97. Skycoach, dungeons guide, ~2026-10, ? (boosting site): https://skycoach.gg/blog/aion-2/articles/dungeons-guide
 98. u4n, dungeon types (group/solo/limits), ~2026-10, ? (gold seller): https://www.u4n.com/index.php/news/aion-2-dungeons-guide-types-group-solo-limit-rewards-tickets.html
 99. Forum post on dungeon tickets, low trust: https://eporady.starostwo.ketrzyn.pl/viewtopic.php?p=26512
+
+Added 2026-10-11 (Dimensional Invasion research).
+
+100. metabot.gg, Dimensional Invasion schedule & rewards, global client build 0.0.4387.0, G: https://metabot.gg/en/aion-2/events/dimensional-invasion
+101. Game8, Dimensional Invasion guide, updated 2026-10-09, ?: https://game8.co/games/Aion-2/archives/628167
+102. allthings.how, Dimensional Invasion points and rewards, updated 2026-10-08, ?: https://allthings.how/aion-2-dimensional-invasion-how-to-earn-points-and-claim-rewards/
+103. thegameswiki, Dimensional Invasion, undated, KR/TW, snippet only: https://thegameswiki.com/aion-2/wiki/dimensional-invasion
+104. Sportskeeda, Dimensional Invasion guide, ~2026-10, ?: https://www.sportskeeda.com/mmo/aion-2-dimensional-invasion-guide-how-complete-event-earn-rewards
