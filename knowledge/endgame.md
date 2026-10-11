@@ -74,6 +74,7 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
   see `abyss.md`).
 - **Cap:** 5 rewarded missions per day; per server [107] **vs** per account [106]. Banks up to 20
   per one checklist [`schedule.md`] **vs** "unused ones are lost" [106].
+- **You can only have 5 accepted at a time** (in-game 2026-10-11), so choose; you can't grab the whole list.
 - **Missions:** kill X enemies, do an activity, go to a spot, sometimes a tougher enemy; all five in
   under 30 min [106][108]. Up to 15 shown at once [108]. Refresh the list for Kina: 1,000, rising
   with each refresh [108].
