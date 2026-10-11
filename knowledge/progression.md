@@ -52,3 +52,17 @@ Exploration mode (easy) of most expeditions opens much earlier: Krao 200, Urugug
 - Above +10 on normal gear: 65% → 20% success; failures cost materials only [21][22].
 - Unique tier of belt/amulet: ~201k stones + 5M Kina for +0→+10 [38]. Plan for it.
 - Spare Empyrean Traces: keep them. A stones conversion exists in KR but isn't on global yet [39][40].
+
+## Often missed (quick wins)
+Collected 2026-10-11 from guides [115][116]; check each in-game.
+- **Unused Daevanion Crystals / Wisdom Stones** in the inventory do nothing until used [116].
+- **Pets:** every owned pet adds small permanent stats; level each to 3 by killing mobs [115]. The
+  guide's "~55k CP for all pets" seems high: unverified.
+- **Ascension Bracelet** (story reward): enhance to +10–11 (adds attack + defense), put your one Superior
+  Manastone in it; a second bracelet comes from a faction quest [115].
+- **Manastones** in every socket of gear you keep (white 1 socket, green 2, …) [115][116].
+- **Owned bonuses:** titles (`titles.md`) and wings both give permanent stats just for owning them
+  [115][116]. Easy titles: Shugo Festival minigames ×3 each (9 titles), join a Legion, first Exploration
+  and Conquest clear per dungeon [109].
+- **Hidden cubes** in the world: pick them up (also feed Genus Insight) [115].
+- Daevanion points: +1 GS each [116] **vs** raises CP only, not GS [14]. Check in-game.
