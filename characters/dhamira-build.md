@@ -30,8 +30,8 @@ The damage/maintenance button. Entries are hotbar slots, tried in order; delays 
 1. **Slot 7 · Lightning Strike Scattershot**: only castable on a Staggered target, so it's skipped
    until a Stagger window opens, then takes priority.
 2. **Slot 10 · debuff queue:** Debilitating Mark → Chain of Torment → Earth Punishment → Condemnation.
-   Mark and Chain are 10s debuffs, Earth Punishment a 10s DoT; Condemnation needs Chain on the target
-   and is the frequent repeater.
+   Mark: 10s CD. Chain: 20s CD, DoT 13s, so Condemnation (needs Chain on the target) has a window of
+   roughly 13 of every 20s. Earth Punishment: 10s DoT. Condemnation is the frequent repeater.
 3. **Slot 12 · Judgment Thunder**: AoE damage (up to 4 targets). No cooldown, 96 MP: the macro
    spams it as long as MP lasts, so this is what actually drains MP.
 4. **Slot 11 · Earth's Retribution**: always ready, so the macro never comes up empty. When MP runs
@@ -108,6 +108,7 @@ Options per skill: `knowledge/cleric-skills.md`. Lv 20 slots locked everywhere (
 | Judgment Thunder | 1 -20% MP consumed · 2 up to +12% damage on fewer targets | Own damage and MP over enemy slow/Root. Option 2 pays off on single bosses. No cooldown, so -20% MP means more casts per refill |
 | Debilitating Mark | 2 -15% target Defense · 4 +10% enemy Damage Boost reduction | Debuff skill: maximize debuffs. Not 1 (no MP cost + MP restore): MP isn't short. Not 3 (Stun chance) |
 | Divine Aura | 2 AoE · 3 +50% attack speed | Attack speed over +3s duration: the aura is stationary and packs sometimes walk out of it, so front-load the damage. Candidate for the 3rd slot (Lv 20): option 5, -10s CD |
+| Chain of Torment | 2 +3s DoT · 4 +10% enemy Damage Tolerance reduction | Debuff skill: maximize debuffs; CC (slow, Knockdown) least important. +3s DoT also widens Condemnation's window |
 | Earth's Retribution | 1 +20% MP restored · 3 +50% Multi-Hit | Option 1 despite MP not being short: when MP does run out, refill fast. Not 4 (-7s Bolt CD): Retribution was rarely cast, so it never triggered; building around it was a mistake. Not 2 (more Discharge) either: Discharge only mattered for the Bolt CD |
 
 ## Skill-point priority (old draft, not re-checked)
