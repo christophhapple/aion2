@@ -100,12 +100,13 @@ Options per skill: `knowledge/cleric-skills.md`. Lv 20 slots locked everywhere (
 - Pick options that make *me* stronger (damage, MP, my heals) over crowd control and enemy
   slow/speed-down (Stun, Root, Combat Speed).
 - Exception: on a **debuff skill, maximize its debuffs** (Debilitating Mark, likely Chain of Torment).
+- MP isn't a bottleneck (2026-10-11): extra-MP options are low value.
 - Harder content gets a second preset/build with its own rules (enemy damage-down, CC may matter there).
 
 | Skill | Picked (option no., Lv 8 + 12 slots) | Why |
 |---|---|---|
 | Judgment Thunder | 1 -20% MP consumed · 2 up to +12% damage on fewer targets | Own damage and MP over enemy slow/Root. Option 2 pays off on single bosses. No cooldown, so -20% MP means more casts per refill |
-| Debilitating Mark | 2 -15% target Defense · 4 +10% enemy Damage Boost reduction | Debuff skill: maximize debuffs. Not 1 (no MP cost + MP restore), not 3 (Stun chance) |
+| Debilitating Mark | 2 -15% target Defense · 4 +10% enemy Damage Boost reduction | Debuff skill: maximize debuffs. Not 1 (no MP cost + MP restore): MP isn't short. Not 3 (Stun chance) |
 | Earth's Retribution | 1 +20% MP restored · 3 +50% Multi-Hit | Not 4 (-7s Bolt CD): Retribution was rarely cast, so it never triggered; building around it was a mistake. Not 2 (more Discharge) either: Discharge only mattered for the Bolt CD |
 
 ## Skill-point priority (old draft, not re-checked)
