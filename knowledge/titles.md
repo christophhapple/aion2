@@ -32,3 +32,24 @@ Through Hell and Back (cooldowns) suits a Cleric better than the Core title (mov
 Join a Legion ("There's No 'I' in Team", +3,000 Kinah) · first Exploration / Conquest clear of each
 party dungeon (Sightseer / Tour Guide titles) · Shugo Festival: play each minigame 3 times (9 Rare
 titles) · Spacetime Rift 3 uses ("Hello There") · Golden Glow: take a gear piece to max upgrade [110].
+
+## Shugo Festival titles [124]
+Titles menu → **Adventure** category (categories: Adventure, Quest, Challenge, Dungeon, Item, Growth).
+One per minigame, reportedly for playing it 3 times [109]; all Rare. Owned bonuses are tiny (+2 PvE
+Attack, +10 MP/Accuracy…), so they're mainly a collection thing.
+
+| Title | Minigame | Equipped |
+|---|---|---|
+| Ruuuuun!! | Jump Jump | PvE Evasion +26 (Defense) |
+| Lady of the Lake | Wraith Evasion | PvE Defense +255 (Defense) |
+| Mysterious Racer | Mysterious Track | Flight Speed +1.8% |
+| Catch Me If You Can | Hidden Lugi | PvE Attack +22 (Attack) |
+| Odyle Drops Keep Fallin' on My Head | Odyle Flight Frenzy | Move Speed +1.8% |
+| Arr! Where's Me Treasure? | Goldrin's Treasure | Stamina +160 |
+| Standing on My Own Two Feet | Defend Shugo Merchants | HP +510 |
+| Up, Up, and Up Again! | Up! Up! Up! | HP Potion Recovery +340 |
+| Tile Discerner | Not This Tile? | MP +235 |
+
+Plus **Shugo Festival Rookie** (Rare) and **Shugo Festival Expert** (Epic) from the achievement
+"Shugo Festival Regular". Only one minigame runs per festival window (random) [125], so collecting all
+takes a while.
