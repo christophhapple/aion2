@@ -8,20 +8,25 @@ All in-game 2026-10-11.
 
 - **Hotbar:** 12 slots, each can have a key assigned (mouse buttons count as keys). A key is optional.
 - **Skill queue per slot:** a slot holds up to 4 skills. Pressing it fires the first skill in the
-  queue that's available and skips the rest. **Unconfirmed (2026-10-11):** whether it restarts at
-  the top on every press (priority) or cycles like the macro. Test: a slot with Judgment Thunder →
-  Earth's Retribution (both no cooldown), pressed repeatedly: Thunder only = priority, alternating =
-  cycle. A skill is skipped for *any* reason it can't be cast:
+  queue that's available and skips the rest. **Probably cycles like the macro** instead of restarting
+  at the top (in-game 2026-10-11): a slot with Condemnation → Judgment Thunder alternated the two on a
+  target with Earth Punishment, where Condemnation should always be ready. Not airtight: the crit
+  reset might register a moment late. Definitive test: a slot with Judgment Thunder → Earth's
+  Retribution (both no cooldown), pressed repeatedly: Thunder only = priority, alternating = cycle.
+  A skill is skipped for *any* reason it can't be cast:
   cooldown, missing MP, out of range, or an unmet condition (e.g. "target must be Staggered").
 - **Macro:** one special queue holding any number of hotbar *slots*, in order, on its own key.
   **It's a sequence, not a priority list** (tested in-game 2026-10-11): it steps through the entries in
   order and loops; after a cast it continues with the *next* entry, it doesn't restart at entry 1.
   Entries with nothing castable are skipped. So a skill gets at most one try per pass, even if it's
   ready again (tested with Scattershot during Stagger: it mixed with the other entries).
-- **Priority lives in the slot queues, order lives in the macro.** To make a skill fire "whenever
-  it's ready", put it first in a slot queue that the macro visits often, not in an entry of its own.
+- **No real "fire whenever ready" exists** if slot queues cycle too (likely, see above). The way to
+  weight a skill is to give it its own slot and **repeat that slot in the macro**: skipped entries cost
+  nothing, so a skill that is not ready just falls through to the next entry.
 - Each macro entry has a **Delay** field in ms (default 10). Probably a wait after that entry
-  (unconfirmed). Unknown: can the same slot appear twice in the macro?
+  (unconfirmed).
+- **The same slot can appear several times in the macro** (in-game 2026-10-11). Repeating an entry is
+  the way to give a skill more tries per pass.
 - **A skill can only be in one slot** (in-game 2026-10-11): it can't sit in two queues at once.
 - **Holding the macro key** keeps it firing. Pressing another key while holding it takes precedence,
   so manual skills can be cast without letting go of the macro.
