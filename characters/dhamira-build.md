@@ -12,8 +12,13 @@ nothing threatens you.
 ## Playstyle model
 - Two axes: **what a skill does** (damage/heal/buff/debuff) and **when you press it** (proactive
   maintenance vs. reactive).
-- Proactive = kept on uptime, goes into queues and the macro. Reactive = fired at a precise moment,
-  stays on its own key outside the macro so it's never auto-burned.
+- What goes where is decided by **role first, then timing**:
+  - **Macro = damage only**, and only damage where "whenever it's ready" is the right timing.
+  - **Healing never goes in the macro**, not even proactive healing (Light of Regeneration): healing
+    stays fully separate, on its own keys.
+  - **Timed damage stays manual:** Power Burst (Stagger), Divine Aura → Prayer of Amplification
+    (burst window), Bolt (charge).
+- The macro is held down; manual keys take precedence while holding it, so nothing needs releasing.
 - MP is single-source: everything is paid for by weaving Earth's Retribution between spenders.
 - No direct self-heal: heals are party-wide or auto-target the lowest HP. Self-preservation =
   positioning + reactive buttons.
@@ -27,7 +32,11 @@ The damage/maintenance button. Entries are hotbar slots, tried in order; delays 
    Mark and Chain are 10s debuffs, Earth Punishment a 10s DoT; Condemnation needs Chain on the target
    and is the frequent repeater.
 3. **Slot 12 · Judgment Thunder**: AoE damage (up to 4 targets).
-4. **Slot 11 · Earth's Retribution**: always ready, so the macro never comes up empty; refills MP.
+4. **Slot 11 · Earth's Retribution**: always ready, so the macro never comes up empty. When MP runs
+   dry, everything above is unavailable and the macro falls through to it: MP manages itself.
+
+Power Burst (manual) feeds entry 1: its heavy Stagger opens the window in which the macro picks up
+Scattershot.
 
 ## Hotbar
 Slots numbered 1–12 from the left. Keys aren't tracked (the game stores them); only the two mouse
@@ -35,20 +44,20 @@ buttons matter for the setup above.
 
 | Slot | Queue | Use |
 |---|---|---|
-| 1 | Light of Regeneration | manual, keep up |
-| 2 | Healing Light | manual, reactive |
-| 3 | Radiant Recovery | manual, reactive |
-| 4 | Divine Aura → Prayer of Amplification | manual, damage/buff |
-| 5 | Power Burst | manual, burst / Stagger |
+| 1 | Light of Regeneration | manual, healing kept out of the macro (proactive, keep up) |
+| 2 | Healing Light | manual, reactive heal |
+| 3 | Radiant Recovery | manual, reactive heal |
+| 4 | Divine Aura → Prayer of Amplification | manual, timed for burst windows |
+| 5 | Power Burst | manual, timed for Stagger |
 | 6 | *empty* | |
 | 7 | Lightning Strike Scattershot | macro only |
 | 8 | Light of Protection | toggle at the pull |
 | 9 | Bolt | manual (charge while moving) |
 | 10 | Debilitating Mark → Chain of Torment → Earth Punishment → Condemnation | macro only |
-| 11 | Earth's Retribution | macro + left click (manual MP top-up) |
+| 11 | Earth's Retribution | macro + left click (clicking a new target to pull it fires it) |
 | 12 | Judgment Thunder | macro only |
 
-Not on the hotbar: Defiance.
+Defiance isn't a hotbar skill: it's on Space and only usable while crowd-controlled.
 
 ## Stigma presets
 
@@ -82,12 +91,11 @@ Points are limited: level each skill to its next useful breakpoint and stop. Res
 - **One person's HP drops sharply** → Healing Light (fast, 6s CD, auto-targets lowest). Most-pressed.
 - **Whole party took AoE damage** → Radiant Recovery (also strips 1 debuff).
 - **A debuff needs removing** → Radiant Recovery (1), later Absolution (2).
-- **You got CC'd** → Defiance. Trigger is "I can't act", not "I'm low". (Currently not on the hotbar.)
+- **You got CC'd** → Defiance. Trigger is "I can't act", not "I'm low". (Space; only usable then anyway.)
 - Defensive preset only: **big telegraphed hit** → Salvation just before impact; **someone died** →
   Summon Resurrection.
 
 ## Play loop
-At the pull: toggle Light of Protection, Light of Regeneration up, Divine Aura / Prayer. Then mostly
-the macro; reactive heals interrupt it. Manual on top: Bolt (charge while moving), Power Burst, and
-left click when MP runs low. Calibrate by feel: never MP-starved → push more manual damage; always
-empty → more Retribution.
+At the pull: toggle Light of Protection, Light of Regeneration up. Then hold right click (macro) and
+press on top of it: heals as needed, Light of Regeneration on expiry, Power Burst for Stagger, slot 4
+for burst windows, Bolt. Left click to switch target / pull the next pack.
