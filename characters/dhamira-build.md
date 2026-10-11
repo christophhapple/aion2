@@ -1,11 +1,10 @@
 # Dhamira: build
 
-Imported 2026-10-10 from the Claude doc "AION 2 Cleric - Skills & Build Notes"
-(https://claude.ai/artifact/P16n3oAFFuZ5CtkTDhNgCU, rev 9 of 2026-10-09). **This file is now the source
-of truth**; the doc was deleted. Skill effects: `knowledge/cleric-skills.md`.
+Imported 2026-10-10 from the Claude doc "AION 2 Cleric - Skills & Build Notes"; this file is the source of
+truth. Skill effects: `knowledge/cleric-skills.md`. Hotbar/macro mechanics: `knowledge/controls.md`.
 
-> **Out of date:** unfinished, and already drifted from the setup used in the game (2026-10-10). Don't treat
-> as the current setup; ask the user when it matters. Update planned (todo.md, low priority).
+> **Partly out of date:** hotbar, macro, Stigmas and skill levels match the game (2026-10-11).
+> "Skill-point priority" is the old draft and not re-checked yet.
 
 Target content: mostly group PvE. Current preset is offensive, for the leveling/gearing stretch where
 nothing threatens you.
@@ -13,50 +12,64 @@ nothing threatens you.
 ## Playstyle model
 - Two axes: **what a skill does** (damage/heal/buff/debuff) and **when you press it** (proactive
   maintenance vs. reactive).
-- Proactive = kept on uptime, good for queues. Reactive = fired at a precise moment, on manual keys.
+- Proactive = kept on uptime, goes into queues and the macro. Reactive = fired at a precise moment,
+  stays on its own key outside the macro so it's never auto-burned.
 - MP is single-source: everything is paid for by weaving Earth's Retribution between spenders.
 - No direct self-heal: heals are party-wide or auto-target the lowest HP. Self-preservation =
-  positioning + reactive buttons (Defiance, Salvation).
+  positioning + reactive buttons.
 
-## Hotkeys
-Every hotkey holds a queue of up to 4 skills and fires the first ready one. (A separate "proper macro"
-feature exists, parked for now.) **Rule:** queue only uptime/maintenance skills; reactive skills stay
-on single keys so they're never auto-burned.
+## Macro (right click)
+The damage/maintenance button. Entries are hotbar slots, tried in order; delays left at the default 10 ms.
 
-| Key | Skill |
-|---|---|
-| 1 | Earth Punishment |
-| 2 | Healing Light |
-| 3 | Radiant Recovery |
-| 4 | Divine Aura |
-| R | *empty (later: Power Burst)* |
-| Mouse Thumb2 | Bolt |
-| X | Prayer of Amplification |
-| C | Light of Protection |
-| Q | Light of Regeneration (regen queue, 1 skill) |
-| E | Debuff queue: Debilitating Mark → Lightning Strike Scattershot → Chain of Torment → Condemnation |
-| Left click | Earth's Retribution |
-| Right click | Judgment Thunder |
+1. **Slot 7 · Lightning Strike Scattershot**: only castable on a Staggered target, so it's skipped
+   until a Stagger window opens, then takes priority.
+2. **Slot 10 · debuff queue:** Debilitating Mark → Chain of Torment → Earth Punishment → Condemnation.
+   Mark and Chain are 10s debuffs, Earth Punishment a 10s DoT; Condemnation needs Chain on the target
+   and is the frequent repeater.
+3. **Slot 12 · Judgment Thunder**: AoE damage (up to 4 targets).
+4. **Slot 11 · Earth's Retribution**: always ready, so the macro never comes up empty; refills MP.
 
-Debuff queue order: Debilitating Mark first (self-contained); Scattershot second (Stagger-only, stays
-dormant until the window opens); Chain of Torment enables Condemnation; Condemnation last = the
-frequent zero-MP repeater. Works as a flat queue because cooldowns roughly match debuff durations.
+## Hotbar
+Slots numbered 1–12 from the left. Keys aren't tracked (the game stores them); only the two mouse
+buttons matter for the setup above.
+
+| Slot | Queue | Use |
+|---|---|---|
+| 1 | Light of Regeneration | manual, keep up |
+| 2 | Healing Light | manual, reactive |
+| 3 | Radiant Recovery | manual, reactive |
+| 4 | Divine Aura → Prayer of Amplification | manual, damage/buff |
+| 5 | Power Burst | manual, burst / Stagger |
+| 6 | *empty* | |
+| 7 | Lightning Strike Scattershot | macro only |
+| 8 | Light of Protection | toggle at the pull |
+| 9 | Bolt | manual (charge while moving) |
+| 10 | Debilitating Mark → Chain of Torment → Earth Punishment → Condemnation | macro only |
+| 11 | Earth's Retribution | macro + left click (manual MP top-up) |
+| 12 | Judgment Thunder | macro only |
+
+Not on the hotbar: Defiance.
 
 ## Stigma presets
 
-**Offensive (current):** for leveling/trivial content, so no Resurrection or Salvation.
-- Light of Protection: always-on party damage + defense
-- Prayer of Amplification: +20% party Attack
-- Power Burst: biggest single hit
-- Earth Punishment: single-target DoT (AoE already covered by baseline skills)
+**Offensive (current, in-game 2026-10-11):** for leveling/trivial content, so no Resurrection or Salvation.
+- Light of Protection (Lv 10): always-on party damage + defense
+- Prayer of Amplification (Lv 5): +20% party Attack
+- Power Burst (Lv 5): biggest single hit, heavy Stagger
+- Earth Punishment (Lv 5): single-target DoT (AoE already covered by baseline skills)
 
 **Defensive / progression (not built yet)**, for when content starts to bite: likely Summon
 Resurrection + Salvation + Light of Protection + a flex (Benevolence for sustain, or Yustiel's Power
 for a defensive cooldown). Open questions then: does the group run a Chanter (weakens Light of
 Protection)? Are you the only healer?
 
-## Skill-point priority
-Points are limited: level each skill to its next useful breakpoint and stop. Draft, since respec is free.
+## Skill levels (in-game 2026-10-11)
+Lv 14: Earth's Retribution, Judgment Thunder, Debilitating Mark, Chain of Torment, Condemnation, Divine
+Aura, Bolt, Light of Regeneration, Radiant Recovery · Lv 13: Healing Light · Lv 11: Lightning Strike
+Scattershot · Defiance: not recorded. Stigmas: see above.
+
+## Skill-point priority (old draft, not re-checked)
+Points are limited: level each skill to its next useful breakpoint and stop. Respec is free.
 - **Tier 1, to level 12:** Earth's Retribution (builder + MP engine, carries the -7s Bolt CD
   specialty); core passives Healing Enhancement, Earth's Grace, Empyrean Lord's Grace.
 - **Tier 2, level 8–10:** Chain of Torment, Debilitating Mark (first specialty at 8); Light of
@@ -66,19 +79,15 @@ Points are limited: level each skill to its next useful breakpoint and stop. Dra
 - Endgame raid guides push Benevolence Lv 15/20 and Absolution Lv 10; ignore while leveling.
 
 ## Reactive layer: trigger map
-Queue skills where it doesn't matter which fires; keep skills solo where you need that exact one.
 - **One person's HP drops sharply** → Healing Light (fast, 6s CD, auto-targets lowest). Most-pressed.
 - **Whole party took AoE damage** → Radiant Recovery (also strips 1 debuff).
 - **A debuff needs removing** → Radiant Recovery (1), later Absolution (2).
-- **You got CC'd** → Defiance. Trigger is "I can't act", not "I'm low".
+- **You got CC'd** → Defiance. Trigger is "I can't act", not "I'm low". (Currently not on the hotbar.)
 - Defensive preset only: **big telegraphed hit** → Salvation just before impact; **someone died** →
   Summon Resurrection.
 
-## Cast priority (steady state)
-A priority cascade governed by MP, not a fixed rotation. At the pull: toggle Light of Protection on.
-1. **Keep maintenance up:** reapply Light of Regeneration; press the debuff queue when debuffs drop.
-2. **MP check:** if MP dips, Earth's Retribution jumps the queue.
-3. **Spend surplus on damage:** Bolt (charge while moving, release at full), Judgment Thunder.
-
-Reactive presses interrupt the cascade instantly. Calibrate by feel: never MP-starved → push more
-damage; always empty → weave more Retribution.
+## Play loop
+At the pull: toggle Light of Protection, Light of Regeneration up, Divine Aura / Prayer. Then mostly
+the macro; reactive heals interrupt it. Manual on top: Bolt (charge while moving), Power Burst, and
+left click when MP runs low. Calibrate by feel: never MP-starved → push more manual damage; always
+empty → more Retribution.
