@@ -84,6 +84,14 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
 - **Pick by slot 1:** Soul Crystal > Odyle Energy > Nightmare/Ascension tickets > Kina [106]. Odyle
   Energy means more cubes, so it's stones for F2P.
 
+## Pets
+- Mobs drop **pet souls** on kill; they don't go to the inventory and can't be hovered. **Progress is
+  only visible in the Pets menu** (in-game 2026-10-11). No loot-popup count either.
+- Pets menu → a pet's Source tab shows which monster drops its soul [121]. Drop rate falls when the mob
+  is more than ~10 levels below you [121]. Souls per pet: 5 [121], numbers changed in a KR patch
+  (Jan 2026), global unclear.
+- Every pet owned adds small permanent stats; collection milestones at 5 pets, then every 10 [115][121].
+
 ## Other caps
 Daily Dungeon 14/week per server · Duty Missions 5/day per server · Battlefield 3 win rewards/week ·
 Subjugation 3 tickets/week · Abyss sieges Mon/Thu/Sat 21:00 server time (~~Wed + Sat~~ is KR), see `schedule.md` [3][4][62].

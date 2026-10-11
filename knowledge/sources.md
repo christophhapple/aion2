@@ -152,3 +152,4 @@ Added 2026-10-11 (Sorcerer stats research).
 118. couga54 guides, Sorcerer, updated 2026-10-06, checked 2026-10-10, G: https://couga54.github.io/aion2-guides/en/sorcerer/
 119. metabot.gg, Sorcerer build, global client build 0.0.4387.0, G: https://metabot.gg/en/aion-2/classes/sorcerer
 120. Search summary of Sorcerer guides (fextralife wiki, game8, games.gg, eloboost24), ~2026-10, ?: https://aion2.wiki.fextralife.com/Sorcerer_Builds
+121. gamesfuze pets guide + metabot soul farming + games.gg pet list, ~2026-10, ?, search summary: https://gamesfuze.com/guides/aion-2-how-to-unlock-pets-and-get-more-pet-souls/
