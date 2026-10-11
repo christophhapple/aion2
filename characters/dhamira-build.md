@@ -134,15 +134,28 @@ in "Specialties"; strongest-looking: Scattershot (-1s all cooldowns per hit), Co
 (Multi-Hit, guides say 16–20), Radiant Recovery (guides say 20), Healing Light (-2s CD). Order not
 decided yet.
 
-## Reactive layer: trigger map
-- **One person's HP drops sharply** → Healing Light (fast, 6s CD, auto-targets lowest). Most-pressed.
-- **Whole party took AoE damage** → Radiant Recovery (also strips 1 debuff).
-- **A debuff needs removing** → Radiant Recovery (1), later Absolution (2).
-- **You got CC'd** → Defiance. Trigger is "I can't act", not "I'm low". (Space; only usable then anyway.)
-- Defensive preset only: **big telegraphed hit** → Salvation just before impact; **someone died** →
-  Summon Resurrection.
+## Manual layer: trigger map
+Everything pressed on top of the held macro.
+
+**Healing**
+- **One person's HP drops sharply** → Healing Light (6s CD; heals me + the lowest-HP member, +20%
+  at ≤50% HP, 50% chance to cleanse 1). Most-pressed.
+- **Whole party took AoE damage** → Radiant Recovery (9s CD, cleanses up to 2).
+- **A debuff needs removing** → Radiant Recovery (up to 2, sure), Healing Light (1, 50% chance).
+- **Light of Regeneration expires** → recast (30s, always up).
+
+**Damage**
+- **Stagger interrupt phase** → Power Burst + a fully charged Bolt (50 + 35 gauge).
+- **Burst window / pack grouped up** → slot 4: Prayer of Amplification, then Divine Aura.
+- **Bolt ready, nothing to save it for** → charge it while moving.
+
+**Utility**
+- **MP low** → left click (Earth's Retribution) until ~50%, then back to the macro.
+- **I got CC'd** → Defiance (Space). Trigger is "I can't act", not "I'm low"; only usable then.
+
+**Defensive preset only:** big telegraphed hit → Salvation just before impact; someone died →
+Summon Resurrection; Absolution if more cleansing is needed.
 
 ## Play loop
 At the pull: toggle Light of Protection, Light of Regeneration up. Then hold right click (macro) and
-press on top of it: heals as needed, Light of Regeneration on expiry, Power Burst for Stagger, slot 4
-for burst windows, Bolt. Left click to switch target / pull the next pack.
+press on top of it per the trigger map above. Left click to switch target / pull the next pack.
