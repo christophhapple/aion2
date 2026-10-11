@@ -33,6 +33,7 @@ are about the **Korean** version (cap 50 since 2026-07-01). Gear score (GS) thre
   - **Enemy-region feathers are visible but can't be collected** (in-game 2026-10-11). Maybe unlocked
     later or different in KR: unverified.
   - Field bosses there drop gear for skins/supply requests [95].
+  - **After the 7 quests:** no known one-time rewards left there (Strongholds unclear). Repeatable: Kina, Abyss Points, Enhance Stones from enemy Sealed Dungeons and mobs, field bosses, green side quests; no yields published [94][96]. Titles: "Hello There" (3 rift uses), "Nice to Meet You" (50 uses, PvE Damage +2.9%, weaker than Guardian +3%) [109]. Time-extension tickets (+10 / +30 min) exist [96]. KR has a Domination mode and weekly rift challenges (Sep 2026), not seen on global.
   - Safety: open PvP there. Attacking an enemy guard flags you for PvP for 10 min. Stay unflagged and
     away from enemy outposts: their guards attack on sight [94].
   - **Kibelisks on the enemy map:** enemy Kibelisks are guarded by strong NPCs that kill you if you get
