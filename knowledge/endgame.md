@@ -96,6 +96,15 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
   (Jan 2026), global unclear.
 - Every pet owned adds small permanent stats; collection milestones at 5 pets, then every 10 [115][121].
 
+## Daevanion points: can you fill every board?
+**No, not on global for now** (guides, 2026-10, estimates).
+- Cost to complete [126]: Nezekan 134, Zikel 134, Vaizel 134, Triniel 168 = **570 for the four PvE
+  boards**; Azphel (PvP) 232 more = **802 for all five**. Node costs 1–4 points by grade [127]. One guide
+  mentions a sixth board, Ariel (PvE) [127]; not in the global client data [126].
+- Points available (estimate from pre-launch datamine) [115]: levels 136 + home Sealed Dungeons 122 +
+  regional quests 58 = ~316, plus Shugo shop 50 and Nightmare shop 50 (300 Phantasmal Fragments each) =
+  **~416**. Rift quests add a few. So ~150 short of the PvE boards: prioritize (see class notes).
+
 ## Other caps
 Daily Dungeon 14/week per server · Duty Missions 5/day per server · Battlefield 3 win rewards/week ·
 Subjugation 3 tickets/week · Abyss sieges Mon/Thu/Sat 21:00 server time (~~Wed + Sat~~ is KR), see `schedule.md` [3][4][62].

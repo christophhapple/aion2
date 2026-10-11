@@ -157,3 +157,5 @@ Added 2026-10-11 (Sorcerer stats research).
 123. mein-mmo daily/weekly checklist + forum guide, search summary, ~2026-10, G: https://mein-mmo.de/en/aion-2-daily-weekly-checklist-perfect-start,1589979/
 124. metabot.gg, title list (global client), ~2026-10, G: https://metabot.gg/en/aion-2/titles
 125. metabot.gg, Shugo Festival event page, G: https://metabot.gg/en/aion-2/events/shugo-festival
+126. metabot.gg, Daevanion planner, global client build 0.0.4387.0, G: https://metabot.gg/en/aion-2/daevanion
+127. gamesfuze, Daevanion guide + guildorder board planning, ~2026-10, ?: https://gamesfuze.com/guides/aion-2-daevanion-guide-best-node-priority-for-every-class-and-how-to-get-more-daevanion-points/
