@@ -18,7 +18,8 @@ All in-game 2026-10-11.
 - **Priority lives in the slot queues, order lives in the macro.** To make a skill fire "whenever
   it's ready", put it first in a slot queue that the macro visits often, not in an entry of its own.
 - Each macro entry has a **Delay** field in ms (default 10). Probably a wait after that entry
-  (unconfirmed). Unknown: can the same slot appear twice in the macro, and the same skill in two slots?
+  (unconfirmed). Unknown: can the same slot appear twice in the macro?
+- **A skill can only be in one slot** (in-game 2026-10-11): it can't sit in two queues at once.
 - **Holding the macro key** keeps it firing. Pressing another key while holding it takes precedence,
   so manual skills can be cast without letting go of the macro.
 - A slot can be in the macro and still be pressed on its own key.
