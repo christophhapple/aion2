@@ -10,7 +10,7 @@ tracker itself goes in `backlog.md`.
 - [ ] Verify: Substance Morph: can an unused Clash Rune Enhance Scroll become 100 Enhance Stones? (Do you have spare ones?)
 - [ ] Verify (Abyss, low priority): what happens when you die there (penalty, respawn point)? Does Abyss time keep running while dead or standing in Western Root?
 - [ ] Check (next rift): Altgard Strongholds are marked on the map but showed no entrance. Look for a way in (quest, level, other side)
-- [ ] Quick wins check (Dhamira + Hamme): unused Daevanion Crystals or Wisdom Stones in the bag? Pets levelled (to 3)? Ascension Bracelet enhanced + Manastone? Empty Manastone sockets? Do you have "Through Hell and Back" (Roah Sealed Dungeon)? Joined a Legion? See `knowledge/progression.md` "Often missed"
+- [ ] Quick wins check (Dhamira + Hamme): unused Daevanion Crystals or Wisdom Stones in the bag? (Note GS before/after spending a crystal: settles whether Daevanion raises GS.) Pets levelled (to 3)? Ascension Bracelet to +10 + Superior Soulstone? Empty Manastone sockets on gear you keep? Do you have "Through Hell and Back" (Roah Sealed Dungeon)? Joined a Legion? See `knowledge/progression.md` "Often missed"
 - [ ] Check (once a pet is fully levelled): does targeting a monster of that pet type show it as done?
 - [ ] Check (next Invasion): where does the game show how many Invasion keys you have left (join screen, reward screen, inventory)?
 - [ ] *(low priority)* One more Spacetime Rift trip (2/3 so far) for the title "Hello There" (owned bonus). Combine with the Altgard Stronghold check
