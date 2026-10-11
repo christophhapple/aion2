@@ -14,7 +14,7 @@ Build Notes"). Passives omitted (not customizable). Values only where the game s
 | Chain of Torment | Earth damage to up to 4 enemies within 4m of the target; lowers enemy PvE Damage Tolerance; DoT every 1s for 10s (13s with option 2); 10 Stagger gauge damage; 150 MP, 20s CD (in-game 2026-10-11) |
 | Lightning Strike Scattershot | Damage to a Staggered target only |
 | Light of Regeneration | Party HP regen every 2s for 30s |
-| Condemnation | AoE Earth damage; requires Chain of Torment on target |
+| Condemnation | AoE Earth damage; requires Chain of Torment on target, i.e. only castable while Chain's DoT runs (in-game 2026-10-11) |
 | Healing Light | Heals you + the lowest-HP party member (6s CD) |
 | Radiant Recovery | Party heal; removes 1 debuff |
 | Bolt | Chargeable AoE Wind damage (max 3 charge levels); 300 MP, 45s CD |
