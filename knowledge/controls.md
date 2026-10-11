@@ -8,7 +8,10 @@ All in-game 2026-10-11.
 
 - **Hotbar:** 12 slots, each can have a key assigned (mouse buttons count as keys). A key is optional.
 - **Skill queue per slot:** a slot holds up to 4 skills. Pressing it fires the first skill in the
-  queue that's available and skips the rest. A skill is skipped for *any* reason it can't be cast:
+  queue that's available and skips the rest. **Unconfirmed (2026-10-11):** whether it restarts at
+  the top on every press (priority) or cycles like the macro. Test: a slot with Judgment Thunder →
+  Earth's Retribution (both no cooldown), pressed repeatedly: Thunder only = priority, alternating =
+  cycle. A skill is skipped for *any* reason it can't be cast:
   cooldown, missing MP, out of range, or an unmet condition (e.g. "target must be Staggered").
 - **Macro:** one special queue holding any number of hotbar *slots*, in order, on its own key.
   **It's a sequence, not a priority list** (tested in-game 2026-10-11): it steps through the entries in

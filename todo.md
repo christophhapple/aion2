@@ -22,6 +22,8 @@ tracker itself goes in `backlog.md`.
 - [ ] Dhamira: screenshot all 13 Stigma tooltips (slotted ones first: Light of Protection, Prayer of Amplification, Power Burst) and go through them with Claude like the active skills. Settles the shard plan (Earth Punishment vs Light of Protection to 20) and what "Earth's Blessing" is
 - [ ] Dhamira: screenshot the 10 passive tooltips and go through them with Claude (names, effects, which are "important", where spare skill points go)
 - [ ] Test the macro (target dummy / easy mob): (1) during a Stagger, hold the macro: does only Scattershot repeat (priority list) or does it mix with Thunder/Retribution (sequence)? (2) Set all delays to 500 ms: does the pace drop even when only one entry can fire (delay applies to every entry) or only between casts? See `knowledge/controls.md`
+- [ ] Test slot queues: temporarily put Judgment Thunder → Earth's Retribution in one slot, press it repeatedly with MP > 96. Thunder only = priority, alternating = cycles like the macro. Put Retribution back on slot 11 after. See `knowledge/controls.md`
+- [ ] *(low priority, later)* Dhamira: try Condemnation option 1 (+100 MP per hit) instead of option 2 (+12% on fewer targets) for a few fights; compare how often you need to refill MP with the macro Variant A
 
 ## Done
 - [x] Dhamira build page brought up to date with the game: hotbar, macro, Stigmas, levels, specialties, leveling priority (2026-10-11)
