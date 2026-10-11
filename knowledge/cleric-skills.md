@@ -18,7 +18,7 @@ Build Notes"). Passives omitted (not customizable). Values only where the game s
 | Healing Light | Heals you + the lowest-HP party member within 40m; 50 MP, **6s CD**, instant, mobile (in-game 2026-10-11) |
 | Radiant Recovery | Heals caster + party within 40m; removes 1 debuff (2 with option 1); 9s CD with option 3 (likely 12s base); no MP cost shown; instant, mobile (in-game 2026-10-11) |
 | Bolt | Charge skill (max 3 charge levels): Wind damage to up to 4 enemies within 4m of the target, damage range very wide by charge level; **20–35 Stagger gauge damage**; cast 0.4s/0.7s/1.1s per charge level (read with option 3, +30% Skill Speed, active); 300 MP, 45s CD; mobile (in-game 2026-10-11) |
-| Defiance | Breaks stun/knockdown/airborne/grab/frost/fear; 5s status immunity. Not a hotbar skill: own key (Space by the user's setup), only usable while crowd-controlled (in-game 2026-10-11) |
+| Defiance | Removes Stun, Knockdown, Airborne, Grab, Frost and Fear from the caster and grants Tenacity (status effect immunity) for 5s; 51s CD, **unaffected by cooldown reduction**; instant. Not a hotbar skill: own key (Space by the user's setup), only usable while crowd-controlled (in-game 2026-10-11) |
 
 ## Stigma
 
@@ -69,7 +69,7 @@ Numbered in the in-game order. Filled in from the game as we go; the guide colum
 | Healing Light | 1 +2 consecutive uses · 2 +20% healing when HP is ≤50% · 3 50% chance to remove 1 debuff (cleanse) · 4 +2% HP restored · 5 -2s cooldown (in-game 2026-10-11) | KR "essentials": -2s CD + 2% max HP [131]; picks 4, 5 (+3 at Lv 20) [132] |
 | Radiant Recovery | 1 removes up to 2 debuffs · 2 +1 consecutive use · 3 -3s cooldown · 4 +10% Incoming Heal for 10s · 5 +5% HP restored (in-game 2026-10-11) | KR "most important skill" [131]; picks 1, 3, 5 [132] |
 | Bolt | 1 30% chance to Stun for 3s (text cut off) · 2 +300 Skill Accuracy · 3 +30% Skill Speed · 4 up to +20% damage on fewer targets · 5 Critical Hit on hit (in-game 2026-10-11) | picks 2, 3, 4 [132] |
-| Defiance | — | options incl. 10% HP on use, longer Tenacity, Tenacity gives damage tolerance [10]; low priority |
+| Defiance | 1 adds chain skill [Blessing of Regeneration]: restores the caster's HP (~2.1k at Lv 10) and 40% MP, 1min 42s CD, instant, mobile · 2 restores 1000 Stamina on use · 3 restores 10% HP on use · 4 (from Lv 12) +2s Tenacity · 5 (from Lv 16) +50% PvE / +25% PvP Damage Tolerance during Tenacity (in-game 2026-10-11) | low priority [10] |
 
 Level priorities guides agree on: **Radiant Recovery 20**, **Condemnation 16–20** (cooldown reset),
 Healing Light and Light of Regeneration 16 [130][131][132][10]. Several numbers are KR and may differ on

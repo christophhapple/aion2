@@ -42,7 +42,9 @@ The damage/maintenance button. Entries are hotbar slots, tried in order; delays 
 
 Scattershot fires whenever something is Staggered; wasting it costs nothing. Power Burst is *not*
 used to set it up: it's saved for fight phases where Stagger damage has to burst to interrupt an
-attack.
+attack. Stagger gauge damage in the kit: Power Burst 50, **Bolt 20–35** (by charge), Debilitating Mark
+and Chain of Torment 10, Condemnation 7, Judgment Thunder 2. So for an interrupt phase, hold a fully
+charged Bolt alongside Power Burst (fight-dependent; Bolt has a 45s CD).
 
 ## Hotbar
 Slots numbered 1–12 from the left. Keys aren't tracked (the game stores them); only the two mouse
@@ -116,6 +118,7 @@ Options per skill: `knowledge/cleric-skills.md`. Lv 20 slots locked everywhere (
 | Healing Light | 2 +20% healing at ≤50% HP · 3 50% cleanse chance | Cleanse over more raw healing (+2% HP). Not 1 (+2 consecutive uses): unclear how it works, and the 6s CD is short anyway. Specific fights may call for other picks later. Candidate for the 3rd slot (Lv 20): option 5, -2s CD |
 | Radiant Recovery | 1 cleanse up to 2 debuffs · 3 -3s CD (12 → 9s) | Same as Healing Light: cleanse first, no consecutive uses for now; may revisit. Matches the KR picks. Candidate for the 3rd slot (Lv 20): option 5, +5% HP restored |
 | Bolt | 3 +30% Skill Speed · 4 up to +20% damage on fewer targets | Skill Speed = faster charging (likely: cast times shown 0.4/0.7/1.1s). Fewer targets = boss damage. No Stun (CC). Candidate for the 3rd slot (Lv 20): option 5, guaranteed Crit, on the biggest hit in the kit |
+| Defiance | 1 chain skill Blessing of Regeneration (only 1 slot: Lv 10) | Blessing heals ~2.1k + 40% MP, more than option 3's 10% HP at ~13k max HP. Option 2 (1000 Stamina) might be useful. All situational. Lv 12 (Daevanion) opens slot 2 |
 | Earth's Retribution | 1 +20% MP restored · 3 +50% Multi-Hit | Option 1 despite MP not being short: when MP does run out, refill fast. Not 4 (-7s Bolt CD): Retribution was rarely cast, so it never triggered; building around it was a mistake. Not 2 (more Discharge) either: Discharge only mattered for the Bolt CD |
 
 ## Skill-point priority (old draft, not re-checked)
