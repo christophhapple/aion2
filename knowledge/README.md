@@ -26,6 +26,7 @@ patch notes, which beat guides. Every fact is tagged with its source and date or
 | `endgame.md` | One-time content, Nightmare, Abyss, Transcendence, Pantheon | 2026-10-10 |
 | `gear.md` | Gear progression, currencies, Cleric notes | 2026-10-10 |
 | `cleric-skills.md` | Cleric active + Stigma skills (from in-game tooltips), stat priorities (guides) | 2026-10-11 |
+| `controls.md` | Hotbar skill queues and the macro | 2026-10-11 |
 | `titles.md` | Title slots, owned bonus, which titles to equip | 2026-10-11 |
 | `sorcerer.md` | Sorcerer stat priorities (guides) | 2026-10-11 |
 | `abyss.md` | Abyss: PvP rules, layers, low-risk PvE, healer advice | 2026-10-10 |
