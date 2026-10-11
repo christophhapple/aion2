@@ -106,3 +106,10 @@ Stats: Wisdom + Life (god stats), Constitution + Power (primary); Heal Boost (Pv
   Dimensions (`titles.md`) [109][115]. Talisra Wings: 4% Cooldown Reduction [111]. Ultimate Daeva
   Wings, Vakron and Nightmare wings are recommended for Combat Power [115].
 - Trade-off: Sealed Wings also convert to Enhance Stones (20/week per server) [7].
+
+## Manastones and Soulstones
+- One wiki: Manastones go into weapon/armor sockets, **Soulstones into accessory sockets** (bracelets
+  included); same mechanics: each imprint rolls a random stat, re-imprinting a slot replaces it, higher
+  stone tier = better odds [122, KR/global mix]. Another guide says one stone fills all sockets of a
+  piece at once [122]. Conflicts with [115] (Superior Manastone in the bracelet). Unverified.
+- Save high-tier stones for pieces you keep (bracelet, belt, amulet); low-tier on gear you'll replace [122].
