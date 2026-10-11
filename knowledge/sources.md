@@ -146,3 +146,9 @@ Added 2026-10-11 (titles and Cleric stats research).
 115. couga54 guides, progression after 45, checked 2026-10-10, G (datamine from pre-launch): https://couga54.github.io/aion2-guides/en/progression/
 116. aion2-wiki.wiki, increase Combat Power (+ search summary of level-45 guides), ~2026-10, ?: https://www.aion2-wiki.wiki/guide/aion-2-how-to-increase-combat-power
 117. games.gg, Ascension guide, 2026-10-08, ?: https://games.gg/aion-2/guides/aion-2-ascension-guide/
+
+Added 2026-10-11 (Sorcerer stats research).
+
+118. couga54 guides, Sorcerer, updated 2026-10-06, checked 2026-10-10, G: https://couga54.github.io/aion2-guides/en/sorcerer/
+119. metabot.gg, Sorcerer build, global client build 0.0.4387.0, G: https://metabot.gg/en/aion-2/classes/sorcerer
+120. Search summary of Sorcerer guides (fextralife wiki, game8, games.gg, eloboost24), ~2026-10, ?: https://aion2.wiki.fextralife.com/Sorcerer_Builds
