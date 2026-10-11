@@ -28,7 +28,8 @@ The damage button. The macro is a **sequence**, and slot queues probably cycle t
 castable is skipped. Delays at the default 10 ms. Holding any hotbar key repeats it too, and manual
 keys take precedence over the held macro.
 
-**Current setup (in-game 2026-10-11, testing):** macro = **12, 6, 7, 10**.
+**Current setup (in-game 2026-10-11, tested: works; E still feels a bit off, but best option for now):**
+macro = **12, 6, 7, 10**.
 1. **Slot 12 · debuffs:** Debilitating Mark → Chain of Torment → Earth Punishment, as they come off
    cooldown. Mark: 10s CD. Chain: 20s CD, 13s DoT. Earth Punishment: 30s CD, 10s DoT.
 2. **Slot 6 · Condemnation** (also on E): only while Chain runs.
