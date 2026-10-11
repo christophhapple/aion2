@@ -24,7 +24,7 @@ snippets. Sources [n]: `sources.md`. Schedule (sieges, bosses): `schedule.md`.
 Bosses: eight level-65 Hero field bosses drop Unique armor sets and refining stones; meant for groups [81].
 
 ## Low-risk PvE in the Abyss
-- **Duty Missions:** 5/day per server, each 50,000 Kinah + 1,000 Abyss Points [50]. (Already a routine; where they take place isn't clear from the sources.)
+- **Duty Missions:** 5/day, journal Duty tab; details in `endgame.md` [50].
 - **Command Scrolls** from the Command Merchant (37.5k / 75k / 150k Kinah): each hunt pays 1,000 Abyss
   Points [80]. 27 duty scroll quests, suggested for levels 46–49, also drop Abyssal Power Shards [80].
 - **Abyss Points cap:** weekly, separate for PvE and PvP, resets Wednesday; amount unknown [50].

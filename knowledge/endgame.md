@@ -67,6 +67,22 @@ Older KR-client drop data for Krao (guaranteed epic piece, pity at 14 gives a Be
 enhancing [25]. Pieces from Nightmare shop/statues [1] and Conquest drops (Artwork) [1][23]. Raises
 Combat Power, not GS [14].
 
+## Duty Missions
+Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
+- **Where:** Journal (J) → Duty tab → Missions; from level 45 [106][107]. The tab also has Duty
+  Commands; how those work isn't documented [107] (the Abyss Command Scrolls may be the same thing,
+  see `abyss.md`).
+- **Cap:** 5 rewarded missions per day; per server [107] **vs** per account [106]. Banks up to 20
+  per one checklist [`schedule.md`] **vs** "unused ones are lost" [106].
+- **Missions:** kill X enemies, do an activity, go to a spot, sometimes a tougher enemy; all five in
+  under 30 min [106][108]. Up to 15 shown at once [108]. Refresh the list for Kina: 1,000, rising
+  with each refresh [108].
+- **Rewards:** each shows up to 5 rewards; slot 1 is guaranteed, slots 2–5 are chances [106].
+  Types: Soul Crystals (Genus Insight, CP), Odyle Energy, Nightmare/Ascension Trial tickets, Kina,
+  Abyss Points, materials [106][108]. Older figure: 50,000 Kinah + 1,000 Abyss Points each [50].
+- **Pick by slot 1:** Soul Crystal > Odyle Energy > Nightmare/Ascension tickets > Kina [106]. Odyle
+  Energy means more cubes, so it's stones for F2P.
+
 ## Other caps
 Daily Dungeon 14/week per server · Duty Missions 5/day per server · Battlefield 3 win rewards/week ·
 Subjugation 3 tickets/week · Abyss sieges Mon/Thu/Sat 21:00 server time (~~Wed + Sat~~ is KR), see `schedule.md` [3][4][62].

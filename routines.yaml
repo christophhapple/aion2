@@ -10,7 +10,7 @@ resets:
 routines:
   - id: duty
     name: Duty Missions
-    notes: 50,000 Kinah + 1,000 Abyss Points each (guides). Per server.
+    notes: Journal (J) → Duty tab. Pick by guaranteed slot-1 reward; Soul Crystal > Odyle Energy > tickets > Kina (guides). Per server or account. Details: knowledge/endgame.md.
     reset: daily
     cap: 5
 

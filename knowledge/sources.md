@@ -128,3 +128,9 @@ Added 2026-10-11 (Dimensional Invasion research).
 103. thegameswiki, Dimensional Invasion, undated, KR/TW, snippet only: https://thegameswiki.com/aion-2/wiki/dimensional-invasion
 104. Sportskeeda, Dimensional Invasion guide, ~2026-10, ?: https://www.sportskeeda.com/mmo/aion-2-dimensional-invasion-guide-how-complete-event-earn-rewards
 105. u4n, Spacetime Rift guide (PvP risks, survival), ~2026-10, ? (gold seller): https://www.u4n.com/news/aion-2-spacetime-rift-guide-opening-times-rewards-pvp-risks-and-survival-tips.html
+
+Added 2026-10-11 (Duty Missions research).
+
+106. games.gg, Duty Missions guide, updated 2026-10-05, ?: https://games.gg/aion-2/guides/aion-2-duty-missions-guide/
+107. neonsect, Level 45 Duties, 2026-10-07, G: https://neonsect.com/aion-2/aion-2-level-45-duties/
+108. allthings.how / thegameswiki duty quests, undated, ?, snippet only: https://thegameswiki.com/aion-2/wiki/duty-quests
