@@ -29,6 +29,7 @@ Bosses: eight level-65 Hero field bosses drop Unique armor sets and refining sto
   Points [80]. 27 duty scroll quests, suggested for levels 46–49, also drop Abyssal Power Shards [80].
 - **Abyss Points cap:** weekly, separate for PvE and PvP, resets Wednesday; amount unknown [50].
 - **Shop:** Stigma Shards and Azphel crystals for 10,000 Abyss Points each [80].
+- **Spend Abyss Points on Stigma Shards** (player's verdict 2026-10-11). Shards per Stigma level rise with the level (in-game 2026-10-11); exact numbers not recorded.
 - **Ereshkigal Monolith** (in Western Root, max level 20): uses Reshanta feathers only; gives permanent
   **PvP** stats + Azphel Daevanion Crystals [80][89][90]. Traces needed: 200 [80] **vs** 300 [89].
 
