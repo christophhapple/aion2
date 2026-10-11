@@ -69,6 +69,10 @@ Defiance isn't a hotbar skill: it's on Space and only usable while crowd-control
 - Power Burst (Lv 5): biggest single hit, heavy Stagger
 - Earth Punishment (Lv 5): single-target DoT (AoE already covered by baseline skills)
 
+Shard plan: Light of Protection first, cheap levels on the others along the way. Target
+**15 / 10 / 10 / 10** (80 shards total, 50 more than now), later **20 / 10 / 10 / 10** (120, +90).
+Costs: `knowledge/endgame.md` "Stigma levels". Shards come in slowly.
+
 **Defensive / progression (not built yet)**, for when content starts to bite: likely Summon
 Resurrection + Salvation + Light of Protection + a flex (Benevolence for sustain, or Yustiel's Power
 for a defensive cooldown). Open questions then: does the group run a Chanter (weakens Light of
@@ -89,7 +93,7 @@ Everything above is Mastery preset 1.
 Options per skill: `knowledge/cleric-skills.md`. Lv 20 slots locked everywhere (no Arcana yet).
 | Skill | Picked (option no., Lv 8 + 12 slots) | Why |
 |---|---|---|
-| Earth's Retribution | 1 +20% MP restored · 3 +50% Multi-Hit | |
+| Earth's Retribution | 1 +20% MP restored · 3 +50% Multi-Hit | Not the -7s Bolt CD: Retribution was rarely cast, so it never triggered; building around it was a mistake |
 
 ## Skill-point priority (old draft, not re-checked)
 Points are limited: level each skill to its next useful breakpoint and stop. Respec is free.
