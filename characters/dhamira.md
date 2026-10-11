@@ -23,4 +23,7 @@ Ferocious Horn Den 0/3. Conquest pity progress: not recorded yet.
   Skill point picks are general for now; rework once crafting goals are set (todo).
 - Crafting: none yet. Not worth it for now (see `knowledge/crafting.md`).
 
+## Gear notes (2026-10-11)
+- Ascension Bracelet: Unique +6, no Manastone yet; only one bracelet so far.
+
 ## Notes
