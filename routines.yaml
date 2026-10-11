@@ -35,7 +35,13 @@ routines:
     name: Ascension Trial
     reset: weekly
     cap: 3
-    notes: Needs GS ~1500 (unverified); ~3,500 Enhance Stones per clear.
+    notes: Difficulties by GS - Easy 1000, Normal 1500, Hard 2000, Extreme 2500 (in-game). ~3,500 Enhance Stones per clear (guides, difficulty not stated).
+
+  - id: conquest
+    name: Conquest cube opens
+    reset: weekly
+    cap: 10
+    notes: 10 cube opens/week (in-game); at 0 you can't enter. Always open the cube after a clear, skipping still uses one. 40 Odyle each. Krao Cave + Draupnir at GS 700+.
 
   - id: weekly-quests
     name: Weekly quests
