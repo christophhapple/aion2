@@ -19,6 +19,8 @@ tracker itself goes in `backlog.md`.
 - [ ] Verify: Nightmare: number of floors/levels, Phantasmal Fragments per clear, shop items + prices
 - [ ] Verify: Transfer tab: what does the preview show, and what makes a piece an eligible source? (once you have eligible gear)
 - [ ] *(low priority, later)* Rework gathering skill point picks once crafting goals are set and you switch to targeted farming (not enough points for everything; respec reportedly costs 50,000 Kinah)
+- [ ] Dhamira: screenshot all 13 Stigma tooltips (slotted ones first: Light of Protection, Prayer of Amplification, Power Burst) and go through them with Claude like the active skills. Settles the shard plan (Earth Punishment vs Light of Protection to 20) and what "Earth's Blessing" is
+- [ ] Dhamira: screenshot the 10 passive tooltips and go through them with Claude (names, effects, which are "important", where spare skill points go)
 
 ## Done
 - [x] Dhamira build page brought up to date with the game: hotbar, macro, Stigmas, levels, specialties, leveling priority (2026-10-11)
