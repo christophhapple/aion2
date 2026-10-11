@@ -21,8 +21,8 @@ nothing threatens you.
     window), Bolt (charge).
 - The macro is held down; manual keys take precedence while holding it, so nothing needs releasing.
 - MP is single-source: everything is paid for by weaving Earth's Retribution between spenders.
-- No direct self-heal: heals are party-wide or auto-target the lowest HP. Self-preservation =
-  positioning + reactive buttons.
+- Every heal also heals me (party heals include me; Healing Light heals me + the lowest-HP member).
+  No *dedicated* self-heal is needed; beyond that, self-preservation = positioning + reactive buttons.
 
 ## Macro (right click)
 The damage/maintenance button. Entries are hotbar slots, tried in order; delays left at the default 10 ms.
