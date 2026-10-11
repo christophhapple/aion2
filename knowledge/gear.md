@@ -112,4 +112,5 @@ Stats: Wisdom + Life (god stats), Constitution + Power (primary); Heal Boost (Pv
   included); same mechanics: each imprint rolls a random stat, re-imprinting a slot replaces it, higher
   stone tier = better odds [122, KR/global mix]. Another guide says one stone fills all sockets of a
   piece at once [122]. Conflicts with [115] (Superior Manastone in the bracelet). Unverified.
+- **Naming:** "Manastone" is both the item category and one stone type. Tooltips: "Superior Soulstone (Bound): Common Manastone" and "Superior Manastone (Bound): Common Manastone" (in-game 2026-10-11). The part after the colon is the category (+ grade), not the stone type. Metabot lists Soulstones under "Manastone" too [122].
 - Save high-tier stones for pieces you keep (bracelet, belt, amulet); low-tier on gear you'll replace [122].
