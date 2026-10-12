@@ -40,6 +40,9 @@ Holding right click alone never stops casting; in the window, Condemnation and T
 **Bursts are manual on top:** hold **E** while Earth Punishment and Chain are on the target (always
 crits, every crit resets it: pure Condemnation); hold **R** during Stagger for pure Scattershot.
 Pressing them is an upside, not a chore: without them the macro still runs.
+**Doesn't work as planned (in-game 2026-10-12):** holding E/R while holding the macro doesn't spam;
+you have to let go of the macro. Single presses still go through. Under consideration: Condemnation
+repeated ~10× in the macro instead.
 
 **MP:** Retribution isn't in the macro; MP drains fast. Refill by left click to ~50%, then back.
 Kept that way on purpose: refilling and bursting stay separate, so I choose when each happens.
