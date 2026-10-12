@@ -29,7 +29,7 @@ routines:
     name: Daily Dungeon
     reset: weekly
     cap: 14
-    notes: Solo. 14 tickets/week, cap 14 (in-game). Shared server pool across characters. ~10,000 Enhance Stones per clear (score-based), the top stone source.
+    notes: Solo. 14 tickets/week, cap 14 (in-game). Shared server pool across characters. 6–7k Enhance Stones per clear on average (in-game, GS ~1100; guides say ~10k, score-based), the top stone source.
 
   - id: ascension
     name: Ascension Trial
