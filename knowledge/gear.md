@@ -83,6 +83,26 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
   Phantasmal Fragments per chest) [20]; Season shop (4,000 Oath Coins) [20]; events, free Daeva Pass
   track, world bosses [20]. Premium pass + cash shop are paid (not relevant, F2P).
 
+## Arcana (cards)
+- Equip from **Lv 45** [158]. Slots: **5** (Chalice, Parchment, Compass, Bell, Mirror; global client
+  data) [158] **vs** 4 in season 1 [159]. Each card fits exactly one slot [159].
+- Each slot has a **Vigor** and a **Magic** version. Sets [158]:
+  - Primal Vigor: 2 pieces +60 PvE Attack above 70% HP, 4 pieces +150.
+  - Magic Armor: 2 pieces restore 1,500 MP at ≤20% MP (30 s cooldown); 4 pieces +1,000 PvE Defense at ≥50% MP.
+- Per grade [158]: Common GS 20, 1 skill level, max +2 · Rare GS 40, 2 skill levels, max +3 ·
+  Epic GS 60, 3 skill levels, max +4 · Unique GS 80, 4 skill levels, max +5. Skill levels go to skills
+  listed on the card; each upgrade adds +1 to a random skill line already on it [160]. Matches the GS
+  line above, except for the Common value.
+- **Upgrade:** no Enhance Stones, no failure; feed Training Arcana (200–5,000 EXP each) or spare cards.
+  Unique to +5 = 93,000 EXP. EXP carries over when an upgraded card is used as material [158] **vs**
+  "not 1:1, you lose some" [160].
+- Spare duplicates → extract into Mysterious Crystals → Transmutation makes a Unique card for a chosen
+  slot + set (5 crystals + 2M Kina; each of up to 2 sub-stats +10 crystals + 3M). Resets each season [158].
+- Sources: Transcendence (GS 1600+, Unique from tier 3) [158], battle pass, coin shop, attendance [158].
+- Guide advice: fill every slot at 45, pick Vigor or Magic early for the 2-piece bonus, upgrade only
+  cards you keep; a set-completing card can beat a higher-rarity one [158][160].
+  Season 1 KR/Asia suggestion: Vigor on Chalice + Parchment, Magic on Compass, Bell, Mirror [160, KR-era].
+
 ## Currencies
 Kinah (gold) · Odyle Energy (+15/3h = 120/day; cap 560 [3] **vs** 840 [4]) · Enhance Stones ·
 Amplify Stone (Fragments) · Abyss Points · Phantasmal Fragments (Nightmare shop) · Oath Coins (Season
