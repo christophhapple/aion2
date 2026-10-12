@@ -84,8 +84,9 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
   track, world bosses [20]. Premium pass + cash shop are paid (not relevant, F2P).
 
 ## Arcana (cards)
-- Equip from **Lv 45** [158]. Slots: **5** (Chalice, Parchment, Compass, Bell, Mirror; global client
-  data) [158] **vs** 4 in season 1 [159]. Each card fits exactly one slot [159].
+- Equip from **Lv 45** [158]. Slots: **5** (in-game 2026-10-12; Chalice, Parchment, Compass, Bell,
+  Mirror [158]; ~~4 in season 1~~ [159]). Each card fits exactly one slot [159].
+- **Training Arcana** can drop before you own any card (in-game 2026-10-12); they're upgrade fodder only.
 - Each slot has a **Vigor** and a **Magic** version. Sets [158]:
   - Primal Vigor: 2 pieces +60 PvE Attack above 70% HP, 4 pieces +150.
   - Magic Armor: 2 pieces restore 1,500 MP at ≤20% MP (30 s cooldown); 4 pieces +1,000 PvE Defense at ≥50% MP.
