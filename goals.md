@@ -11,7 +11,7 @@ Background: `knowledge/progression.md`.
 | Upgrade Revelation amulet | Dhamira | Epic +9 | Unique (next: Epic +10 → transmute) | Never replaced; scrolls from Monolith levels (feathers) |
 | Get a spare Clash Rune | Dhamira | 0 | 1 spare | Upgrading past +1 can destroy the rune (in-game); only try with a backup. Nightmare shop: 500 Phantasmal Fragments per chest |
 | First Nightmare clear | Dhamira | not yet | cleared once | Phantasmal Fragments → Clash Rune chests, Pantheon |
-| Shugo minigame titles (3 runs each) | Dhamira | 3/9 titles; runs: Jump Jump 3, Not This Tile? 3, Odyle Flight Frenzy 3, Mysterious Track 2, Defend Shugo Merchants 2, Wraith Evasion 1, Hidden Lugi 1, Goldrin's Treasure 1, Up! Up! Up! 0 (2026-10-11) | 9/9 | Small owned bonuses; 11 runs left. You pick the minigame each festival |
+| Shugo minigame titles (3 runs each) | Dhamira | 3/9 titles; runs: Jump Jump 3, Not This Tile? 3, Odyle Flight Frenzy 3, Mysterious Track 2, Defend Shugo Merchants 2, Wraith Evasion 1, Hidden Lugi 2, Goldrin's Treasure 1, Up! Up! Up! 0 (2026-10-12) | 9/9 | Small owned bonuses; 10 runs left. You pick the minigame each festival |
 
 ## Done
 - [x] Gear score 1400 reached (now 1500): Conquest ★2 Urugugu + Vakron open (2026-10-12)
