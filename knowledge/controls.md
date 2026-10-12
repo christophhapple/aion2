@@ -23,6 +23,7 @@ All in-game 2026-10-11 unless dated otherwise.
   nothing, so a skill that is not ready just falls through to the next entry.
 - Each macro entry has a **Delay** field in ms (default 10). Probably a wait after that entry
   (unconfirmed).
+- **The macro holds at most 20 entries** (in-game 2026-10-12).
 - **The same slot can appear several times in the macro** (in-game 2026-10-11). Repeating an entry is
   the way to give a skill more tries per pass.
 - **A skill can only be in one slot** (in-game 2026-10-11): it can't sit in two queues at once.
