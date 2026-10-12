@@ -37,8 +37,8 @@ Exploration mode (easy) of most expeditions opens much earlier: Krao 200, Urugug
 1. **Daily Dungeon, all 14 runs.** 140k stones/week, with no Odyle cost. Nothing else comes close.
 2. **Spend Odyle Energy before it caps** (560): Krao + Draupnir Conquest (40 per cube, 2,000 stones,
    gear toward the IL 54 set), or Krao/Urugugu Exploration (20 per cube, 1,000–1,500 stones).
-   Conquest is limited to **10 cube opens per week**; at 0 you can't enter (in-game). Exploration has no
-   such limit. Never clear without opening the cube: that still uses one up.
+   Conquest allows 10 clears per week *without* opening the cube; at 0 you can't enter (in-game).
+   Exploration has no such limit. Always open the cube: skipping it lowers the count.
 3. Nightmare (2/day, banks): Phantasmal Fragments for a spare Clash Rune.
 
 **Once:**
