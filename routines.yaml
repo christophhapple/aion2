@@ -39,7 +39,7 @@ routines:
 
   - id: commands
     name: Command Scrolls (PvE)
-    notes: Journal → Duty → Commands (in-game). Bought from the Command Merchant in the capital, up to 12/week (guides). Worth it? Cost and rewards not checked yet.
+    notes: Journal → Duty → Commands (in-game). Bought from the Command Merchant in the capital, up to 12/week (guides). Common one 15,000 Kina (in-game); comes in rarities. Rewards not checked yet.
     reset: weekly
 
   - id: shugo
