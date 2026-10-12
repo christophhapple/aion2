@@ -13,16 +13,21 @@ All in-game 2026-10-11 unless dated otherwise.
   top. So two ready skills in one queue alternate; the first one is not spammed.
   A skill is skipped for *any* reason it can't be cast:
   cooldown, missing MP, out of range, or an unmet condition (e.g. "target must be Staggered").
-- **Macro:** one special queue holding any number of hotbar *slots*, in order, on its own key.
+- **Macro:** one special queue holding hotbar *slots* (max 20 entries), in order, on its own key.
+  **Each entry gives its slot one try** (in-game 2026-10-12): it casts one skill from that slot's queue
+  (the queue's own cycle decides which), then the macro moves on. It doesn't run the whole queue.
   **It's a sequence, not a priority list** (tested in-game 2026-10-11): it steps through the entries in
   order and loops; after a cast it continues with the *next* entry, it doesn't restart at entry 1.
   Entries with nothing castable are skipped. So a skill gets at most one try per pass, even if it's
   ready again (tested with Scattershot during Stagger: it mixed with the other entries).
 - **No real "fire whenever ready" exists**, since slot queues cycle too (in-game 2026-10-12). The way to
-  weight a skill is to give it its own slot and **repeat that slot in the macro**: skipped entries cost
-  nothing, so a skill that is not ready just falls through to the next entry.
-- Each macro entry has a **Delay** field in ms (default 10). Probably a wait after that entry
-  (unconfirmed).
+  weight a skill is to give it its own slot and **repeat that slot in the macro**: a skill that is not
+  ready falls through to the next entry, at the cost of that entry's delay.
+- Each macro entry has a **Delay** field in ms (default 10), set up to at least 9900. **It's a wait
+  after that entry, and it applies even when the entry is skipped** (in-game 2026-10-12: Condemnation
+  on cooldown with a 9900 ms delay → the macro sat idle ~10s). So a skipped entry costs its delay;
+  keep delays at the default on entries that are often skipped.
+  ~~Skipped entries cost nothing~~ (own assumption, 2026-10-11).
 - **The macro holds at most 20 entries** (in-game 2026-10-12).
 - **The same slot can appear several times in the macro** (in-game 2026-10-11). Repeating an entry is
   the way to give a skill more tries per pass.
