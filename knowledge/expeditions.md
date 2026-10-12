@@ -44,7 +44,7 @@ third mode" [46]~~. KR added Hard in Dec 2025 [52][53, KR]. **Vakron Conquest re
   view. Tooltip: clearing and leaving *without* obtaining the Odyle cube rewards lowers the count; at 0
   you can't enter Conquest **or Transcendence** (in-game 2026-10-12; ~~only a warning [50]~~). Not
   Exploration (in-game). So it's a cap on runs without spending Odyle, **not** a target to use up.
-  Whether opening the cube also lowers it: wording is ambiguous ("will still lower"), unverified.
+  Clears where the cube is opened (Odyle spent) do **not** lower it (in-game 2026-10-12).
   ~~10 cube opens per week~~ (our earlier reading). Likely purpose (own guess): Conquest also drops gear
   and wing feathers outside the cube, and this stops farming those without spending Odyle.
 - Odyle Energy: +15 per 3h = 120/day (= 3 cubes at 40, or 6 at 20). Cap 560 (840 is membership, paid);
