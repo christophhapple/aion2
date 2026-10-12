@@ -14,7 +14,7 @@ tracker itself goes in `backlog.md`.
 - [ ] Check (once a pet is fully levelled): does targeting a monster of that pet type show it as done?
 - [ ] Check (next Invasion): where does the game show how many Invasion keys you have left (join screen, reward screen, inventory)?
 - [ ] *(low priority)* One more Spacetime Rift trip (2/3 so far) for the title "Hello There" (owned bonus). Combine with the Altgard Stronghold check
-- [ ] Check: Command Scrolls: weekly limit at the town merchant? Do town Commons count against the Abyss shop's Common 0/5? What do Rare/Epic/Unique scrolls ask for and reward (worth 37.5k–150k Kina?)
+- [ ] Check: Command Scrolls: weekly limit at the town merchant (guides: 12)? *(low priority)* What do the Abyss Rare/Epic/Unique scrolls reward?
 - [ ] Check: how many Abyss Points does a Stigma Shard cost in the shop (guides: 10,000)?
 - [ ] Verify: Nightmare: number of floors/levels, Phantasmal Fragments per clear, shop items + prices
 - [ ] Verify: Transfer tab: what does the preview show, and what makes a piece an eligible source? (once you have eligible gear)
