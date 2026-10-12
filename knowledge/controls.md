@@ -28,6 +28,12 @@ All in-game 2026-10-11 unless dated otherwise.
   on cooldown with a 9900 ms delay → the macro sat idle ~10s). So a skipped entry costs its delay;
   keep delays at the default on entries that are often skipped.
   ~~Skipped entries cost nothing~~ (own assumption, 2026-10-11).
+- **The macro doesn't wait for a cast to finish** (in-game 2026-10-12): even "instant" skills lock
+  the character briefly, and entries tried during that lock are skipped. With 10–30 ms delays the macro
+  loops through its entries several times per cast, and whichever entry it's on when the lock ends
+  fires (three debuff-queue entries in a row still let Judgment Thunder slip in between). With
+  1000 ms after each of three debuff-queue entries, Debilitating Mark → Chain of Torment → Earth
+  Punishment came out cleanly one after the other. The exact lock length is unknown.
 - **The macro holds at most 20 entries** (in-game 2026-10-12).
 - **The same slot can appear several times in the macro** (in-game 2026-10-11). Repeating an entry is
   the way to give a skill more tries per pass.
