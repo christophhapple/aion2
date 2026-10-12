@@ -72,16 +72,11 @@ with patches. Therefore:
 | File | Artifact | For |
 |---|---|---|
 | `share/progression.html` | https://claude.ai/artifact/F3iG6ZURLga2drR3yxQqRx | Hamme (friend): progression map, schedule |
-| `share/ask.html` | https://claude.ai/artifact/FArWMtnBrPqYVZcHdPcKBM | Hamme (friend): chat with Claude over all of `knowledge/` |
 
 - Generated from `knowledge/` (mainly `progression.md`, `expeditions.md`, `gear.md`, `schedule.md`). Character-neutral,
   no personal data. Each fact shows an "In-game" or "Guides" tag.
 - When those knowledge files change in a way the page shows, update the HTML and republish with the
   Artifact tool, passing the URL above as `url`, so the link stays the same. Mention it in the reply.
-- `ask.html` is built, never edited by hand: change `share/ask.template.html`, then run
-  `node share/build-ask.mjs`, which inlines every `knowledge/*.md`. Rebuild and republish after **any**
-  `knowledge/` commit (no personal data may ever land in `knowledge/`, since this page ships all of it).
-  It uses the `sample` capability: questions run on the viewer's own Claude account.
 
 ## Computing status
 
