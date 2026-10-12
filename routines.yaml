@@ -39,7 +39,7 @@ routines:
 
   - id: commands
     name: Command Scrolls (PvE)
-    notes: Journal → Duty → Commands (in-game). Bought from the Command Merchant in the capital. Common 15,000 Kina → 1,000 Abyss Points + random extras (AP, Enhance Stones) (in-game). Cap 12/week is from guides, unconfirmed.
+    notes: Journal → Duty → Commands (in-game). Bought from the Command Merchant in the capital. Common 15,000 Kina → 1,000 Abyss Points + random extras (AP, Enhance Stones) (in-game). Cap 12/week (in-game).
     reset: weekly
     cap: 12
 

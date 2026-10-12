@@ -14,7 +14,7 @@ tracker itself goes in `backlog.md`.
 - [ ] Check (once a pet is fully levelled): does targeting a monster of that pet type show it as done?
 - [ ] Check (next Invasion): where does the game show how many Invasion keys you have left (join screen, reward screen, inventory)?
 - [ ] *(low priority)* One more Spacetime Rift trip (2/3 so far) for the title "Hello There" (owned bonus). Combine with the Altgard Stronghold check
-- [ ] Check: Command Scrolls: weekly limit at the town merchant (guides: 12)? *(low priority)* What do the Abyss Rare/Epic/Unique scrolls reward?
+- [ ] *(low priority)* Check: what do the Abyss Rare/Epic/Unique Command Scrolls reward?
 - [ ] Check: how many Abyss Points does a Stigma Shard cost in the shop (guides: 10,000)?
 - [ ] Verify: Nightmare: number of floors/levels, Phantasmal Fragments per clear, shop items + prices
 - [ ] Verify: Transfer tab: what does the preview show, and what makes a piece an eligible source? (once you have eligible gear)
@@ -28,6 +28,7 @@ tracker itself goes in `backlog.md`.
 - [ ] *(low priority, later)* Dhamira: try Condemnation option 1 (+100 MP per hit) instead of option 2 (+12% on fewer targets) for a few fights; compare how often you need to refill MP with the macro Variant A
 
 ## Done
+- [x] Command Scrolls: town merchant = Common only, Verteron missions, 12/week; Abyss shop separate (2026-10-12)
 - [x] Unobtained cube count: only clears left without opening the cube lower it; opened cubes don't count (2026-10-12)
 - [x] Dhamira build page brought up to date with the game: hotbar, macro, Stigmas, levels, specialties, leveling priority (2026-10-11)
 - [x] Dhamira: slot 4 swapped to Prayer of Amplification → Divine Aura (2026-10-11)
