@@ -204,3 +204,7 @@ Added 2026-10-12 (Arcana).
 158. metabot.gg, Arcana guide, 2026-10-01 (upd. 10-06), G client data: https://metabot.gg/en/aion-2/guides/arcana-guide
 159. mein-mmo, Arcana/Daevanion/Pet systems, ~2026-10, ?, search summary: https://mein-mmo.de/en/aion-2-arkana-daevanion-pet-you-need-to-understand-and-master-these-3-systems,1589883/
 160. gameplay.tips Arcana guide + PlayNews Arcana cards, ~2026-10, KR/Asia-era parts, search summary: https://gameplay.tips/guides/aion-2-arcana-card-system-guide.html · https://www.playnews.gg/en/guides/aion-2-arcane-cards-overview-and-optimization
+
+Added 2026-10-12 (Eternal Isle).
+
+161. allthings.how map pages (Eternal Water Spirit etc.), undated, G?, fan map: https://allthings.how/aion-2/map/eternal-water-spirit/

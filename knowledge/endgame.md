@@ -90,6 +90,9 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
   Abyss Points, materials [106][108]. Older figure: 50,000 Kinah + 1,000 Abyss Points each [50].
 - **Pick by slot 1:** Soul Crystal > Odyle Energy > Nightmare/Ascension tickets > Kina [106]. Odyle
   Energy means more cubes, so it's stones for F2P.
+- **Eternal Isle** (Verteron, Elyos): duty location ("Eternal Isle: Protect the Daeva", "…: Scary
+  Spirits", 10 kills → 1,000 Abyss Points) with Lv ~51 mobs. Nearest teleport statue: **Aullaeu Village
+  Sky Island**, ~1.7–1.9 km from the island [161]. Route from there (fly/glide?): not checked.
 
 ## Pets
 - Mobs drop **pet souls** on kill; they don't go to the inventory and can't be hovered. **Progress is
