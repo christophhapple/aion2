@@ -24,11 +24,11 @@ tracker itself goes in `backlog.md`.
 - [ ] Test the macro (target dummy / easy mob): (1) during a Stagger, hold the macro: does only Scattershot repeat (priority list) or does it mix with Thunder/Retribution (sequence)? (2) Set all delays to 500 ms: does the pace drop even when only one entry can fire (delay applies to every entry) or only between casts? See `knowledge/controls.md`
 - [ ] Test slot queues: temporarily put Judgment Thunder → Earth's Retribution in one slot, press it repeatedly with MP > 96. Thunder only = priority, alternating = cycles like the macro. Put Retribution back on slot 11 after. See `knowledge/controls.md`
 - [ ] *(low priority)* Dhamira: Stagger during the Earth Punishment window: what happens when holding E and R at once? (If unclear, prefer E)
-- [ ] Check (next Conquest): note the "Remaining Unobtained Cube Count" before, clear and open the cube, check again. Still 10 = only skipped cubes count; 9 = every clear counts
 - [ ] Pets / Genus Insight: save Soul Crystals, level boards with pets first; start pressing Analyze (nothing locked) once a board reaches Genus level 5. See `knowledge/endgame.md` "Pets"
 - [ ] *(low priority, later)* Dhamira: try Condemnation option 1 (+100 MP per hit) instead of option 2 (+12% on fewer targets) for a few fights; compare how often you need to refill MP with the macro Variant A
 
 ## Done
+- [x] Unobtained cube count: only clears left without opening the cube lower it; opened cubes don't count (2026-10-12)
 - [x] Dhamira build page brought up to date with the game: hotbar, macro, Stigmas, levels, specialties, leveling priority (2026-10-11)
 - [x] Dhamira: slot 4 swapped to Prayer of Amplification → Divine Aura (2026-10-11)
 - [x] Dimensional Invasion: no rewards without a key (cancel keeps it); round ~5 of 10 min; Beritra Air Raid seen (2026-10-11)
