@@ -193,3 +193,8 @@ Added 2026-10-12 (field boss loot).
 153. metabot.gg, field boss drop tables (Kashapa/Dartan), undated, G?, search summary: https://metabot.gg/en/aion-2/bosses
 154. metaroad.gg, Field Bosses: Contribution, Loot and Respawns, 2026-09-28 (upd. 2026-10-11), based on KR build: https://metaroad.gg/aion2/dungeons/aion-2-field-bosses-contribution-and-loot
 155. aion2hub, KR patch 2026-09-03, **KR**, snippet only: https://aion2hub.com/updates/aion-2-update-2026-09-03
+
+Added 2026-10-12 (pet Genus Insight).
+
+156. gameplay.tips, Pet Genus system guide, 2026-10-02, KR + G BIS lists: https://gameplay.tips/guides/aion-2-pet-genus-system-guide.html
+157. wikily.gg, Genus Insight (costs, EXP table), modified 2026-10-06, ?: https://wikily.gg/aion-2/genus-insight
