@@ -73,13 +73,13 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
 - **Where:** Journal (J) → Duty tab, which has **two sub-tabs: Missions** (the 5/day duties below; what
   players call "duties") **and Commands** (Command Scrolls you buy) (in-game 2026-10-11).
 - **Commands = Command Scrolls**, bought from a Command Merchant, 4 rarities (in-game 2026-10-12):
-  - **Town (capital) merchant: Common only**, 15,000 Kina. Weekly limit there: not checked (guides: 12 [123]).
-  - **Abyss merchant** ("Command Shop", Latesran Western Root scrolls): **all four**: Common 15,000 ·
+  - **Town (capital) merchant: Common only**, 15,000 Kina; its missions are in **Verteron** (PvE).
+    Separate scroll and separate limit from the Abyss shop. Weekly limit: not checked (guides: 12 [123]).
+  - **Abyss merchant** ("Command Shop", Latesran Western Root scrolls, missions **in the Abyss**, PvP zone): **all four**: Common 15,000 ·
     Rare 37,500 · Epic 75,000 · Unique 150,000 Kina; **5 per rarity per week, per server** (resets with
     the weekly reset) (in-game 2026-10-12; matches [80], 20/week [123]).
   - Common reward: **1,000 Abyss Points** guaranteed + random extras: more Abyss Points, Enhance Stones,
-    **Soul Crystals** (one run: +400 AP, +1,000 stones) (in-game 2026-10-12). Higher rarities' rewards
-    and whether town and Abyss Commons share a limit: not checked. Crafting and pet materials too [123].
+    **Soul Crystals** (one run: +400 AP, +1,000 stones) (in-game 2026-10-12). Higher rarities' rewards: not checked. Crafting and pet materials too [123].
 - **Cap:** 5 rewarded missions per day; per server [107] **vs** per account [106]. Banks up to 20
   per one checklist [`schedule.md`] **vs** "unused ones are lost" [106].
 - **You can only have 5 accepted at a time** (in-game 2026-10-11), so choose; you can't grab the whole list.
