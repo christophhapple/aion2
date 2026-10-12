@@ -39,4 +39,4 @@ Researched 2026-10-11. Times: `schedule.md`. Sources [n]: `sources.md`. Unverifi
 - Centuryroot Tokens are spent in the **Festival Shop** (growth materials, skins) [100][101].
 
 **So:** worth doing **only with a key**, ~1 per day; ~5 min for maybe ~1,900 stones. Small next to
-the Daily Dungeon (6–7k at GS ~1100, in-game). Keys bank to 7, so no need to go every day.
+the Daily Dungeon (6–7k at GS 1100–1500, in-game). Keys bank to 7, so no need to go every day.
