@@ -27,6 +27,14 @@ reading the global client [61][62][63]; unverified unless tagged `in-game`. Sour
 | Arena of Tactics (10v10) | daily 11:00–14:00, 19:00–21:00 | 10 min matches | 45 | Single source [63]; "not confirmed" [61] |
 | Field bosses (Verteron etc.) | no fixed time: respawn timer on the map | – | ~45 | Kina, gear, Manastones, stones [61] |
 
+**Field boss loot:** the map tooltip lists Unique, Epic and Rare possible loot, but a looted chest showed
+only Rare items in its pool (in-game 2026-10-12). Guides: a guaranteed boss chest plus separately rolled
+drops; Unique gear ~6–13% per piece, and the "Epic" is a refining stone, not gear [153]. The merit chest
+goes per party, its token count scales with party contribution, the top individual or tagger gets nothing
+extra, dead players get no party reward [154]. Whether contribution changes the chest's *rarity* pool is
+not documented anywhere (unverified). KR patch 2026-09-03: contribution rewards go to every character on
+the map at the kill, ranked [155].
+
 ## B. Refilling counters (bank up to a cap)
 
 | Counter | Refill | Cap | Per |

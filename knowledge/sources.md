@@ -187,3 +187,9 @@ Added 2026-10-11 (Sorcerer skills research).
 150. aion2hub, KR patch 2026-01-28, **KR** (no Sorcerer section): https://aion2hub.com/updates/aion-2-update-2026-01-28
 151. thegameswiki, Sorcerer skills, undated, G?, snippet only (page blocked): https://thegameswiki.com/aion-2/wiki/sorcerer-skills
 152. Inven, Sorcerer tips board, undated, **KR**, snippet only: https://www.inven.co.kr/board/aion2/6444/2005
+
+Added 2026-10-12 (field boss loot).
+
+153. metabot.gg, field boss drop tables (Kashapa/Dartan), undated, G?, search summary: https://metabot.gg/en/aion-2/bosses
+154. metaroad.gg, Field Bosses: Contribution, Loot and Respawns, 2026-09-28 (upd. 2026-10-11), based on KR build: https://metaroad.gg/aion2/dungeons/aion-2-field-bosses-contribution-and-loot
+155. aion2hub, KR patch 2026-09-03, **KR**, snippet only: https://aion2hub.com/updates/aion-2-update-2026-09-03
