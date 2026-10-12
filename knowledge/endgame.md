@@ -74,7 +74,7 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
   players call "duties") **and Commands** (Command Scrolls you buy) (in-game 2026-10-11).
 - **Commands = Command Scrolls**, bought from a Command Merchant, 4 rarities (in-game 2026-10-12):
   - **Town (capital) merchant: Common only**, 15,000 Kina; its missions are in **Verteron** (PvE).
-    Separate scroll and separate limit from the Abyss shop. Weekly limit: not checked (guides: 12 [123]).
+    Separate scroll and separate limit from the Abyss shop. **12 per week** (in-game 2026-10-12; matches [123]).
   - **Abyss merchant** ("Command Shop", Latesran Western Root scrolls, missions **in the Abyss**, PvP zone): **all four**: Common 15,000 ·
     Rare 37,500 · Epic 75,000 · Unique 150,000 Kina; **5 per rarity per week, per server** (resets with
     the weekly reset) (in-game 2026-10-12; matches [80], 20/week [123]).
