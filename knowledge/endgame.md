@@ -94,6 +94,8 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
   Spirits", 10 kills → 1,000 Abyss Points) with Lv ~51 mobs. Route: teleport to **Aullaeu Village Sky
   Island** (~1.7–1.9 km away [161]), then a **wind stream** carries you to the island, so flight gauge
   isn't an issue (in-game 2026-10-12).
+- **Crimson Isle** (Verteron, Elyos): has its own teleport statue, **Crimson Isle Outpost**; mobs
+  ~100–270 m from it, Lv ~46. Duty "Crimson Isle: Source of Danger", 20 kills → 1,000 Abyss Points [161].
 
 ## Pets
 - Mobs drop **pet souls** on kill; they don't go to the inventory and can't be hovered. **Progress is
