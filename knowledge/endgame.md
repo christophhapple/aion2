@@ -98,7 +98,7 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
 - **Genus Insight** (pet families): 5 boards (Cogni, Fera, Natura, Varian, Special), each with 9 stat
   lines. Insight level n opens line n, up to Lv 9; higher level = better grade odds per roll [156][157].
   The highest level reached counts for all characters on the server [157].
-- **Analyze** rerolls random stats on all open, unlocked lines. Cost 4 Soul Crystals (of that genus or
+- **Analyze** rerolls random stats on all open, unlocked lines. Cost 4 Soul Crystals (name in-game 2026-10-12; of that genus or
   plain) + 1,000 Kina; locking lines raises it steeply (1 lock 8 / 2,000, 3 locks 36 / 9,000, 8 locks
   396 / 99,000) [157].
 - Insight EXP: new pet 500, pet Insight Lv 2 and Lv 3 +250 each, **+100 per line analyzed** [157], so
