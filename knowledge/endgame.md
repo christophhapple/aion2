@@ -74,8 +74,9 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
   players call "duties") **and Commands** (Command Scrolls you buy) (in-game 2026-10-11).
 - **Commands = Command Scrolls:** bought from the Command Merchant; PvE ones in the capital, up to 12/week
   per server; PvP ones in the Abyss, up to 20/week [123]. Abyss scrolls cost 37.5k / 75k / 150k Kina,
-  each hunt pays ~1,000 Abyss Points [80]; also crafting and pet materials [123]. Cost and rewards of
-  the PvE scrolls: not checked.
+  each hunt pays ~1,000 Abyss Points [80]; also crafting and pet materials [123]. PvE scrolls come in
+  rarities; a **Common** one costs **15,000 Kina** at the Command Merchant in the capital (in-game
+  2026-10-12). Higher rarities' price, rewards and the weekly cap: not checked.
 - **Cap:** 5 rewarded missions per day; per server [107] **vs** per account [106]. Banks up to 20
   per one checklist [`schedule.md`] **vs** "unused ones are lost" [106].
 - **You can only have 5 accepted at a time** (in-game 2026-10-11), so choose; you can't grab the whole list.
