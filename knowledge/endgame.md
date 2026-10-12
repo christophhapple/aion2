@@ -103,6 +103,25 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
   396 / 99,000) [157].
 - Insight EXP: new pet 500, pet Insight Lv 2 and Lv 3 +250 each, **+100 per line analyzed** [157], so
   analyzing also levels the board.
+- EXP to next level / grade odds per roll [157]:
+
+  | Lv | EXP to next | Odds per line |
+  |---|---|---|
+  | 1 | 500 | C 90, R 10 |
+  | 2 | 1,500 | C 70, R 30 |
+  | 3 | 3,000 | C 55, R 45 |
+  | 4 | 5,000 | C 50, R 45, E 5 |
+  | 5 | 10,000 | C 45, R 45, E 10 |
+  | 6 | 20,000 | C 40, R 40, E 20 |
+  | 7 | 40,000 | C 35, R 34, E 30, U 1 |
+  | 8 | 70,000 | C 30, R 30, E 35, U 5 |
+  | 9 | 100,000 | C 25, R 25, E 39, U 10, H 1 |
+  | 10 | max | C 20, R 30, E 30, U 15, H 5 |
+
+  Total to Lv 10: 250,000 per board. A fully raised pet gives 1,000, so pets alone reach roughly Lv 6–7
+  (pets per genus not checked); the rest has to come from Analyze. Each roll gives 100 per open line,
+  so the same 4 crystals give 9× more EXP at Lv 9 than at Lv 1 (own arithmetic from [157]). Stat
+  values per grade: not found.
 - Guide advice: level every board to 10 and ignore the stats along the way, lock nothing before 10.
   At 10, reroll unlocked until line 4 shows the best stat, then lock [156]. Soul Crystals also come
   from duty quests [106] and hidden cubes [115].
