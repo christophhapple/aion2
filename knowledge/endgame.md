@@ -76,7 +76,9 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
   per server; PvP ones in the Abyss, up to 20/week [123]. Abyss scrolls cost 37.5k / 75k / 150k Kina,
   each hunt pays ~1,000 Abyss Points [80]; also crafting and pet materials [123]. PvE scrolls come in
   rarities; a **Common** one costs **15,000 Kina** at the Command Merchant in the capital (in-game
-  2026-10-12). Higher rarities' price, rewards and the weekly cap: not checked.
+  2026-10-12). Common reward: **1,000 Abyss Points** guaranteed + random extras (one run: +400 Abyss
+  Points, +1,000 Enhance Stones) (in-game 2026-10-12). Higher rarities' price/rewards and the weekly cap
+  (12 per guides): not checked.
 - **Cap:** 5 rewarded missions per day; per server [107] **vs** per account [106]. Banks up to 20
   per one checklist [`schedule.md`] **vs** "unused ones are lost" [106].
 - **You can only have 5 accepted at a time** (in-game 2026-10-11), so choose; you can't grab the whole list.
