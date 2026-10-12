@@ -10,13 +10,17 @@
 | Gear score | 1106 |
 | Combat Power | 53.42K |
 | Server | Nania (EU) |
-| Updated | 2026-10-10 |
+| Updated | 2026-10-12 |
 
 Build: [dhamira-build.md](dhamira-build.md)
 
 ## Expedition pity (Exploration, 2026-10-10)
 Krao Cave claimed · Draupnir 1/3 · Urugugu Canyon claimed · Fire Temple claimed · Vakron 0/3 ·
 Ferocious Horn Den 0/3. Conquest pity progress: not recorded yet.
+
+## One-time content (2026-10-12)
+Verteron done: all regional (green) quests incl. Spacetime Rift, Sealed Dungeons, Strongholds, feathers
+(feathers: no completion menu; map scanned, confident).
 
 ## Professions (2026-10-10)
 - Gathering (Essence Extraction): **Professional 50**, promotion done. Gathers whatever comes along.
