@@ -24,6 +24,7 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
 | Epic | blue |
 | Unique | gold |
 | Heroic | not seen yet |
+| Special (consumables, runes) | teal (in-game 2026-10-13, Clash Rune) |
 
 ## Enhancement (normal gear)
 - **+1 to +10: always succeeds** [21][22] (earlier: "always" [12] **vs** chance-based only from +10 [12];
@@ -74,7 +75,11 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
 - Fierce Battle Amulet (Abyss) uses Abyss Shop scrolls, which don't work on the Revelation Amulet [35][38].
 
 ## Clash Runes
-- 2 slots [19][20]; ~40 GS per rune [20] (unclear whether per rune or per level; not checked in-game).
+- 2 slots [19][20]. **GS: 40 per rune + 1 per enhancement level** (in-game 2026-10-13: tooltip of a +2
+  rune shows "Item Level 40(+2)"; matches ~40 per rune [20]).
+- Grade "Special" (teal background). Stats on a +2 rune: PvE Damage Tolerance 0.5% (+1% from
+  enhancement), PvE Damage Boost 0.5%, Penetration 100, Combat Speed 1%, Multi-hit Chance 1%; required
+  level 10 (in-game 2026-10-13). So enhancing adds only +1 GS per level but also boosts a stat line.
 - Apparently only one kind of Clash Rune (user's impression 2026-10-13, unconfirmed), so a spare from
   any source works as backup.
 - Upgrade: Clash Rune Enhance Scrolls + Kina + Enhance Stones. Success: +1 100%, +2 80%, +3 66%,

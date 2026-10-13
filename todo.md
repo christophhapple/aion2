@@ -17,7 +17,7 @@ tracker itself goes in `backlog.md`.
 - [ ] *(low priority)* Check: what do the Abyss Rare/Epic/Unique Command Scrolls reward?
 - [ ] Check: how many Abyss Points does a Stigma Shard cost in the shop (guides: 10,000)?
 - [ ] Verify: Nightmare: number of floors/levels, Phantasmal Fragments per clear, shop items + prices (incl. Daevanion points: price per point and how many can be bought)
-- [ ] Check: Clash Rune GS: is "~40 GS per rune" per rune or per level? (Rune tooltip, or GS before/after the next upgrade.) And is there really only one kind of Clash Rune?
+- [ ] Check: is there really only one kind of Clash Rune (same stat lines on every rune)?
 - [ ] Verify: Transfer tab: what does the preview show, and what makes a piece an eligible source? (once you have eligible gear)
 - [ ] *(low priority, later)* Rework gathering skill point picks once crafting goals are set and you switch to targeted farming (not enough points for everything; respec reportedly costs 50,000 Kinah)
 - [ ] Dhamira: screenshot all 13 Stigma tooltips (slotted ones first: Light of Protection, Prayer of Amplification, Power Burst) and go through them with Claude like the active skills. Settles the shard plan (Earth Punishment vs Light of Protection to 20) and what "Earth's Blessing" is
@@ -27,6 +27,7 @@ tracker itself goes in `backlog.md`.
 - [ ] *(low priority, later)* Dhamira: try Condemnation option 1 (+100 MP per hit) instead of option 2 (+12% on fewer targets) for a few fights; compare how often you need to refill MP with the current macro (10, 12)
 
 ## Done
+- [x] Clash Rune GS: 40 per rune + 1 per enhancement level (2026-10-13)
 - [x] Dhamira gear screenshot recorded in characters/dhamira.md (2026-10-13)
 - [x] Dhamira hotbar + macro screenshots recorded in the build file (2026-10-13)
 - [x] Duty Missions don't bank: unused ones are lost at the daily reset (2026-10-13)
