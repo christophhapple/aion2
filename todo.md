@@ -10,7 +10,7 @@ tracker itself goes in `backlog.md`.
 - [ ] Verify: Substance Morph: can an unused Clash Rune Enhance Scroll become 100 Enhance Stones? (Do you have spare ones?)
 - [ ] Verify (Abyss, low priority): what happens when you die there (penalty, respawn point)? Does Abyss time keep running while dead or standing in Western Root?
 - [ ] Check (next rift): Altgard Strongholds are marked on the map but showed no entrance. Look for a way in (quest, level, other side)
-- [ ] Quick wins check (Dhamira + Hamme): unused Daevanion Crystals or Wisdom Stones in the bag? (Note GS before/after spending a crystal: settles whether Daevanion raises GS.) Pets levelled (to 3)? Do you have "Through Hell and Back" (Roah Sealed Dungeon)? Joined a Legion? See `knowledge/progression.md` "Often missed"
+- [ ] Quick wins check (Dhamira + Hamme): unused Daevanion Crystals or Wisdom Stones in the bag? (Note GS before/after spending a crystal: settles whether Daevanion raises GS.) Pets levelled (to 3)? Joined a Legion? See `knowledge/progression.md` "Often missed"
 - [ ] Check (once a pet is fully levelled): does targeting a monster of that pet type show it as done?
 - [ ] Check (next Invasion): where does the game show how many Invasion keys you have left (join screen, reward screen, inventory)?
 - [ ] *(low priority)* One more Spacetime Rift trip (2/3 so far) for the title "Hello There" (owned bonus). Combine with the Altgard Stronghold check
@@ -26,6 +26,7 @@ tracker itself goes in `backlog.md`.
 - [ ] *(low priority, later)* Dhamira: try Condemnation option 1 (+100 MP per hit) instead of option 2 (+12% on fewer targets) for a few fights; compare how often you need to refill MP with the current macro (10, 12)
 
 ## Done
+- [x] Title "Through Hell and Back" owned (2026-10-13)
 - [x] Stigma Shard in the Abyss shop: 10,000 Abyss Points (2026-10-13)
 - [x] Clash Rune GS: 40 per rune + 1 per enhancement level (2026-10-13)
 - [x] Dhamira gear screenshot recorded in characters/dhamira.md (2026-10-13)
