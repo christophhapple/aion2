@@ -215,3 +215,14 @@ Added 2026-10-13 (gathering skills).
 163. space4games, Essence Extraction guide, 2026-10-01 (updated 2026-10-10), G: https://space4games.com/en/games-en/aion-2-essence-extraction-guide/
 164. aion2.website, Essence Extraction guide, updated 2026-10-06, G: https://aion2.website/guide/essence-extraction-guide
 165. VGC, Essence Extraction guide, 2026-10-05, G: https://www.videogameschronicle.com/guide/aion-2-essence-extraction-guide-upgrading-essence-extraction-and-success-rates/
+166. expcarry, crafting & professions guide, 2026-10-05, G: https://expcarry.com/aion2-professions-guide
+167. keengamer, crafting guide, 2026-10-10, G?: https://www.keengamer.com/articles/guides/aion-2-crafting-guide-professions-gear-materials/
+168. timesaver.gg, crafting guide, 2026-10-11, G: https://timesaver.gg/blog/aion-2-crafting-guide
+169. u4n, alchemy guide, 2026-04-27 (upd. 2026-10-13), mixed/KR, low reliability: https://www.u4n.com/news/aion-2-alchemy-guide.html
+170. gamewith, Intermediate Manastone crafting + manastone DB, KR official data 2026-09-30: https://gamewith.ai/aion2/en/crafting/n-bfeb86 · https://gamewith.ai/aion2/en/manastones/intermediate-manastone
+171. thegameswiki, manastones and soulstones, KR timeline, search snippet: https://thegameswiki.com/aion-2/wiki/manastones-and-soulstones
+172. aion2hub crafting calculator (Artisan's Fruit Salad), undated, G: https://aion2hub.com/tools/crafting-calculator/artisan-s-fruit-salad-510716008
+173. playnews, dungeon livestream "no heroic items in season 1", pre-launch, G, snippet: https://www.playnews.gg/en/news/aion-2-dungeon-livestream-confirms-level-cap-of-45-and-no-heroic-items-in-season-1
+174. games.gg, market guide, 2026-10-08, G: https://games.gg/aion-2/guides/aion-2-market-guide/
+175. guildorder, trading/market/membership, 2026-09-05 (pre-launch), G: https://guildorder.com/games/aion2/wiki/trading-the-market-and-membership
+176. gamesfuze, market/upgrade guide, 2026-10-01, G, snippet: https://gamesfuze.com/guides/aion-2-how-to-upgrade-gear-manastones-theostones-and-soul-binding/

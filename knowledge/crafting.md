@@ -6,7 +6,8 @@ Researched 2026-10-10. Few solid global sources; best is [70] (2026-10-06). Unve
 ## Bottom line (for a GS ~1100 player limited by Enhance Stones)
 - **Neither crafting nor gathering produces Enhance Stones** (no source lists them) [70][72][74][75].
   So they don't help with the main bottleneck directly.
-- Their value is **Kinah** (selling materials or crafted items) and later **top-tier crafted gear**
+- Their value is **Kinah** (selling materials or crafted items; but selling may need membership, see
+  "Market") and later **top-tier crafted gear**
   (Dragon Lord, item IL 102 per piece vs. IL 54–86 for expedition sets [70][72][76]), which is expensive.
 - Gathering costs no energy (none found), so it's a reasonable **gap filler** between scheduled events.
 - Possible stone trick: Substance Morph turns an **unused Clash Rune Enhance Scroll into 100 Enhance
@@ -71,6 +72,33 @@ Guides 2026-10, unverified unless tagged. Levels 6–10 (common) and specialty a
 - Gathering zones: Verteron / Altgard, Chaotic Lower Reshanta (Abyss); Odyle also inside expeditions [71].
 - **Crafted vs. expedition gear on global: unknown.** In Asia, crafted gear rolls max Potential stats [75];
   not confirmed for global. An old KR article said the opposite [75].
+
+## The five crafts in detail (researched 2026-10-13, guides, unverified)
+| Craft | Makes | Main materials | Notes |
+|---|---|---|---|
+| **Blacksmithing** | daggers, longswords, greatswords, **maces, guards** (Cleric weapon line) [166][167] | Ore, refining materials, Odyle, later boss mats; Orichalcum Solvent from the craft merchant [70][167] | Chain: Orichalcum → Splendent → Expert's (Splendent) → Artisan's (Splendent, Unique) → Dragon Lord [167]. Promotion test: Novice Blacksmith's Hammer [167] |
+| **Armorsmithing** | helm, pauldrons, chest, gloves, legs, boots, cloak (7 slots) [166][70] | mainly Ore [70] | "Safest general gear choice": most slots, any class [166] |
+| **Handicrafting** | bows, staves, rings, earrings, necklaces, bracelets [70][166] | Logs, Gems (expensive at high tiers) [70] | Recommended first "for the largest stat payoff" [168] |
+| **Alchemy** | orbs, spellbooks, potions, serums, scrolls (crit, speed), **Manastones, Soulstones** (Intermediate, Abyssal; Superior from Intermediate) [70][169] | Herbs [70], gem powders, Magic Crystal, Balaur scales, Elemental Stones [169] | Intermediate Manastone: 72.9% success at equal mastery → 90.9%; result Basic 50 / Greater 35 / Supreme 15% [170, KR]. Superior Manastones also in the Expedition exchange shop, 2,000 Tokens of Overcoming, 10/week [171, KR, unverified] |
+| **Cooking** | buff food and drinks [70][166] | Cooking Ingredients [70] | Lowest barrier [77]; cheap dishes flood the market [70]. Buff sizes not documented for global. Example: Artisan's Fruit Salad, Mastery 30, global recipe differs from KR [172] |
+
+- **Mastery gates:** Expert recipes 15+, Artisan 30+, Balaur materials 51+, Dragon Lord 55–60+ [166].
+- **Dragon Lord** via Transfer Crafting (Expert's → Artisan's → Dragon Lord tiers 1–3) [168]; transfer keeps
+  enhancement, amplification, Soul Binding [167]. Crafted top gear: 5 Soul Binding slots vs 3–4 [168] /
+  4 [167] on dungeon drops. Pre-launch: "no heroic crafted gear in Season 1" [173]; how that fits Unique
+  Dragon Lord gear is unclear.
+- **Success:** blue success gauge vs orange failure gauge, like gathering; failure eats the materials;
+  moving or being hit mid-craft = failure [167][168]. ~74% at equal mastery up to low 90s, never 100%,
+  no pity [168]. Combo ~25% on gear [70][167], 10–25% by recipe [170, KR].
+- **Leveling:** cheap Common recipes (e.g. Orichalcum Ingots); single crafts give more EXP than bulk [167].
+- **Energy / daily limits:** none documented in any source. Unknown: check in-game.
+- **Switching / resetting a craft:** not documented. Unknown.
+- **Substance Morph** (Alt+H) turns Odyle into bound Ore, Gems, Logs [167][169].
+
+### Market (decides whether crafting can earn Kina)
+- Membership required to **sell**, Market from level 45; buying also needs it [174] / buying unconfirmed [175].
+  **vs** F2P can list and sell, only buying needs membership [176, snippet]. Majority: membership needed.
+  **Verify in-game.** If true, an F2P player crafts for self-use only, and the craft-vs-buy prices above don't apply.
 
 ## Korean-only
 - "Succession crafting" (KR Season 3, 2026-04-08) [78]: moves a Unique item's enhancement onto a Heroic
