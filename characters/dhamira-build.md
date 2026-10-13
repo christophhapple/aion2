@@ -15,8 +15,9 @@ nothing threatens you.
   - **Healing never goes in the macro**, not even proactive healing (Light of Regeneration): healing
     stays fully separate, on its own keys.
   - **Timed or placed damage stays manual:** Power Burst (saved for interrupt phases, see below),
-    Divine Aura (stationary: placed when the pack is grouped), Prayer of Amplification (burst
-    window), Bolt (charge).
+    Bolt (charge).
+  - **Exception, convenience over DPS (2026-10-13):** Prayer of Amplification and Divine Aura (slot 4)
+    are in the macro and fire whenever ready, instead of being saved for burst windows / grouped packs.
 - The macro is held down; manual keys take precedence while holding it, so nothing needs releasing.
 - MP is single-source: everything is paid for by weaving Earth's Retribution between spenders.
 - Every heal also heals me (party heals include me; Healing Light heals me + the lowest-HP member).
@@ -72,7 +73,7 @@ setup depends on them: right click (macro), left click (slot 11), E (slot 6), R 
 | 1 | Light of Regeneration | manual, healing kept out of the macro (proactive, keep up) |
 | 2 | Healing Light | manual, reactive heal |
 | 3 | Radiant Recovery | manual, reactive heal |
-| 4 | Prayer of Amplification → Divine Aura | manual, buff before damage: Prayer for burst windows (spending it early is fine, 60s CD), Aura placed on grouped packs |
+| 4 | Prayer of Amplification → Divine Aura | macro (since 2026-10-13): fire whenever ready |
 | 5 | Power Burst | manual, saved for Stagger interrupt phases |
 | 6 | Condemnation | macro + E (held in the Earth Punishment window: pure Condemnation) |
 | 7 | Lightning Strike Scattershot | macro + R (held during Stagger: pure Scattershot) |
@@ -171,7 +172,6 @@ Everything pressed on top of the held macro.
 
 **Damage**
 - **Stagger interrupt phase** → Power Burst + a fully charged Bolt (50 + 35 gauge).
-- **Burst window / pack grouped up** → slot 4: Prayer of Amplification, then Divine Aura.
 - **Bolt ready, nothing to save it for** → charge it while moving.
 - **Earth Punishment on the target** (with Chain) → hold E on top of the macro: pure Condemnation.
 - **Target Staggered** → hold R on top of the macro: pure Scattershot (optional).
