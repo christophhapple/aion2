@@ -90,14 +90,17 @@ Defiance isn't a hotbar skill: it's on Space and only usable while crowd-control
 - Power Burst (Lv 5): biggest single hit, heavy Stagger
 - Earth Punishment (Lv 5): **the damage engine**: Condemnation always crits on its target, and every crit resets Condemnation. 30s CD, 10s DoT; Lv 20 adds +10s
 
-Shard plan: Light of Protection first, cheap levels on the others along the way. Target
-**15 / 10 / 10 / 10** (80 shards total, 38 more than the 42 in now), later **20 / 10 / 10 / 10** (120, +78).
-Costs: `knowledge/endgame.md` "Stigma levels". Shards come in slowly.
-**Open:** Earth Punishment may deserve the Lv 20 target instead of Light of Protection. Its Lv 20
-(+10s duration) roughly doubles the always-crit Condemnation window (single target, macro casting on
-cooldown: ~13s → ~26s per minute, since Chain 20s CD/13s DoT and Earth Punishment 30s CD only
-partly overlap). Lv 10/15 also give Double Chance, Attack, Defense (self +10%, party +5%). Decide
-after comparing Light of Protection's Stigma levels.
+**Shard plan (decided 2026-10-13, after reading all Stigma tooltips):** Earth Punishment is the main
+target; its unlocks are always on and also help the party. 42 shards in now.
+1. **Earth Punishment 5 → 10** (10 shards): +10% Double Chance (party +5%)
+2. **Prayer of Amplification 7 → 10** (6): ×1.5 Empyrean Lord's Grace while active (13s/min)
+3. **Earth Punishment 10 → 15** (20): +10% Attack and Defense (party +5%)
+4. Then decide: **Earth Punishment 15 → 20** (40, doubles the always-crit Condemnation window, ~13s →
+   ~26s per minute) for solo, or **Light of Protection 12 → 15** (12, +10% Max HP for the party) if
+   group content dominates by then.
+Light of Protection stays at 12 (its core is fully active); Power Burst stays at 5.
+Costs per level: 1/2/4/8 in bands of 5 (`knowledge/endgame.md` "Stigma levels"). Shards: Abyss shop,
+10k Abyss Points each for now.
 
 **Defensive / progression (not built yet)**, for when content starts to bite: likely Summon
 Resurrection + Salvation + Light of Protection + a flex (Benevolence for sustain, or Yustiel's Power
@@ -113,6 +116,13 @@ Lv 14: Earth's Retribution, Judgment Thunder, Debilitating Mark, Chain of Tormen
 Aura, Bolt, Light of Regeneration, Radiant Recovery, Healing Light (13 → 14 by 2026-10-13) · Lv 11: Lightning Strike
 Scattershot · Lv 10: Defiance (skill points only, no Daevanion yet). Stigmas: see above.
 Passives (in-game 2026-10-13, tile level incl. bonus): Empyrean Lord's Grace 13 · Earth's Grace 12 · Healing Enhancement 11 · Heal Block 9 · Survival Willpower 9 · Radiant Benediction 9 · Warm Benediction 8 · Prayer of Concentration 8 · Empyrean Lord's Benediction 7 · Immortal Veil 7. Green up-arrow (level-up available) on Warm Benediction, Empyrean Lord's Benediction, Immortal Veil, Prayer of Concentration. Effects + icons: `knowledge/cleric-skills.md` "Passive".
+
+**Passive plan (2026-10-13):** Empyrean Lord's Grace, Earth's Grace, Healing Enhancement are at base 10
+(the skill-point cap; header bonuses +3/+2/+1), so done. Spare points: **Immortal Veil** (+14% Defense),
+then **Warm Benediction** (+13% Max HP); alternative: save for **Radiant Benediction** (free party heal
+on hit, low effort; needs more points than spare now). Not decided which. Heal Block is PvP-only:
+move its points if passives can be reset (unknown).
+
 Everything above is Mastery preset 1.
 
 ## Specialties (in-game 2026-10-11)
