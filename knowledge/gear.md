@@ -141,7 +141,11 @@ Stats: Wisdom + Life (god stats), Constitution + Power (primary); Heal Boost (Pv
   none [181]; drains at half rate in the Abyss [180]. Flight Speed is a separate stat (titles) [180].
 - Per pair: **Daeva quest wings** Lesser 2,500, Intermediate / Superior / Ultimate 1,000 each (after a
   +500 buff, patch 2026-10-09 [183][184], no official note found); other wings ~200 each [183];
-  Founder's Pack wings 0 [180][181].
+  Founder's Pack wings 0 [180][181]. **Fits in-game 2026-10-13:** Ultimate Daeva tooltip shows owned
+  Flight Power 1,000, and the 4 Daeva wings + Aullaeu + Glorious total exactly 5,900 (no base value).
+- Ultimate Daeva Wings owned effect also: Penetration 100, Accuracy 20, Attack 10; equipped as in the
+  list below (in-game 2026-10-13). The Wings info panel has tabs "1 2 3" (meaning unknown; maybe
+  enhancement stages).
 - **Wing enhancement:** +10 Flight Power per level (≈ +100 at +10), owned stats only; Rare/Epic always
   succeed, Unique risky from +4; ~3.5M / 6M / 16.7M Kina to +10 (Rare/Epic/Unique) [178] **vs** not on
   global yet, KR/TW values [185][183][182]. Check the Wings menu. Poor value for flight either way.
