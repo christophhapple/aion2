@@ -99,8 +99,7 @@ target; its unlocks are always on and also help the party. 44 shards in, 1 unspe
    ~26s per minute) for solo, or **Light of Protection 12 → 15** (12, +10% Max HP for the party) if
    group content dominates by then.
 Light of Protection stays at 12 (its core is fully active); Power Burst stays at 5.
-Costs per level: 1/2/4/8 in bands of 5 (`knowledge/endgame.md` "Stigma levels"). Shards: Abyss shop (10/50 bought at step 1, 2026-10-13; 40 more at 10k, then 15k/20k/25k),
-10k Abyss Points each for now.
+Costs per level: 1/2/4/8 in bands of 5 (`knowledge/endgame.md` "Stigma levels"). Shards: Abyss shop (10/50 bought at step 1, 2026-10-13; 40 more at 10k, then 15k/20k/25k).
 
 **Defensive / progression (not built yet)**, for when content starts to bite: likely Summon
 Resurrection + Salvation + Light of Protection + a flex (Benevolence for sustain, or Yustiel's Power
