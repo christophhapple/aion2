@@ -115,12 +115,12 @@ maxed, the rest get levelled evenly.
 Lv 14: Earth's Retribution, Judgment Thunder, Debilitating Mark, Chain of Torment, Condemnation, Divine
 Aura, Bolt, Light of Regeneration, Radiant Recovery, Healing Light (13 → 14 by 2026-10-13) · Lv 11: Lightning Strike
 Scattershot · Lv 10: Defiance (skill points only, no Daevanion yet). Stigmas: see above.
-Passives (in-game 2026-10-13, tile level incl. bonus): Empyrean Lord's Grace 13 · Earth's Grace 12 · Healing Enhancement 11 · Heal Block reset (2026-10-13) · Survival Willpower 9 · Radiant Benediction 9 · Warm Benediction 8 · Prayer of Concentration 8 · Empyrean Lord's Benediction 7 · Immortal Veil 7. Green up-arrow (level-up available) on Warm Benediction, Empyrean Lord's Benediction, Immortal Veil, Prayer of Concentration. Effects + icons: `knowledge/cleric-skills.md` "Passive".
+Passives (in-game 2026-10-13, tile level incl. bonus): Empyrean Lord's Grace 13 (10+3) · Radiant Benediction 12 (10+2) · Earth's Grace 12 (10+2) · Healing Enhancement 11 (10+1) · Immortal Veil 9 (7+2) · Survival Willpower 9 · Warm Benediction 8 · Prayer of Concentration 8 · Empyrean Lord's Benediction 7 · Heal Block 0 (reset, PvP only). Effects + icons: `knowledge/cleric-skills.md` "Passive".
 
 **Passive plan (2026-10-13):** Empyrean Lord's Grace, Earth's Grace, Healing Enhancement are at base 10
 (the skill-point cap; header bonuses +3/+2/+1), so done. Spare points: **Immortal Veil** (+14% Defense),
 then **Warm Benediction** (+13% Max HP); alternative: save for **Radiant Benediction** (free party heal
-on hit, low effort; needs more points than spare now). Not decided which. Heal Block (PvP-only) points removed 2026-10-13: passives can be reset (in-game).
+on hit, low effort; needs more points than spare now). **Done 2026-10-13:** Heal Block reset (free), Radiant Benediction → 10, Immortal Veil 5 → 7. Next spare points: Immortal Veil, then Warm Benediction.
 
 Everything above is Mastery preset 1.
 
