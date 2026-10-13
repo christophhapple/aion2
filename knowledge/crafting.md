@@ -35,7 +35,8 @@ Researched 2026-10-10. Few solid global sources; best is [70] (2026-10-06). Unve
 
 ## Gathering skills (Essence Extraction) [162][163][164][165]
 Guides 2026-10, unverified unless tagged. Levels 6–10 (common) and specialty above Lv. 1 need Professional.
-- **Points from proficiency 1–100: 95 common + 14 specialty** [162]. Maxing everything costs 120 + 42,
+- **Points from proficiency 1–100: 95 common + 14 specialty** [162] (in-game 2026-10-13: totals match
+  a fully spent Professional 50). Respec: "Skill Reset" button on the Essence Extraction screen (in-game), cost not seen yet. Maxing everything costs 120 + 42,
   so you choose.
 - **Common skills** (all nodes), each Lv. 1–10, costs 1/2/3/4/5 then 5 per level = **40 to max**, 15 for Lv. 5:
   - **Proficient Handling:** success gauge +5 per level per successful roll (+50 at 10).
