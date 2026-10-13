@@ -15,7 +15,6 @@ tracker itself goes in `backlog.md`.
 - [ ] Check (next Invasion): where does the game show how many Invasion keys you have left (join screen, reward screen, inventory)?
 - [ ] *(low priority)* One more Spacetime Rift trip (2/3 so far) for the title "Hello There" (owned bonus). Combine with the Altgard Stronghold check
 - [ ] *(low priority)* Check: what do the Abyss Rare/Epic/Unique Command Scrolls reward?
-- [ ] Check: how many Abyss Points does a Stigma Shard cost in the shop (guides: 10,000)?
 - [ ] Verify: Nightmare: number of floors/levels, Phantasmal Fragments per clear, shop items + prices (incl. Daevanion points: price per point and how many can be bought)
 - [ ] Check: is there really only one kind of Clash Rune (same stat lines on every rune)?
 - [ ] Verify: Transfer tab: what does the preview show, and what makes a piece an eligible source? (once you have eligible gear)
@@ -27,6 +26,7 @@ tracker itself goes in `backlog.md`.
 - [ ] *(low priority, later)* Dhamira: try Condemnation option 1 (+100 MP per hit) instead of option 2 (+12% on fewer targets) for a few fights; compare how often you need to refill MP with the current macro (10, 12)
 
 ## Done
+- [x] Stigma Shard in the Abyss shop: 10,000 Abyss Points (2026-10-13)
 - [x] Clash Rune GS: 40 per rune + 1 per enhancement level (2026-10-13)
 - [x] Dhamira gear screenshot recorded in characters/dhamira.md (2026-10-13)
 - [x] Dhamira hotbar + macro screenshots recorded in the build file (2026-10-13)
