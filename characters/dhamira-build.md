@@ -86,7 +86,7 @@ Defiance isn't a hotbar skill: it's on Space and only usable while crowd-control
 
 **Offensive (current; levels in-game 2026-10-13):** for leveling/trivial content, so no Resurrection or Salvation.
 - Light of Protection (Lv 12): always-on party damage + defense
-- Prayer of Amplification (Lv 7): +20% party Attack
+- Prayer of Amplification (Lv 7): self only (not party): +20% Attack, +20% PvE Damage Boost for 13s, 1 min CD
 - Power Burst (Lv 5): biggest single hit, heavy Stagger
 - Earth Punishment (Lv 5): **the damage engine**: Condemnation always crits on its target, and every crit resets Condemnation. 30s CD, 10s DoT; Lv 20 adds +10s
 
