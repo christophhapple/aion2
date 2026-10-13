@@ -1,7 +1,7 @@
 # Cleric skills (active & Stigma)
 
 Source: in-game tooltips, collected 2026-10-09 (imported from the Claude doc "AION 2 Cleric - Skills &
-Build Notes"). Passives omitted (not customizable). Values only where the game showed them.
+Build Notes"). Passives below (levels via spare skill points). Values only where the game showed them.
 
 ## Icons
 For reading hotbar screenshots (names confirmed by the user, in-game 2026-10-13). Descriptions are
@@ -67,8 +67,26 @@ Stigma Lv 5/10/15/20, fixed. Truncated tooltip text marked "…".
 - Light of Protection's tooltip header read "Lv. 1" although its Lv 5 and Lv 10 specialties showed as
   active (character file: Lv 12). The header may show the browsed level (arrows), not the owned one.
 - ~~Prayer of Amplification: party buff~~: the tooltip says Target: Caster (in-game 2026-10-13).
-- Open: what [Empyrean Lord's Grace] and [Earth's Grace] are (Prayer Lv 10/15), and the name cut off in
+- [Empyrean Lord's Grace] and [Earth's Grace] (Prayer Lv 10/15) are passives, see "Passive". Open: the name cut off in
   Earth Punishment's Lv 20 line (earlier read as [Earth's Blessing]; maybe the same as [Earth's Grace]).
+
+## Passive
+Tooltips read in-game 2026-10-13. All always-on for the caster, Mace required. Values at the
+character's current level; "(+n)" in the tooltip header is a bonus on top (likely Daevanion, as with
+actives). Names cut off in the header marked "…".
+
+| Passive | Effect |
+|---|---|
+| **Empyrean Lord's Grace** | Critical Hit +160, Double Chance +2.6%, **+862–883 extra damage** when an attack lands (1s CD). Prayer of Amplification Lv 10: ×1.5 for its duration |
+| **Earth's Grace** | **Critical Damage Boost +16%**, Accuracy +100. Prayer of Amplification Lv 15: ×1.5 for its duration |
+| **Healing Enhancement** | Heal Boost +26.4% of Attack (why Attack is the healer's main stat) |
+| **Radiant Benediction** | Heals caster + party within 40m for 711–854 when an attack lands (5s CD) |
+| **Warm Benediction** | Max HP +13%, Max MP +21 |
+| **Immortal Veil** | Defense +14%, Critical Hit Resist +160 |
+| **Prayer of Conce…** (likely Concentration) | At HP ≤ 50%: Protective Shield 1451 + Heal Boost +20% for 30s (1 min CD) |
+| **Empyrean Lords' …** (second one, name cut off) | Block +200; heals 233–280 on Block (3s CD) |
+| **Survival Willpower** | Status Effect Resist +33%. While stunned/knocked down/airborne/frozen/feared: PvE Damage Tolerance +28% (PvP 14%) for 5s (1 min CD); +10% Status Resist per hit taken, 5s, up to 10 stacks |
+| **Heal Block** | 7% chance on hit: target's Incoming Heal −48% for 5s (5s CD). PvP use only |
 
 ## Skill levels
 - **Where levels come from** (in-game 2026-10-11): skill points raise a skill to **Lv 10**; Lv 11–14 come
