@@ -154,6 +154,7 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
   home region, 39 only in the enemy region (rift), 5 in the Abyss, 43 boss/chest pets (Black Cloud
   Merchant ~100k Kina each) [201]. Camps near Lv 45 (Elyos): Garden of the Illusion God (Lv 44–45),
   Eternal Isle (Lv 49), 4–7 pets within 50 m each [201]. Time per pet: not found (chance drops).
+- **In-game 2026-10-13 (Cogni board, Insight Lv 4, 4 lines open):** lines rolled "Cogni Accuracy 15",  "Cogni Critical Hit 13" (green = Rare), "Cogni Critical Hit Resist 7", "HP 10". **Analyze cost shown: 16  Soul Crystals + 4,000 Kina**, i.e. likely 4 + 1,000 per open line (~~4 + 1,000 flat~~ [157]). Genus-prefixed  stats probably apply to you **only against enemies of that genus** (inference from the naming and the  separate "genus Damage Boost" [201]); plain lines (HP) always. Not confirmed.
 - Max everything: ~42k Soul Crystals + 10.5M Kina [201]; rerolling for one Heroic line ~240 presses [201].
 - **Empathy Candy:** transform into your equipped Lv 3 pet for 5 min (movement/range, not damage); not
   for levelling [209][203]. Every pet is a mount; Lv 2 adds gliding, Lv 3 transform [206][201].
