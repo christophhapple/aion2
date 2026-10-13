@@ -32,12 +32,12 @@ Researched 2026-10-10. Few solid global sources; best is [70] (2026-10-06). Unve
   at Professional 50). This matches proficiency 1–100 in [71].
 - Gathering skill points per proficiency level (Common/Specialty); "Proficient Handling" raises the
   success gauge (+5 → +50) [71]. **There aren't enough skill points to take every gathering skill**
-  (in-game 2026-10-10), so picks should follow what you farm. Respec 50,000 Kinah [77, unverified].
+  (in-game 2026-10-10), so picks should follow what you farm. Respec 50,000 Kina (in-game 2026-10-13).
 
 ## Gathering skills (Essence Extraction) [162][163][164][165]
 Guides 2026-10, unverified unless tagged. Levels 6–10 (common) and specialty above Lv. 1 need Professional.
 - **Points from proficiency 1–100: 95 common + 14 specialty** [162] (in-game 2026-10-13: totals match
-  a fully spent Professional 50). Respec: "Skill Reset" button on the Essence Extraction screen (in-game), cost not seen yet. Maxing everything costs 120 + 42,
+  a fully spent Professional 50). Respec: "Skill Reset" button on the Essence Extraction screen, 50,000 Kina (in-game 2026-10-13): cheap, so re-pick freely when plans change. Maxing everything costs 120 + 42,
   so you choose.
 - **Common skills** (all nodes), each Lv. 1–10, costs 1/2/3/4/5 then 5 per level = **40 to max**, 15 for Lv. 5:
   - **Proficient Handling:** success gauge +5 per level per successful roll (+50 at 10).
