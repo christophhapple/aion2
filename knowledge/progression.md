@@ -66,3 +66,19 @@ Collected 2026-10-11 from guides [115][116]; check each in-game.
   and Conquest clear per dungeon [109].
 - **Hidden cubes** in the world: pick them up (also feed Genus Insight) [115].
 - Daevanion points: +1 GS each [116] **vs** raises CP only, not GS [14]. Check in-game.
+
+## Skill points (Wisdom Stones)
+Researched 2026-10-13; guides unless tagged. 1 Wisdom Stone (Bound) = 1 skill point [188].
+- **One-time (F2P):** level-ups to 45 = 203 SP [186]; regional (green) quests 1 each, ~59 open-world
+  [186] (24 per a datamine [188]); Spacetime Rift quests 1 each (in-game 2026-10-11); home-region Sealed
+  Dungeons 2 per first clear [18]. **Enemy-region Sealed Dungeons give none** (in-game 2026-10-11), so
+  the guide pool of 384 SP (203 + 122 + 59) [186] overstates one faction. Strongholds: unclear [192].
+- **Monolith / feathers:** trade for Wisdom Stones [192][193] **vs** global gives only Daevanion
+  Crystals there [186, newer, global-specific]. Check in-game.
+- **Repeatable, the main F2P lead:** **Shugo Festival shop** (Centuryroot Tokens) sells Wisdom Stones
+  in 4 price tiers, 350 / 700 / 1,400 / 2,800 tokens, 5 per tier (up to 20), reset period unknown
+  [191, datamine, unverified live].
+- **Nightmare shop** (Phantasmal Fragments): listed as selling Wisdom Stones [194][193], no price or
+  limit found; visible global shop data shows only Daevanion Crystals [189]. Check in-game.
+- **Not found:** Abyss shop, Daeva Pass free track [195], launch/Twitch events, achievements, titles,
+  Legion. Higher passive levels come from Daevanion boards (+n on top of the skill-point cap of 10).

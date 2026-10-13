@@ -238,3 +238,16 @@ Added 2026-10-13 (wings, flight).
 183. mmoexp, wings after Oct 9 update, 2026-10, G, Kinah seller, low reliability: https://www.mmoexp.com/News/aion-2-wings-progression-which-wings-should-you-unlock-first-after-october-9-update.html
 184. ingamenews, maintenance flight power adjustments, 2026-10, G, search result only: https://ingamenews.com/gaming-news/aion-2-maintenance-update-flight-power-adjustments-and-server-status/
 185. thegameswiki, wings, ~2026-10-09, G, search result only: https://thegameswiki.com/aion-2/wiki/wings
+
+Added 2026-10-13 (skill points).
+
+186. allthings.how, skill points guide, upd. 2026-10-02, G: https://allthings.how/?p=232911
+187. allthings.how, Library of Wisdom map page, undated, G: https://allthings.how/aion-2/map/library-of-wisdom/
+188. metabot.gg, Wisdom Stone (Bound) item, undated, G client data: https://metabot.gg/en/aion-2/items/wisdom-stone-bound
+189. metabot.gg, shops, undated, G client data (partly visible): https://metabot.gg/en/aion-2/shops
+190. metabot.gg, Shugo Festival, undated, G build 0.0.4387: https://metabot.gg/en/aion-2/events/shugo-festival
+191. expcarry, Shugo Festival guide, 2026-09-30, G datamine 2.0.4: https://expcarry.com/aion-2-shugo-festival-guide
+192. u4n, skill points / Wisdom Stone, 2026-05, likely KR, seller site: https://www.u4n.com/news/how-to-get-and-use-wisdom-stone-in-aion-2.html
+193. gameplay.tips, skills guide, 2026-10-01, G (cites KR endgame): https://gameplay.tips/guides/aion-2-skills-guide-active-passive-and-stigma.html
+194. gamesfuze, currencies, upd. 2026-10-02, G: https://gamesfuze.com/?p=91059
+195. neonsect, Daeva Pass guide, ~2026-10, G: https://neonsect.com/aion-2/aion-2-daeva-pass-guide/
