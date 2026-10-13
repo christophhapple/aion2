@@ -17,7 +17,6 @@ tracker itself goes in `backlog.md`.
 - [ ] Check: is there really only one kind of Clash Rune (same stat lines on every rune)?
 - [ ] Verify: Transfer tab: what does the preview show, and what makes a piece an eligible source? (once you have eligible gear)
 - [ ] Check (crafting NPC): any crafting energy or daily limit? Can a craft be reset/unlearned?
-- [ ] Pets menu: are there collection milestone rewards to claim (guides: 100 Soul Crystals at 5, 10, 20 … pets)? How many pets owned?
 - [ ] Legion (if you join one): does the Legion menu show missions or Legion Coin? What does the Legion Merchant sell?
 - [ ] Skill points: does the Verteron Monolith offer Wisdom Stones? (Nightmare and Shugo shops: none, 2026-10-13) See `knowledge/progression.md` "Skill points"
 - [ ] Hover the name cut off in Earth Punishment's Lv 20 Stigma line ("+10s [Earth Punishment] and [Earth…]"). What is it?
@@ -26,6 +25,7 @@ tracker itself goes in `backlog.md`.
 - [ ] *(low priority, later)* Dhamira: try Condemnation option 1 (+100 MP per hit) instead of option 2 (+12% on fewer targets) for a few fights; compare how often you need to refill MP with the current macro (10, 12)
 
 ## Done
+- [x] Pets menu: 77/200 owned, no unclaimed collection rewards (2026-10-13)
 - [x] Passive skill points can be reset; Heal Block points removed (2026-10-13)
 - [x] All 10 passive tooltips recorded in knowledge/cleric-skills.md (2026-10-13)
 - [x] All 13 Stigma tooltips recorded in knowledge/cleric-skills.md (2026-10-13)

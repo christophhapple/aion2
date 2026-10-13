@@ -150,7 +150,7 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
   Unique 1–2%. Epic from Insight 4, Unique 7, Heroic 9 [208][206]. All 5 boards at 10 → title "Unbound by
   Genus" (equipped +4.5% PvE damage, +34 Attack, +68 Crit; owned +1% PvE damage) [201][208].
   9 lines [202][205][201] **vs** 10 [204].
-- **Effort:** 200 [207] / 207 incl. 7 Special [203] pets; 158 drop souls [203]. Elyos: 113 farmable in the
+- **Effort:** **200 pets** (Pets menu shows x/200, in-game 2026-10-13; [207]; 207 incl. 7 Special [203]); 158 drop souls [203]. Elyos: 113 farmable in the
   home region, 39 only in the enemy region (rift), 5 in the Abyss, 43 boss/chest pets (Black Cloud
   Merchant ~100k Kina each) [201]. Camps near Lv 45 (Elyos): Garden of the Illusion God (Lv 44–45),
   Eternal Isle (Lv 49), 4–7 pets within 50 m each [201]. Time per pet: not found (chance drops).

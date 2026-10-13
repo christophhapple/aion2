@@ -49,6 +49,7 @@ Verteron done: all regional (green) quests incl. Spacetime Rift, Sealed Dungeons
 - Manastones: cheap ones in all gear, few rerolls (2026-10-13). Revisit at GS 1600.
 - Wings (in-game 2026-10-13): own 6 — Lesser, Intermediate, Superior, Ultimate Daeva, Aullaeu, Glorious (crafted 2026-10-11). Equipped: Ultimate Daeva. **Flight Power 5,900.**
 - Clash Runes: both at +2 (2026-10-13); 2 spares destroyed trying for +3, none left.
+- Pets: 77/200 owned, collection rewards all claimed (2026-10-13).
 
 ## Notes
 - Titles (2026-10-13): Guardian of Verteron (Attack), Saint of Verteron (Defense), Through Hell and Back owned (Other slot). Hello There, Mysterious Racer owned (2026-10-13).
