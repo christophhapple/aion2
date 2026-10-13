@@ -112,7 +112,8 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
   The highest level reached counts for all characters on the server [157].
 - **Analyze** rerolls random stats on all open, unlocked lines. Cost 4 Soul Crystals (name in-game 2026-10-12; of that genus or
   plain) + 1,000 Kina; locking lines raises it steeply (1 lock 8 / 2,000, 3 locks 36 / 9,000, 8 locks
-  396 / 99,000) [157].
+  396 / 99,000) [157] **vs** in-game 2026-10-13: 4 + 1,000 per unlocked line, double per locked line (see
+  "Pets: value vs effort"), so 9 lines with 8 locked ≈ 68 crystals + 17,000 Kina per press (own arithmetic).
 - Insight EXP: new pet 500, pet Insight Lv 2 and Lv 3 +250 each, **+100 per line analyzed** [157], so
   analyzing also levels the board.
 - EXP to next level / grade odds per roll [157]:
