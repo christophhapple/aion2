@@ -226,3 +226,15 @@ Added 2026-10-13 (gathering skills).
 174. games.gg, market guide, 2026-10-08, G: https://games.gg/aion-2/guides/aion-2-market-guide/
 175. guildorder, trading/market/membership, 2026-09-05 (pre-launch), G: https://guildorder.com/games/aion2/wiki/trading-the-market-and-membership
 176. gamesfuze, market/upgrade guide, 2026-10-01, G, snippet: https://gamesfuze.com/guides/aion-2-how-to-upgrade-gear-manastones-theostones-and-soul-binding/
+
+Added 2026-10-13 (wings, flight).
+
+177. metabot.gg, mounts & wings guide, 2026-10-08, G: https://metabot.gg/en/aion-2/guides/mounts-wings-guide
+178. metabot.gg, wing enhancement guide, 2026-10-08, G (client data per site): https://metabot.gg/en/aion-2/guides/wing-enhancement-guide
+179. games.gg, wings list, 2026-10-01, region not stated: https://games.gg/aion-2/guides/aion-2-wings-list/
+180. allthings.how, flight power, 2026-10-05, region not stated: https://allthings.how/?p=234193
+181. selphie1999gaming, flight power guide, 2026-10-06: https://selphie1999gaming.com/game-guides/aion-2/aion-2-flight-power-how-to-extend-flight-duration/
+182. expcarry, wings guide, 2026-09-30, global playtest (enhancement KR): https://expcarry.com/aion-2-flying-wings-guide
+183. mmoexp, wings after Oct 9 update, 2026-10, G, Kinah seller, low reliability: https://www.mmoexp.com/News/aion-2-wings-progression-which-wings-should-you-unlock-first-after-october-9-update.html
+184. ingamenews, maintenance flight power adjustments, 2026-10, G, search result only: https://ingamenews.com/gaming-news/aion-2-maintenance-update-flight-power-adjustments-and-server-status/
+185. thegameswiki, wings, ~2026-10-09, G, search result only: https://thegameswiki.com/aion-2/wiki/wings

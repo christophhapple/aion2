@@ -135,6 +135,42 @@ Stats: Wisdom + Life (god stats), Constitution + Power (primary); Heal Boost (Pv
   Wings, Vakron and Nightmare wings are recommended for Combat Power [115].
 - Trade-off: Sealed Wings also convert to Enhance Stones (20/week per server) [7].
 
+### Flight Power (researched 2026-10-13, guides, unverified)
+- **Flight Power = flight gauge.** It's an **owned** effect: every pair owned adds to it, equipped or
+  not; no wing has a flight stat when equipped [177][180]. No formula to seconds [182]. Gliding costs
+  none [181]; drains at half rate in the Abyss [180]. Flight Speed is a separate stat (titles) [180].
+- Per pair: **Daeva quest wings** Lesser 2,500, Intermediate / Superior / Ultimate 1,000 each (after a
+  +500 buff, patch 2026-10-09 [183][184], no official note found); other wings ~200 each [183];
+  Founder's Pack wings 0 [180][181].
+- **Wing enhancement:** +10 Flight Power per level (≈ +100 at +10), owned stats only; Rare/Epic always
+  succeed, Unique risky from +4; ~3.5M / 6M / 16.7M Kina to +10 (Rare/Epic/Unique) [178] **vs** not on
+  global yet, KR/TW values [185][183][182]. Check the Wings menu. Poor value for flight either way.
+- **Titles give Flight Speed only:** Eagle Eye 2.5% (+ move speed), ★★★ Chef 2.3%, Mysterious Racer
+  1.8%, Professional Extractor 1.4% [180].
+- **Mid-flight refill:** Wind Serum (Alchemy, mastery 10; Aria + Targena + Glass Bottle or Azpha +
+  Calendula + Glass Bottle) [180]; recovery rings, wind paths, updrafts [180][181].
+- Nothing found for flight from Daevanion, gear stats, buffs.
+
+### Wing sources, easiest → hardest [177][179][183]
+1. **Daeva quest wings:** Lesser (Lv 5), Intermediate (22), Superior (32), **Ultimate (45, quest "The One
+   Who Witnesses the Nightmare")**. Ultimate equipped: Crit 35, HP 500, MP 250, Penetration 500 [179].
+2. **Aullaeu** (Rare): Lv 30 quests "Secrets Within Secrets", "Canyon's Secret". Equipped MP 200, MP regen 50 [177].
+3. **Sealing Wings:** 70 Sealed Wings Featherdown + 10 Pure Odyle, once per character. Equipped HP 400,
+   HP regen 200, Incoming Heal +5% [179]. Featherdown from sealed dungeons [177] / one-time solo Sealed
+   Dungeons, 2 each [183].
+4. **Expedition wings:** sealed wing drop + 10 Radiant Odyle. Kromede (Fire Temple), Black Fragment (Krao
+   Cave), Ancient Aullaeu (Urugugu), Forest Spirit (Vakron), Dark Veil (Ferocious Horn Den), Blue Wave
+   (Draupnir) [177].
+5. **Conqueror (Epic), Nightmare (Unique):** Nightmare wing vendor; Nightmare owned PvE Damage +1% [177].
+6. **Talisra:** season shop; owned Attack 10, Accuracy 20 [177].
+7. **Violet Butterfly, Spirit, Springflower:** Shugo Festival event shop, time-limited [177].
+8. **Radiant Love:** rare Hidden Cube drop [177].
+9. Warrior, Brawler: Abyss/Arena/Battlefield vendors (PvP) [177].
+10. Fairy's Dream, Odyle Wings, Blue Butterfly: "Poko's Skin Bundle", likely cash shop (unconfirmed);
+    Blazing Sun, Atelier: cosmetic only [177][179].
+- Total: 28 wings [177][181] **vs** 34 listed [179]. Glorious Wings: MP cost −3% [179] matches in-game;
+  ~~defense + crit~~ [183] is wrong.
+
 ## Manastones and Soulstones
 - One wiki: Manastones go into weapon/armor sockets, **Soulstones into accessory sockets** (bracelets
   included); same mechanics: each imprint rolls a random stat, re-imprinting a slot replaces it, higher
