@@ -52,7 +52,7 @@ Guides 2026-10, unverified unless tagged. Levels 6–10 (common) and specialty a
   - **Plentiful Harvest** (1 pt per level, 3 levels): 10/20/30% chance of double materials.
   - **Appraiser** (1 pt per level, 3 levels): 10/20/30% chance to reroll the material's grade
     (not if already higher). A full family = 7 pts.
-- Demand: Radiant Odyle is in ~190 recipes, Radiant Orichalcum Ore in ~120 [162] (Radiant = not gathered, see
+- Demand: Radiant Odyle is in ~190 recipes, Radiant Orichalcum Ore in ~120 [162] (Radiant = very rare when gathered, see
   "Recipes and economy"), so **Odyle and Ore** are
   the safe specialty picks before a craft is chosen.
 - Nodes: ~3 harvest attempts as a mini-game; failed rolls block a slot. Shared between players, respawn
@@ -64,9 +64,10 @@ Guides 2026-10, unverified unless tagged. Levels 6–10 (common) and specialty a
 - Recipe tiers: basic → Expert → Artisan. 25% chance of a "Splendent" (better) result on supported gear;
   Artisan Splendent results feed the Dragon Lord gear [70][76]. (80.1% figure elsewhere is probably the
   base success rate.)
-- **Gathered Odyle grades: Odyle (Common), Fine Odyle (Rare), Pure Odyle (Epic). Radiant Odyle is not
-  gathered** (in-game 2026-10-13); known source so far: Shugo Festival shop, 1,000 tokens, 3 per month. ~~Four
-  gathered grades up to "Radiant"~~ [72]. Guide prices: level-40 Radiant Odyle sells to NPCs for 540 Kinah,
+- **Gathered Odyle grades: Odyle (Common), Fine Odyle (Rare), Pure Odyle (Epic), Radiant Odyle (Unique),
+  the last very rare** (in-game 2026-10-13; matches four grades up to "Radiant" [72]). Radiant Odyle also
+  in the Shugo Festival shop, 1,000 tokens, 3 per month. Appraiser (grade reroll) helps here. Guide
+  prices: level-40 Radiant Odyle sells to NPCs for 540 Kinah,
   Radiant Orichalcum Ore for 135 [72]. Both go into Dragon Lord recipes (e.g. a helm: Radiant Ore ×2,
   Radiant Odyle ×2, Wrathful Ego ×3, Balaur leather) [72][76].
 - Craft vs. buy (prices 2026-10-05) [70]: a Splendent Orichalcum Longsword costs ~223k to craft vs. 100k
