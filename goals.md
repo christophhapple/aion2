@@ -9,7 +9,7 @@ Background: `knowledge/progression.md`.
 | All gear Unique +10 | Dhamira | ? (grades and levels not recorded) | every slot Unique +10 | Long-term. Step 1: everything to +10 (always succeeds, risk-free GS). Extraction refunds 100% of stones (in-game), so enhancing gear you'll replace isn't wasted. Above +10 risky (65% → 20%) |
 | Upgrade belt | Dhamira | Epic +8 | Unique +10 (next: Epic +10 → transmute) | Never replaced; scrolls from Strongholds. Unique +0→+10 ≈ 201k stones + 5M Kina (guides) |
 | Upgrade Revelation amulet | Dhamira | Epic +9 | Unique +10 (next: Epic +10 → transmute) | Never replaced; scrolls from Monolith levels (feathers), 11 spare (enough) |
-| Ascension Bracelet | Dhamira | Unique +6, no Manastone | +10 + Manastone | Adds attack + defense; a kept piece, so it gets a good stone. Second bracelet from a faction quest (guides) |
+| Ascension Bracelet | Dhamira | Unique +6, cheap Manastone (2026-10-13) | +10 + good Manastone | Adds attack + defense; a kept piece, so it gets a good stone (revisit at GS 1600). Second bracelet from a faction quest (guides) |
 | First Ascension Trial on Normal | Dhamira | not yet | cleared once | Normal opens at GS 1500 (in-game); then run it on Normal as the weekly routine (3/week) |
 | Get a spare Clash Rune | Dhamira | 0 | 1 spare | Upgrading past +1 can destroy the rune (in-game); only try with a backup. Nightmare shop: 500 Phantasmal Fragments per chest |
 | First Nightmare clear | Dhamira | not yet | cleared once | Phantasmal Fragments → Clash Rune chests, Pantheon |
