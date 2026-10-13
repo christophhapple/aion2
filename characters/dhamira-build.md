@@ -113,8 +113,8 @@ missing. Arcana (Lv 15–20) not started. Spare skill points go to passives: the
 maxed, the rest get levelled evenly.
 
 Lv 14: Earth's Retribution, Judgment Thunder, Debilitating Mark, Chain of Torment, Condemnation, Divine
-Aura, Bolt, Light of Regeneration, Radiant Recovery, Healing Light (13 → 14 by 2026-10-13) · Lv 11: Lightning Strike
-Scattershot · Lv 10: Defiance (skill points only, no Daevanion yet). Stigmas: see above.
+Aura, Bolt, Light of Regeneration, Radiant Recovery, Healing Light (13 → 14 by 2026-10-13) · Lv 12: Lightning Strike
+Scattershot (11 → 12 on 2026-10-13) · Lv 10: Defiance (skill points only, no Daevanion yet). Stigmas: see above.
 Passives (in-game 2026-10-13, tile level incl. bonus): Empyrean Lord's Grace 13 (10+3) · Radiant Benediction 12 (10+2) · Earth's Grace 12 (10+2) · Healing Enhancement 11 (10+1) · Immortal Veil 10 (8+2) · Warm Benediction 9 (7+2) · Survival Willpower 9 · Prayer of Concentration 8 · Empyrean Lord's Benediction 0 · Heal Block 0 (both reset, low value). Effects + icons: `knowledge/cleric-skills.md` "Passive".
 
 **Passive plan (2026-10-13):** Empyrean Lord's Grace, Earth's Grace, Healing Enhancement are at base 10
@@ -142,7 +142,7 @@ Options per skill: `knowledge/cleric-skills.md`. Lv 20 slots locked everywhere (
 | Debilitating Mark | 2 -15% target Defense · 4 +10% enemy Damage Boost reduction | Debuff skill: maximize debuffs. Not 1 (no MP cost + MP restore): MP isn't short. Not 3 (Stun chance) |
 | Divine Aura | 2 AoE · 3 +50% attack speed | Attack speed over +3s duration: the aura is stationary and packs sometimes walk out of it, so front-load the damage. Candidate for the 3rd slot (Lv 20): option 5, -10s CD |
 | Chain of Torment | 2 +3s DoT · 4 +10% enemy Damage Tolerance reduction | Debuff skill: maximize debuffs; CC (slow, Knockdown) least important. +3s DoT also widens Condemnation's window |
-| Lightning Strike Scattershot | 3 mobile (only 1 slot: Lv 11) | Mobility is paramount. Next: Lv 12 opens slot 2 and option 4 (Multi-Hit); one Daevanion level away. Lv 16: option 5 (-1s all cooldowns per hit), strong since it has no cooldown and gets spammed during Stagger |
+| Lightning Strike Scattershot | 3 mobile · 4 Multi-Hit (slot 2 since Lv 12, 2026-10-13) | Mobility is paramount. Lv 16: option 5 (-1s all cooldowns per hit), strong since it has no cooldown and gets spammed during Stagger |
 | Light of Regeneration | 1 +5% Defense · 4 +5% Move Speed | Always up (cooldown = duration = 30s), so party-wide buffs with 100% uptime beat extra healing. Move Speed also serves mobility. Candidate for the 3rd slot (Lv 20): option 5, +5% PvE Damage Tolerance, same logic |
 | Condemnation | 2 up to +12% damage on fewer targets · 4 cooldown reset on Crit | Cooldown reset is the key pick (more casts inside Chain's window; Crit rate feeds it). No Root (CC), no MP (not needed). Candidate for the 3rd slot (Lv 20): option 5, Multi-Hit |
 | Healing Light | 2 +20% healing at ≤50% HP · 3 50% cleanse chance | Cleanse over more raw healing (+2% HP). Not 1 (+2 consecutive uses): unclear how it works, and the 6s CD is short anyway. Specific fights may call for other picks later. Candidate for the 3rd slot (Lv 20): option 5, -2s CD |
@@ -157,7 +157,7 @@ evenly). Further levels come from **Daevanion** (11–14) and **Arcana** (15–2
 `knowledge/cleric-skills.md` "Skill levels".
 
 **Daevanion (to 14), next nodes:**
-1. **Lightning Strike Scattershot 11 → 12:** opens slot 2 + option 4 (Multi-Hit).
+1. ~~Lightning Strike Scattershot 11 → 12~~ done 2026-10-13, Multi-Hit equipped.
 2. **Defiance 10 → 12:** opens slot 2 + option 4 (+2s Tenacity).
 3. ~~Healing Light 13 → 14~~ done (by 2026-10-13).
 
