@@ -12,8 +12,6 @@ tracker itself goes in `backlog.md`.
 - [ ] Quick wins check (Dhamira + Hamme): unused Daevanion Crystals or Wisdom Stones in the bag? (Note GS before/after spending a crystal: settles whether Daevanion raises GS.) Pets levelled (to 3)? Joined a Legion? See `knowledge/progression.md` "Often missed"
 - [ ] Check (once a pet is fully levelled): does targeting a monster of that pet type show it as done?
 - [ ] Check (next Invasion): where does the game show how many Invasion keys you have left (join screen, reward screen, inventory)?
-- [ ] Check: did the 2026-10-13 rift trip (3rd use) unlock the title "Hello There"? Look in the title list
-- [ ] Check (next rift): do enemy Sealed Dungeons / Strongholds you already cleared reward again, or only the first time? Did the Stronghold give belt scrolls?
 - [ ] *(low priority)* Check: what do the Abyss Rare/Epic/Unique Command Scrolls reward?
 - [ ] Verify: Nightmare: number of floors/levels, Phantasmal Fragments per clear, shop items + prices (incl. Daevanion points: price per point and how many can be bought)
 - [ ] Check: is there really only one kind of Clash Rune (same stat lines on every rune)?
@@ -27,6 +25,8 @@ tracker itself goes in `backlog.md`.
 
 ## Done
 - [x] Altgard Strongholds can be entered (2026-10-13)
+- [x] Enemy Sealed Dungeons / Strongholds: one-time rewards, no belt scrolls (2026-10-13)
+- [x] Title "Hello There" owned (2026-10-13)
 - [x] Title "Through Hell and Back" owned (2026-10-13)
 - [x] Stigma Shard in the Abyss shop: 10,000 Abyss Points (2026-10-13)
 - [x] Clash Rune GS: 40 per rune + 1 per enhancement level (2026-10-13)
