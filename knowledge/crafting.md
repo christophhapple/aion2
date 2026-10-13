@@ -6,8 +6,8 @@ Researched 2026-10-10. Few solid global sources; best is [70] (2026-10-06). Unve
 ## Bottom line (for a GS ~1100 player limited by Enhance Stones)
 - **Neither crafting nor gathering produces Enhance Stones** (no source lists them) [70][72][74][75].
   So they don't help with the main bottleneck directly.
-- Their value is **Kinah** (selling materials or crafted items; but selling may need membership, see
-  "Market") and later **top-tier crafted gear**
+- Their value is **Kinah** (selling materials or crafted items), **but only with membership**: F2P can't
+  sell on the Market (in-game 2026-10-13) and later **top-tier crafted gear**
   (Dragon Lord, item IL 102 per piece vs. IL 54–86 for expedition sets [70][72][76]), which is expensive.
 - Gathering costs no energy (none found), so it's a reasonable **gap filler** between scheduled events.
 - Possible stone trick: Substance Morph turns an **unused Clash Rune Enhance Scroll into 100 Enhance
@@ -96,9 +96,9 @@ Guides 2026-10, unverified unless tagged. Levels 6–10 (common) and specialty a
 - **Substance Morph** (Alt+H) turns Odyle into bound Ore, Gems, Logs [167][169].
 
 ### Market (decides whether crafting can earn Kina)
-- Membership required to **sell**, Market from level 45; buying also needs it [174] / buying unconfirmed [175].
-  **vs** F2P can list and sell, only buying needs membership [176, snippet]. Majority: membership needed.
-  **Verify in-game.** If true, an F2P player crafts for self-use only, and the craft-vs-buy prices above don't apply.
+- **Selling on the Market needs membership** (in-game 2026-10-13) [174][175]. ~~F2P can list and
+  sell~~ [176]. So F2P crafts for self-use only, and the craft-vs-buy prices above don't apply.
+  Buying without membership: no [174] / unconfirmed [175]; not checked in-game.
 
 ## Korean-only
 - "Succession crafting" (KR Season 3, 2026-04-08) [78]: moves a Unique item's enhancement onto a Heroic
