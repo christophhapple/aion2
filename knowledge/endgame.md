@@ -166,3 +166,24 @@ Subjugation 3 tickets/week · Abyss sieges Mon/Thu/Sat 21:00 server time (~~Wed 
 ## Upcoming (global)
 - Season 1 Daeva Pass: 2026-09-30 → 2026-12-16 [3] (free track only; F2P)
 - Korean Chapter 1 content (cap 50, new regions, pendant slot): no global date [5][13]
+
+## Legions (guilds)
+Researched 2026-10-13; guides only, thin sources. [196][197] read client data and mostly agree.
+- **Unlock:** faction story quest ("Renewed Resolve" Elyos / "Buried Atrocities" Asmodians), from Lv 10
+  [196][197][198]. One faction, one server; up to 128 members, 4 officers [196][197]. Joining is free;
+  Legion menu → search/apply or accept an invite [197][198]. Leave → 24h before joining another [198, single source].
+- **Join reward:** achievement "The More the Merrier": 3,000 Kina + title "There's No 'I' in Team"
+  (equipped HP +270, owned PvE Attack +2) [196].
+- **Passive stats by legion level** (1–20), not member count: EXP gain +1% → ~+3%; at Lv 20 HP +80,
+  MP +70, Evasion +5, Accuracy +5, Attack +4, Defense +4 [196][197]. Small. ~~No bonuses at all~~ [198]
+  contradicts itself. How legion EXP is earned: not found.
+- **Shop / currency:** Legion Merchant sells only potions for Kina; client data shows no way to earn or
+  spend Legion Coin [196] **vs** coin from legion missions, sieges, rifts, check-ins → cosmetics, mounts,
+  gear [200, low reliability, likely KR]. **No Enhance Stones, Stigma Shards or Daevanion** found anywhere.
+- **Hall:** rent 1M Kina / 30 days (legion pays); decorations give stats; crafting stations, storage,
+  Material Conversion [196][197]. Warehouse 20 → 330 slots [197].
+- **Content:** no legion quests or legion weekly reset in client data; the 4 "Legion Content" airship
+  instances only have training dummies [196]. Expeditions use cross-server matchmaking, no legion needed [197].
+- **Obligations:** none enforced by the game; rules are per legion (some track attendance) [199].
+- **So (inference):** joining a relaxed legion costs nothing and gives a title + small stats; it doesn't
+  help Enhance Stones, shards or Kina. Main value later: people for group/Abyss content.

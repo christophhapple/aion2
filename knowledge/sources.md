@@ -251,3 +251,11 @@ Added 2026-10-13 (skill points).
 193. gameplay.tips, skills guide, 2026-10-01, G (cites KR endgame): https://gameplay.tips/guides/aion-2-skills-guide-active-passive-and-stigma.html
 194. gamesfuze, currencies, upd. 2026-10-02, G: https://gamesfuze.com/?p=91059
 195. neonsect, Daeva Pass guide, ~2026-10, G: https://neonsect.com/aion-2/aion-2-daeva-pass-guide/
+
+Added 2026-10-13 (legions).
+
+196. metabot.gg, legion guide, 2026-10-08, G client data: https://metabot.gg/en/aion-2/guides/legion-guide
+197. expcarry, legion guide, 2026-10-05, G (boosting site): https://expcarry.com/aion-2-legion-guide
+198. gamesfuze, legion guide, 2026-10-02, G, self-contradicting: https://gamesfuze.com/guides/aion-2-legion-guide-how-to-join-or-create-a-legion-bonuses/
+199. guildorder, founding legions, 2026-10-01, G pre-launch: https://guildorder.com/games/aion2/guides/finding-and-joining-a-founding-legion
+200. u4n, Legion Coin, 2026-01 (upd. 2026-10-13), likely KR, Kinah seller, low reliability: https://www.u4n.com/news/aion-2-legion-coin.html
