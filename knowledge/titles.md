@@ -31,7 +31,7 @@ Through Hell and Back (cooldowns) suits a Cleric better than the Core title (mov
 ## Easy extras for owned bonuses [109]
 Join a Legion ("There's No 'I' in Team", +3,000 Kinah) · first Exploration / Conquest clear of each
 party dungeon (Sightseer / Tour Guide titles) · Shugo Festival: play each minigame 3 times (9 Rare
-titles) · Spacetime Rift 3 uses ("Hello There") · Golden Glow: take a gear piece to max upgrade [110].
+titles) · Spacetime Rift 3 uses ("Hello There", in-game 2026-10-13) · Golden Glow: take a gear piece to max upgrade [110].
 
 ## Shugo Festival titles [124]
 Titles menu → **Adventure** category (categories: Adventure, Quest, Challenge, Dungeon, Item, Growth).

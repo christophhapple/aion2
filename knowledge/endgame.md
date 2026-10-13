@@ -29,14 +29,13 @@ are about the **Korean** version (cap 50 since 2026-07-01). Gear score (GS) thre
     home-region ones, another ~120 + 120~~ was our own guess [18].
   - **Enemy-region Strongholds can be entered** (in-game 2026-10-13). On 2026-10-11 none showed an
     entrance; why it differed is unknown. One gave **15k Kina + 3,000 Abyss Points** (in-game
-    2026-10-13); belt scrolls not seen. Guides: belt scrolls there [95] **vs** no scrolls [41].
-  - Unknown: whether enemy-region Sealed Dungeons and Strongholds reward again on later rift trips
-    or only on the first clear.
+    2026-10-13); **no belt scrolls** (in-game 2026-10-13). ~~Belt scrolls there~~ [95]; no scrolls [41] was right.
+  - **Both are one-time:** rewards only on the first clear (in-game 2026-10-13).
   - **Enemy-region feathers are visible but can't be collected** (in-game 2026-10-11). Maybe unlocked
     later or different in KR: unverified.
   - Field bosses there drop gear for skins/supply requests [95].
-  - **After the 7 quests:** enemy Sealed Dungeons and Strongholds still pay well (yields above; first
-    clear or repeatable is unknown). Also Kina, Abyss Points, Enhance Stones from mobs, field bosses, green side quests [94][96]. Titles: "Hello There" (3 rift uses), "Nice to Meet You" (50 uses, PvE Damage +2.9%, weaker than Guardian +3%) [109]. Time-extension tickets (+10 / +30 min) exist [96]. KR has a Domination mode and weekly rift challenges (Sep 2026), not seen on global.
+  - **After the 7 quests:** clear the enemy Sealed Dungeons and Strongholds once each (yields above,
+    one-time). After that, repeatable: Kina, Abyss Points, Enhance Stones from mobs, field bosses, green side quests; no yields published [94][96]. Titles: "Hello There" (3 rift uses), "Nice to Meet You" (50 uses, PvE Damage +2.9%, weaker than Guardian +3%) [109]. Time-extension tickets (+10 / +30 min) exist [96]. KR has a Domination mode and weekly rift challenges (Sep 2026), not seen on global.
   - Safety: open PvP there. Attacking an enemy guard flags you for PvP for 10 min. Stay unflagged and
     away from enemy outposts: their guards attack on sight [94].
   - **Kibelisks on the enemy map:** enemy Kibelisks are guarded by strong NPCs that kill you if you get
