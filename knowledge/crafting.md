@@ -79,7 +79,7 @@ Guides 2026-10, unverified unless tagged. Levels 6–10 (common) and specialty a
 | **Blacksmithing** | daggers, longswords, greatswords, **maces, guards** (Cleric weapon line) [166][167] | Ore, refining materials, Odyle, later boss mats; Orichalcum Solvent from the craft merchant [70][167] | Chain: Orichalcum → Splendent → Expert's (Splendent) → Artisan's (Splendent, Unique) → Dragon Lord [167]. Promotion test: Novice Blacksmith's Hammer [167] |
 | **Armorsmithing** | helm, pauldrons, chest, gloves, legs, boots, cloak (7 slots) [166][70] | mainly Ore [70] | "Safest general gear choice": most slots, any class [166] |
 | **Handicrafting** | bows, staves, rings, earrings, necklaces, bracelets [70][166] | Logs, Gems (expensive at high tiers) [70] | Recommended first "for the largest stat payoff" [168] |
-| **Alchemy** | orbs, spellbooks, potions, serums, scrolls (crit, speed), **Manastones, Soulstones** (Intermediate, Abyssal; Superior from Intermediate) [70][169] | Herbs [70], gem powders, Magic Crystal, Balaur scales, Elemental Stones [169] | Intermediate Manastone: 72.9% success at equal mastery → 90.9%; result Basic 50 / Greater 35 / Supreme 15% [170, KR]. Superior Manastones also in the Expedition exchange shop, 2,000 Tokens of Overcoming, 10/week [171, KR, unverified] |
+| **Alchemy** | orbs, spellbooks, potions, serums, scrolls (crit, speed), **Manastones, Soulstones** (Intermediate, Abyssal; Superior from Intermediate) [70][169] | **Manastones: Spiritstone Powder, a mob drop** (in-game 2026-10-13). Other recipes: **powders made from gems** (Ruby, Sapphire…) (in-game 2026-10-13) [169]; herbs [70, unverified], Magic Crystal, Balaur scales, Elemental Stones [169] | Intermediate Manastone: 72.9% success at equal mastery → 90.9%; result Basic 50 / Greater 35 / Supreme 15% [170, KR]. Superior Manastones also in the Expedition exchange shop, 2,000 Tokens of Overcoming, 10/week [171, KR, unverified] |
 | **Cooking** | buff food and drinks [70][166] | Cooking Ingredients [70] | Lowest barrier [77]; cheap dishes flood the market [70]. Buff sizes not documented for global. Example: Artisan's Fruit Salad, Mastery 30, global recipe differs from KR [172] |
 
 - **Mastery gates:** Expert recipes 15+, Artisan 30+, Balaur materials 51+, Dragon Lord 55–60+ [166].
@@ -93,7 +93,7 @@ Guides 2026-10, unverified unless tagged. Levels 6–10 (common) and specialty a
 - **Leveling:** cheap Common recipes (e.g. Orichalcum Ingots); single crafts give more EXP than bulk [167].
 - **Energy / daily limits:** none documented in any source. Unknown: check in-game.
 - **Switching / resetting a craft:** not documented. Unknown.
-- **Substance Morph** (Alt+H) turns Odyle into bound Ore, Gems, Logs [167][169].
+- **Substance Morph** (Alt+H) turns Odyle into **any gathering material: Ore, Gems, Logs, Herbs, Cooking Ingredients** (in-game 2026-10-13). ~~Only Ore, Gems, Logs~~ [167][169]. Conversion rate and whether grade carries over: not checked. So Odyle is the flexible material for any craft.
 
 ### Market (decides whether crafting can earn Kina)
 - **Selling on the Market needs membership** (in-game 2026-10-13) [174][175]. ~~F2P can list and
