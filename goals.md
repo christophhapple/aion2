@@ -12,10 +12,10 @@ Background: `knowledge/progression.md`.
 | Ascension Bracelet | Dhamira | Unique +6, cheap Manastone (2026-10-13) | +10 + good Manastone | Adds attack + defense; a kept piece, so it gets a good stone (revisit at GS 1600). Second bracelet from a faction quest (guides) |
 | First Ascension Trial on Normal | Dhamira | not yet | cleared once | Normal opens at GS 1500 (in-game); then run it on Normal as the weekly routine (3/week) |
 | Get a spare Clash Rune | Dhamira | 0 | 1 spare | Upgrading past +1 can destroy the rune (in-game); only try with a backup. Nightmare shop: 500 Phantasmal Fragments per chest |
-| First Nightmare clear | Dhamira | not yet | cleared once | Phantasmal Fragments → Clash Rune chests, Pantheon |
 | Shugo minigame titles (3 runs each) | Dhamira | 3/9 titles; runs: Jump Jump 3, Not This Tile? 3, Odyle Flight Frenzy 3, Mysterious Track 2, Defend Shugo Merchants 2, Wraith Evasion 1, Hidden Lugi 2, Goldrin's Treasure 1, Up! Up! Up! 0 (2026-10-12) | 9/9 | Small owned bonuses; 10 runs left. You pick the minigame each festival |
 
 ## Done
+- [x] First Nightmare clear (by 2026-10-11)
 - [x] Gear score 1400 reached (now 1500): Conquest ★2 Urugugu + Vakron open (2026-10-12)
 - [x] First visit to the Abyss: PvP with mixed gear scores, low priority for now; Abyss Points still matter for Stigma shards (2026-10-12)
 - [x] One-time content in Verteron: all regional quests (incl. rift), Sealed Dungeons, Strongholds, feathers (feathers: no completion menu, map scanned) (2026-10-12)
