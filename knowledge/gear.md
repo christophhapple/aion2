@@ -127,7 +127,7 @@ Stats: Wisdom + Life (god stats), Constitution + Power (primary); Heal Boost (Pv
   only mention an "Ascension item" from Ascension quests [117]. Check the equipment window in-game.
 
 ## Wings
-- **Crafting a pair:** Pure Odyle + Sealed Wings are enough to craft one (in-game 2026-10-11: crafted
+- **Crafting a pair:** Pure Odyle (from gathering, in-game 2026-10-13) + Sealed Wings are enough to craft one (in-game 2026-10-11: crafted
   Glorious Wings). Exact recipe amounts not recorded yet.
 - **Glorious Wings:** 3% lower MP costs when equipped (in-game 2026-10-11; [111]); a good fit for MP-hungry healers.
 - Every pair owned adds a small permanent bonus, equipped or not; 25 pairs unlock the title Dominator of
