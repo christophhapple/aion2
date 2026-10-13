@@ -24,12 +24,11 @@ Verteron done: all regional (green) quests incl. Spacetime Rift, Sealed Dungeons
 
 ## Professions (2026-10-10)
 - Gathering (Essence Extraction): **Professional 50**, promotion done. Gathers whatever comes along.
-  Skill point picks are general for now; rework once crafting goals are set (todo).
-  Skills (in-game 2026-10-13, all points spent, 95 common + 14 specialty):
-  - Common: Proficient Handling 9, Delicate Touch 8, Lady Luck 8.
-  - Specialty: all 6 Seekers; Plentiful Harvest 1 + Appraiser 1 on Ore, Herb, Ingredient, Odyle;
-    none on Gem, Log.
-- Crafting: none yet. Not worth it for now (see `knowledge/crafting.md`).
+  Respecced 2026-10-13 for Alchemy (gems) + Odyle via Substance Morph.
+  Skills (2026-10-13, all points spent, 95 common + 14 specialty):
+  - Common: Proficient Handling 10, Delicate Touch 10, Lady Luck 5.
+  - Specialty: Odyle and Gem full (Seeker, Plentiful Harvest 3, Appraiser 3); nothing else.
+- Crafting: none yet. Plan: Alchemy first (Manastones, gem powders; self-use, F2P can't sell). See `knowledge/crafting.md`.
 
 ## Gear (in-game 2026-10-13, screenshot)
 | Slot | Grade +level | | Slot | Grade +level |
