@@ -17,6 +17,8 @@ tracker itself goes in `backlog.md`.
 - [ ] Check: is there really only one kind of Clash Rune (same stat lines on every rune)?
 - [ ] Verify: Transfer tab: what does the preview show, and what makes a piece an eligible source? (once you have eligible gear)
 - [ ] Check (crafting NPC): any crafting energy or daily limit? Can a craft be reset/unlearned?
+- [ ] Pets menu: are there collection milestone rewards to claim (guides: 100 Soul Crystals at 5, 10, 20 … pets)? How many pets owned?
+- [ ] Legion (if you join one): does the Legion menu show missions or Legion Coin? What does the Legion Merchant sell?
 - [ ] Skill points: does the Verteron Monolith offer Wisdom Stones? (Nightmare and Shugo shops: none, 2026-10-13) See `knowledge/progression.md` "Skill points"
 - [ ] Hover the name cut off in Earth Punishment's Lv 20 Stigma line ("+10s [Earth Punishment] and [Earth…]"). What is it?
 - [ ] *(at GS 1600)* Dhamira: revisit Manastones. All gear has cheap ones with only a few rerolls (2026-10-13); upgrade on pieces you keep
