@@ -112,7 +112,7 @@ maxed, the rest get levelled evenly.
 Lv 14: Earth's Retribution, Judgment Thunder, Debilitating Mark, Chain of Torment, Condemnation, Divine
 Aura, Bolt, Light of Regeneration, Radiant Recovery, Healing Light (13 → 14 by 2026-10-13) · Lv 11: Lightning Strike
 Scattershot · Lv 10: Defiance (skill points only, no Daevanion yet). Stigmas: see above.
-Passives (10, in-game 2026-10-13, skill window order left→right, top row then bottom): 8, 7, 13, 11, 7 / 9, 8, 12, 9, 9; green up-arrow (upgradable?) on tiles 1, 2, 5, 7. Heal Block is Lv 8. Names per tile: not matched yet. Effects: `knowledge/cleric-skills.md` "Passive".
+Passives (in-game 2026-10-13, tile level incl. bonus): Empyrean Lord's Grace 13 · Earth's Grace 12 · Healing Enhancement 11 · Heal Block 9 · Survival Willpower 9 · Radiant Benediction 9 · Warm Benediction 8 · Prayer of Concentration 8 · Empyrean Lord's Benediction 7 · Immortal Veil 7. Green up-arrow (upgradable?) on Warm Benediction, Empyrean Lord's Benediction, Immortal Veil, Prayer of Concentration. Effects + icons: `knowledge/cleric-skills.md` "Passive".
 Everything above is Mastery preset 1.
 
 ## Specialties (in-game 2026-10-11)

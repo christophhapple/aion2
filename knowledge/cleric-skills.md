@@ -81,10 +81,29 @@ actives). Names cut off in the header marked "…".
 | **Radiant Benediction** | Heals caster + party within 40m for 711–854 when an attack lands (5s CD) |
 | **Warm Benediction** | Max HP +13%, Max MP +21 |
 | **Immortal Veil** | Defense +14%, Critical Hit Resist +160 |
-| **Prayer of Conce…** (likely Concentration) | At HP ≤ 50%: Protective Shield 1451 + Heal Boost +20% for 30s (1 min CD) |
-| **Empyrean Lords' …** (second one, name cut off) | Block +200; heals 233–280 on Block (3s CD) |
+| **Prayer of Concentration** | At HP ≤ 50%: Protective Shield 1451 + Heal Boost +20% for 30s (1 min CD) |
+| **Empyrean Lord's Benediction** | Block +200; heals 233–280 on Block (3s CD) |
 | **Survival Willpower** | Status Effect Resist +33%. While stunned/knocked down/airborne/frozen/feared: PvE Damage Tolerance +28% (PvP 14%) for 5s (1 min CD); +10% Status Resist per hit taken, 5s, up to 10 stacks |
 | **Heal Block** | 7% chance on hit: target's Incoming Heal −48% for 5s (5s CD). PvP use only |
+
+Passive icons (skill window order, names confirmed by the user, in-game 2026-10-13; descriptions are
+Claude's wording of the art):
+
+| Icon | Passive |
+|---|---|
+| Yellow sun burst | Warm Benediction |
+| Green star | Empyrean Lord's Benediction |
+| Red/orange light rays | Empyrean Lord's Grace |
+| Teal star under an arch | Healing Enhancement |
+| Green figure in a dome | Immortal Veil |
+| Purple ankh | Heal Block |
+| Robed woman with a glowing orb | Prayer of Concentration |
+| Figure in a beam of light | Earth's Grace |
+| Armoured knight | Survival Willpower |
+| Pale teal ghostly figure | Radiant Benediction |
+
+The level shown on the skill window tile seems to include the "(+n)" bonus: Heal Block's tooltip says
+"Lv. 8 (+1)", its tile "Lv. 9" (in-game 2026-10-13; inference from one case).
 
 ## Skill levels
 - **Where levels come from** (in-game 2026-10-11): skill points raise a skill to **Lv 10**; Lv 11–14 come
