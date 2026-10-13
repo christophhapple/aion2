@@ -75,9 +75,10 @@ Researched 2026-10-13; guides unless tagged. 1 Wisdom Stone (Bound) = 1 skill po
   the guide pool of 384 SP (203 + 122 + 59) [186] overstates one faction. Strongholds: unclear [192].
 - **Monolith / feathers:** trade for Wisdom Stones [192][193] **vs** global gives only Daevanion
   Crystals there [186, newer, global-specific]. Check in-game.
-- **Repeatable, the main F2P lead:** **Shugo Festival shop** (Centuryroot Tokens) sells Wisdom Stones
-  in 4 price tiers, 350 / 700 / 1,400 / 2,800 tokens, 5 per tier (up to 20), reset period unknown
-  [191, datamine, unverified live].
+- **Shugo Festival shop: no Wisdom Stones** in its Consumables tab (in-game 2026-10-13; other tabs: Wings,
+  Pets, Artwork, Skins). ~~4 price tiers, 350–2,800 tokens, up to 20~~ [191, datamine, not live].
+- **So no repeatable skill point source is known** on global (2026-10-13): what you have is what you get,
+  apart from the Monolith (unchecked) and future patches.
 - **Nightmare shop: no Wisdom Stones** in its Growth tab (in-game 2026-10-13; other tabs: Consumables, Wings, Skins, Statue). ~~Sells Wisdom Stones~~ [194][193]. Daevanion Crystals and Stigma Shards only [189].
 - **Not found:** Abyss shop, Daeva Pass free track [195], launch/Twitch events, achievements, titles,
   Legion. Higher passive levels come from Daevanion boards (+n on top of the skill-point cap of 10).

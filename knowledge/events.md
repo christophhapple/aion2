@@ -38,5 +38,18 @@ Researched 2026-10-11. Times: `schedule.md`. Sources [n]: `sources.md`. Unverifi
   ×800, plus chance drops [100]. Felt "mediocre, but worth it" (in-game 2026-10-11, amounts not checked).
 - Centuryroot Tokens are spent in the **Festival Shop** (growth materials, skins) [100][101].
 
+### Festival Shop (in-game 2026-10-13)
+Shugo Festival window → Festival Shop. Tabs: Consumables, Wings, Pets, Artwork, Skins. Consumables, all Bound:
+
+| Item | Price (tokens) | Limit |
+|---|---|---|
+| Daevanion Crystal | 400 at "Step 4/4" (price rises in steps) | per character, showed 11/15 |
+| Soul Crystal | 50 | per character, **monthly** 30 |
+| Stigma Shard | 300 | per character 35 |
+| Empathy Candy (pets) | 20 | none shown |
+| Radiant Odyle | 1,000 | per character, **monthly** 3 |
+
+No Wisdom Stones. Token sources: Invasion with a key (×50 [100]) and Shugo Festival rewards.
+
 **So:** worth doing **only with a key**, ~1 per day; ~5 min for maybe ~1,900 stones. Small next to
 the Daily Dungeon (6–7k at GS 1100–1500, in-game). Keys bank to 7, so no need to go every day.
