@@ -78,7 +78,6 @@ Researched 2026-10-13; guides unless tagged. 1 Wisdom Stone (Bound) = 1 skill po
 - **Repeatable, the main F2P lead:** **Shugo Festival shop** (Centuryroot Tokens) sells Wisdom Stones
   in 4 price tiers, 350 / 700 / 1,400 / 2,800 tokens, 5 per tier (up to 20), reset period unknown
   [191, datamine, unverified live].
-- **Nightmare shop** (Phantasmal Fragments): listed as selling Wisdom Stones [194][193], no price or
-  limit found; visible global shop data shows only Daevanion Crystals [189]. Check in-game.
+- **Nightmare shop: no Wisdom Stones** in its Growth tab (in-game 2026-10-13; other tabs: Consumables, Wings, Skins, Statue). ~~Sells Wisdom Stones~~ [194][193]. Daevanion Crystals and Stigma Shards only [189].
 - **Not found:** Abyss shop, Daeva Pass free track [195], launch/Twitch events, achievements, titles,
   Legion. Higher passive levels come from Daevanion boards (+n on top of the skill-point cap of 10).
