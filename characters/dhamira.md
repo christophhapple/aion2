@@ -24,8 +24,11 @@ Verteron done: all regional (green) quests incl. Spacetime Rift, Sealed Dungeons
 
 ## Professions (2026-10-10)
 - Gathering (Essence Extraction): **Professional 50**, promotion done. Gathers whatever comes along.
-  Skill point picks are general for now; rework once crafting goals are set (todo). Known: Lady Luck
-  Lv. 8 (2026-10-13).
+  Skill point picks are general for now; rework once crafting goals are set (todo).
+  Skills (in-game 2026-10-13, all points spent, 95 common + 14 specialty):
+  - Common: Proficient Handling 9, Delicate Touch 8, Lady Luck 8.
+  - Specialty: all 6 Seekers; Plentiful Harvest 1 + Appraiser 1 on Ore, Herb, Ingredient, Odyle;
+    none on Gem, Log.
 - Crafting: none yet. Not worth it for now (see `knowledge/crafting.md`).
 
 ## Gear (in-game 2026-10-13, screenshot)
