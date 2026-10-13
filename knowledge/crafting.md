@@ -64,7 +64,10 @@ Guides 2026-10, unverified unless tagged. Levels 6–10 (common) and specialty a
 - Recipe tiers: basic → Expert → Artisan. 25% chance of a "Splendent" (better) result on supported gear;
   Artisan Splendent results feed the Dragon Lord gear [70][76]. (80.1% figure elsewhere is probably the
   base success rate.)
-- **Gathered Odyle grades: Odyle (Common), Fine Odyle (Rare), Pure Odyle (Epic), Radiant Odyle (Unique),
+- **Gathered material grades** (in-game 2026-10-13): **Odyle, Orichalcum Ore, Yggdrasil Logs, Gems** (Ruby,
+  Sapphire…) come in four: Common → Fine (Rare) → Pure (Epic) → Radiant (Unique). **Herbs only Common and
+  Fresh (Rare).** Cooking Ingredients: not four grades, exact grades not recorded.
+- **Odyle grades: Odyle (Common), Fine Odyle (Rare), Pure Odyle (Epic), Radiant Odyle (Unique),
   the last very rare** (in-game 2026-10-13; matches four grades up to "Radiant" [72]). Radiant Odyle also
   in the Shugo Festival shop, 1,000 tokens, 3 per month. Appraiser (grade reroll) helps here. Guide
   prices: level-40 Radiant Odyle sells to NPCs for 540 Kinah,
