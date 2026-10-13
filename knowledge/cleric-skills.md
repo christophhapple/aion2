@@ -3,6 +3,28 @@
 Source: in-game tooltips, collected 2026-10-09 (imported from the Claude doc "AION 2 Cleric - Skills &
 Build Notes"). Passives omitted (not customizable). Values only where the game showed them.
 
+## Icons
+For reading hotbar screenshots (names confirmed by the user, in-game 2026-10-13). Descriptions are
+Claude's own wording of the icon art.
+
+| Icon | Skill |
+|---|---|
+| Armoured figure, blue lightning on the right | Lightning Strike Scattershot |
+| Green, star burst over light rays | Healing Light |
+| Green, circular glow / ring | Radiant Recovery |
+| Red, fist with a glowing orb | Power Burst |
+| Bright green, sparkles over light | Light of Protection |
+| Red, hooded figure with red glow | Bolt |
+| Purple, hooded figure with purple lightning | Chain of Torment |
+| Orange, praying hands | Prayer of Amplification |
+| Teal, winged light | Light of Regeneration |
+| Dark red, flames / spikes (top of a queue) | Condemnation |
+| Blue, falling rock / meteor | Earth's Retribution |
+| Purple, swirling lightning orb | Debilitating Mark |
+| Gold, glowing diamond / sigil | Divine Aura |
+| Brown, rock spire / mountain | Earth Punishment |
+| Red, chains / mechanical arm | Judgment Thunder |
+
 ## Active
 
 | Skill | Effect |
