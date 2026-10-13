@@ -14,7 +14,8 @@ Background: `knowledge/progression.md`.
 | Craft Sealing Wings | Dhamira | 70 Featherdown ✓, 10 Pure Odyle missing: gather it (2026-10-13) | crafted | Recipe 70 Sealed Wings Featherdown + 10 Pure Odyle (guides). +200 Flight Power owned; equipped +5% incoming heals, HP 400 |
 | First Ascension Trial on Normal | Dhamira | not yet | cleared once | Normal opens at GS 1500 (in-game); then run it on Normal as the weekly routine (3/week) |
 | *(low priority)* Clash Runes to +10 | Dhamira | both +2, no spare (2026-10-13) | both +10 | Only +1 GS per level (rune itself 40) plus a slightly better stat line; failure destroys the rune (in-game), success +3 66% … +10 10% (guides). Only try with a spare: Nightmare shop, 500 Phantasmal Fragments per chest. Fragments go to Daevanion points first |
-| Shugo minigame titles (3 runs each) | Dhamira | 3/9 titles; runs: Jump Jump 3, Not This Tile? 3, Odyle Flight Frenzy 3, Mysterious Track 2, Defend Shugo Merchants 2, Wraith Evasion 1, Hidden Lugi 2, Goldrin's Treasure 1, Up! Up! Up! 0 (2026-10-12) | 9/9 | Small owned bonuses; 10 runs left. You pick the minigame each festival |
+| Shugo minigame titles (3 runs each) | Dhamira | 4/9 titles; runs (achievements, in-game 2026-10-13): Jump Jump 3, Not This Tile? 3, Odyle Flight Frenzy 3, Mysterious Track 3, Defend Shugo Merchants 2, Hidden Lugi 2, Wraith Evasion 1, Goldrin's Treasure 1, Up! Up! Up! 0 | 9/9 | Small owned bonuses; 9 runs left. You pick the minigame each festival. Next: Defend Shugo Merchants or Hidden Lugi (1 run each to a title) |
+| Shugo Festival: participate 30 times | Dhamira | 20/30 (2026-10-13) | 30 | Achievement "Shugo Festival Regul…", rewards incl. 10 Soul Crystals. The 9 title runs above nearly cover it |
 
 ## Done
 - [x] Clash Runes to +2: both equipped runes (2026-10-13)
