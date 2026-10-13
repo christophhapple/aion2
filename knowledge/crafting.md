@@ -93,7 +93,7 @@ Guides 2026-10, unverified unless tagged. Levels 6–10 (common) and specialty a
 - **Leveling:** cheap Common recipes (e.g. Orichalcum Ingots); single crafts give more EXP than bulk [167].
 - **Energy / daily limits:** none documented in any source. Unknown: check in-game.
 - **Switching / resetting a craft:** not documented. Unknown.
-- **Substance Morph** (Alt+H) turns Odyle into **any gathering material: Ore, Gems, Logs, Herbs, Cooking Ingredients** (in-game 2026-10-13). ~~Only Ore, Gems, Logs~~ [167][169]. Conversion rate and whether grade carries over: not checked. So Odyle is the flexible material for any craft.
+- **Substance Morph** (Alt+H) turns Odyle into **any gathering material: Ore, Gems, Logs, Herbs, Cooking Ingredients** (in-game 2026-10-13). ~~Only Ore, Gems, Logs~~ [167][169]. Same exchange rate for every target material (in-game 2026-10-13); exact rate and whether grade carries over not recorded. So Odyle is the flexible material for any craft.
 
 ### Market (decides whether crafting can earn Kina)
 - **Selling on the Market needs membership** (in-game 2026-10-13) [174][175]. ~~F2P can list and
