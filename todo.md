@@ -16,6 +16,7 @@ tracker itself goes in `backlog.md`.
 - [ ] Verify: Nightmare: number of floors/levels, Phantasmal Fragments per clear, shop items + prices (incl. Daevanion points: price per point and how many can be bought)
 - [ ] Check: is there really only one kind of Clash Rune (same stat lines on every rune)?
 - [ ] Verify: Transfer tab: what does the preview show, and what makes a piece an eligible source? (once you have eligible gear)
+- [ ] Wings tab (Alt+C): screenshot owned wings + Flight Power total. Is Ultimate Daeva Wings (Lv 45 quest "The One Who Witnesses the Nightmare") owned? Aullaeu (Lv 30 quests)? Is there a wing enhancement menu? See `knowledge/gear.md` "Wings"
 - [ ] Check (crafting NPC): any crafting energy or daily limit? Can a craft be reset/unlearned?
 - [ ] Dhamira: screenshot all 13 Stigma tooltips (slotted ones first: Light of Protection, Prayer of Amplification, Power Burst) and go through them with Claude like the active skills. Settles the shard plan (Earth Punishment vs Light of Protection to 20) and what "Earth's Blessing" is
 - [ ] Dhamira: screenshot the 10 passive tooltips and go through them with Claude (names, effects, which are "important", where spare skill points go)
