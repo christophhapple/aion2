@@ -13,9 +13,10 @@ nothing threatens you.
 - **Guiding principle (2026-10-13): convenience over theoretical max DPS.** Convenience = less
   headspace and working memory, fewer things to watch, fewer things to get wrong.
 - What goes where is decided by **role first, then timing**:
-  - **Macro = damage only**, and only damage where "whenever it's ready" is the right timing.
-  - **Healing never goes in the macro**, not even proactive healing (Light of Regeneration): healing
-    stays fully separate, on its own keys.
+  - **Macro = anything where "whenever it's ready" is the right timing**: damage, plus (since
+    2026-10-13) buffs and the always-up heal, Light of Regeneration.
+  - **Reactive healing never goes in the macro** (Healing Light, Radiant Recovery): it stays on its
+    own keys, so the macro never burns it.
   - **Timed or placed damage stays manual:** Power Burst (saved for interrupt phases, see below),
     Bolt (charge).
   - **Exception, convenience over DPS (2026-10-13):** Prayer of Amplification and Divine Aura (slot 4)
@@ -72,7 +73,7 @@ setup depends on them: right click (macro), left click (slot 11), E (slot 6), R 
 
 | Slot | Queue | Use |
 |---|---|---|
-| 1 | Light of Regeneration | manual, healing kept out of the macro (proactive, keep up) |
+| 1 | Light of Regeneration | macro (since 2026-10-13): always up, cast whenever ready |
 | 2 | Healing Light | manual, reactive heal |
 | 3 | Radiant Recovery | manual, reactive heal |
 | 4 | Prayer of Amplification → Divine Aura | macro (since 2026-10-13): fire whenever ready |
@@ -170,7 +171,6 @@ Everything pressed on top of the held macro.
   at ≤50% HP, 50% chance to cleanse 1). Most-pressed.
 - **Whole party took AoE damage** → Radiant Recovery (9s CD, cleanses up to 2).
 - **A debuff needs removing** → Radiant Recovery (up to 2, sure), Healing Light (1, 50% chance).
-- **Light of Regeneration expires** → recast (30s, always up).
 
 **Damage**
 - **Stagger interrupt phase** → Power Burst + a fully charged Bolt (50 + 35 gauge).
@@ -186,5 +186,5 @@ Everything pressed on top of the held macro.
 Summon Resurrection; Absolution if more cleansing is needed.
 
 ## Play loop
-At the pull: toggle Light of Protection, Light of Regeneration up. Then hold right click (macro) and
+At the pull: toggle Light of Protection. Then hold right click (macro) and
 press on top of it per the trigger map above. Left click to switch target / pull the next pack.
