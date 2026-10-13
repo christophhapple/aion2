@@ -10,6 +10,8 @@ nothing threatens you.
 ## Playstyle model
 - Two axes: **what a skill does** (damage/heal/buff/debuff) and **when you press it** (proactive
   maintenance vs. reactive).
+- **Guiding principle (2026-10-13): convenience over theoretical max DPS.** Convenience = less
+  headspace and working memory, fewer things to watch, fewer things to get wrong.
 - What goes where is decided by **role first, then timing**:
   - **Macro = damage only**, and only damage where "whenever it's ready" is the right timing.
   - **Healing never goes in the macro**, not even proactive healing (Light of Regeneration): healing
