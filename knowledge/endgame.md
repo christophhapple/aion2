@@ -80,8 +80,8 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
     the weekly reset) (in-game 2026-10-12; matches [80], 20/week [123]).
   - Common reward: **1,000 Abyss Points** guaranteed + random extras: more Abyss Points, Enhance Stones,
     **Soul Crystals** (one run: +400 AP, +1,000 stones) (in-game 2026-10-12). Higher rarities' rewards: not checked. Crafting and pet materials too [123].
-- **Cap:** 5 rewarded missions per day; per server [107] **vs** per account [106]. Banks up to 20
-  per one checklist [`schedule.md`] **vs** "unused ones are lost" [106].
+- **Cap:** 5 rewarded missions per day; per server [107] **vs** per account [106]. **Doesn't
+  bank: unused missions are lost at the daily reset** (in-game 2026-10-13; matches [106]). ~~Banks up to 20~~ (one checklist) is wrong.
 - **You can only have 5 accepted at a time** (in-game 2026-10-11), so choose; you can't grab the whole list.
 - **Missions:** kill X enemies, do an activity, go to a spot, sometimes a tougher enemy; all five in
   under 30 min [106][108]. Up to 15 shown at once [108]. Refresh the list for Kina: 1,000, rising
