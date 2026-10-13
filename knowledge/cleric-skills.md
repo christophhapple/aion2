@@ -58,14 +58,12 @@ Stigma Lv 5/10/15/20, fixed. Truncated tooltip text marked "…".
 | **Earth Punishment** | 4213–4322 Earth dmg + 432/s for 10s, one enemy 20m (Lv 5); **Condemnation always crits on its target**; 20 Stagger; mobile | 200 MP, instant, 30s | Condemnation crit | +10% Double Chance to caster and… (party +5%, 2026-10-11) | +10% Attack and Defense to caster… (party +5%) | +10s [Earth Punishment] and [Earth…] duration |
 | **Salvation** | Caster immune to damage and status effects 3s; not vs certain powerful attacks; unaffected by CD increase; shares a 30s lockout with Tenacity/Barrier-type effects | instant, 2 min 30s | +100% Incoming Heal | restores 20% Max HP at the end… | grants base [Salvation] effect to t… | triggers [Salvation] when afflicted… |
 | **Root** | 2795–2881 Earth dmg to up to 4 enemies within 4m of a target 20m away (Lv 1); 75% Root 10s (100% on NPCs); 15 Stagger | 200 MP, instant, 1 min | becomes mobile | +2s Root | +25% Root chance | ×2 DoT on rooted targets |
-| **Light of Protection** | Toggle, caster + nearby party: PvE Damage Boost + PvE Damage Tolerance +16%, PvP both +8%, Incoming Heal +10%, Accuracy +100 | toggle, 5s CD | +10% Incoming Heal | +100 Accuracy | +10% Max HP | +10% Perfect Chance |
+| **Light of Protection** | Toggle, caster + nearby party (Lv 12; **level unlocks also apply to the party**, in-game 2026-10-13): PvE Damage Boost + PvE Damage Tolerance +16%, PvP both +8%, Incoming Heal +10%, Accuracy +100 | toggle, 5s CD | +10% Incoming Heal | +100 Accuracy | +10% Max HP | +10% Perfect Chance |
 | **Yustiel's Power** | PvE Damage Tolerance +20%, PvP +10% for 10s, caster + party (4) within 40m; unaffected by CD increase | instant, 1 min | Shield 10% Max HP | +100 Block, Evasion | +20% Status Effect Resist | +10% PvE Damage Tolerance increa… |
 | **Voice of Doom** | 3275–3375 Earth dmg to up to 4 enemies within 4m (20m), 438/s, enemy Incoming Heal and HP potions −60% for 20s (Lv 1) | 200 MP, instant, 1 min | up to +20% dmg with more targ… | removes Protective Shields | −200 Crit Resist | −50% DoT intervals |
 | **Assault Mark** | 2652–2733 dmg to up to 4 enemies within 4m (20m) (Lv 1); 30% Root (100% NPCs); Defense up to +20% by targets hit | instant, 2 min | +20% Attack 5s on hit | 500 MP damage on hit | +10m range | +20% Root chance |
 | **Noble Aura** | Aura follows the caster 5 min, attacks your target for 1405–1448 every 2s (Lv 1); mobile | instant, 1 min | +200 Aura Crit | +20 dmg to targets afflicted with… | +30% dmg to Incapacitated… targets | −1s Aura attack CD |
 
-- Light of Protection's tooltip header read "Lv. 1" although its Lv 5 and Lv 10 specialties showed as
-  active (character file: Lv 12). The header may show the browsed level (arrows), not the owned one.
 - ~~Prayer of Amplification: party buff~~: the tooltip says Target: Caster (in-game 2026-10-13).
 - [Empyrean Lord's Grace] and [Earth's Grace] (Prayer Lv 10/15) are passives, see "Passive". Open: the name cut off in
   Earth Punishment's Lv 20 line (earlier read as [Earth's Blessing]; maybe the same as [Earth's Grace]).
