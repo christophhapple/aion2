@@ -21,6 +21,7 @@ tracker itself goes in `backlog.md`.
 - [ ] *(low priority, later)* Rework gathering skill point picks once crafting goals are set and you switch to targeted farming (not enough points for everything; respec reportedly costs 50,000 Kinah)
 - [ ] Dhamira: screenshot all 13 Stigma tooltips (slotted ones first: Light of Protection, Prayer of Amplification, Power Burst) and go through them with Claude like the active skills. Settles the shard plan (Earth Punishment vs Light of Protection to 20) and what "Earth's Blessing" is
 - [ ] Dhamira: screenshot the 10 passive tooltips and go through them with Claude (names, effects, which are "important", where spare skill points go)
+- [ ] Verify: do Duty Missions bank? Skip a day, then check whether more than 5 rewarded missions are available (guides: banks to 20 vs "unused ones are lost")
 - [ ] Dhamira: screenshot the hotbar (with keys) and the macro window, so the build file gets the current slots, hotkeys and macro order
 - [ ] Dhamira: screenshot the gear (each slot's grade + enhancement level), to fill in the "All gear Unique +10" goal
 - [ ] *(at GS 1600)* Dhamira: revisit Manastones. All gear has cheap ones with only a few rerolls (2026-10-13); upgrade on pieces you keep
