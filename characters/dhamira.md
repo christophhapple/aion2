@@ -42,7 +42,7 @@ Verteron done: all regional (green) quests incl. Spacetime Rift, Sealed Dungeons
 | Clash Rune | +2 | | Clash Rune | +2 |
 
 ## Gear notes
-- Ascension Bracelet: Unique +6 (2026-10-11), cheap Manastone (2026-10-13). Now two bracelets equipped (Unique +9, Epic +1): which is the Ascension one is open.
+- Ascension Bracelet: Unique +9 (2026-10-13; was +6), cheap Manastone. Second bracelet: Epic +1.
 - Manastones: cheap ones in all gear, few rerolls (2026-10-13). Revisit at GS 1600.
 - Wings: crafted Glorious Wings (2026-10-11).
 - Clash Runes: both at +2 (2026-10-13); 2 spares destroyed trying for +3, none left.
