@@ -61,7 +61,9 @@ Thunder alternated, since queues cycle) → Condemnation in the debuff queue, Th
 gap (pure Condemnation, but macro idle ~7s of every 20s; filling the gap by hand felt weird) →
 current. **Rejected:** repeating slots in the macro to weight Condemnation: unwieldy, a crutch.
 
-Scattershot fires whenever something is Staggered; wasting it costs nothing. Power Burst is *not*
+**Scattershot (since 2026-10-13): out of the macro.** When the target is Staggered, let go of the
+macro and hold Scattershot's key alone for the whole Stagger. Chosen because it feels good; whether
+it beats the macro on DPS is untested (the training dummy can't be Staggered). Power Burst is *not*
 used to set it up: it's saved for fight phases where Stagger damage has to burst to interrupt an
 attack. Stagger gauge damage in the kit: Power Burst 50, **Bolt 20–35** (by charge), Earth Punishment 20 (in the macro), Debilitating Mark
 and Chain of Torment 10, Condemnation 7, Judgment Thunder 2. So for an interrupt phase, hold a fully
@@ -79,7 +81,7 @@ setup depends on them: right click (macro), left click (slot 11), E (slot 6), R 
 | 4 | Prayer of Amplification → Divine Aura | macro (since 2026-10-13): fire whenever ready |
 | 5 | Power Burst | manual, saved for Stagger interrupt phases |
 | 6 | Condemnation | macro + E (held in the Earth Punishment window: pure Condemnation) |
-| 7 | Lightning Strike Scattershot | macro + R (held during Stagger: pure Scattershot) |
+| 7 | Lightning Strike Scattershot | manual only (since 2026-10-13): let go of the macro, hold during Stagger |
 | 8 | Light of Protection | toggle at the pull |
 | 9 | Bolt | manual (charge while moving) |
 | 10 | Judgment Thunder | macro only: filler |
@@ -139,7 +141,7 @@ Options per skill: `knowledge/cleric-skills.md`. Lv 20 slots locked everywhere (
 | Debilitating Mark | 2 -15% target Defense · 4 +10% enemy Damage Boost reduction | Debuff skill: maximize debuffs. Not 1 (no MP cost + MP restore): MP isn't short. Not 3 (Stun chance) |
 | Divine Aura | 2 AoE · 3 +50% attack speed | Attack speed over +3s duration: the aura is stationary and packs sometimes walk out of it, so front-load the damage. Candidate for the 3rd slot (Lv 20): option 5, -10s CD |
 | Chain of Torment | 2 +3s DoT · 4 +10% enemy Damage Tolerance reduction | Debuff skill: maximize debuffs; CC (slow, Knockdown) least important. +3s DoT also widens Condemnation's window |
-| Lightning Strike Scattershot | 3 mobile (only 1 slot: Lv 11) | Mobility is paramount. Next: Lv 12 opens slot 2 and option 4 (Multi-Hit); one Daevanion level away. Lv 16: option 5 (-1s all cooldowns per hit), strong since it has no cooldown and the macro spams it during Stagger |
+| Lightning Strike Scattershot | 3 mobile (only 1 slot: Lv 11) | Mobility is paramount. Next: Lv 12 opens slot 2 and option 4 (Multi-Hit); one Daevanion level away. Lv 16: option 5 (-1s all cooldowns per hit), strong since it has no cooldown and gets spammed during Stagger |
 | Light of Regeneration | 1 +5% Defense · 4 +5% Move Speed | Always up (cooldown = duration = 30s), so party-wide buffs with 100% uptime beat extra healing. Move Speed also serves mobility. Candidate for the 3rd slot (Lv 20): option 5, +5% PvE Damage Tolerance, same logic |
 | Condemnation | 2 up to +12% damage on fewer targets · 4 cooldown reset on Crit | Cooldown reset is the key pick (more casts inside Chain's window; Crit rate feeds it). No Root (CC), no MP (not needed). Candidate for the 3rd slot (Lv 20): option 5, Multi-Hit |
 | Healing Light | 2 +20% healing at ≤50% HP · 3 50% cleanse chance | Cleanse over more raw healing (+2% HP). Not 1 (+2 consecutive uses): unclear how it works, and the 6s CD is short anyway. Specific fights may call for other picks later. Candidate for the 3rd slot (Lv 20): option 5, -2s CD |
@@ -176,7 +178,8 @@ Everything pressed on top of the held macro.
 - **Stagger interrupt phase** → Power Burst + a fully charged Bolt (50 + 35 gauge).
 - **Bolt ready, nothing to save it for** → charge it while moving.
 - **Earth Punishment on the target** (with Chain) → hold E on top of the macro: pure Condemnation.
-- **Target Staggered** → hold R on top of the macro: pure Scattershot (optional).
+- **Target Staggered** → let go of the macro, hold Scattershot alone until the Stagger ends, then
+  back to the macro.
 
 **Utility**
 - **MP low** → left click (Earth's Retribution) until ~50%, then back to the macro.
