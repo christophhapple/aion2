@@ -110,7 +110,7 @@ so passives likely also cap at Lv 10 from skill points, like actives (inference)
 
 ## Skill levels
 - **Where levels come from** (in-game 2026-10-11): skill points raise a skill to **Lv 10**; Lv 11–14 come
-  from **Daevanion** board nodes; Lv 15–20 from **Arcana**. Leftover skill points can only go to passives.
+  from **Daevanion** board nodes; Lv 15–20 from **Arcana**. Leftover skill points can only go to passives; **passive points can be reset** (in-game 2026-10-13, cost not recorded).
 - The skill window's tooltip shows Daevanion levels as a bonus: "Earth's Retribution (+4)" at Lv 14
   (in-game 2026-10-11).
 - **Specialties (active skills):** **3 slots**, unlocking at skill Lv 8, 12 and 20 (in-game 2026-10-11;

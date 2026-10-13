@@ -17,13 +17,13 @@ tracker itself goes in `backlog.md`.
 - [ ] Check: is there really only one kind of Clash Rune (same stat lines on every rune)?
 - [ ] Verify: Transfer tab: what does the preview show, and what makes a piece an eligible source? (once you have eligible gear)
 - [ ] Check (crafting NPC): any crafting energy or daily limit? Can a craft be reset/unlearned?
-- [ ] Check: can passive skill points be reset (cost)? Heal Block (PvP only) holds points that could go to Radiant Benediction
 - [ ] Hover the name cut off in Earth Punishment's Lv 20 Stigma line ("+10s [Earth Punishment] and [Earth…]"). What is it?
 - [ ] *(at GS 1600)* Dhamira: revisit Manastones. All gear has cheap ones with only a few rerolls (2026-10-13); upgrade on pieces you keep
 - [ ] Pets / Genus Insight: save Soul Crystals, level boards with pets first; start pressing Analyze (nothing locked) once a board reaches Genus level 5. See `knowledge/endgame.md` "Pets"
 - [ ] *(low priority, later)* Dhamira: try Condemnation option 1 (+100 MP per hit) instead of option 2 (+12% on fewer targets) for a few fights; compare how often you need to refill MP with the current macro (10, 12)
 
 ## Done
+- [x] Passive skill points can be reset; Heal Block points removed (2026-10-13)
 - [x] All 10 passive tooltips recorded in knowledge/cleric-skills.md (2026-10-13)
 - [x] All 13 Stigma tooltips recorded in knowledge/cleric-skills.md (2026-10-13)
 - [x] Wing enhancement: does not exist on global (2026-10-13)
