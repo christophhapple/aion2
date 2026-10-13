@@ -142,7 +142,8 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
   boards**; Azphel (PvP) 232 more = **802 for all five**. Node costs 1–4 points by grade [127]. One guide
   mentions a sixth board, Ariel (PvE) [127]; not in the global client data [126].
 - Points available (estimate from pre-launch datamine) [115]: levels 136 + home Sealed Dungeons 122 +
-  regional quests 58 = ~316, plus Shugo shop 50 and Nightmare shop 50 (300 Phantasmal Fragments each) =
+  regional quests 58 = ~316, plus Shugo shop 50 and Nightmare shop 50 (300 Phantasmal Fragments each; **the Nightmare shop does
+  sell Daevanion points for Fragments**, in-game 2026-10-13, price and cap not checked) =
   **~416**. Rift quests add a few. So ~150 short of the PvE boards: prioritize (see class notes).
 
 ## Stigma levels: can you max all four?

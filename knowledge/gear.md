@@ -74,7 +74,9 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
 - Fierce Battle Amulet (Abyss) uses Abyss Shop scrolls, which don't work on the Revelation Amulet [35][38].
 
 ## Clash Runes
-- 2 slots [19][20]; ~40 GS per rune [20].
+- 2 slots [19][20]; ~40 GS per rune [20] (unclear whether per rune or per level; not checked in-game).
+- Apparently only one kind of Clash Rune (user's impression 2026-10-13, unconfirmed), so a spare from
+  any source works as backup.
 - Upgrade: Clash Rune Enhance Scrolls + Kina + Enhance Stones. Success: +1 100%, +2 80%, +3 66%,
   +4 50%, … +10 10%; no pity [20][21].
 - **Failure destroys the rune** (in-game 2026-10-10: tooltip on a +1 rune says "destroyed upon enhance
