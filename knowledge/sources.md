@@ -259,3 +259,15 @@ Added 2026-10-13 (legions).
 198. gamesfuze, legion guide, 2026-10-02, G, self-contradicting: https://gamesfuze.com/guides/aion-2-legion-guide-how-to-join-or-create-a-legion-bonuses/
 199. guildorder, founding legions, 2026-10-01, G pre-launch: https://guildorder.com/games/aion2/guides/finding-and-joining-a-founding-legion
 200. u4n, Legion Coin, 2026-01 (upd. 2026-10-13), likely KR, Kinah seller, low reliability: https://www.u4n.com/news/aion-2-legion-coin.html
+
+Added 2026-10-13 (pets).
+
+201. raidrelay, pets & Genus guide, 2026-10-13, G client v27/28: https://raidrelay.com/aion-2-pets-genus-guide
+202. wikily.gg, Genus Insight, 2026-10-06: https://wikily.gg/aion-2/genus-insight
+203. metabot.gg, mounts & wings guide (pets), 2026-10-08, G: https://metabot.gg/en/aion-2/guides/mounts-wings-guide
+204. mein-mmo, Arcana/Daevanion/pets, 2026-09-29, G: https://mein-mmo.de/en/aion-2-arkana-daevanion-pet-you-need-to-understand-and-master-these-3-systems,1589883/3/
+205. gameplay.tips, pet/Genus guide, 2026-10-02, G + Asia: https://gameplay.tips/guides/aion-2-pet-genus-system-guide.html
+206. gametruth, pets and collections, 2026-10-06: https://www.gametruth.com/guides/aion-2-pets-and-collections/
+207. keengamer, all pets, 2026-10-11: https://www.keengamer.com/articles/guides/all-pets-and-how-to-get-them-in-aion-2/
+208. rutab, Genus Insight, 2026-10-09: https://rutab.net/b/games/2026/10/09/aion-2-kak-rabotaet-genus-insight-i-kak-prokachat-ego-do-maksimuma.html
+209. powerupgaming / destructoid, pet transform, 2026-10-03 / undated: https://powerupgaming.co.uk/2026/10/03/aion-2-pet-transform-guide-best-pets-how-to-get-them/

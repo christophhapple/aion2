@@ -104,7 +104,7 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
 - Mobs drop **pet souls** on kill; they don't go to the inventory and can't be hovered. **Progress is
   only visible in the Pets menu** (in-game 2026-10-11). No loot-popup count either.
 - Pets menu → a pet's Source tab shows which monster drops its soul [121]. Drop rate falls when the mob
-  is more than ~10 levels below you [121]. Souls per pet: 5 [121], numbers changed in a KR patch
+  is more than ~10 levels below you [121]. **Souls: 5 unlock a pet, +25 for Lv 2, +75 for Lv 3 = 105** [207][201]; cap Lv 3 on global (5 in KR/TW) [204]. ~~5 per pet~~ [121] was unlock only; numbers changed in a KR patch
   (Jan 2026), global unclear.
 - Every pet owned adds small permanent stats; collection milestones at 5 pets, then every 10 [115][121].
 - **Genus Insight** (pet families): 5 boards (Cogni, Fera, Natura, Varian, Special), each with 9 stat
@@ -137,6 +137,31 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
 - Guide advice: level every board to 10 and ignore the stats along the way, lock nothing before 10.
   At 10, reroll unlocked until line 4 shows the best stat, then lock [156]. Soul Crystals also come
   from duty quests [106] and hidden cubes [115].
+
+### Pets: value vs effort (researched 2026-10-13, guides, unverified)
+- **Owned effect per pet is tiny** (Lv 1/2/3): Cogni HP 10/20/30, Crit +1/+2, Might +1 · Fera mount speed,
+  Accuracy +1/+2, Dex +1 · Natura Stamina · Varian mount sprint cost, Evasion +1/+2, Con +1 [201][203][206].
+  A main-stat point ≈ +0.1% [201]. No Combat Power figures anywhere; ~~"~55k CP for all pets"~~ [115] unsupported.
+  No source says pets raise GS (inference: they don't).
+- **Collection milestones are the real free value:** 100 Soul Crystals at 5, 10, 20 … 190 pets; 10 Empathy
+  Candy at 50/100/150/200 instead; ~1,700 crystals total [202][203][206].
+- **Genus lines** (the other real value) [201]: slot 4 PvE Damage Boost 2–4% or genus/board damage; slots
+  1/5 Attack; 2/8 HP +1.6% / Defense 160; slot 7 Damage Tolerance / Regen / Status Resist. Heroic 1.5–3%,
+  Unique 1–2%. Epic from Insight 4, Unique 7, Heroic 9 [208][206]. All 5 boards at 10 → title "Unbound by
+  Genus" (equipped +4.5% PvE damage, +34 Attack, +68 Crit; owned +1% PvE damage) [201][208].
+  9 lines [202][205][201] **vs** 10 [204].
+- **Effort:** 200 [207] / 207 incl. 7 Special [203] pets; 158 drop souls [203]. Elyos: 113 farmable in the
+  home region, 39 only in the enemy region (rift), 5 in the Abyss, 43 boss/chest pets (Black Cloud
+  Merchant ~100k Kina each) [201]. Camps near Lv 45 (Elyos): Garden of the Illusion God (Lv 44–45),
+  Eternal Isle (Lv 49), 4–7 pets within 50 m each [201]. Time per pet: not found (chance drops).
+- Max everything: ~42k Soul Crystals + 10.5M Kina [201]; rerolling for one Heroic line ~240 presses [201].
+- **Empathy Candy:** transform into your equipped Lv 3 pet for 5 min (movement/range, not damage); not
+  for levelling [209][203]. Every pet is a mount; Lv 2 adds gliding, Lv 3 transform [206][201].
+  Auto-loot: a Kina voucher (500k / 30 days) with an equipped pet [206] **vs** pets loot [204].
+- Order [201]: analyze Fera/Natura/Varian to Insight 5, then farm Cogni → Natura → Fera → Varian to Lv 3.
+  Healer-specific stat picks: none found; HP% and Damage Tolerance suit a Cleric (inference).
+- **So (inference):** worth doing passively: collect pets met while questing, claim milestone crystals,
+  push boards to Insight 5–10 without locking. Skip heavy rerolling (Kina), rift/Abyss pets, boss-pet purchases.
 
 ## Daevanion points: can you fill every board?
 **No, not on global for now** (guides, 2026-10, estimates).
