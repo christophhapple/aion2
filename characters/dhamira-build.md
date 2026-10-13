@@ -2,7 +2,8 @@
 
 Imported 2026-10-10 from the Claude doc "AION 2 Cleric - Skills & Build Notes"; this file is the source of
 truth. Skill effects: `knowledge/cleric-skills.md`. Hotbar/macro mechanics: `knowledge/controls.md`.
-Matches the game as of 2026-10-11 (hotbar, macro, Stigmas, levels, specialties).
+Matches the game as of 2026-10-13 (hotbar, macro: screenshots) and 2026-10-11 (Stigmas, levels,
+specialties; updated piecemeal since).
 
 Target content: mostly group PvE. Current preset is offensive, for the leveling/gearing stretch where
 nothing threatens you.
@@ -19,47 +20,39 @@ nothing threatens you.
     own keys, so the macro never burns it.
   - **Timed or placed damage stays manual:** Power Burst (saved for interrupt phases, see below),
     Bolt (charge).
-  - **Exception, convenience over DPS (2026-10-13):** Prayer of Amplification and Divine Aura (slot 4)
-    are in the macro and fire whenever ready, instead of being saved for burst windows / grouped packs.
-- The macro is held down; manual keys take precedence while holding it, so nothing needs releasing.
+  - **Exception, convenience over DPS (2026-10-13):** Prayer of Amplification and Divine Aura are in
+    the macro and fire whenever ready, instead of being saved for burst windows / grouped packs.
+- The macro is held down. Single presses of other keys go through on top of it; *holding* another key
+  doesn't (in-game 2026-10-12), so for a held key (Scattershot) let go of the macro first.
 - MP is single-source: everything is paid for by weaving Earth's Retribution between spenders.
 - Every heal also heals me (party heals include me; Healing Light heals me + the lowest-HP member).
   No *dedicated* self-heal is needed; beyond that, self-preservation = positioning + reactive buttons.
 
 ## Macro (right click)
-The damage button. The macro is a **sequence**, and slot queues probably cycle the same way (see
-`knowledge/controls.md`): each press/hold steps to the next entry or skill and loops; anything not
-castable is skipped. Delays at the default 10 ms. Holding any hotbar key repeats it too, and manual
-keys take precedence over the held macro.
+The "whenever ready" button. Mechanics (`knowledge/controls.md`): the macro and slot queues are both
+**sequences that cycle**; each macro entry gives its slot one try (one skill from its queue), anything
+not castable is skipped, and the delay applies even to skipped entries.
 
-**Outdated (2026-10-13):** replaced in-game by a macro that repeats slots to get several Condemnations
-in a row (macro mechanics: `knowledge/controls.md`). Decision: convenience over theoretical max DPS,
-since the exact cast interactions are too hard to measure in-game. Exact config to be recorded.
+**Current setup (in-game 2026-10-13, screenshot):** macro = **10, 12**, both delays 10 ms. (The macro
+window labels each entry with the first skill of that slot's queue: "Chain of Torment",
+"Debilitating Mark".)
+- **Slot 10:** Chain of Torment → Prayer of Amplification → Light of Regeneration → Condemnation
+- **Slot 12:** Debilitating Mark → Divine Aura → Earth Punishment → Judgment Thunder
 
-**Previous setup (in-game 2026-10-11):**
-macro = **12, 6, 7, 10**.
-1. **Slot 12 · debuffs:** Debilitating Mark → Chain of Torment → Earth Punishment, as they come off
-   cooldown. Mark: 10s CD. Chain: 20s CD, 13s DoT. Earth Punishment: 30s CD, 10s DoT.
-2. **Slot 6 · Condemnation** (also on E): only while Chain runs.
-3. **Slot 7 · Scattershot** (also on R): only during Stagger.
-4. **Slot 10 · Judgment Thunder:** always castable, so the macro never goes idle.
-
-Holding right click alone never stops casting; in the window, Condemnation and Thunder alternate.
-**Bursts are manual on top:** hold **E** while Earth Punishment and Chain are on the target (always
-crits, every crit resets it: pure Condemnation); hold **R** during Stagger for pure Scattershot.
-Pressing them is an upside, not a chore: without them the macro still runs.
-**Doesn't work as planned (in-game 2026-10-12):** holding E/R while holding the macro doesn't spam;
-you have to let go of the macro. Single presses still go through. Under consideration: Condemnation
-repeated ~10× in the macro instead.
+So the macro alternates one skill from each slot, each slot stepping through its own queue and
+skipping what isn't ready. Judgment Thunder (no cooldown) keeps slot 12 from ever going idle;
+Condemnation only fires while Chain is on the target. In the Earth Punishment window Condemnation
+and the slot-12 skills alternate, so no Condemnation chains. **Tested: no noticeable difference** to the
+repeated-Condemnation macro, so the simple one stays (convenience over max DPS).
 
 **MP:** Retribution isn't in the macro; MP drains fast. Refill by left click to ~50%, then back.
 Kept that way on purpose: refilling and bursting stay separate, so I choose when each happens.
 
-History (2026-10-11): original macro 7, 10, 12, 11 (Retribution every pass, Condemnation at most once
-per pass) → Variant A: 10, 7 with Scattershot → Condemnation → Thunder in one slot (Condemnation and
-Thunder alternated, since queues cycle) → Condemnation in the debuff queue, Thunder on a key for the
-gap (pure Condemnation, but macro idle ~7s of every 20s; filling the gap by hand felt weird) →
-current. **Rejected:** repeating slots in the macro to weight Condemnation: unwieldy, a crutch.
+History: original macro 7, 10, 12, 11 (2026-10-11) → Variant A (Scattershot → Condemnation → Thunder
+in one slot) → Condemnation in the debuff queue, Thunder on a key → 12, 6, 7, 10 with hold-E/R bursts
+(2026-10-11; holding a key on top of the held macro turned out not to work) → slots repeated for
+Condemnation chains (2026-10-12/13; cast lock and skip delays made it fiddly, no noticeable gain) →
+current 10, 12 (2026-10-13).
 
 **Scattershot (since 2026-10-13): out of the macro.** When the target is Staggered, let go of the
 macro and hold Scattershot's key alone for the whole Stagger. Chosen because it feels good; whether
@@ -70,36 +63,35 @@ and Chain of Torment 10, Condemnation 7, Judgment Thunder 2. So for an interrupt
 charged Bolt alongside Power Burst (fight-dependent; Bolt has a 45s CD).
 
 ## Hotbar
-Slots numbered 1–12 from the left. Keys aren't tracked (the game stores them), except where the
-setup depends on them: right click (macro), left click (slot 11), E (slot 6), R (slot 7).
+Slots numbered 1–12 from the left (in-game 2026-10-13, screenshot). The macro is on **right click**.
 
-| Slot | Queue | Use |
-|---|---|---|
-| 1 | Light of Regeneration | macro (since 2026-10-13): always up, cast whenever ready |
-| 2 | Healing Light | manual, reactive heal |
-| 3 | Radiant Recovery | manual, reactive heal |
-| 4 | Prayer of Amplification → Divine Aura | macro (since 2026-10-13): fire whenever ready |
-| 5 | Power Burst | manual, saved for Stagger interrupt phases |
-| 6 | Condemnation | macro + E (held in the Earth Punishment window: pure Condemnation) |
-| 7 | Lightning Strike Scattershot | manual only (since 2026-10-13): let go of the macro, hold during Stagger |
-| 8 | Light of Protection | toggle at the pull |
-| 9 | Bolt | manual (charge while moving) |
-| 10 | Judgment Thunder | macro only: filler |
-| 11 | Earth's Retribution | left click only (pull / retarget, manual MP refill) |
-| 12 | Debilitating Mark → Chain of Torment → Earth Punishment | macro only: debuffs |
+| Slot | Key | Queue | Use |
+|---|---|---|---|
+| 1 | 1 | Lightning Strike Scattershot | manual: let go of the macro, hold during Stagger |
+| 2 | 2 | Healing Light | manual, reactive heal |
+| 3 | 3 | Radiant Recovery | manual, reactive heal |
+| 4 | 4 | (empty) | |
+| 5 | Q | Power Burst | manual, saved for Stagger interrupt phases |
+| 6 | E | (empty) | |
+| 7 | R | (empty) | |
+| 8 | C | Light of Protection | toggle at the pull |
+| 9 | mouse thumb 2 | Bolt | manual (charge while moving) |
+| 10 | – | Chain of Torment → Prayer of Amplification → Light of Regeneration → Condemnation | macro only |
+| 11 | left click | Earth's Retribution | pull / retarget, manual MP refill |
+| 12 | – | Debilitating Mark → Divine Aura → Earth Punishment → Judgment Thunder | macro only |
 
 Defiance isn't a hotbar skill: it's on Space and only usable while crowd-controlled.
 
 ## Stigma presets
 
-**Offensive (current, in-game 2026-10-11):** for leveling/trivial content, so no Resurrection or Salvation.
-- Light of Protection (Lv 10): always-on party damage + defense
-- Prayer of Amplification (Lv 5): +20% party Attack
+**Offensive (current; levels in-game 2026-10-13):** for leveling/trivial content, so no Resurrection or Salvation.
+- Light of Protection (Lv 12): always-on party damage + defense
+- Prayer of Amplification (Lv 7): +20% party Attack
 - Power Burst (Lv 5): biggest single hit, heavy Stagger
 - Earth Punishment (Lv 5): **the damage engine**: Condemnation always crits on its target, and every crit resets Condemnation. 30s CD, 10s DoT; Lv 20 adds +10s
 
 Shard plan: Light of Protection first, cheap levels on the others along the way. Target
-**15 / 10 / 10 / 10** (80 shards total, 50 more than now), later **20 / 10 / 10 / 10** (120, +90).
+**15 / 10 / 10 / 10** (80 shards total, 38 more than the 42 in now), later **20 / 10 / 10 / 10** (120, +78).
 Costs: `knowledge/endgame.md` "Stigma levels". Shards come in slowly.
 **Open:** Earth Punishment may deserve the Lv 20 target instead of Light of Protection. Its Lv 20
 (+10s duration) roughly doubles the always-crit Condemnation window (single target, macro casting on
@@ -118,7 +110,7 @@ missing. Arcana (Lv 15–20) not started. Spare skill points go to passives: the
 maxed, the rest get levelled evenly.
 
 Lv 14: Earth's Retribution, Judgment Thunder, Debilitating Mark, Chain of Torment, Condemnation, Divine
-Aura, Bolt, Light of Regeneration, Radiant Recovery · Lv 13: Healing Light · Lv 11: Lightning Strike
+Aura, Bolt, Light of Regeneration, Radiant Recovery, Healing Light (13 → 14 by 2026-10-13) · Lv 11: Lightning Strike
 Scattershot · Lv 10: Defiance (skill points only, no Daevanion yet). Stigmas: see above.
 Passives (10, names not recorded): 14, 13, 11, 9, 8, 8, 8, 8, 7, 7.
 Everything above is Mastery preset 1.
@@ -158,7 +150,7 @@ evenly). Further levels come from **Daevanion** (11–14) and **Arcana** (15–2
 **Daevanion (to 14), next nodes:**
 1. **Lightning Strike Scattershot 11 → 12:** opens slot 2 + option 4 (Multi-Hit).
 2. **Defiance 10 → 12:** opens slot 2 + option 4 (+2s Tenacity).
-3. Healing Light 13 → 14: just a level, no new slot.
+3. ~~Healing Light 13 → 14~~ done (by 2026-10-13).
 
 **Arcana (15–20), not started.** Lv 16 unlocks option 5, Lv 20 the 3rd slot. Candidates noted per skill
 in "Specialties"; strongest-looking: Scattershot (-1s all cooldowns per hit), Condemnation
@@ -177,7 +169,6 @@ Everything pressed on top of the held macro.
 **Damage**
 - **Stagger interrupt phase** → Power Burst + a fully charged Bolt (50 + 35 gauge).
 - **Bolt ready, nothing to save it for** → charge it while moving.
-- **Earth Punishment on the target** (with Chain) → hold E on top of the macro: pure Condemnation.
 - **Target Staggered** → let go of the macro, hold Scattershot alone until the Stagger ends, then
   back to the macro.
 
