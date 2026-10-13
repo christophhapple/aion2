@@ -27,8 +27,22 @@ Verteron done: all regional (green) quests incl. Spacetime Rift, Sealed Dungeons
   Skill point picks are general for now; rework once crafting goals are set (todo).
 - Crafting: none yet. Not worth it for now (see `knowledge/crafting.md`).
 
-## Gear notes (2026-10-11)
-- Ascension Bracelet: Unique +6, cheap Manastone (2026-10-13); only one bracelet so far.
+## Gear (in-game 2026-10-13, screenshot)
+| Slot | Grade +level | | Slot | Grade +level |
+|---|---|---|---|---|
+| Mace | Unique +10 | | Guard | Unique +10 |
+| Helmet | Epic +1 | | Pauldrons | Unique +4 |
+| Top | Unique +5 | | Belt | Unique +0 |
+| Legs | Unique +3 | | Gloves | Unique +5 |
+| Cloak | Epic +1 | | Shoes | Epic +0 |
+| Earring | Unique +4 | | Earring | Epic +1 |
+| Necklace | Epic +1 | | Revelation amulet | Unique +0 |
+| Ring | Unique +5 | | Ring | Epic +1 |
+| Bracelet | Unique +9 | | Bracelet | Epic +1 |
+| Clash Rune | +2 | | Clash Rune | +2 |
+
+## Gear notes
+- Ascension Bracelet: Unique +6 (2026-10-11), cheap Manastone (2026-10-13). Now two bracelets equipped (Unique +9, Epic +1): which is the Ascension one is open.
 - Manastones: cheap ones in all gear, few rerolls (2026-10-13). Revisit at GS 1600.
 - Wings: crafted Glorious Wings (2026-10-11).
 - Clash Runes: both at +2 (2026-10-13); 2 spares destroyed trying for +3, none left.

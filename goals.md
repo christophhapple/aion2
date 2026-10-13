@@ -6,9 +6,9 @@ Background: `knowledge/progression.md`.
 | Goal | Character | Current | Target | Why |
 |---|---|---|---|---|
 | Gear score 1500 → 1600 | Dhamira | 1500 | 1600 | Unlocks Transcendence: Arcana cards (5 slots, big GS), uses the saved Training Arcana |
-| All gear Unique +10 | Dhamira | ? (grades and levels not recorded) | every slot Unique +10 | Long-term. Step 1: everything to +10 (always succeeds, risk-free GS). Extraction refunds 100% of stones (in-game), so enhancing gear you'll replace isn't wasted. Above +10 risky (65% → 20%) |
-| Upgrade belt | Dhamira | Epic +8 | Unique +10 (next: Epic +10 → transmute) | Never replaced; scrolls from Strongholds. Unique +0→+10 ≈ 201k stones + 5M Kina (guides) |
-| Upgrade Revelation amulet | Dhamira | Epic +9 | Unique +10 (next: Epic +10 → transmute) | Never replaced; scrolls from Monolith levels (feathers), 11 spare (enough) |
+| All gear Unique +10 | Dhamira | 11 of 18 pieces Unique (2 at +10); Epic: helmet, cloak, shoes, earring, necklace, ring, bracelet (2026-10-13, see characters/dhamira.md) | every slot Unique +10 | Long-term. Step 1: everything to +10 (always succeeds, risk-free GS). Extraction refunds 100% of stones (in-game), so enhancing gear you'll replace isn't wasted. Above +10 risky (65% → 20%) |
+| Upgrade belt | Dhamira | Unique +0 (2026-10-13) | Unique +10 | Never replaced; scrolls from Strongholds. Unique +0→+10 ≈ 201k stones + 5M Kina (guides) |
+| Upgrade Revelation amulet | Dhamira | Unique +0 (2026-10-13) | Unique +10 | Never replaced; scrolls from Monolith levels (feathers), 11 spare (enough) |
 | Ascension Bracelet | Dhamira | Unique +6, cheap Manastone (2026-10-13) | +10 + good Manastone | Adds attack + defense; a kept piece, so it gets a good stone (revisit at GS 1600). Second bracelet from a faction quest (guides) |
 | First Ascension Trial on Normal | Dhamira | not yet | cleared once | Normal opens at GS 1500 (in-game); then run it on Normal as the weekly routine (3/week) |
 | Get a spare Clash Rune | Dhamira | 0 (2 used up 2026-10-13: both destroyed going for +3) | 1 spare | Both equipped runes at +2. Upgrading past +1 can destroy the rune (in-game); only try with a backup. Nightmare shop: 500 Phantasmal Fragments per chest |
