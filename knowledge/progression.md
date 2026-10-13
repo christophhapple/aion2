@@ -8,7 +8,7 @@ One-page overview for a level-45 character, written for free-to-play. Details an
 
 - **Gear score (GS)** gates content. It comes from gear, enhancement (+1 GS per level, in-game), belt,
   amulet, Clash Runes, Manastones and Arcana.
-- **Combat Power (CP)** is how strong you are. Daevanion board and Pantheon raise CP, **not** GS [14].
+- **Combat Power (CP)** is how strong you are. Daevanion points raise GS 1:1 (in-game 2026-10-13; ~~CP only~~ [14]); Pantheon: CP, not GS [14], unverified.
 - **Enhance Stones are the bottleneck** (in-game). Enhancing +1 → +10 always succeeds, so stones turn
   directly into GS.
 
@@ -65,7 +65,7 @@ Collected 2026-10-11 from guides [115][116]; check each in-game.
   [115][116]. Easy titles: Shugo Festival minigames ×3 each (9 titles), join a Legion, first Exploration
   and Conquest clear per dungeon [109].
 - **Hidden cubes** in the world: pick them up (also feed Genus Insight) [115].
-- Daevanion points: +1 GS each [116] **vs** raises CP only, not GS [14]. Check in-game.
+- **Daevanion points: +1 GS each** (in-game 2026-10-13) [116]. ~~Raises CP only, not GS~~ [14].
 
 ## Skill points (Wisdom Stones)
 Researched 2026-10-13; guides unless tagged. 1 Wisdom Stone (Bound) = 1 skill point [188].

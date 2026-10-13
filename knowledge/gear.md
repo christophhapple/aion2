@@ -5,7 +5,7 @@ Overview: `progression.md`.
 
 ## What raises GS
 Gear, enhancement, Manastones/Theostones, belt, amulet, Ascension bracelets, Clash Runes, Arcana
-[1][2][15]. Daevanion board and Pantheon raise **Combat Power, not GS** [14].
+[1][2][15]. Daevanion points raise **GS 1:1** (in-game 2026-10-13); Pantheon raises Combat Power, not GS [14] (unverified).
 Arcana per card: basic +20, green +40 [2][14] **vs** green +40, blue +60, unique +80 [17, KR-era].
 
 **+1 enhancement level = +1 GS** (in-game 2026-10-10, one test; assumed linear and the same for all
