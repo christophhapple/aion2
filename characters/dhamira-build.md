@@ -115,12 +115,12 @@ maxed, the rest get levelled evenly.
 Lv 14: Earth's Retribution, Judgment Thunder, Debilitating Mark, Chain of Torment, Condemnation, Divine
 Aura, Bolt, Light of Regeneration, Radiant Recovery, Healing Light (13 → 14 by 2026-10-13) · Lv 11: Lightning Strike
 Scattershot · Lv 10: Defiance (skill points only, no Daevanion yet). Stigmas: see above.
-Passives (in-game 2026-10-13, tile level incl. bonus): Empyrean Lord's Grace 13 (10+3) · Radiant Benediction 12 (10+2) · Earth's Grace 12 (10+2) · Healing Enhancement 11 (10+1) · Immortal Veil 9 (7+2) · Survival Willpower 9 · Warm Benediction 8 · Prayer of Concentration 8 · Empyrean Lord's Benediction 7 · Heal Block 0 (reset, PvP only). Effects + icons: `knowledge/cleric-skills.md` "Passive".
+Passives (in-game 2026-10-13, tile level incl. bonus): Empyrean Lord's Grace 13 (10+3) · Radiant Benediction 12 (10+2) · Earth's Grace 12 (10+2) · Healing Enhancement 11 (10+1) · Immortal Veil 10 (8+2) · Warm Benediction 9 (7+2) · Survival Willpower 9 · Prayer of Concentration 8 · Empyrean Lord's Benediction 0 · Heal Block 0 (both reset, low value). Effects + icons: `knowledge/cleric-skills.md` "Passive".
 
 **Passive plan (2026-10-13):** Empyrean Lord's Grace, Earth's Grace, Healing Enhancement are at base 10
 (the skill-point cap; header bonuses +3/+2/+1), so done. Spare points: **Immortal Veil** (+14% Defense),
 then **Warm Benediction** (+13% Max HP); alternative: save for **Radiant Benediction** (free party heal
-on hit, low effort; needs more points than spare now). **Done 2026-10-13:** Heal Block reset (free), Radiant Benediction → 10, Immortal Veil 5 → 7. Next spare points: Immortal Veil, then Warm Benediction.
+on hit, low effort; needs more points than spare now). **Done 2026-10-13:** Heal Block reset (free), Radiant Benediction → 10, Immortal Veil 5 → 7; then Empyrean Lord's Benediction reset → Immortal Veil 8, Warm Benediction 7. Next spare points: Immortal Veil, then Warm Benediction. If damage taken feels worse, put Empyrean Lord's Benediction back (free).
 
 Everything above is Mastery preset 1.
 
