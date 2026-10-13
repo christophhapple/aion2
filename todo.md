@@ -21,13 +21,14 @@ tracker itself goes in `backlog.md`.
 - [ ] *(low priority, later)* Rework gathering skill point picks once crafting goals are set and you switch to targeted farming (not enough points for everything; respec reportedly costs 50,000 Kinah)
 - [ ] Dhamira: screenshot all 13 Stigma tooltips (slotted ones first: Light of Protection, Prayer of Amplification, Power Burst) and go through them with Claude like the active skills. Settles the shard plan (Earth Punishment vs Light of Protection to 20) and what "Earth's Blessing" is
 - [ ] Dhamira: screenshot the 10 passive tooltips and go through them with Claude (names, effects, which are "important", where spare skill points go)
-- [ ] Test the macro (target dummy / easy mob): (1) during a Stagger, hold the macro: does only Scattershot repeat (priority list) or does it mix with Thunder/Retribution (sequence)? (2) Set all delays to 500 ms: does the pace drop even when only one entry can fire (delay applies to every entry) or only between casts? See `knowledge/controls.md`
-- [ ] Test slot queues: temporarily put Judgment Thunder → Earth's Retribution in one slot, press it repeatedly with MP > 96. Thunder only = priority, alternating = cycles like the macro. Put Retribution back on slot 11 after. See `knowledge/controls.md`
-- [ ] *(low priority)* Dhamira: Stagger during the Earth Punishment window: what happens when holding E and R at once? (If unclear, prefer E)
+- [ ] Dhamira: screenshot the hotbar (with keys) and the macro window, so the build file gets the current slots, hotkeys and macro order
+- [ ] Dhamira: screenshot the gear (each slot's grade + enhancement level), to fill in the "All gear Unique +10" goal
+- [ ] *(at GS 1600)* Dhamira: revisit Manastones. All gear has cheap ones with only a few rerolls (2026-10-13); upgrade on pieces you keep
 - [ ] Pets / Genus Insight: save Soul Crystals, level boards with pets first; start pressing Analyze (nothing locked) once a board reaches Genus level 5. See `knowledge/endgame.md` "Pets"
 - [ ] *(low priority, later)* Dhamira: try Condemnation option 1 (+100 MP per hit) instead of option 2 (+12% on fewer targets) for a few fights; compare how often you need to refill MP with the macro Variant A
 
 ## Done
+- [x] Macro and slot queue tests: both are sequences that cycle; entries are skipped during a cast lock; delays apply even to skipped entries (2026-10-12)
 - [x] Command Scrolls: town merchant = Common only, Verteron missions, 12/week; Abyss shop separate (2026-10-12)
 - [x] Unobtained cube count: only clears left without opening the cube lower it; opened cubes don't count (2026-10-12)
 - [x] Dhamira build page brought up to date with the game: hotbar, macro, Stigmas, levels, specialties, leveling priority (2026-10-11)
