@@ -24,16 +24,19 @@ are about the **Korean** version (cap 50 since 2026-07-01). Gear score (GS) thre
     [94][96]. Accepted quests also show under Regional Quests in the journal.
   - **Each rift quest gives a skill point** (in-game 2026-10-11), plus a Daevanion Crystal, XP, bound
     Kinah, Abyss Points, materials [94][96]. Clearly worth doing.
-  - **Enemy-region Sealed Dungeons give no skill points and no Daevanion points**, only Kina and
-    Enhance Stones (in-game 2026-10-11). ~~Same bundle as home-region ones, another ~120 + 120~~ was
-    our own guess [18].
-  - **Enemy-region Strongholds are marked on the map but have no entrance** (in-game 2026-10-11; to be
-    investigated further). Guides: belt scrolls there [95] **vs** no scrolls [41]. Possibly locked on
-    global for now or different in KR: unverified.
+  - **Enemy-region Sealed Dungeons give no skill points and no Daevanion points**, but **15k Kina,
+    1,000 Abyss Points and 2,500 Enhance Stones** each (in-game 2026-10-13). ~~Same bundle as
+    home-region ones, another ~120 + 120~~ was our own guess [18].
+  - **Enemy-region Strongholds can be entered** (in-game 2026-10-13). On 2026-10-11 none showed an
+    entrance; why it differed is unknown. One gave **15k Kina + 3,000 Abyss Points** (in-game
+    2026-10-13); belt scrolls not seen. Guides: belt scrolls there [95] **vs** no scrolls [41].
+  - Unknown: whether enemy-region Sealed Dungeons and Strongholds reward again on later rift trips
+    or only on the first clear.
   - **Enemy-region feathers are visible but can't be collected** (in-game 2026-10-11). Maybe unlocked
     later or different in KR: unverified.
   - Field bosses there drop gear for skins/supply requests [95].
-  - **After the 7 quests:** no known one-time rewards left there (Strongholds unclear). Repeatable: Kina, Abyss Points, Enhance Stones from enemy Sealed Dungeons and mobs, field bosses, green side quests; no yields published [94][96]. Titles: "Hello There" (3 rift uses), "Nice to Meet You" (50 uses, PvE Damage +2.9%, weaker than Guardian +3%) [109]. Time-extension tickets (+10 / +30 min) exist [96]. KR has a Domination mode and weekly rift challenges (Sep 2026), not seen on global.
+  - **After the 7 quests:** enemy Sealed Dungeons and Strongholds still pay well (yields above; first
+    clear or repeatable is unknown). Also Kina, Abyss Points, Enhance Stones from mobs, field bosses, green side quests [94][96]. Titles: "Hello There" (3 rift uses), "Nice to Meet You" (50 uses, PvE Damage +2.9%, weaker than Guardian +3%) [109]. Time-extension tickets (+10 / +30 min) exist [96]. KR has a Domination mode and weekly rift challenges (Sep 2026), not seen on global.
   - Safety: open PvP there. Attacking an enemy guard flags you for PvP for 10 min. Stay unflagged and
     away from enemy outposts: their guards attack on sight [94].
   - **Kibelisks on the enemy map:** enemy Kibelisks are guarded by strong NPCs that kill you if you get
