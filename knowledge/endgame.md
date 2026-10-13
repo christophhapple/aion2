@@ -154,7 +154,7 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
 - **Shards per level:** 1–5: 1 each · 6–10: 2 · 11–15: 4 · 16–20: 8. Totals: Lv5 = 5, Lv10 = 15,
   Lv15 = 35, **Lv20 = 75**; four Stigmas at 20 = **300** [128]. Shards per level rise (in-game 2026-10-11).
 - **Sources (per character)** [128]: character levels ~30 (23–39: 1 each, 40–45: 2 each) + 1 Ascension
-  reward · **Abyss shop: up to 200**, in steps of 10k / 15k / 20k / 25k Abyss Points each (10k confirmed in-game 2026-10-13; later steps unverified) (cheapest
+  reward · **Abyss shop: up to 200**, 4 steps of 50 at 10k / 15k / 20k / 25k Abyss Points each (in-game 2026-10-13) (cheapest
   source) · **Nightmare shop: 35** at 1,500 Phantasmal Fragments each (in-game 2026-10-13: "Per Character x/35" counts purchases, **lifetime, no reset**) · **Shugo Festival shop: 35** at
   300 Centuryroot Tokens each (in-game 2026-10-13; the game's name for the Shugo shop currency, in-game 2026-10-11; "Shugo Coins" in guides is likely the same currency). Max ≈ **300**, i.e. just enough for 4 × 20.
 - Usual approach: one key Stigma to 20, the others at 5/10/15; the last 5 levels cost 40 of the 75 [128].

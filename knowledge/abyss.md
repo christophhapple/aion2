@@ -28,7 +28,7 @@ Bosses: eight level-65 Hero field bosses drop Unique armor sets and refining sto
 - **Command Scrolls** from the Command Merchant (37.5k / 75k / 150k Kinah): each hunt pays 1,000 Abyss
   Points [80]. 27 duty scroll quests, suggested for levels 46–49, also drop Abyssal Power Shards [80].
 - **Abyss Points cap:** weekly, separate for PvE and PvP, resets Wednesday; amount unknown [50].
-- **Shop:** Stigma Shards (up to 200 per character, price rising 10k → 15k → 20k → 25k per shard [128]; **10,000 confirmed** for the current step, in-game 2026-10-13) and Azphel crystals (10,000 each) [80]. Stigma details: `endgame.md`.
+- **Shop:** Stigma Shards (up to 200 per character, **4 steps of 50: 10k → 15k → 20k → 25k Abyss Points per shard**, in-game 2026-10-13; [128]; purchases count per character, "x/50" per step) and Azphel crystals (10,000 each) [80]. Stigma details: `endgame.md`.
 - **Spend Abyss Points on Stigma Shards** (player's verdict 2026-10-11). Shards per Stigma level rise with the level (in-game 2026-10-11); exact numbers not recorded.
 - **Ereshkigal Monolith** (in Western Root, max level 20): uses Reshanta feathers only; gives permanent
   **PvP** stats + Azphel Daevanion Crystals [80][89][90]. Traces needed: 200 [80] **vs** 300 [89].
