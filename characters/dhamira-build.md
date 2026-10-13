@@ -88,11 +88,11 @@ Defiance isn't a hotbar skill: it's on Space and only usable while crowd-control
 - Light of Protection (Lv 12): always-on party damage + defense
 - Prayer of Amplification (Lv 7): self only (not party): +20% Attack, +20% PvE Damage Boost for 13s, 1 min CD
 - Power Burst (Lv 5): biggest single hit, heavy Stagger
-- Earth Punishment (Lv 5): **the damage engine**: Condemnation always crits on its target, and every crit resets Condemnation. 30s CD, 10s DoT; Lv 20 adds +10s
+- Earth Punishment (Lv 6, 2026-10-13): **the damage engine**: Condemnation always crits on its target, and every crit resets Condemnation. 30s CD, 10s DoT; Lv 20 adds +10s
 
 **Shard plan (decided 2026-10-13, after reading all Stigma tooltips):** Earth Punishment is the main
-target; its unlocks are always on and also help the party. 42 shards in now.
-1. **Earth Punishment 5 → 10** (10 shards): +10% Double Chance (party +5%)
+target; its unlocks are always on and also help the party. 44 shards in, 1 unspent (2026-10-13).
+1. **Earth Punishment 5 → 10** (10 shards; at 6, 8 to go): +10% Double Chance (party +5%)
 2. **Prayer of Amplification 7 → 10** (6): ×1.5 Empyrean Lord's Grace while active (13s/min)
 3. **Earth Punishment 10 → 15** (20): +10% Attack and Defense (party +5%)
 4. Then decide: **Earth Punishment 15 → 20** (40, doubles the always-crit Condemnation window, ~13s →
