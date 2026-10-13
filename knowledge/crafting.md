@@ -41,7 +41,9 @@ Guides 2026-10, unverified unless tagged. Levels 6–10 (common) and specialty a
   - **Proficient Handling:** success gauge +5 per level per successful roll (+50 at 10).
   - **Delicate Touch:** failure gauge −8 per level per failed roll (−80 at 10).
   - **Lady Luck:** chance to multiply a success gain ×2.5 (from Lv. 6 also ×4); 8% at Lv. 1, 24% at 5,
-    40% at 10. Trigger: any successful roll [162][164] **vs** only once the failure gauge is ≥ 50% [163].
+    40% at 10 (Lv. 8: 33%, in-game 2026-10-13). **Triggers only when the failure gauge is ≥ 50%**
+    (in-game 2026-10-13 tooltip, "at a critical moment"), so it's a rescue for near-failed nodes.
+    ~~Any successful roll~~ [162][164].
   - Guides: Proficient Handling + Delicate Touch first for consistency; Lady Luck is the gamble [164].
 - **Specialty skills**, per material family (Odyle, Ore, Gem, Log, Herb, Ingredient), in sequence [162][163]:
   - **Seeker** (1 pt): that material on the minimap/compass. Guides: take it early for what you farm [165][164].
