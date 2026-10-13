@@ -32,6 +32,24 @@ Researched 2026-10-10. Few solid global sources; best is [70] (2026-10-06). Unve
 - Gathering skill points per proficiency level (Common/Specialty); "Proficient Handling" raises the
   success gauge (+5 → +50) [71]. **There aren't enough skill points to take every gathering skill**
   (in-game 2026-10-10), so picks should follow what you farm. Respec 50,000 Kinah [77, unverified].
+
+## Gathering skills (Essence Extraction) [162][163][164][165]
+Guides 2026-10, unverified unless tagged. Levels 6–10 (common) and specialty above Lv. 1 need Professional.
+- **Points from proficiency 1–100: 95 common + 14 specialty** [162]. Maxing everything costs 120 + 42,
+  so you choose.
+- **Common skills** (all nodes), each Lv. 1–10, costs 1/2/3/4/5 then 5 per level = **40 to max**, 15 for Lv. 5:
+  - **Proficient Handling:** success gauge +5 per level per successful roll (+50 at 10).
+  - **Delicate Touch:** failure gauge −8 per level per failed roll (−80 at 10).
+  - **Lady Luck:** chance to multiply a success gain ×2.5 (from Lv. 6 also ×4); 8% at Lv. 1, 24% at 5,
+    40% at 10. Trigger: any successful roll [162][164] **vs** only once the failure gauge is ≥ 50% [163].
+  - Guides: Proficient Handling + Delicate Touch first for consistency; Lady Luck is the gamble [164].
+- **Specialty skills**, per material family (Odyle, Ore, Gem, Log, Herb, Ingredient), in sequence [162][163]:
+  - **Seeker** (1 pt): that material on the minimap/compass. Guides: take it early for what you farm [165][164].
+  - **Plentiful Harvest** (1 pt per level, 3 levels): 10/20/30% chance of double materials.
+  - **Appraiser** (1 pt per level, 3 levels): 10/20/30% chance to reroll the material's grade
+    (not if already higher). A full family = 7 pts.
+- Demand: Radiant Odyle is in ~190 recipes, Radiant Orichalcum Ore in ~120 [162], so **Odyle and Ore** are
+  the safe specialty picks before a craft is chosen.
 - Nodes: ~3 harvest attempts as a mini-game; failed rolls block a slot. Shared between players, respawn
   timer unknown [73][77].
 - **No gathering/crafting energy or daily cap found** [70][71]. (Odyle *Energy* is the dungeon-cube

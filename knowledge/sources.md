@@ -208,3 +208,10 @@ Added 2026-10-12 (Arcana).
 Added 2026-10-12 (Eternal Isle).
 
 161. allthings.how map pages (Eternal Water Spirit etc.), undated, G?, fan map: https://allthings.how/aion-2/map/eternal-water-spirit/
+
+Added 2026-10-13 (gathering skills).
+
+162. metabot.gg, gathering, undated (data from global client build 0.0.4387.0), G: https://metabot.gg/en/aion-2/gathering
+163. space4games, Essence Extraction guide, 2026-10-01 (updated 2026-10-10), G: https://space4games.com/en/games-en/aion-2-essence-extraction-guide/
+164. aion2.website, Essence Extraction guide, updated 2026-10-06, G: https://aion2.website/guide/essence-extraction-guide
+165. VGC, Essence Extraction guide, 2026-10-05, G: https://www.videogameschronicle.com/guide/aion-2-essence-extraction-guide-upgrading-essence-extraction-and-success-rates/
