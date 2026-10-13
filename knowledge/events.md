@@ -50,7 +50,8 @@ Limits count purchases ("11/15" = 11 bought); non-monthly ones are likely lifeti
 | Empathy Candy (pets) | 20 | none shown |
 | Radiant Odyle | 1,000 | per character, **monthly** 3 |
 
-No Wisdom Stones. Token sources: Invasion with a key (×50 [100]) and Shugo Festival rewards.
+No Wisdom Stones. Token sources: Invasion with a key (×50 [100]) and Shugo Festival runs, **~150 per run, varies** (in-game 2026-10-13). So a Stigma Shard ≈ 2 festival runs.
+Achievements (Shugo Festival window): per-minigame tiers (I = 1 run, II = 2, III = 3 and the title), "participate 30 times", "Collect 30,000 Centuryroot Tokens" (in-game 2026-10-13).
 
 **So:** worth doing **only with a key**, ~1 per day; ~5 min for maybe ~1,900 stones. Small next to
 the Daily Dungeon (6–7k at GS 1100–1500, in-game). Keys bank to 7, so no need to go every day.
