@@ -31,5 +31,6 @@ Verteron done: all regional (green) quests incl. Spacetime Rift, Sealed Dungeons
 - Ascension Bracelet: Unique +6, cheap Manastone (2026-10-13); only one bracelet so far.
 - Manastones: cheap ones in all gear, few rerolls (2026-10-13). Revisit at GS 1600.
 - Wings: crafted Glorious Wings (2026-10-11).
+- Clash Runes: both at +2 (2026-10-13); 2 spares destroyed trying for +3, none left.
 
 ## Notes
