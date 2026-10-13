@@ -13,7 +13,7 @@ tracker itself goes in `backlog.md`.
 - [ ] Check (once a pet is fully levelled): does targeting a monster of that pet type show it as done?
 - [ ] Check (next Invasion): where does the game show how many Invasion keys you have left (join screen, reward screen, inventory)?
 - [ ] *(low priority)* Check: what do the Abyss Rare/Epic/Unique Command Scrolls reward?
-- [ ] Verify: Nightmare: number of floors/levels, Phantasmal Fragments per clear; do the shop limits (Stigma Shard x/35, Daevanion Crystal x/50) ever reset? (shop prices recorded 2026-10-13)
+- [ ] Verify: Nightmare: number of floors/levels, Phantasmal Fragments per clear (shop: prices recorded, limits lifetime, 2026-10-13)
 - [ ] Check: is there really only one kind of Clash Rune (same stat lines on every rune)?
 - [ ] Verify: Transfer tab: what does the preview show, and what makes a piece an eligible source? (once you have eligible gear)
 - [ ] Check (crafting NPC): any crafting energy or daily limit? Can a craft be reset/unlearned?

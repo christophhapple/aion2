@@ -59,7 +59,7 @@ Older KR-client drop data for Krao (guaranteed epic piece, pity at 14 gives a Be
 ## Other content
 | GS | Content | Notes |
 |---|---|---|
-| 45 (or 1000 [19]) | **Nightmare** (solo boss) | 2 attempts/day, bank to 14, spent only on clear [3][17] (earlier **vs** every try costs a ticket [4]). Up to 1,500 Phantasmal Fragments per run [26]. Shop tabs (in-game 2026-10-13): Consumables, Growth, Wings, Skins, Statue. Growth: Clash Rune Chest 500 (no limit shown), Stigma Shard 1,500 (35 per character), Daevanion Crystal 300 (50 per character), all Bound; no Wisdom Stones. Guides also list Amplify Stone Fragments, Soul Codex [3]. Weekly clears give Daevanion points [14]. Floors/tiers undocumented. |
+| 45 (or 1000 [19]) | **Nightmare** (solo boss) | 2 attempts/day, bank to 14, spent only on clear [3][17] (earlier **vs** every try costs a ticket [4]). Up to 1,500 Phantasmal Fragments per run [26]. Shop tabs (in-game 2026-10-13): Consumables, Growth, Wings, Skins, Statue. Growth: Clash Rune Chest 500 (no limit shown), Stigma Shard 1,500 (35 per character), Daevanion Crystal 300 (50 per character), all Bound; limits count purchases and are **lifetime** (in-game); no Wisdom Stones. Guides also list Amplify Stone Fragments, Soul Codex [3]. Weekly clears give Daevanion points [14]. Floors/tiers undocumented. |
 | 45 + 1000 | **Abyss**: Lower Reshanta (PvP). **Details: `abyss.md`** | 7h/week per layer (14h only with paid membership) [3]. Abyss Points → Stigma shards, consumables, wings; unique accessories best from ~1600 [14][27]. PvE parts: weekly scroll quests, 2-minute artifact corridors, field bosses. Risk: ganking; stay at the edges [27]. Abyss gear is PvP-statted [28]. |
 | 1000 | Ascension Trial (Forgotten Repository) | **Difficulties: Easy 1000, Normal 1500, Hard 2000, Extreme 2500** (in-game 2026-10-11; ~~~1500~~ [14] is Normal). 3/week, score-scaled rewards [3][14]; save runs for the last day [4] |
 | 1600 | **Transcendence** (5-player, timed) | Arcana cards; stages at 1600/1900/2200/2500 [15][21]; 1 count per 12h, 40 Odyle per cube [3] |
@@ -155,7 +155,7 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
   Lv15 = 35, **Lv20 = 75**; four Stigmas at 20 = **300** [128]. Shards per level rise (in-game 2026-10-11).
 - **Sources (per character)** [128]: character levels ~30 (23–39: 1 each, 40–45: 2 each) + 1 Ascension
   reward · **Abyss shop: up to 200**, in steps of 10k / 15k / 20k / 25k Abyss Points each (10k confirmed in-game 2026-10-13; later steps unverified) (cheapest
-  source) · **Nightmare shop: 35** at 1,500 Phantasmal Fragments each (in-game 2026-10-13: "Per Character x/35") · **Shugo Festival shop: 35** at
+  source) · **Nightmare shop: 35** at 1,500 Phantasmal Fragments each (in-game 2026-10-13: "Per Character x/35" counts purchases, **lifetime, no reset**) · **Shugo Festival shop: 35** at
   300 Centuryroot Tokens each (in-game 2026-10-13; the game's name for the Shugo shop currency, in-game 2026-10-11; "Shugo Coins" in guides is likely the same currency). Max ≈ **300**, i.e. just enough for 4 × 20.
 - Usual approach: one key Stigma to 20, the others at 5/10/15; the last 5 levels cost 40 of the 75 [128].
 

@@ -39,7 +39,8 @@ Researched 2026-10-11. Times: `schedule.md`. Sources [n]: `sources.md`. Unverifi
 - Centuryroot Tokens are spent in the **Festival Shop** (growth materials, skins) [100][101].
 
 ### Festival Shop (in-game 2026-10-13)
-Shugo Festival window → Festival Shop. Tabs: Consumables, Wings, Pets, Artwork, Skins. Consumables, all Bound:
+Shugo Festival window → Festival Shop. Tabs: Consumables, Wings, Pets, Artwork, Skins. Consumables, all Bound.
+Limits count purchases ("11/15" = 11 bought); non-monthly ones are likely lifetime like the Nightmare shop's (in-game there; inference here):
 
 | Item | Price (tokens) | Limit |
 |---|---|---|
