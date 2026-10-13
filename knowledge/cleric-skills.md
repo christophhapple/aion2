@@ -104,6 +104,7 @@ Claude's wording of the art):
 
 The level shown on the skill window tile seems to include the "(+n)" bonus: Heal Block's tooltip says
 "Lv. 8 (+1)", its tile "Lv. 9" (in-game 2026-10-13; inference from one case).
+A **green up-arrow** on a skill tile means a level-up is available now (in-game 2026-10-13). Arrows showedonly on passives with a low base level, none on the three at base 10 (header bonuses +3/+2/+1 on top),so passives likely also cap at Lv 10 from skill points, like actives (inference).
 
 ## Skill levels
 - **Where levels come from** (in-game 2026-10-11): skill points raise a skill to **Lv 10**; Lv 11–14 come
