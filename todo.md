@@ -16,7 +16,6 @@ tracker itself goes in `backlog.md`.
 - [ ] Verify: Nightmare: number of floors/levels, Phantasmal Fragments per clear, shop items + prices (incl. Daevanion points: price per point and how many can be bought)
 - [ ] Check: is there really only one kind of Clash Rune (same stat lines on every rune)?
 - [ ] Verify: Transfer tab: what does the preview show, and what makes a piece an eligible source? (once you have eligible gear)
-- [ ] Wings: is there a wing enhancement option anywhere? (guides disagree whether it exists on global)
 - [ ] Check (crafting NPC): any crafting energy or daily limit? Can a craft be reset/unlearned?
 - [ ] Dhamira: screenshot all 13 Stigma tooltips (slotted ones first: Light of Protection, Prayer of Amplification, Power Burst) and go through them with Claude like the active skills. Settles the shard plan (Earth Punishment vs Light of Protection to 20) and what "Earth's Blessing" is
 - [ ] Dhamira: screenshot the 10 passive tooltips and go through them with Claude (names, effects, which are "important", where spare skill points go)
@@ -25,6 +24,7 @@ tracker itself goes in `backlog.md`.
 - [ ] *(low priority, later)* Dhamira: try Condemnation option 1 (+100 MP per hit) instead of option 2 (+12% on fewer targets) for a few fights; compare how often you need to refill MP with the current macro (10, 12)
 
 ## Done
+- [x] Wing enhancement: does not exist on global (2026-10-13)
 - [x] Gathering Skill Reset costs 50,000 Kina (2026-10-13)
 - [x] Market selling needs membership (2026-10-13)
 - [x] Altgard Strongholds can be entered (2026-10-13)

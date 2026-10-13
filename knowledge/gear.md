@@ -145,9 +145,7 @@ Stats: Wisdom + Life (god stats), Constitution + Power (primary); Heal Boost (Pv
   Flight Power 1,000, and the 4 Daeva wings + Aullaeu + Glorious total exactly 5,900 (no base value).
 - Ultimate Daeva Wings owned effect also: Penetration 100, Accuracy 20, Attack 10; equipped as in the
   list below (in-game 2026-10-13). The Wings info panel tabs "1 2 3" are **presets** (in-game 2026-10-13).
-- **Wing enhancement:** +10 Flight Power per level (≈ +100 at +10), owned stats only; Rare/Epic always
-  succeed, Unique risky from +4; ~3.5M / 6M / 16.7M Kina to +10 (Rare/Epic/Unique) [178] **vs** not on
-  global yet, KR/TW values [185][183][182]. Check the Wings menu. Poor value for flight either way.
+- **Wing enhancement does not exist on global** (in-game 2026-10-13) [185][183][182]. ~~Live on global, +10 Flight Power per level, ~3.5–16.7M Kina to +10~~ [178] is KR/TW data.
 - **Titles give Flight Speed only:** Eagle Eye 2.5% (+ move speed), ★★★ Chef 2.3%, Mysterious Racer
   1.8%, Professional Extractor 1.4% [180].
 - **Mid-flight refill:** Wind Serum (Alchemy, mastery 10; Aria + Targena + Glass Bottle or Azpha +
