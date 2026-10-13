@@ -159,7 +159,7 @@ Stats: Wisdom + Life (god stats), Constitution + Power (primary); Heal Boost (Pv
 3. **Sealing Wings:** 70 Sealed Wings Featherdown + 10 Pure Odyle, once per character. Equipped HP 400,
    HP regen 200, Incoming Heal +5% [179]. Featherdown from sealed dungeons [177] / one-time solo Sealed
    Dungeons, 2 each [183].
-4. **Expedition wings:** sealed wing drop + 10 Radiant Odyle. Kromede (Fire Temple), Black Fragment (Krao
+4. **Expedition wings:** sealed wing drop + 10 Radiant Odyle (not gathered; Shugo shop 1,000 tokens, 3/month, in-game 2026-10-13: so slow). Kromede (Fire Temple), Black Fragment (Krao
    Cave), Ancient Aullaeu (Urugugu), Forest Spirit (Vakron), Dark Veil (Ferocious Horn Den), Blue Wave
    (Draupnir) [177].
 5. **Conqueror (Epic), Nightmare (Unique):** Nightmare wing vendor; Nightmare owned PvE Damage +1% [177].
