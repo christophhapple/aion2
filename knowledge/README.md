@@ -29,8 +29,9 @@ patch notes, which beat guides. Every fact is tagged with its source and date or
 | `controls.md` | Hotbar skill queues and the macro | 2026-10-11 |
 | `titles.md` | Title slots, owned bonus, which titles to equip | 2026-10-11 |
 | `sorcerer.md` | Sorcerer skills, Stigmas, specialties, rotation, stats (all guides, unverified) | 2026-10-11 |
-| `abyss.md` | Abyss: PvP rules, layers, low-risk PvE, healer advice | 2026-10-10 |
+| `abyss.md` | Abyss: PvP rules, layers, low-risk PvE, healer advice, Supply Requests | 2026-10-14 |
 | `crafting.md` | Professions, gathering, crafted gear, economy | 2026-10-10 |
 | `schedule.md` | Event times, refilling counters, dated deadlines (EU) | 2026-10-10 |
 | `events.md` | Open-world events: Dimensional Invasion (rewards, keys, scoring) | 2026-10-11 |
+| `seasons.md` | Season 1 dates, Oath Coins + Season Shop, what resets at season end (KR pattern) | 2026-10-14 |
 | `sources.md` | Numbered source list ([n] references) | — |

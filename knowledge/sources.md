@@ -283,3 +283,21 @@ Added 2026-10-13 (pets).
 219. Inven, Season 3 daily/weekly guide, 2026-05-19, **KR**: https://www.inven.co.kr/board/aion2/6493/160
 220. thegameswiki Abyss Points + expcarry F2P membership, ~2026-10, G, snippets only: https://thegameswiki.com/aion-2/wiki/abyss-points · https://expcarry.com/aion-2-free-to-play-membership
 221. gamerblurb, field bosses guide, ~2026-10-08: https://gamerblurb.com/guides/aion-2-field-bosses-guide
+222. wikily.gg, Season 1, 2026-09-30 (mod. 10-06), G: https://wikily.gg/aion-2/season-1
+223. aion2hub, seasons tool, undated (G data 2026-09-19), G + KR: https://aion2hub.com/tools/seasons
+224. metabot.gg, daily & weekly checklist, 2026-10-01 (upd. 10-10), G: https://metabot.gg/en/aion-2/guides/daily-weekly-checklist
+225. metabot.gg, Season 1 Arena achievements, undated, G client: https://metabot.gg/en/aion-2/achievements/season-1-arena
+226. metabot.gg, Season 1 Nightmare achievements, undated, G: https://metabot.gg/en/aion-2/achievements/season-1-nightmare
+227. metabot.gg, Season 1 Transcendence achievements, undated, G: https://metabot.gg/en/aion-2/achievements/season-1-transcendence
+228. Inven via Daum, Season 2 D-7 preparation, ~2026-01-14, **KR**: https://v.daum.net/v/2kkWtDjJTh
+229. Inven, official AION2 notice "Chapter 1. Land of Sand and Frost", 2026-06-30, **KR**: https://www.inven.co.kr/board/aion2/6388/231000
+230. Inven, Season 3 content and shop plan (AI-generated post), 2026-06-26, **KR**: https://www.inven.co.kr/board/aion2/6493/190
+231. aion2hub, Season 2 update news, upd. 2026-06-18, **KR**: https://aion2hub.com/news/aion-2-season-2-update
+232. Byline Network, Season 2 update direction, 2026-01-07, **KR**: https://byline.network/2026/01/7-395/
+233. Aju News, Season 2 roadmap, 2026-01-07, **KR**, snippet: https://www.ajunews.com/view/20260107125553382
+234. U4N (Kinah seller), Oath Coin guides, 2026-01 / 2026-05, unreliable: https://www.u4n.com/news/aion-2-oath-coin-season-2-currency.html
+235. gamesfuze, all currencies, upd. 2026-10-02, G: https://gamesfuze.com/?p=91059
+236. metabot.gg, shops (Season Shop, 44 items), undated, client data: https://metabot.gg/en/aion-2/shops
+239. WikiTree, Aion2 enters third season, 2026-04-09, **KR**: https://www.wikitree.co.kr/articles/1130482
+240. Korea Daily, Chapter 1 update (level 50), 2026-07-02, **KR**, snippet: https://www.koreadaily.com/article/20260702164451235
+241. MassivelyOP, global monetization plan ($15 sub, free/paid pass), 2026-07-08, G, snippet: https://massivelyop.com/2026/07/08/aion-2-releases-monetization-plan-with-optional-15-sub-battle-pass-cash-shop-and-founder-packs/
