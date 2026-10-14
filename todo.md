@@ -4,7 +4,6 @@ One-off things to do or check in the game. Daily/weekly routines live in `routin
 tracker itself goes in `backlog.md`.
 
 ## Open
-- [ ] Halloween event (until 2026-11-04): find the event merchant; check the weekly quest list, chest price and login reward against `knowledge/events.md`
 - [ ] Check: have you done a first Conquest clear of Krao Cave and Draupnir? Each gives a one-time ~2,480-stone achievement. Also note your Conquest pity progress (x/14) while you're there
 - [ ] Verify: after 2026-10-25 (DST change), do event times stay on the local clock? (Rift should still open at 02, 05, 08 … 23)
 - [ ] Verify: other siege days (Mon/Thu 21:00?) and Nahma (Fri/Sun 21:00?). Saturday 21:00 is confirmed
@@ -26,6 +25,7 @@ tracker itself goes in `backlog.md`.
 - [ ] *(low priority, later)* Dhamira: try Condemnation option 1 (+100 MP per hit) instead of option 2 (+12% on fewer targets) for a few fights; compare how often you need to refill MP with the current macro (10, 12)
 
 ## Done
+- [x] Halloween event merchant found; quests, chest and login reward match the article (2026-10-14)
 - [x] Pets menu: 77/200 owned, no unclaimed collection rewards (2026-10-13)
 - [x] Passive skill points can be reset; Heal Block points removed (2026-10-13)
 - [x] All 10 passive tooltips recorded in knowledge/cleric-skills.md (2026-10-13)

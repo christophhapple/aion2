@@ -58,9 +58,9 @@ the Daily Dungeon (6–7k at GS 1100–1500, in-game). Keys bank to 7, so no nee
 
 ## Halloween event (2026-10-14 → 2026-11-04)
 
-Source: mein-mmo news [210], 2026-10-14, **AI-translated from German**, so item names may be off
-(likely mappings in brackets are mine). Global version's first in-game event. Nothing in the article
-mentions a paid requirement. **All unverified**; check in-game.
+Source: mein-mmo news [210], 2026-10-14 (AI-translated from German); **confirmed in-game 2026-10-14** at the event
+merchant (quests, coins, shop, login reward). Item names are the article's translation; bracketed mappings are mine.
+Global version's first in-game event. No paid requirement mentioned.
 
 - **Currency:** Halloween Pumpkin Coin. Spent at event merchants in the cities (Elyos: Dawn Legion Base
   or Zumion Village; Asmodians: Safe Haven or Nornir Assembly).
@@ -82,9 +82,9 @@ mentions a paid requirement. **All unverified**; check in-game.
 
 - **Max coins:** 3 weekly resets in the window (Oct 14, 21, 28) × 235 + 620 login ≈ 1,325 (my math, if
   the event ends at the Nov 4 reset).
-- **Shop:** Halloween chest 250 coins: skeleton skin + "10,000 soul crystals for pets" (number looks
-  high; check). Also Odyle Energy ("Odenergy"), skin chests, tickets, "life crystals", resurrection
-  stones; prices not given.
+- **Shop:** Halloween chest 250 coins: skeleton skin + "10,000 soul crystals for pets".
+  Also Odyle Energy ("Odenergy"), skin chests, tickets, "life crystals", resurrection
+  stones; prices not given in the article.
 - **Candy keys:** key fragments drop in Expeditions and Transcendence; turn them into coloured keys via
   Substance Morph. Candies: red = 20 pet growth boxes, 10 battle scrolls; yellow = 10,000 Abyss Points,
   10 life crystals; blue = 4 Odyle Energy, 10 resurrection stones. Each also has 5 Halloween Candy + 5 Cookies.

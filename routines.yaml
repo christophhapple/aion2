@@ -52,7 +52,7 @@ routines:
   - id: halloween
     name: Halloween weekly quests (event, until 2026-11-04)
     reset: weekly
-    notes: Claim the 10 weekly event quests (235 Pumpkin Coins/week, per server). List in knowledge/events.md. Guide-sourced, unverified. Remove after the event.
+    notes: Claim the 10 weekly event quests (235 Pumpkin Coins/week, per server). List in knowledge/events.md (in-game 2026-10-14). Remove after the event.
 
   - id: invasion
     name: Dimensional Invasion (use key)
