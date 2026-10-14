@@ -301,3 +301,31 @@ Added 2026-10-13 (pets).
 239. WikiTree, Aion2 enters third season, 2026-04-09, **KR**: https://www.wikitree.co.kr/articles/1130482
 240. Korea Daily, Chapter 1 update (level 50), 2026-07-02, **KR**, snippet: https://www.koreadaily.com/article/20260702164451235
 241. MassivelyOP, global monetization plan ($15 sub, free/paid pass), 2026-07-08, G, snippet: https://massivelyop.com/2026/07/08/aion-2-releases-monetization-plan-with-optional-15-sub-battle-pass-cash-shop-and-founder-packs/
+242. games.gg, Soul Binding guide, 2026-10-08: https://games.gg/aion-2/guides/aion-2-soul-binding-guide/
+243. dtgre, Soul Binding: sync, rebind or keep, 2026-10-05: https://www.dtgre.com/2026/10/aion-2-soul-binding-sync-reset-guide.html
+244. gamesfuze, Soul Imprint & Soul Binding, 2026-09-30: https://gamesfuze.com/guides/aion-2-soul-imprint-soul-binding-guide/
+245. allthings.how, Soul Binding, 2026-10-10: https://allthings.how/?p=261094
+246. xboxplay, how to soul bind equipment, undated, snippet: https://xboxplay.games/aion-2/how-to-soul-bind-equipment-in-aion-2-76587
+247. Inven, 2/10 livestream summary, 2026-02-10, **KR**: https://m.inven.co.kr/webzine/wznews.php?idx=313506
+248. expcarry, Theostone guide, 2026-10-07, G: https://expcarry.com/aion-2-theostone-guide
+249. aion2hub, KR patch notes 2026-08-19, **KR**: https://aion2hub.com/updates/aion-2-update-2026-08-19
+250. keengamer, codes and Twitch drops (5–16 Oct), 2026-10, G: https://www.keengamer.com/articles/guides/aion-2-codes-all-active-redeem-codes/
+251. allthings.how, Theostones, 2026-10-05: https://allthings.how/?p=234365
+252. selphie1999gaming, Theostones, 2026-10-09: https://selphie1999gaming.com/game-guides/aion-2/aion-2-theostones-how-to-obtain-and-use-theostones/
+253. gamesfuze, manastones, theostones and soul binding, undated, snippet: https://gamesfuze.com/guides/aion-2-how-to-upgrade-gear-manastones-theostones-and-soul-binding/
+254. gamewith.ai, Dead Dramata's Nest drops (NC KR probabilities 2026-09-30), **KR**: https://gamewith.ai/aion2/en/dungeons/dead-dramatas-nest
+255. allthings.how, materials / Refining Stones, 2026-10-06: https://allthings.how/?p=234735
+256. gamerblurb, Refining Stones, undated, snippet: https://gamerblurb.com/guides/aion-2-how-to-get-refining-stones
+257. games.gg, best ways to earn Kina, 2026-10-05, G: https://games.gg/aion-2/guides/aion-2-best-ways-to-earn-kina-fast/
+258. skycoach, Kina farming (sells Kina), ~2026-10-03, G + TW prices: https://skycoach.gg/blog/aion-2/articles/kina-farming-guide
+259. allthings.how, farm Kina (bound and tradeable), 2026-10-10: https://allthings.how/?p=248298
+260. mein-mmo, farming Kinah, 2026-09-25: https://mein-mmo.de/en/farming-kinah-in-aion-2-how-to-get-rich-quickly,1589513/
+261. xboxplay, unbound Kina, 2026-10-06, no sources: https://xboxplay.games/aion-2/how-to-get-unbound-kina-in-aion-2-76462
+262. allthings.how, dailies and weeklies, 2026-10-10, G: https://allthings.how/?p=234990
+263. games.gg, Market guide, 2026-10-08, G: https://games.gg/aion-2/guides/aion-2-market-guide/
+264. Guild Order wiki, trading, Market, membership, 2026-09-05, G: https://guildorder.com/games/aion2/wiki/trading-the-market-and-membership
+265. expcarry, Kinah farm 2026 (sells Kina), undated, mostly **KR**: https://expcarry.com/aion2-kinah-farm-2026
+266. gamesfuze, trading beginner's guide, 2026-10-02, G: https://gamesfuze.com/guides/aion-2-beginners-guide-to-trading/
+267. timesaver.gg, Kina currency, 2026-09-09 (pre-launch), G: https://timesaver.gg/blog/aion-2-kina-currency
+268. aion2hub, free to play, 2026-09-19, G: https://aion2hub.com/guides/aion-2-free-to-play
+269. snippets only: allthings.how enhancement costs https://allthings.how/?p=244900 · Kina Chests/Exchange https://allthings.how/?p=259826 · gamesfuze Arcana crafting https://gamesfuze.com/guides/aion-2-how-to-get-and-craft-arcana-cards-best-combos/

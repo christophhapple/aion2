@@ -179,3 +179,55 @@ Stats: Wisdom + Life (god stats), Constitution + Power (primary); Heal Boost (Pv
   piece at once [122]. **Confirmed: the Ascension Bracelet takes Soulstones, not Manastones** (in-game 2026-10-11). [115]'s "Superior Manastone in the bracelet" meant the category (see Naming).
 - **Naming:** "Manastone" is both the item category and one stone type. Tooltips: "Superior Soulstone (Bound): Common Manastone" and "Superior Manastone (Bound): Common Manastone" (in-game 2026-10-11). The part after the colon is the category (+ grade), not the stone type. Metabot lists Soulstones under "Manastone" too [122].
 - Save high-tier stones for pieces you keep (bracelet, belt, amulet); low-tier on gear you'll replace [122].
+
+## Soul Binding, Soul Codex, Philosopher's Stone (researched 2026-10-14)
+
+No official global docs; guides 2026-09-30 → 10-10 mostly don't say which client [242]–[247]. Soul
+Codex is the Soul Binding material (user 2026-10-14). KR names: 영혼 각인 Soul Binding, 영혼의 서 Soul
+Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some guides say "Soul Imprint" [244].
+
+- **What:** random extra stat lines on gear (attack/defence stats, damage boosts, class skill levels),
+  pool depends on the item type; stacks with base stats, Manastones, Theostones [242][244].
+- **Where:** Enhance window → Soul Binding tab: Bind / Sync / Reset [242][245].
+- **Bind:** each try raises the Soul Binding Rate by a random amount, smaller near the cap; 30,000 Kina +
+  1 or more Soul Codex per try, more Codex near the cap [242]. Makes the item untradeable. At 100% the
+  item is maxed and locked [242][245]. Total Codex needed to reach 100%: not found.
+- **Sync:** reroll one chosen line; costs a same-grade, same-type item (destroyed) or a Sync Stone
+  (lower-grade stone: 10% success) [242][243][245]. Unique only, per [245]. Can reroll the same stat.
+- **Reset:** reroll all lines, rate back to 0; costs Soul Codex: Reset + Kina (amount unknown) [242][243].
+- **Lines per grade, contradiction:** Common 1, Rare 2, Epic 3, Unique 3–5, Heroic 4–6 [242] vs "all
+  gear 4, expandable to 5" [246, snippet].
+- **Transfer:** base lines carry over [242][243][244] (matches the KR wiki in "Enhancement" above);
+  the Soul Fuse line does not.
+- **Soul Codex sources:** expeditions, Invasion (×3 with a key, `events.md`), Shugo Festival, Nightmare
+  shop, Hidden Cubes [242]; Season Shop 3,000 Oath Coins, limit 50 (`seasons.md`). KR: 200 Enhance
+  Stones + 10,000 Kina → 1 Codex via conversion [247]. **Reset:** Nightmare shop, achievements, Season
+  Shop (20,000, limit 5); Twitch drop ×2, 5–16 Oct (G) [250].
+- **Philosopher's Stone → Soul Fuse:** 2 stones add one extra random line to a **Unique or Heroic
+  item at 100%**; always succeeds [242][244][247]. Kina: 1,000,000 [242] vs not mentioned [247, KR].
+  Two kinds: **Revelation** (~4/5 of items) and **Power**; the item says which it needs [242]. Not
+  related to the Revelation amulet. Drops from Conquest (KR: 3–6%) [242][254]. Season Shop: 2 for
+  30,000 Oath Coins each = exactly one Fuse.
+- **So (inference):** bind only Unique pieces you'll keep or transfer; fix bad lines (Sync/Reset)
+  before spending Codex; Fuse only a maxed keeper whose type matches.
+
+## Theostones (researched 2026-10-14)
+
+- **What:** chance-on-hit proc (elemental damage, single or up to 4 targets; or Stun, Root, Paralyze,
+  Blind, Seal, slow, Poison, Bleed). Manastones matter much more in PvE [248][251]. 17 effects × Rare /
+  Epic / Unique; grade raises damage/duration, not proc chance; identical stones don't stack [248].
+  Rare examples: Stun 3% 1 s, Wind single 10% [248].
+- **Slots:** weapon (confirmed by [248]); guard per [251], unconfirmed by [248]. Needs higher-grade gear.
+- **Engrave:** N → Theostone tab, 10,000 Kina; replacing destroys the old stone [248][251][252].
+- **Sources:** level-45 regional quests give Rare Theostone Chests [248][252]; Abyss shop selection chest
+  (35,000 AP, pick the effect) [251]; Season and Arena shops; Daeva Pass. Rare Theostone Chest = one
+  random Rare, weighted to damage stones [248]. Combine ≥4: Rare → Epic 11.1%, Epic → Unique 9.1% [248].
+- **Transfer, contradiction:** lost when moving to new gear [248][253] vs kept [251]. Check the Transfer
+  preview in-game.
+- **So (inference):** low priority; a free Rare damage stone on the weapon is enough. The Season Shop
+  chest (17,500 Oath Coins) is poor value.
+
+## Refining Stones
+Crafting material, grade must match the crafted item: Refining Stone (Common) → Expert's (Rare) →
+Artisan's (Epic) → Artisan's Ultimate (Unique) [255][256]. Not a gear-enhancement item. Details:
+`crafting.md`.

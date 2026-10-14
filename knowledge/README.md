@@ -24,7 +24,7 @@ patch notes, which beat guides. Every fact is tagged with its source and date or
 | `resets.md` | Reset times, entry caps | 2026-10-10 |
 | `expeditions.md` | All expeditions: gates, modes, cube costs, rewards, run order | 2026-10-10 |
 | `endgame.md` | One-time content, Nightmare, Abyss, Transcendence, Pantheon | 2026-10-10 |
-| `gear.md` | Gear progression, currencies, Cleric notes | 2026-10-10 |
+| `gear.md` | Gear progression, currencies, Cleric notes, Soul Binding, Theostones | 2026-10-14 |
 | `cleric-skills.md` | Cleric active + Stigma skills (from in-game tooltips), stat priorities (guides) | 2026-10-11 |
 | `controls.md` | Hotbar skill queues and the macro | 2026-10-11 |
 | `titles.md` | Title slots, owned bonus, which titles to equip | 2026-10-11 |
@@ -34,4 +34,5 @@ patch notes, which beat guides. Every fact is tagged with its source and date or
 | `schedule.md` | Event times, refilling counters, dated deadlines (EU) | 2026-10-10 |
 | `events.md` | Open-world events: Dimensional Invasion (rewards, keys, scoring) | 2026-10-11 |
 | `seasons.md` | Season 1 dates, Oath Coins + Season Shop, what resets at season end (KR pattern) | 2026-10-14 |
+| `kina.md` | Bound vs normal Kina, income, sinks (F2P) | 2026-10-14 |
 | `sources.md` | Numbered source list ([n] references) | — |
