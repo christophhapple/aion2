@@ -82,7 +82,7 @@ Global version's first in-game event. No paid requirement mentioned.
 
 - **Max coins:** 3 weekly resets in the window (Oct 14, 21, 28) × 235 + 620 login ≈ 1,325 (my math, if
   the event ends at the Nov 4 reset).
-- **Shop:** Halloween chest 250 coins: skeleton skin + "10,000 soul crystals for pets".
+- **Shop:** Halloween chest 250 coins: skeleton skin + 10,000 Soul Crystals (confirmed in-game 2026-10-14).
   Also Odyle Energy ("Odenergy"), skin chests, tickets, "life crystals", resurrection
   stones; prices not given in the article.
 - **Candy keys:** key fragments drop in Expeditions and Transcendence; turn them into coloured keys via
