@@ -4,7 +4,7 @@ One-off things to do or check in the game. Daily/weekly routines live in `routin
 tracker itself goes in `backlog.md`.
 
 ## Open
-- [ ] Check: Abyss Supply Request window (Esc menu): which tabs (Emergency, Weekly, Craft, Boss?), what the Emergency ones ask for, rewards. Do you have Silentium? See `knowledge/abyss.md`
+- [ ] Check: Abyss Supply Request window (Esc menu): which tabs (Emergency, Weekly, Craft, Boss?), what the Emergency ones ask for, rewards. Craft/Boss: does a request disappear after one hand-in, or can you repeat it? Any reset timer shown? Do you have Silentium? See `knowledge/abyss.md`
 - [ ] Check: Season window: Oath Coin balance, Season Mission points this week, Season Shop limits (per season or weekly?), season end countdown. See `knowledge/seasons.md`
 - [ ] Check: have you done a first Conquest clear of Krao Cave and Draupnir? Each gives a one-time ~2,480-stone achievement. Also note your Conquest pity progress (x/14) while you're there
 - [ ] Verify: after 2026-10-25 (DST change), do event times stay on the local clock? (Rift should still open at 02, 05, 08 … 23)
