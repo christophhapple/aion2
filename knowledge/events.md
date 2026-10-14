@@ -82,9 +82,25 @@ Global version's first in-game event. No paid requirement mentioned.
 
 - **Max coins:** 3 weekly resets in the window (Oct 14, 21, 28) × 235 + 620 login ≈ 1,325 (my math, if
   the event ends at the Nov 4 reset).
-- **Shop:** Halloween chest 250 coins: skeleton skin + 10,000 Soul Crystals (confirmed in-game 2026-10-14).
-  Also Odyle Energy ("Odenergy"), skin chests, tickets, "life crystals", resurrection
-  stones; prices not given in the article.
+- **Shop** (Halloween Pumpkin Coin Shop, in-game 2026-10-14). All Bound. Limits marked "weekly" showed
+  "Resets in 6d 14h", i.e. the Wednesday reset:
+
+  | Item | Coins | Limit |
+  |---|---|---|
+  | Special Halloween Chest: skeleton skin + 10,000 Soul Crystals | 250 | per server 1, **once** (no reset shown) |
+  | Odyle Energy | 10 | per server 4, weekly |
+  | Lower Abyss Rift Stone | 30 | per server 2, weekly |
+  | Skin Chest (10 times) | 15 | per server 5, weekly |
+  | Resurrection Spiritstone | 2 | per server 10, weekly |
+  | Instant Clear Ticket: Daily Dungeon (name cut off) | 3 | per server 7, weekly |
+  | Nightmare Dungeon Challenge (ticket, name cut off) | 7 | per server 3, weekly |
+  | Shugo Festival Reward Key | 7 | per server 3, weekly |
+  | Life Crystal | 2 | per character 20, weekly |
+  | Halloween Candy | 2 | per character 10, weekly |
+  | Halloween Cookie | 2 | per character 10, weekly |
+  | Superior Power Shard | 1 | none shown |
+
+  Buying every weekly limit costs 338 coins, more than one week's quests (235).
 - **Candy keys:** key fragments drop in Expeditions and Transcendence; turn them into coloured keys via
   Substance Morph. Candies: red = 20 pet growth boxes, 10 battle scrolls; yellow = 10,000 Abyss Points,
   10 life crystals; blue = 4 Odyle Energy, 10 resurrection stones. Each also has 5 Halloween Candy + 5 Cookies.
