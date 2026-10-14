@@ -271,3 +271,4 @@ Added 2026-10-13 (pets).
 207. keengamer, all pets, 2026-10-11: https://www.keengamer.com/articles/guides/all-pets-and-how-to-get-them-in-aion-2/
 208. rutab, Genus Insight, 2026-10-09: https://rutab.net/b/games/2026/10/09/aion-2-kak-rabotaet-genus-insight-i-kak-prokachat-ego-do-maksimuma.html
 209. powerupgaming / destructoid, pet transform, 2026-10-03 / undated: https://powerupgaming.co.uk/2026/10/03/aion-2-pet-transform-guide-best-pets-how-to-get-them/
+210. mein-mmo, Aion 2 Halloween event (quests, rewards), 2026-10-14, G, AI-translated: https://mein-mmo.de/en/aion-2-celebrates-halloween-everything-important-about-the-new-quests-and-rewards,1592231/

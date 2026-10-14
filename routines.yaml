@@ -49,6 +49,11 @@ routines:
     cap: 3
     notes: Every hour at :00. +3 keys/day, banks to 12 (per account + server), so no rush until near 12.
 
+  - id: halloween
+    name: Halloween weekly quests (event, until 2026-11-04)
+    reset: weekly
+    notes: Claim the 10 weekly event quests (235 Pumpkin Coins/week, per server). List in knowledge/events.md. Guide-sourced, unverified. Remove after the event.
+
   - id: invasion
     name: Dimensional Invasion (use key)
     reset: daily
