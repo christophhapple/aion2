@@ -63,7 +63,7 @@ which version they describe; detailed sources are KR (2025-11 → 2026-05). Sour
 
   KR (2025-11) paid less: 5 → 750 AP, 8 → 1,260 [218]. Another guide: "380–6,000 AP per delivery" [214].
 - **Silentium sources** [211][212]: Exploration expedition 4, Conquest 7, Transcendence cube 10, Hidden
-  Cube 10, Daeva Pass. Stacks to 1,000. Don't sell it (5,000 Bound Kina): this is its best use.
+  Cube 10, Daeva Pass. Stacks to 1,000. Bound, can't be traded. **Only uses found** (2026-10-14): supply requests, or NPC sale for 5,000 Bound Kina each (not usable on the Market); no crafting or shop use mentioned [211][213]. So keep it for requests.
 - **Caps / banking:** none found. KR blog: up to 5 daily requests, ~500 AP each [217] (low reliability).
   Unclear whether this AP counts toward any AP cap [220, snippet].
 - **F2P note:** KR players buy cheap crafted gear on the Market to turn in [218]; on global, Market
