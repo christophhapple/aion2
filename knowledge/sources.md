@@ -272,3 +272,14 @@ Added 2026-10-13 (pets).
 208. rutab, Genus Insight, 2026-10-09: https://rutab.net/b/games/2026/10/09/aion-2-kak-rabotaet-genus-insight-i-kak-prokachat-ego-do-maksimuma.html
 209. powerupgaming / destructoid, pet transform, 2026-10-03 / undated: https://powerupgaming.co.uk/2026/10/03/aion-2-pet-transform-guide-best-pets-how-to-get-them/
 210. mein-mmo, Aion 2 Halloween event (quests, rewards), 2026-10-14, G, AI-translated: https://mein-mmo.de/en/aion-2-celebrates-halloween-everything-important-about-the-new-quests-and-rewards,1592231/
+211. expcarry, Silentium guide, updated 2026-10-12, G: https://expcarry.com/aion-2-silentium-guide
+212. xboxplay, how to get Silentium, 2026-10-10, G: https://xboxplay.games/aion-2/how-to-get-silentium-in-aion-2-76553
+213. allthings.how, Silentium, updated 2026-10-10: https://allthings.how/?p=259824
+214. allthings.how, farm Abyss Points, updated 2026-10-06: https://allthings.how/?p=234744 (also gamesfuze AP guide, 2026-09-30: https://gamesfuze.com/guides/aion-2-how-to-get-abyss-points-fast-ap-farming-methods/)
+215. mein-mmo, daily/weekly checklist, 2026-09-29, G: https://mein-mmo.de/en/aion-2-daily-weekly-checklist-perfect-start,1589979/
+216. Inven, daily/weekly routine guide, 2025-11-23, **KR**: https://www.inven.co.kr/webzine/news/?news=311583&site=aion2
+217. bookcoach blog, Abyss Supply Request, 2026-03-02, **KR**, low reliability: https://game.bookcoach.co.kr/아이온2-어비스-보급의뢰-보상-진행-방법/
+218. DCInside Aion2 gallery, supply requests with Kina, 2025-11-30, **KR**, anonymous: https://gall.dcinside.com/mgallery/board/view/?id=aion2&no=546632
+219. Inven, Season 3 daily/weekly guide, 2026-05-19, **KR**: https://www.inven.co.kr/board/aion2/6493/160
+220. thegameswiki Abyss Points + expcarry F2P membership, ~2026-10, G, snippets only: https://thegameswiki.com/aion-2/wiki/abyss-points · https://expcarry.com/aion-2-free-to-play-membership
+221. gamerblurb, field bosses guide, ~2026-10-08: https://gamerblurb.com/guides/aion-2-field-bosses-guide

@@ -39,3 +39,34 @@ Bosses: eight level-65 Hero field bosses drop Unique armor sets and refining sto
 - If jumped: cancel flight (free-fall), press V to fly again [80]; never fight with an empty flight gauge [82].
 - Bosses, sieges and contested spots need a group or legion [81][85]. Wait for more gear.
 - KR cut healing in Aug 2026 (range 40 m, power −20–50%) [91, KR]; may or may not come to global.
+
+## Abyss Supply Requests (보급 의뢰)
+
+Researched 2026-10-14. **Low–medium confidence**: no official global page; English guides don't say
+which version they describe; detailed sources are KR (2025-11 → 2026-05). Sources [211]–[221].
+
+- **What:** hand in specific items, get **Abyss Points + Enhance Stones** [211][213]
+  (xboxplay says Kina + AP [212]). PvE-only way to earn AP [211][214]. Same requests for everyone [215].
+- **Where:** Esc menu → Abyss Supply Request [213]; KR: ALT+J [217]. Unlock condition not found.
+- **Tabs:** Emergency (daily, has a deadline), Weekly, plus two long-running ones: Craft and Boss
+  ("Season: …" in KR [216][219], "Regular: …" in a global guide [214]; some stay up all season [215]).
+  KR weekly reset is Wednesday, so probably the normal weekly reset here (unverified).
+- **Hand-ins:** Silentium for the repeatable ones [211][212][213]; gear of a required grade (more AP for
+  higher grade) [216]; crafted gear and materials for the Craft tab [214][218]; field boss gear for
+  the Boss tab: keep unneeded boss drops for it [221]. No list of which items qualify.
+- **Silentium rewards** (expcarry, "Global", 2026-10-12 [211]):
+
+  | Request | Silentium | AP | Enhance Stones |
+  |---|---|---|---|
+  | Emergency | 5 / 8 / 10 | 980 / 1,640 / 2,240 | 250 / 420 / 570 |
+  | Weekly | 20 / 30 / 50 | 3,210 / 5,410 / 9,980 | 820 / 1,390 / 2,560 |
+
+  KR (2025-11) paid less: 5 → 750 AP, 8 → 1,260 [218]. Another guide: "380–6,000 AP per delivery" [214].
+- **Silentium sources** [211][212]: Exploration expedition 4, Conquest 7, Transcendence cube 10, Hidden
+  Cube 10, Daeva Pass. Stacks to 1,000. Don't sell it (5,000 Bound Kina): this is its best use.
+- **Caps / banking:** none found. KR blog: up to 5 daily requests, ~500 AP each [217] (low reliability).
+  Unclear whether this AP counts toward any AP cap [220, snippet].
+- **F2P note:** KR players buy cheap crafted gear on the Market to turn in [218]; on global, Market
+  buying needs membership [220], so for F2P only own drops/crafts and Silentium count.
+- **So (inference):** spend Silentium here instead of selling it; check the Emergency tab daily and
+  the Boss tab before salvaging field boss gear.
