@@ -17,7 +17,7 @@ Background: `knowledge/progression.md`.
 | Shugo Festival: participate 30 times | Dhamira | 23/30 (2026-10-15) | 30 | Achievement "Shugo Festival Regul…", rewards incl. 10 Soul Crystals. The 9 title runs above nearly cover it |
 
 ## Done
-- [x] First Ascension Trial on Normal: 3 clears in the first week it was open (2026-10-15)
+- [x] First Ascension Trial on Normal: 3 clears (2026-10-15)
 - [x] Clash Runes to +2: both equipped runes (2026-10-13)
 - [x] First Nightmare clear (by 2026-10-11)
 - [x] Gear score 1400 reached (now 1500): Conquest ★2 Urugugu + Vakron open (2026-10-12)
