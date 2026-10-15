@@ -44,7 +44,7 @@ the map at the kill, ranked [155].
 | Transcendence reward count | +1 / 12h | 14 | character |
 | Nightmare attempts | +2 / day | 14 | character |
 | **Shugo Festival keys** | +3 / day at reset | 12 (21 paid) | **per server, not per character** (in-game 2026-10-10). ~~7/week~~ is KR [69] |
-| **Invasion keys** | +1 / day | 7 | account per server (some say account-wide) |
+| **Invasion keys** | +1 / day (in-game 2026-10-15) | 7 (in-game 2026-10-15: shown as x/7) | account per server (some say account-wide) |
 | Duty Missions | 5 / day | **doesn't bank** (in-game 2026-10-13; ~~20 held~~ is wrong) | account per server |
 | Abyss time | 7h per layer (Lower, Middle) / week; no carry-over | – | character |
 | Growth dungeons (Silent Graveyard, Fafnite Amphitheater) | 7h each / week | – | character [50] |
