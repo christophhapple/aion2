@@ -9,8 +9,9 @@
 | Campaign | Main story done |
 | Gear score | 1515 |
 | Combat Power | 53.42K |
+| Skill points | 383 total (in-game 2026-10-15) |
 | Server | Nania (EU) |
-| Updated | 2026-10-13 |
+| Updated | 2026-10-15 |
 
 Build: [dhamira-build.md](dhamira-build.md)
 

@@ -9,6 +9,7 @@
 | Level | 45 (max) |
 | Gear score | about the same as Dhamira (~1100), not confirmed |
 | Monetization | Free to play |
+| Skill points | 362 total (2026-10-15, via the user), 21 fewer than Dhamira |
 | Updated | 2026-10-10 |
 
 ## Expedition pity (Exploration, 2026-10-10)

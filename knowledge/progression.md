@@ -73,6 +73,9 @@ Researched 2026-10-13; guides unless tagged. 1 Wisdom Stone (Bound) = 1 skill po
   [186] (24 per a datamine [188]); Spacetime Rift quests 1 each (in-game 2026-10-11); home-region Sealed
   Dungeons 2 per first clear [18]. **Enemy-region Sealed Dungeons give none** (in-game 2026-10-11), so
   the guide pool of 384 SP (203 + 122 + 59) [186] overstates one faction. Strongholds: unclear [192].
+- **Totals seen (in-game 2026-10-15):** a Lv 45 Elyos with all home-region regional quests, Sealed Dungeons,
+  Strongholds, feathers and the 7 Rift quests done has **383**, close to the guide pool of 384 [186]; another
+  Lv 45 Elyos has 362. So the pool is roughly right after all; what makes up the gap is unknown.
 - **Monolith / feathers:** trade for Wisdom Stones [192][193] **vs** global gives only Daevanion
   Crystals there [186, newer, global-specific]. Check in-game.
 - **Shugo Festival shop: no Wisdom Stones** in its Consumables tab (in-game 2026-10-13; other tabs: Wings,
