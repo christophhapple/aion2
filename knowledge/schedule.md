@@ -39,7 +39,7 @@ the map at the kill, ranked [155].
 
 | Counter | Refill | Cap | Per |
 |---|---|---|---|
-| Odyle Energy | +15 / 3h (120/day), from Lv22 | 560 (840 paid); full after ~4d16h | character [50][63][68] |
+| Odyle Energy | +15 / 3h (120/day; in-game 2026-10-15, F2P), from Lv22 | 560 (840 paid); full after ~4d16h | character [50][63][68] |
 | Conquest reward count | +1 / 8h | 21 | character |
 | Transcendence reward count | +1 / 12h | 14 | character |
 | Nightmare attempts | +2 / day | 14 | character |

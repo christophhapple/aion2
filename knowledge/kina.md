@@ -33,8 +33,7 @@ Researched 2026-10-14. No official global page; guides 2026-09 → 10, several w
 
 - Nightmare and Command Scrolls: no Kina reward found.
 - Estimate: Duties + Conquest ≈ **3–4M per week** at GS 1,400+ [257]. No measured Kina/hour for global.
-- **Odyle regen, contradiction:** 10 per 3 h for F2P (15 with membership) [257][259] vs +15 per 3 h,
-  cap 560 in `schedule.md`. Check in-game: does the cap fill in ~4½ days (15/3 h) or ~7 days (10/3 h)?
+- **Odyle regen:** +15 per 3 h without membership, cap 560 (in-game 2026-10-15). ~~10 per 3 h for F2P~~ [257][259].
 
 ## Sinks (largest first, inference from the numbers)
 

@@ -4,7 +4,6 @@ One-off things to do or check in the game. Daily/weekly routines live in `routin
 tracker itself goes in `backlog.md`.
 
 ## Open
-- [ ] Check: Odyle Energy refill: +15 or +10 per 3 h? (guides disagree; see `knowledge/kina.md`)
 - [ ] Check (Enhance window → Soul Binding tab): how many lines do your pieces have per grade, Kina cost of Bind/Reset, Soul Codex count in the bag. And in the Transfer preview: do Soul Binding lines and Theostones carry over?
 - [ ] Check: Abyss Supply Request window (Esc menu): which tabs (Emergency, Weekly, Craft, Boss?), what the Emergency ones ask for, rewards. Craft/Boss: does a request disappear after one hand-in, or can you repeat it? Any reset timer shown? Do you have Silentium? See `knowledge/abyss.md`
 - [ ] Check: Season window: Oath Coin balance, Season Mission points this week, Season Shop limits (per season or weekly?), season end countdown. See `knowledge/seasons.md`
@@ -29,6 +28,7 @@ tracker itself goes in `backlog.md`.
 - [ ] *(low priority, later)* Dhamira: try Condemnation option 1 (+100 MP per hit) instead of option 2 (+12% on fewer targets) for a few fights; compare how often you need to refill MP with the current macro (10, 12)
 
 ## Done
+- [x] Odyle Energy refills +15 per 3 h without membership (2026-10-15)
 - [x] Halloween event merchant found; quests, chest and login reward match the article (2026-10-14)
 - [x] Pets menu: 77/200 owned, no unclaimed collection rewards (2026-10-13)
 - [x] Passive skill points can be reset; Heal Block points removed (2026-10-13)
