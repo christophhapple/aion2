@@ -329,3 +329,18 @@ Added 2026-10-13 (pets).
 267. timesaver.gg, Kina currency, 2026-09-09 (pre-launch), G: https://timesaver.gg/blog/aion-2-kina-currency
 268. aion2hub, free to play, 2026-09-19, G: https://aion2hub.com/guides/aion-2-free-to-play
 269. snippets only: allthings.how enhancement costs https://allthings.how/?p=244900 · Kina Chests/Exchange https://allthings.how/?p=259826 · gamesfuze Arcana crafting https://gamesfuze.com/guides/aion-2-how-to-get-and-craft-arcana-cards-best-combos/
+270. metabot.gg, achievements hub (sections), undated, G client build 0.0.4387.0: https://metabot.gg/en/aion-2/achievements
+271. metabot.gg, Quest achievements (Five Veiled Fates, Herald of Hope, Supply Requests), undated, G: https://metabot.gg/en/aion-2/achievements/quests
+272. metabot.gg, title Protector of Atreia, undated, G: https://metabot.gg/en/aion-2/titles/protector-of-atreia
+273. metabot.gg, title Messenger of Atreia, undated, G (via search): https://metabot.gg/en/aion-2/titles/messenger-of-atreia
+274. metabot.gg, Season 1 Challenge achievements, undated, G: https://metabot.gg/en/aion-2/achievements/season-1-challenges
+275. games.gg, Duty Missions guide, 2026-10-05, region unstated: https://games.gg/aion-2/guides/aion-2-duty-missions-guide/
+276. metabot.gg, titles guide, 2026-10-08 (updated 2026-10-15), G: https://metabot.gg/en/aion-2/guides/titles-guide
+277. metabot.gg, Consumable & Kisk achievements, undated, G: https://metabot.gg/en/aion-2/achievements/consumables
+278. metabot.gg, Social achievements, undated, G: https://metabot.gg/en/aion-2/achievements/social
+279. metabot.gg, Exploration achievements, undated, G: https://metabot.gg/en/aion-2/achievements/exploration
+280. metabot.gg, Hunting achievements, undated, G: https://metabot.gg/en/aion-2/achievements/hunting
+281. metabot.gg, Enhancement achievements (12 of 21 shown), undated, G: https://metabot.gg/en/aion-2/achievements/enhancement
+282. metabot.gg, Gathering achievements, undated, G: https://metabot.gg/en/aion-2/achievements/gathering
+283. metabot.gg, Milestone achievements, undated, G: https://metabot.gg/en/aion-2/achievements/milestones
+284. metabot.gg, Kibelisk achievements, undated, G: https://metabot.gg/en/aion-2/achievements/kibelisks

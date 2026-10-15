@@ -28,6 +28,7 @@ patch notes, which beat guides. Every fact is tagged with its source and date or
 | `cleric-skills.md` | Cleric active + Stigma skills (from in-game tooltips), stat priorities (guides) | 2026-10-11 |
 | `controls.md` | Hotbar skill queues and the macro | 2026-10-11 |
 | `titles.md` | Title slots, owned bonus, which titles to equip | 2026-10-11 |
+| `achievements.md` | Achievement sections, duty/command counts, easy ones | 2026-10-15 |
 | `sorcerer.md` | Sorcerer skills, Stigmas, specialties, rotation, stats (all guides, unverified) | 2026-10-11 |
 | `abyss.md` | Abyss: PvP rules, layers, low-risk PvE, healer advice, Supply Requests | 2026-10-14 |
 | `crafting.md` | Professions, gathering, crafted gear, economy | 2026-10-10 |
