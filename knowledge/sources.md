@@ -344,3 +344,4 @@ Added 2026-10-13 (pets).
 282. metabot.gg, Gathering achievements, undated, G: https://metabot.gg/en/aion-2/achievements/gathering
 283. metabot.gg, Milestone achievements, undated, G: https://metabot.gg/en/aion-2/achievements/milestones
 284. metabot.gg, Kibelisk achievements, undated, G: https://metabot.gg/en/aion-2/achievements/kibelisks
+285. metabot.gg, item Wisdom Stone (Bound), sources (24 quests), undated, G: https://metabot.gg/en/aion-2/items/wisdom-stone-bound
