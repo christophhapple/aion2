@@ -79,7 +79,7 @@ Researched 2026-10-13; guides unless tagged. 1 Wisdom Stone (Bound) = 1 skill po
   the guide pool of 384 SP (203 + 122 + 59) [186] overstates one faction. Strongholds: unclear [192].
 - **Totals seen (in-game 2026-10-15):** a Lv 45 Elyos with all home-region regional quests, Sealed Dungeons,
   Strongholds, feathers and the 7 Rift quests done has **383**, close to the guide pool of 384 [186]; another
-  Lv 45 Elyos has 362. So the pool is roughly right after all; what makes up the gap is unknown.
+  Lv 45 Elyos showed 362 only because a skill reset hadn't refunded all points; after resetting properly it matched. So the pool is roughly right after all. **If a total looks low, do a full skill reset first.**
 - **Monolith / feathers:** trade for Wisdom Stones [192][193] **vs** global gives only Daevanion
   Crystals there [186, newer, global-specific]. Check in-game.
 - **Shugo Festival shop: no Wisdom Stones** in its Consumables tab (in-game 2026-10-13; other tabs: Wings,
