@@ -23,7 +23,7 @@ Researched 2026-10-11. Times: `schedule.md`. Sources [n]: `sources.md`. Unverifi
   regardless of rank, <100 nothing [103, KR/TW]. Unverified for EU; not important in practice.
 
 ### Keys
-- Rewards cost a **Dimensional Invasion Reward Key**. +1/day, holds up to 7 [100][102].
+- Rewards cost a **Dimensional Invasion Reward Key**. +1/day, holds up to 7 [100][102] (both in-game 2026-10-15). **Key count (x/7) is only shown on the Invasion screen inside a running Invasion**; no way to open it from outside (in-game 2026-10-15).
 - **Cancelling the card selection keeps the key, but gives no rewards at all** (in-game 2026-10-11).
   So a round without a key is wasted; only join when you'll spend one.
 - Refill time: "16:00 server time" [100][102], probably wrong for EU like those sites' daily reset.
