@@ -5,7 +5,6 @@ Background: `knowledge/progression.md`.
 
 | Goal | Character | Current | Target | Why |
 |---|---|---|---|---|
-| Gear score 1500 → 1600 | Dhamira | 1515 (2026-10-13) | 1600 | Unlocks Transcendence: Arcana cards (5 slots, big GS), uses the saved Training Arcana |
 | All gear Unique +10 | Dhamira | 11 of 18 pieces Unique (6 at +10: mace, guard, top, legs, gloves, bracelet); Epic: helmet, cloak, shoes, earring, necklace, ring, bracelet (2026-10-13, see characters/dhamira.md) | every slot Unique +10 | Long-term. Step 1: everything to +10 (always succeeds, risk-free GS). Extraction refunds 100% of stones (in-game), so enhancing gear you'll replace isn't wasted. Above +10 risky (65% → 20%) |
 | Upgrade belt | Dhamira | Unique +0 (2026-10-13) | Unique +10 | Never replaced; scrolls from Strongholds. Unique +0→+10 ≈ 201k stones + 5M Kina (guides) |
 | Upgrade Revelation amulet | Dhamira | Unique +0 (2026-10-13) | Unique +10 | Never replaced; scrolls from Monolith levels (feathers), 11 spare (enough) |
@@ -16,6 +15,7 @@ Background: `knowledge/progression.md`.
 | Shugo Festival: participate 30 times | Dhamira | 24/30 (2026-10-15) | 30 | Achievement "Shugo Festival Regul…", rewards incl. 10 Soul Crystals. The 9 title runs above nearly cover it |
 
 ## Done
+- [x] Gear score 1600 reached (1621): Transcendence + Arcana open (2026-10-15)
 - [x] Sealing Wings crafted (2026-10-15)
 - [x] First Ascension Trial on Normal: 3 clears (2026-10-15)
 - [x] Clash Runes to +2: both equipped runes (2026-10-13)
