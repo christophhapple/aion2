@@ -35,7 +35,7 @@ routines:
     name: Ascension Trial
     reset: weekly
     cap: 3
-    notes: Difficulties by GS - Easy 1000, Normal 1500, Hard 2000, Extreme 2500 (in-game). ~3,500 Enhance Stones per clear (guides, difficulty not stated).
+    notes: Difficulties by GS - Easy 1000, Normal 1500, Hard 2000, Extreme 2500 (in-game). 3,500 Enhance Stones per clear on Normal (in-game 2026-10-15).
 
   - id: commands
     name: Command Scrolls (PvE)
