@@ -71,8 +71,8 @@ Collected 2026-10-11 from guides [115][116]; check each in-game.
 Researched 2026-10-13; guides unless tagged. 1 Wisdom Stone (Bound) = 1 skill point [188].
 - **Wisdom Stone (Bound) as an item:** only quest rewards are listed, **24 quests** (Regional, mostly Dawn Legion Base / Valley
   Outpost in Verteron, Lv 16–22, e.g. Searching for an Escaped Fossa, Creion Experiment, Questionable Methods) [285, global item DB].
-  Level-ups and Sealed Dungeon clears seem to grant points directly, not as stones. Stones sit in the bag
-  until used (needs Lv 4), so **unused ones don't count toward the total**.
+  Own inference, unverified: level-ups and Sealed Dungeon clears grant points directly, not as stones; stones sit in the bag
+  until used (needs Lv 4), so unused ones likely don't count toward the total.
 - **One-time (F2P):** level-ups to 45 = 203 SP [186]; regional (green) quests 1 each, ~59 open-world
   [186] (24 per a datamine [188]); Spacetime Rift quests 1 each (in-game 2026-10-11); home-region Sealed
   Dungeons 2 per first clear [18]. **Enemy-region Sealed Dungeons give none** (in-game 2026-10-11), so
