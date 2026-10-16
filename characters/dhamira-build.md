@@ -84,11 +84,13 @@ Defiance isn't a hotbar skill: it's on Space and only usable while crowd-control
 
 ## Stigma presets
 
-**Offensive (current; levels in-game 2026-10-13):** for leveling/trivial content, so no Resurrection or Salvation.
+**Group (current since 2026-10-16, for Transcendence / party content):** Offensive with Power Burst swapped for Resurrection.
 - Light of Protection (Lv 12): always-on party damage + defense
-- Prayer of Amplification (Lv 7): self only (not party): +20% Attack, +20% PvE Damage Boost for 13s, 1 min CD
-- Power Burst (Lv 5): biggest single hit, heavy Stagger
+- Prayer of Amplification (Lv 7): self only (not party): +20% Attack, +20% PvE Damage Boost for 13s, 1 min CD. First to drop if Salvation is needed
 - Earth Punishment (Lv 9, 2026-10-15): **the damage engine**: Condemnation always crits on its target, and every crit resets Condemnation. 30s CD, 10s DoT; Lv 20 adds +10s
+- **Summon Resurrection (Lv 5, 2026-10-16):** revive within 40m, 2 min CD; Lv 5 = −1s cast (2s → 1s). Lv 10 adds 3s invincibility after the res
+
+**Offensive (until 2026-10-16):** for leveling/solo/trivial content: same but **Power Burst (Lv 5)** (biggest single hit, heavy Stagger) instead of Resurrection.
 
 **Shard plan (decided 2026-10-13, after reading all Stigma tooltips):** Earth Punishment is the main
 target; its unlocks are always on and also help the party. 44 shards in, 1 unspent (2026-10-13); +6 into Earth Punishment 6→9 (2026-10-15).
