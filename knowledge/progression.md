@@ -25,7 +25,7 @@ The loop: run content → Enhance Stones + gear → enhance → higher GS → ne
 | 1000 | Abyss (PvP zone) | Abyss Points; worth it from ~1600 |
 | 1000 | Ascension Trial (3/week): Easy 1000, Normal 1500, Hard 2000, Extreme 2500 (in-game) | 3,500 stones per clear on Normal (in-game 2026-10-15) |
 | **1400** | Conquest ★2: **Urugugu Canyon** (weapons/accessories), **Vakron Sky Island** (armor, 1400 in-game); 2+ players | IL 70 set |
-| 1600 | Transcendence (stages 1600/1900/2200/2500) | Arcana cards (big GS) |
+| 1600 (in-game) | Transcendence (stages 1600 in-game; 1900/2200/2500 guides, later stages not shown in-game yet 2026-10-16) | Arcana cards (big GS) |
 | 2100 | Conquest ★3: **Fire Temple** (weapons/accessories), **Ferocious Horn Den** (armor) | IL 84–86 set |
 | 2800+ | Five more expeditions in client data; Ludra raid | not confirmed live / removed |
 
