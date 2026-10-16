@@ -72,6 +72,7 @@ with patches. Therefore:
 | File | Artifact | For |
 |---|---|---|
 | `share/progression.html` | https://claude.ai/artifact/F3iG6ZURLga2drR3yxQqRx | Hamme (friend): progression map, schedule |
+| `share/content-overview.html` | https://claude.ai/artifact/TCzeBcfAYj7hUkbRHTNXHj | The user (private for now): Content Atlas, all activities, progress sources, currencies |
 
 - Generated from `knowledge/` (mainly `progression.md`, `expeditions.md`, `gear.md`, `schedule.md`). Character-neutral,
   no personal data. Each fact shows an "In-game" or "Guides" tag.

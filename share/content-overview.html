@@ -1,0 +1,168 @@
+<title>Aion 2 Content Atlas</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Marcellus&family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* Layout: companion to the Progression Map; one reading column, three lookup tables (content, progress, currencies) plus the loop. */
+:root {
+  --bg: #f5f6f9;
+  --surface: #ffffff;
+  --fg: #1b2130;
+  --muted: #5a6478;
+  --line: #dde1ea;
+  --sky: #2c5a88;
+  --gold: #9a6a12;
+  --gold-soft: #f6ead3;
+  --ok: #2f7a4f;
+  --ok-soft: #e1f1e7;
+  --font-display: "Marcellus", "Palatino Linotype", Georgia, serif;
+  --font-body: "Source Sans 3", "Segoe UI", system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #11151d; --surface: #181e29; --fg: #e4e8f0; --muted: #9aa4b8; --line: #2a3242;
+    --sky: #86b4e2; --gold: #e2ad4c; --gold-soft: #33280f; --ok: #6cc795; --ok-soft: #173326;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #11151d; --surface: #181e29; --fg: #e4e8f0; --muted: #9aa4b8; --line: #2a3242;
+  --sky: #86b4e2; --gold: #e2ad4c; --gold-soft: #33280f; --ok: #6cc795; --ok-soft: #173326;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--bg); color: var(--fg);
+  font: 400 1.0625rem/1.6 var(--font-body);
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 2.5rem 4rem;
+}
+main { max-width: 56rem; margin: 0 auto; display: grid; gap: 2.75rem; }
+h1, h2, h3 { font-family: var(--font-display); font-weight: 400; text-wrap: balance; margin: 0; }
+h1 { font-size: clamp(2rem, 5vw, 2.75rem); line-height: 1.1; }
+h2 { font-size: 1.6rem; color: var(--sky); }
+h3 { font-size: 1.15rem; }
+p { margin: 0; max-width: 65ch; }
+a { color: var(--sky); }
+a:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
+section { display: grid; gap: 1rem; min-width: 0; }
+header { display: grid; gap: 0.9rem; }
+.eyebrow { text-transform: uppercase; letter-spacing: 0.12em; font-size: 0.78rem; font-weight: 700; color: var(--gold); }
+.meta { color: var(--muted); font-size: 0.95rem; display: flex; flex-wrap: wrap; gap: 0.25rem 1rem; }
+.legend { display: flex; flex-wrap: wrap; gap: 0.5rem 1rem; align-items: center; font-size: 0.92rem; color: var(--muted); }
+.tag { display: inline-block; font-size: 0.7rem; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase;
+  padding: 0.08rem 0.4rem; border-radius: 4px; vertical-align: 0.12em; white-space: nowrap; }
+.tag.game { background: var(--ok-soft); color: var(--ok); }
+.tag.guide { background: var(--gold-soft); color: var(--gold); }
+.table-wrap { overflow-x: auto; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; }
+table { border-collapse: collapse; width: 100%; font-size: 0.96rem; }
+th, td { text-align: left; padding: 0.6rem 0.8rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+tr:last-child td { border-bottom: 0; }
+th { font-size: 0.76rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); font-weight: 700; }
+tr.group td { background: var(--gold-soft); font-family: var(--font-display); color: var(--gold); font-size: 1rem; padding-block: 0.4rem; }
+.num { font-family: var(--font-mono); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.dim { color: var(--muted); }
+td strong { font-weight: 700; }
+.loop { display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center; }
+.loop span.step { background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 0.45rem 0.8rem; font-weight: 600; }
+.loop span.arrow { color: var(--gold); font-family: var(--font-mono); }
+footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; border-top: 1px solid var(--line); padding-top: 1.25rem; }
+</style>
+
+<main>
+  <header>
+    <div class="eyebrow">Aion 2 · Europe · Level 45 · free to play</div>
+    <h1>Content Atlas</h1>
+    <p>Every repeatable activity at level 45, what it costs, and what it feeds. Use it to answer "where do I get X?" and "what is this activity good for?". The <a href="https://claude.ai/artifact/F3iG6ZURLga2drR3yxQqRx">Progression Map</a> covers gear score gates and the plan in more detail.</p>
+    <div class="meta"><span>Updated 17 Oct 2026</span><span>Daily reset 09:00 local (08:00 after 25 Oct), weekly Wednesday</span></div>
+    <div class="legend"><span><span class="tag game">In-game</span> checked in the game</span><span><span class="tag guide">Guides</span> from online guides, not yet checked</span></div>
+  </header>
+
+  <section aria-labelledby="content">
+    <h2 id="content">Activities</h2>
+    <p><strong>Banks</strong> means unused runs carry over up to a cap, so skipping a day loses nothing.</p>
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th>Activity</th><th>How often</th><th>Main rewards</th></tr></thead>
+        <tbody>
+          <tr class="group"><td colspan="3">Dungeons</td></tr>
+          <tr><td><strong>Daily Dungeon</strong> <span class="dim">(solo)</span></td><td>14 a week, shared by your characters on the server <span class="tag game">In-game</span></td><td><strong>6,000–7,000 Enhance Stones per run</strong>, the biggest stone source <span class="tag game">In-game</span></td></tr>
+          <tr><td><strong>Ascension Trial</strong> <span class="dim">(Easy GS 1000, Normal 1500, Hard 2000, Extreme 2500)</span></td><td>3 a week</td><td>3,500 Enhance Stones per run on Normal <span class="tag game">In-game</span></td></tr>
+          <tr><td><strong>Nightmare</strong> <span class="dim">(solo boss)</span></td><td>2 a day, banks to 14; only a clear uses an attempt</td><td>Phantasmal Fragments for the Nightmare shop</td></tr>
+          <tr><td><strong>Expeditions, Exploration</strong> <span class="dim">(easy)</span></td><td>7 per dungeon a week; cube 20–40 Odyle</td><td>1,000–1,500 stones, gear, Silentium</td></tr>
+          <tr><td><strong>Expeditions, Conquest</strong> <span class="dim">(hard)</span></td><td>+1 every 8h, banks to 21; cube 40 Odyle <span class="tag game">In-game</span></td><td>2,000 stones, <strong>gear sets</strong>, Silentium; first clear of each +2,480 stones</td></tr>
+          <tr><td><strong>Transcendence</strong> <span class="dim">(2–5 players; Deus Research Base, Shattered Arkanis)</span></td><td>+1 every 12h, banks to 14; cube 40 Odyle; stages at GS 1600 / 1900 / 2200 / 2500 <span class="tag game">In-game</span></td><td><strong>Arcana cards</strong>, Manastones, Soul Codex; Oath Coins from its season achievements</td></tr>
+          <tr class="group"><td colspan="3">Events on the clock</td></tr>
+          <tr><td><strong>Shugo Festival</strong></td><td>Every hour at :00. 3 keys a day, banks to 12, shared on the server <span class="tag game">In-game</span></td><td>~150 Centuryroot Tokens per run; 3 runs of a minigame give its title <span class="tag game">In-game</span></td></tr>
+          <tr><td><strong>Dimensional Invasion</strong></td><td>Every hour at :30, about 5 min. 1 key a day, banks to 7 <span class="tag game">In-game</span></td><td>Tokens, Soul Codex; nothing without a key <span class="tag game">In-game</span></td></tr>
+          <tr><td><strong>Spacetime Rift</strong> <span class="dim">(enemy region, PvP zone)</span></td><td>Every 3h: 02, 05, 08, 11, 14, 17, 20, 23</td><td>One-time: rift quests (skill points), enemy dungeons for Kina, Abyss Points, stones <span class="tag game">In-game</span></td></tr>
+          <tr class="group"><td colspan="3">Errands</td></tr>
+          <tr><td><strong>Duty Missions</strong> <span class="dim">(Journal → Duty)</span></td><td>5 a day, <strong>don't bank</strong> <span class="tag game">In-game</span></td><td>Pick by the guaranteed first reward: Soul Crystals, Odyle, tickets, Kina</td></tr>
+          <tr><td><strong>Command Scrolls</strong> <span class="dim">(capital merchant, 15,000 Kina)</span></td><td>12 a week <span class="tag game">In-game</span></td><td>1,000+ Abyss Points, some stones <span class="tag game">In-game</span></td></tr>
+          <tr><td><strong>Abyss</strong> <span class="dim">(PvP zone)</span></td><td>7h per layer a week</td><td>Abyss Points</td></tr>
+          <tr><td><strong>Halloween event</strong> <span class="dim">(until 4 Nov)</span></td><td>10 quests a week <span class="tag game">In-game</span></td><td>Pumpkin Coins</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="dim">Expedition gear sets by gear score: 700 Krao Cave (weapons, accessories) and Draupnir (armor) · 1400 Urugugu Canyon and Vakron Sky Island · 2100 Fire Temple and Ferocious Horn Den.</p>
+  </section>
+
+  <section aria-labelledby="progress">
+    <h2 id="progress">Where each kind of progress comes from</h2>
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th>Progress</th><th>Where</th></tr></thead>
+        <tbody>
+          <tr><td><strong>Enhance Stones</strong> <span class="dim">(+1 GS per level, +1 to +10 never fails)</span></td><td>Daily Dungeon, far ahead of Ascension Trial, then expedition cubes and Command Scrolls</td></tr>
+          <tr><td><strong>Gear</strong></td><td>Conquest (the sets above); Transcendence for Manastones and Soulstones</td></tr>
+          <tr><td><strong>Arcana cards</strong></td><td>Transcendence: <strong>Deus</strong> drops Bell, Compass, Chalice · <strong>Arkanis</strong> drops Mirror, Parchment, Chalice</td></tr>
+          <tr><td><strong>Arcana upgrades</strong></td><td>Training Arcana from the Season Shop and Transcendence achievements</td></tr>
+          <tr><td><strong>Daevanion points</strong> <span class="dim">(+1 GS each)</span> <span class="tag game">In-game</span></td><td>Daevanion Crystals: Nightmare shop, Shugo shop, rift quests</td></tr>
+          <tr><td><strong>Stigma levels</strong></td><td>Stigma Shards: Abyss shop, Shugo shop, Nightmare shop <span class="tag game">In-game</span></td></tr>
+          <tr><td><strong>Belt and Revelation amulet</strong></td><td>Belt scrolls only from Strongholds; amulet scrolls only from Monolith levels</td></tr>
+          <tr><td><strong>Soul Binding</strong></td><td>Soul Codex: expeditions, Invasion, Shugo, Nightmare, Season Shop</td></tr>
+          <tr><td><strong>Genus Insight</strong> <span class="dim">(pets)</span></td><td>Soul Crystals: Duty Missions, pet collection milestones, achievements</td></tr>
+          <tr><td><strong>Skill points</strong></td><td>One-time only: levelling, regional quests, home Sealed Dungeons, rift quests. A finished character has about 383 <span class="tag game">In-game</span></td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section aria-labelledby="currency">
+    <h2 id="currency">Currencies and what to buy</h2>
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th>Currency</th><th>Earned from</th><th>Best buy</th></tr></thead>
+        <tbody>
+          <tr><td><strong>Abyss Points</strong></td><td>Command Scrolls, rift dungeons, Abyss</td><td>Stigma Shards (<span class="num">10,000</span> each for the first 50) <span class="tag game">In-game</span></td></tr>
+          <tr><td><strong>Phantasmal Fragments</strong></td><td>Nightmare</td><td>Daevanion Crystals first (<span class="num">300</span>), then a spare Clash Rune <span class="tag game">In-game</span></td></tr>
+          <tr><td><strong>Centuryroot Tokens</strong></td><td>Shugo Festival, Invasion</td><td>Stigma Shards (<span class="num">300</span>) and every Daevanion Crystal <span class="tag game">In-game</span></td></tr>
+          <tr><td><strong>Oath Coins</strong> <span class="dim">(Season 1, spend before 16 Dec)</span></td><td>Season achievements; Transcendence alone pays about <span class="num">38,700</span></td><td>Training Arcana, Mysterious Crystals</td></tr>
+          <tr><td><strong>Odyle Energy</strong></td><td>+15 every 3h, cap 560 <span class="tag game">In-game</span></td><td>Expedition and Transcendence reward cubes; never let it hit the cap</td></tr>
+          <tr><td><strong>Pumpkin Coins</strong> <span class="dim">(event)</span></td><td>Halloween weekly quests</td><td>The event chest first, then keys and tickets</td></tr>
+          <tr><td><strong>Kina</strong></td><td>Almost everything</td><td>Enhancing, Command Scrolls, Arcana Transmutation</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section aria-labelledby="loop">
+    <h2 id="loop">The loop</h2>
+    <div class="loop" role="list">
+      <span class="step" role="listitem">Daily Dungeon + Odyle cubes</span><span class="arrow" aria-hidden="true">→</span>
+      <span class="step" role="listitem">Enhance Stones</span><span class="arrow" aria-hidden="true">→</span>
+      <span class="step" role="listitem">All gear to +10</span><span class="arrow" aria-hidden="true">→</span>
+      <span class="step" role="listitem">Transcendence for Arcana</span><span class="arrow" aria-hidden="true">→</span>
+      <span class="step" role="listitem">Next gear score stage</span>
+    </div>
+    <p>Around this, every day: duties (they don't bank), Odyle before the cap, Shugo and Invasion keys before they reach their caps.</p>
+  </section>
+
+  <footer>
+    <p>The game is new and guides often contradict each other. Facts marked "In-game" were checked by a player. If something doesn't match what you see, tell whoever shared this page.</p>
+    <p>Main sources: <a href="https://metabot.gg/en/aion-2/guides/dungeon-guide">metabot.gg dungeon guide</a> · <a href="https://metabot.gg/en/aion-2/transcendence">metabot.gg Transcendence</a> · <a href="https://www.keengamer.com/articles/guides/aion-2-daily-and-weekly-checklist-what-to-do-before-each-reset/">KeenGamer daily and weekly checklist</a></p>
+  </footer>
+</main>
