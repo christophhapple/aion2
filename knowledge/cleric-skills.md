@@ -65,6 +65,7 @@ Stigma Lv 5/10/15/20, fixed. Truncated tooltip text marked "…".
 | **Noble Aura** | Aura follows the caster 5 min, attacks your target for 1405–1448 every 2s (Lv 1); mobile | instant, 1 min | +200 Aura Crit | +20 dmg to targets afflicted with… | +30% dmg to Incapacitated… targets | −1s Aura attack CD |
 
 **Light of Protection vs Chanter:** its Damage Boost does **not stack** with the Chanter's **Undefeated Mantra**; only the higher skill level applies, Mantra wins a tie [310]. Guides: skip Light of Protection when a Chanter is in the group [311][312]. Whether the Damage Tolerance & Incoming Heal parts still apply: not stated. (guides, unverified)
+
 - ~~Prayer of Amplification: party buff~~: the tooltip says Target: Caster (in-game 2026-10-13).
 - [Empyrean Lord's Grace] and [Earth's Grace] (Prayer Lv 10/15) are passives, see "Passive". Open: the name cut off in
   Earth Punishment's Lv 20 line (earlier read as [Earth's Blessing]; maybe the same as [Earth's Grace]).
