@@ -355,3 +355,7 @@ Added 2026-10-13 (pets).
 293. metabot.gg, monster database (genus counts), G: https://metabot.gg/en/aion-2/monsters
 294. rutab.net, Genus Insight, 2026-10-09: https://rutab.net/b/games/2026/10/09/aion-2-kak-rabotaet-genus-insight-i-kak-prokachat-ego-do-maksimuma.html
 295. itechguides, Genus Insight, 2026-10-13 (cites KR notice 2026-01-07 on server-wide sharing): https://www.itechguides.com/how-to-find-and-use-genus-insight-in-aion-2/
+296. allthings.how, gear transfer / old gear, 2026-10, G (search summary): https://allthings.how/?p=232630
+297. games.gg, Soul Binding guide, 2026-10: https://games.gg/aion-2/guides/aion-2-soul-binding-guide/
+298. exitlag, old gear in Aion 2 (don't throw anything away), 2026-10: https://www.exitlag.com/news/old-gear-in-aion-2/
+299. thegameswiki, Succession Crafting (KR patch-note based, incl. 2026-06-10 Bound-only change), **KR**: https://thegameswiki.com/aion-2/wiki/succession-crafting
