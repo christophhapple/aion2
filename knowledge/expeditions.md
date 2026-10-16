@@ -20,7 +20,7 @@ Every expedition has **exactly two modes: Exploration (easy) and Conquest (hard)
 
 Five more exist in client data, gated at 2800–3800 GS (Hard 3000–4500): Dying Dramata's Nest, Cradle
 of Nihility, Hall of Illusion, Azure Breath Island, Citadel of the Fallen Daeva. Not confirmed live [46][48].
-Transcendence is a separate dungeon type, not an expedition (stages 1600/1900/2200/2500) [47][49].
+Transcendence is a separate dungeon type, not an expedition (stages 1600/1900/2200/2500, in-game 2026-10-16) [47][49].
 
 **Settled in-game:** no Hard/third mode on global (2026-10-10); ~~Normal/Hard 700/2400… [45]~~, ~~"unlabeled
 third mode" [46]~~. KR added Hard in Dec 2025 [52][53, KR]. **Vakron Conquest requires GS 1400** (in-game

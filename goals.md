@@ -5,7 +5,7 @@ Background: `knowledge/progression.md`.
 
 | Goal | Character | Current | Target | Why |
 |---|---|---|---|---|
-| Gear score 1621 → 1900 | Dhamira | 1621 (2026-10-15) | 1900 | Second Transcendence stage (stages 1600/1900/2200/2500, guides, unverified). Main levers: Arcana from Transcendence, Daily Dungeon stones → +10 on remaining pieces, Daevanion points |
+| Gear score 1621 → 1900 | Dhamira | 1621 (2026-10-15) | 1900 | Second Transcendence stage (stages 1600/1900/2200/2500, in-game 2026-10-16). Main levers: Arcana from Transcendence, Daily Dungeon stones → +10 on remaining pieces, Daevanion points |
 | All gear Unique +10 | Dhamira | 11 of 18 pieces Unique (6 at +10: mace, guard, top, legs, gloves, bracelet); Epic: helmet, cloak, shoes, earring, necklace, ring, bracelet (2026-10-13, see characters/dhamira.md) | every slot Unique +10 | Long-term. Step 1: everything to +10 (always succeeds, risk-free GS). Extraction refunds 100% of stones (in-game), so enhancing gear you'll replace isn't wasted. Above +10 risky (65% → 20%) |
 | Upgrade belt | Dhamira | Unique +0 (2026-10-13) | Unique +10 | Never replaced; scrolls from Strongholds. Unique +0→+10 ≈ 201k stones + 5M Kina (guides) |
 | Upgrade Revelation amulet | Dhamira | Unique +0 (2026-10-13) | Unique +10 | Never replaced; scrolls from Monolith levels (feathers), 11 spare (enough) |
