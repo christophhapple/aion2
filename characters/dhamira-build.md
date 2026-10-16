@@ -113,13 +113,13 @@ maxed, the rest get levelled evenly.
 
 Lv 14: Earth's Retribution, Judgment Thunder, Debilitating Mark, Chain of Torment, Condemnation, Divine
 Aura, Bolt, Light of Regeneration, Radiant Recovery, Healing Light (13 → 14 by 2026-10-13) · Lv 12: Lightning Strike
-Scattershot (11 → 12 on 2026-10-13) · Lv 10: Defiance (skill points only, no Daevanion yet). Stigmas: see above.
-Passives (in-game 2026-10-13, tile level incl. bonus): Empyrean Lord's Grace 13 (10+3) · Radiant Benediction 12 (10+2) · Earth's Grace 12 (10+2) · Healing Enhancement 11 (10+1) · Immortal Veil 10 (8+2) · Warm Benediction 9 (7+2) · Survival Willpower 9 · Prayer of Concentration 8 · Empyrean Lord's Benediction 0 · Heal Block 0 (both reset, low value). Effects + icons: `knowledge/cleric-skills.md` "Passive".
+Scattershot (11 → 12 on 2026-10-13) · Lv 8: Defiance (skill points only, lowered 10 → 8 on 2026-10-16 to free 2 points for Immortal Veil). Stigmas: see above.
+Passives (in-game 2026-10-13, tile level incl. bonus): Empyrean Lord's Grace 13 (10+3) · Radiant Benediction 12 (10+2) · Earth's Grace 12 (10+2) · Healing Enhancement 11 (10+1) · Immortal Veil 12 (10+2, base 8 → 10 on 2026-10-16) · Warm Benediction 9 (7+2) · Survival Willpower 9 · Prayer of Concentration 8 · Empyrean Lord's Benediction 0 · Heal Block 0 (both reset, low value). Effects + icons: `knowledge/cleric-skills.md` "Passive".
 
 **Passive plan (2026-10-13):** Empyrean Lord's Grace, Earth's Grace, Healing Enhancement are at base 10
 (the skill-point cap; header bonuses +3/+2/+1), so done. Spare points: **Immortal Veil** (+14% Defense),
 then **Warm Benediction** (+13% Max HP); alternative: save for **Radiant Benediction** (free party heal
-on hit, low effort; needs more points than spare now). **Done 2026-10-13:** Heal Block reset (free), Radiant Benediction → 10, Immortal Veil 5 → 7; then Empyrean Lord's Benediction reset → Immortal Veil 8, Warm Benediction 7. Next spare points: Immortal Veil, then Warm Benediction. If damage taken feels worse, put Empyrean Lord's Benediction back (free).
+on hit, low effort; needs more points than spare now). **Done 2026-10-13:** Heal Block reset (free), Radiant Benediction → 10, Immortal Veil 5 → 7; then Empyrean Lord's Benediction reset → Immortal Veil 8, Warm Benediction 7. **2026-10-16:** Defiance 10 → 8 (Lv 9–10 only scale the Blessing heal), Immortal Veil 8 → 10. Next spare points: Warm Benediction. If damage taken feels worse, put Empyrean Lord's Benediction back (free).
 
 Everything above is Mastery preset 1.
 
@@ -147,7 +147,7 @@ Options per skill: `knowledge/cleric-skills.md`. Lv 20 slots locked everywhere (
 | Healing Light | 2 +20% healing at ≤50% HP · 3 50% cleanse chance | Cleanse over more raw healing (+2% HP). Not 1 (+2 consecutive uses): unclear how it works, and the 6s CD is short anyway. Specific fights may call for other picks later. Candidate for the 3rd slot (Lv 20): option 5, -2s CD |
 | Radiant Recovery | 1 cleanse up to 2 debuffs · 3 -3s CD (12 → 9s) | Same as Healing Light: cleanse first, no consecutive uses for now; may revisit. Matches the KR picks. Candidate for the 3rd slot (Lv 20): option 5, +5% HP restored |
 | Bolt | 3 +30% Skill Speed · 4 up to +20% damage on fewer targets | Skill Speed = faster charging (likely: cast times shown 0.4/0.7/1.1s). Fewer targets = boss damage. No Stun (CC). Candidate for the 3rd slot (Lv 20): option 5, guaranteed Crit, on the biggest hit in the kit |
-| Defiance | 1 chain skill Blessing of Regeneration (only 1 slot: Lv 10) | Blessing heals ~2.1k + 40% MP, more than option 3's 10% HP at ~13k max HP. Option 2 (1000 Stamina) might be useful. All situational. Lv 12 (Daevanion) opens slot 2 |
+| Defiance | 1 chain skill Blessing of Regeneration (only 1 slot: Lv 8 since 2026-10-16) | Blessing heals ~2.1k + 40% MP, more than option 3's 10% HP at ~13k max HP. Option 2 (1000 Stamina) might be useful. All situational. Lv 12 (Daevanion) opens slot 2 |
 | Earth's Retribution | 1 +20% MP restored · 4 -7s Bolt CD (since 2026-10-13) | Option 1: when MP runs out, refill fast. Option 4 back in (replacing 3, +50% Multi-Hit) since left click is now used much more, so it triggers often; earlier it was dropped because Retribution was rarely cast. Not 2 (more Discharge) either: Discharge does deal damage, but Retribution is cast too rarely for more procs to add up |
 
 ## Leveling priority (2026-10-11)
@@ -157,7 +157,7 @@ evenly). Further levels come from **Daevanion** (11–14) and **Arcana** (15–2
 
 **Daevanion (to 14), next nodes:**
 1. ~~Lightning Strike Scattershot 11 → 12~~ done 2026-10-13, Multi-Hit equipped.
-2. **Defiance 10 → 12:** opens slot 2 + option 4 (+2s Tenacity).
+2. **Defiance → 12:** opens slot 2 + option 4 (+2s Tenacity). Base is 8 now (2026-10-16), so first move 2 points back from Immortal Veil (respec is free), then Daevanion +2.
 3. ~~Healing Light 13 → 14~~ done (by 2026-10-13).
 
 **Arcana (15–20), not started.** Lv 16 unlocks option 5, Lv 20 the 3rd slot. Candidates noted per skill
