@@ -166,7 +166,7 @@ Stats: Wisdom + Life (god stats), Constitution + Power (primary); Heal Boost (Pv
 1. **Daeva quest wings:** Lesser (Lv 5), Intermediate (22), Superior (32), **Ultimate (45, quest "The One
    Who Witnesses the Nightmare")**. Ultimate equipped: Crit 35, HP 500, MP 250, Penetration 500 [179].
 2. **Aullaeu** (Rare): Lv 30 quests "Secrets Within Secrets", "Canyon's Secret". Equipped MP 200, MP regen 50 [177].
-3. **Sealing Wings:** 70 Sealed Wings Featherdown + 10 Pure Odyle, once per character. Equipped HP 400,
+3. **Sealing Wings:** 70 Sealed Wings Featherdown + 10 Pure Odyle, once per character. **Owned: +200 Flight Power** (in-game 2026-10-16). Equipped HP 400,
    HP regen 200, Incoming Heal +5% [179]. Featherdown from sealed dungeons [177] / one-time solo Sealed
    Dungeons, 2 each [183].
 4. **Expedition wings:** sealed wing drop + 10 Radiant Odyle (very rare from gathering; Shugo shop 1,000 tokens, 3/month; in-game 2026-10-13: so slow). Kromede (Fire Temple), Black Fragment (Krao

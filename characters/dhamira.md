@@ -48,7 +48,7 @@ Verteron done: all regional (green) quests incl. Spacetime Rift, Sealed Dungeons
 ## Gear notes
 - Ascension Bracelet: Unique +10 (2026-10-13), cheap Manastone. Second bracelet: Epic +1.
 - Manastones: cheap ones in all gear, few rerolls (2026-10-13). Revisit at GS 1600.
-- Wings (in-game 2026-10-13): own 6 — Lesser, Intermediate, Superior, Ultimate Daeva, Aullaeu, Glorious (crafted 2026-10-11). Sealing Wings crafted 2026-10-15 (7th pair). Equipped: Ultimate Daeva. **Flight Power 5,900.**
+- Wings (in-game 2026-10-13): own 6 — Lesser, Intermediate, Superior, Ultimate Daeva, Aullaeu, Glorious (crafted 2026-10-11). Sealing Wings crafted 2026-10-15 (7th pair). Equipped: Ultimate Daeva. **Flight Power 6,100** (2026-10-16, +200 from Sealing Wings; was 5,900).
 - Clash Runes: both at +2 (2026-10-13); 2 spares destroyed trying for +3, none left.
 - Pets: 77/200 owned, collection rewards all claimed (2026-10-13).
 
