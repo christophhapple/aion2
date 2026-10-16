@@ -345,3 +345,13 @@ Added 2026-10-13 (pets).
 283. metabot.gg, Milestone achievements, undated, G: https://metabot.gg/en/aion-2/achievements/milestones
 284. metabot.gg, Kibelisk achievements, undated, G: https://metabot.gg/en/aion-2/achievements/kibelisks
 285. metabot.gg, item Wisdom Stone (Bound), sources (24 quests), undated, G: https://metabot.gg/en/aion-2/items/wisdom-stone-bound
+286. games.gg, Genus Insight guide, 2026-10-05, region unstated: https://games.gg/aion-2/guides/aion-2-genus-insight-guide/
+287. gameplay.tips, Pet Genus System guide (Global and Asia BIS lists), 2026-10-02: https://gameplay.tips/guides/aion-2-pet-genus-system-guide.html
+288. wikily.gg, Genus Insight (odds, lock costs), updated 2026-10-06: https://wikily.gg/aion-2/genus-insight
+289. metabot.gg, mounts/wings/pets guide (grade odds), G: https://metabot.gg/en/aion-2/guides/mounts-wings-guide
+290. allthings.how, Genus Insight, 2026-10-10, region unstated (looks KR): https://allthings.how/?p=248869
+291. mein-mmo, Arcana/Daevanion/pets, 2026-09-29, G: https://mein-mmo.de/en/aion-2-arkana-daevanion-pet-you-need-to-understand-and-master-these-3-systems,1589883/3/
+292. Odealo, Pet Genus Insight guide, 2026-10-14, G (notes KR/TW differ): https://odealo.com/articles/pet-genus-insight-aion-2-guide
+293. metabot.gg, monster database (genus counts), G: https://metabot.gg/en/aion-2/monsters
+294. rutab.net, Genus Insight, 2026-10-09: https://rutab.net/b/games/2026/10/09/aion-2-kak-rabotaet-genus-insight-i-kak-prokachat-ego-do-maksimuma.html
+295. itechguides, Genus Insight, 2026-10-13 (cites KR notice 2026-01-07 on server-wide sharing): https://www.itechguides.com/how-to-find-and-use-genus-insight-in-aion-2/

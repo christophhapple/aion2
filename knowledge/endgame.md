@@ -171,6 +171,33 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
 - **So (inference):** worth doing passively: collect pets met while questing, claim milestone crystals,
   push boards to Insight 5–10 without locking. Skip heavy rerolling (Kina), rift/Abyss pets, boss-pet purchases.
 
+### Genus Insight stat lines (researched 2026-10-16, guides, unverified)
+- **9 lines per board**, opened at Insight 1–9; Insight 10 adds no line, only better grade odds
+  [287][288][289][291]. Grade odds: Lv 9 C 25 / R 25 / E 39 / U 10 / H 1 %, Lv 10 20 / 30 / 30 / 15 / 5 % [288][289][294].
+- **Lock cost contradiction:** guides say flat 4 crystals + 1,000 Kina, 1 lock 8 / 2,000, 8 locks 396 / 99,000 [288]
+  **vs** in-game 2026-10-13: 4 + 1,000 *per open line* (see above). In-game wins; recheck once more lines are open.
+- **Which line rolls what: guides contradict each other.** Odealo warns KR/TW pools differ from global [292].
+  - **Global (most likely)** [287 "Global BIS"][292]: lines **1, 5** Max Attack > Attack Bonus · **2, 8** HP % /
+    defensive · **3, 6, 9** Crit or Accuracy > Power Shard Damage Bonus · **7** (PvE) Damage Tolerance > Endurance ·
+    **4 = the board's special line**: Cogni Critical Damage Boost · Fera Weapon Damage Boost · Natura Multi-Hit /
+    Perfect Chance · Varian Front/Back Damage Boost · Special Double Chance (fallback on each: (PvE) Damage Boost).
+  - KR/TW layouts [287 "Asia BIS"][290][286]: Double Chance on lines 3 and 9, Damage Tolerance / Regeneration on 6,
+    Boss Attack on 1/4/7 or defensive on 1/4/7. Don't use these for global.
+  - Lists are "best picks", not full pools (393 properties in total, not listed [288]). Genus-prefixed stats
+    ("Cogni Critical Hit") also roll (in-game 2026-10-13), so pools are wider.
+- **Healer stats: none.** No source lists Healing Boost, Incoming Heal, MP, MP regen, Cooldown Reduction or
+  Combat Speed on Genus lines. Closest is Regeneration (KR layout).
+- **Genus-prefixed stats only work against that genus** of monster [286][290] (guides; not tested). Skip them
+  unless you farm that genus [286]. Monster count by genus (global DB): Cogni 2,120 · Varian 594 · Fera 575 ·
+  Natura 332 · Special 49 [293]. Boss genus breakdown: not found (one raid boss checked: Varian).
+- **Strategy (guides agree):** don't lock before Insight 10 (some say 9), except a high Unique/Heroic on line 4;
+  roll unlocked to level the board. At 10: lock line 4 first, then 1/5, then 3/6/9 [287][292]. Line 4 value:
+  Special (Double Chance) > Varian > Fera > Cogni [287]. Board order: Cogni first (most pets), then Fera, Natura,
+  Varian [292]; all five to 10 for the title Unbound by Genus. Save rainbow (universal) crystals for Special [291][292].
+- **Shared per server** across characters (highest level reached counts) [290][291][295].
+- **Cleric:** no class-specific guidance found. Own inference: with no healing lines, take Attack (1, 5; heals scale
+  with Attack), Damage Tolerance (7), HP (2, 8), and PvE Damage Boost or the board stat on 4.
+
 ## Daevanion points: can you fill every board?
 **No, not on global for now** (guides, 2026-10, estimates).
 - Cost to complete [126]: Nezekan 134, Zikel 134, Vaizel 134, Triniel 168 = **570 for the four PvE
