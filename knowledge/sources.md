@@ -359,3 +359,16 @@ Added 2026-10-13 (pets).
 297. games.gg, Soul Binding guide, 2026-10: https://games.gg/aion-2/guides/aion-2-soul-binding-guide/
 298. exitlag, old gear in Aion 2 (don't throw anything away), 2026-10: https://www.exitlag.com/news/old-gear-in-aion-2/
 299. thegameswiki, Succession Crafting (KR patch-note based, incl. 2026-06-10 Bound-only change), **KR**: https://thegameswiki.com/aion-2/wiki/succession-crafting
+300. metabot.gg, dungeon guide (Transcendence), 2026-10-01, upd. 2026-10-15, G: https://metabot.gg/en/aion-2/guides/dungeon-guide
+301. metabot.gg, Transcendence page, G client 0.0.4387.0: https://metabot.gg/en/aion-2/transcendence
+302. expcarry, Transcendence dungeons guide, 2026-09-30, G playtest data, mechanics KR/TW: https://expcarry.com/aion-2-transcendence-dungeons-guide
+303. thegameswiki, Deus Research Base, **KR/TW** (search only): https://thegameswiki.com/aion-2/wiki/deus-research-base
+304. allthings.how, Deus Research Base stage 2, 2026-10-10, region unstated: https://allthings.how/?p=261155
+305. allthings.how, Shattered Arkanis stage 2, 2026-10-10 / 2026-10-07: https://allthings.how/?p=250643 · https://allthings.how/?p=244698
+306. allthings.how, unobtained cube lockout, 2026-10-13: https://allthings.how/?p=265175
+307. invenglobal, KR Transcendence article, 2026-05-17, **KR**: https://www.invenglobal.com/articles/21947/
+308. metabot.gg, Season 1 Transcendence achievements, G: https://metabot.gg/en/aion-2/achievements/season-1-transcendence
+309. youtubesummary, Deus stage 4 video summary, date/region unknown: https://youtubesummary.com/summary/2E-1IVqGL90
+310. metabot.gg, skill Light of Protection (stacking with Undefeated Mantra), G: https://metabot.gg/en/aion-2/skills/light-of-protection
+311. games.gg, Cleric guide (skip Light of Protection with a Chanter), 2026-10: https://games.gg/aion-2/guides/aion-2-cleric-guide/
+312. exitlag, Chanter build (Undefeated Mantra vs Cleric buff), 2026-10: https://www.exitlag.com/news/aion-2-chanter-build/

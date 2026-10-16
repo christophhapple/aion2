@@ -27,6 +27,7 @@ patch notes, which beat guides. Every fact is tagged with its source and date or
 | `gear.md` | Gear progression, currencies, Cleric notes, Soul Binding, Theostones | 2026-10-14 |
 | `cleric-skills.md` | Cleric active + Stigma skills (from in-game tooltips), stat priorities (guides) | 2026-10-11 |
 | `controls.md` | Hotbar skill queues and the macro | 2026-10-11 |
+| `transcendence.md` | Transcendence dungeons (Deus, Arkanis): rules, boss mechanics, stage modifiers, rewards | 2026-10-16 |
 | `classes.md` | The 8 classes, roles, how to recognise their icons (picture in `images/`) | 2026-10-16 |
 | `titles.md` | Title slots, owned bonus, which titles to equip | 2026-10-11 |
 | `achievements.md` | Achievement sections, duty/command counts, easy ones | 2026-10-15 |

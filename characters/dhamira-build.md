@@ -105,7 +105,7 @@ Costs per level: 1/2/4/8 in bands of 5 (`knowledge/endgame.md` "Stigma levels").
 
 **Defensive / progression (not built yet)**, for when content starts to bite: likely Summon
 Resurrection + Salvation + Light of Protection + a flex (Benevolence for sustain, or Yustiel's Power
-for a defensive cooldown). Open questions then: does the group run a Chanter (weakens Light of
+for a defensive cooldown). Open questions then: does the group run a Chanter (Light of Protection doesn't stack with Undefeated Mantra, `knowledge/cleric-skills.md`; weakens Light of
 Protection)? Are you the only healer?
 
 ## Skill levels (in-game 2026-10-11)
