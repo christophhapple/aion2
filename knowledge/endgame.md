@@ -150,7 +150,7 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
   1/5 Attack; 2/8 HP +1.6% / Defense 160; slot 7 Damage Tolerance / Regen / Status Resist. Heroic 1.5–3%,
   Unique 1–2%. Epic from Insight 4, Unique 7, Heroic 9 [208][206]. All 5 boards at 10 → title "Unbound by
   Genus" (equipped +4.5% PvE damage, +34 Attack, +68 Crit; owned +1% PvE damage) [201][208].
-  9 lines [202][205][201] **vs** 10 [204].
+  **9 lines** (in-game 2026-10-16; [202][205][201]). ~~10~~ [204] is wrong.
 - **Effort:** **200 pets** (Pets menu shows x/200, in-game 2026-10-13; [207]; 207 incl. 7 Special [203]); 158 drop souls [203]. Elyos: 113 farmable in the
   home region, 39 only in the enemy region (rift), 5 in the Abyss, 43 boss/chest pets (Black Cloud
   Merchant ~100k Kina each) [201]. Camps near Lv 45 (Elyos): Garden of the Illusion God (Lv 44–45),
@@ -172,7 +172,7 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
   push boards to Insight 5–10 without locking. Skip heavy rerolling (Kina), rift/Abyss pets, boss-pet purchases.
 
 ### Genus Insight stat lines (researched 2026-10-16, guides, unverified)
-- **9 lines per board**, opened at Insight 1–9; Insight 10 adds no line, only better grade odds
+- **9 lines per board** (in-game 2026-10-16), opened at Insight 1–9; Insight 10 adds no line, only better grade odds
   [287][288][289][291]. Grade odds: Lv 9 C 25 / R 25 / E 39 / U 10 / H 1 %, Lv 10 20 / 30 / 30 / 15 / 5 % [288][289][294].
 - **Lock cost contradiction:** guides say flat 4 crystals + 1,000 Kina, 1 lock 8 / 2,000, 8 locks 396 / 99,000 [288]
   **vs** in-game 2026-10-13: 4 + 1,000 *per open line* (see above). In-game wins; recheck once more lines are open.
