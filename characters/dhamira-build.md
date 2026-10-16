@@ -70,8 +70,8 @@ Slots numbered 1–12 from the left (in-game 2026-10-13, screenshot). The macro 
 | 1 | 1 | Lightning Strike Scattershot | manual: let go of the macro, hold during Stagger |
 | 2 | 2 | Healing Light | manual, reactive heal |
 | 3 | 3 | Radiant Recovery | manual, reactive heal |
-| 4 | 4 | (empty) | |
-| 5 | Q | Power Burst | manual, saved for Stagger interrupt phases |
+| 4 | 4 | Summon Resurrection (since 2026-10-16) | manual: someone died |
+| 5 | Q | (empty since 2026-10-16; Power Burst in the offensive preset) | manual, saved for Stagger interrupt phases |
 | 6 | E | (empty) | |
 | 7 | R | (empty) | |
 | 8 | C | Light of Protection | toggle at the pull |
@@ -177,7 +177,7 @@ Everything pressed on top of the held macro.
 - **A debuff needs removing** → Radiant Recovery (up to 2, sure), Healing Light (1, 50% chance).
 
 **Damage**
-- **Stagger interrupt phase** → Power Burst + a fully charged Bolt (50 + 35 gauge).
+- **Stagger interrupt phase** → a fully charged Bolt (35 gauge); plus Power Burst (Q, 50) in the offensive preset.
 - **Bolt ready, nothing to save it for** → charge it while moving.
 - **Target Staggered** → let go of the macro, hold Scattershot alone until the Stagger ends, then
   back to the macro.
