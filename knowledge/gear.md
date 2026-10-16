@@ -39,6 +39,16 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
   global**, Enhancement window → "Transfer" tab, choose source + destination gear (in-game 2026-10-10).
   Rules and preview not seen yet (no eligible source gear). Korean wiki: carries enhancement, breakthrough
   and Soul Binding to an equal or higher tier piece in the same slot [33, KR].
+- **What Transfer carries (researched 2026-10-16, guides, unverified):**
+  - **Carries:** enhancement level, breakthrough, **Soul Binding base lines at their reached values**
+    [33, KR][242][243][244][296][297].
+  - **Does not carry:** **Manastones**, **Theostones** and "Potential" stats stay on the old piece and are lost with it [296][298]
+    (Theostones: [251] says kept, see "Theostones"). The **Soul Fuse line** (Philosopher's Stone) does not carry; the new
+    piece needs a new Fuse [296][297].
+  - Source piece is described as "sacrificial", so probably consumed; not stated outright [299]. Kina cost
+    and same-slot rule: not found on global. KR (2026-06-10): Bound gear only [299, KR].
+  - **So (inference):** enhancement and Soul Binding are safe on gear you'll replace; Manastones, Theostones
+    and Soul Fuse only on keepers. Check the Transfer preview once you have an eligible pair.
 - Wing → enhancement stone conversion capped at 20/week per server (patch 2026-10-07) [7].
 
 ## Belt and Revelation amulet (shared rules)
