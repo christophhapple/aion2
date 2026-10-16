@@ -186,8 +186,8 @@ Everything pressed on top of the held macro.
 - **MP low** → left click (Earth's Retribution) until ~50%, then back to the macro.
 - **I got CC'd** → Defiance (Space). Trigger is "I can't act", not "I'm low"; only usable then.
 
-**Defensive preset only:** big telegraphed hit → Salvation just before impact; someone died →
-Summon Resurrection; Absolution if more cleansing is needed.
+**Group preset:** someone died → Summon Resurrection (4). **Defensive preset only:** big telegraphed hit → Salvation just before impact;
+Absolution if more cleansing is needed.
 
 ## Play loop
 At the pull: toggle Light of Protection. Then hold right click (macro) and
