@@ -6,7 +6,8 @@ All in-game 2026-10-11 unless dated otherwise.
   the hotbar and the macro) and **Stigma**. Each tab has **3 presets** (1/2/3). **Stigma levels
   are per preset**: the same Stigma can have different levels in different presets (in-game
   2026-10-17). **Each preset spends the full shard pool on its own** (in-game 2026-10-17). Besides these there are gear, pet and Arcana presets, and **meta presets**
-  that combine a set of the others (in-game 2026-10-17, per the user).
+  that combine a set of the others (in-game 2026-10-17, per the user). **Daevanion has no presets**
+  (in-game 2026-10-17).
 
 - **Hotbar:** 12 slots, each can have a key assigned (mouse buttons count as keys). A key is optional.
 - **Skill queue per slot:** a slot holds up to 4 skills. Pressing it fires the first skill in the

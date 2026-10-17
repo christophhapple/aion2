@@ -200,6 +200,7 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
 
 ## Daevanion points: can you fill every board?
 **No, not on global for now** (guides, 2026-10, estimates).
+- **No Daevanion presets**: one allocation for everything (in-game 2026-10-17). Boards can be reset.
 - Cost to complete [126]: Nezekan 134, Zikel 134, Vaizel 134, Triniel 168 = **570 for the four PvE
   boards**; Azphel (PvP) 232 more = **802 for all five**. Node costs 1–4 points by grade [127]. One guide
   mentions a sixth board, Ariel (PvE) [127]; not in the global client data [126].
