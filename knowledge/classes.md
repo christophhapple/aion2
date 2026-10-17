@@ -1,7 +1,7 @@
 # Classes and their icons
 
 The game sometimes shows only a class icon (party lists, nameplates). Icons and one-line roles from a guide
-site, shared by the user 2026-10-16; whether the in-game icons look exactly the same is unverified.
+site, shared by the user 2026-10-16; the in-game icons look the same (in-game 2026-10-17).
 
 ![Class icons](images/class-icons.png)
 
