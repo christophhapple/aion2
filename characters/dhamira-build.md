@@ -16,7 +16,7 @@ Mastery (levels, specialties, hotbar, macro) and Stigma are separate preset tabs
 | For | Open world, duties, daily dungeon, Nightmare, easy low-level dungeons | Group content, harder dungeons, Transcendence |
 | Stigmas | Light of Protection, Earth Punishment, Prayer of Amplification, Voice of Doom | Light of Protection, Earth Punishment, Summon Resurrection, Absolution |
 | Hotbar diff | Q = Voice of Doom; 4, E empty | 4 = Resurrection, E = Absolution; Q empty |
-| Macro diff | macro 10, 12, 5; slot 10 incl. Prayer of Amplification | same macro (slot 5 empty, skipped); slot 10 without Prayer: Chain of Torment → Light of Regeneration → Condemnation |
+| Macro diff | macro 10, 12, 5, 1; slot 10 incl. Prayer of Amplification | same macro (slot 5 empty, skipped); slot 10 without Prayer: Chain of Torment → Light of Regeneration → Condemnation |
 | Skill levels, specialties, passives | identical | identical |
 
 - Each key means one thing across presets (Q is never a heal, E never damage).
@@ -49,7 +49,8 @@ Mastery (levels, specialties, hotbar, macro) and Stigma are separate preset tabs
   - **Exception, convenience over DPS (2026-10-13):** Prayer of Amplification and Divine Aura are in
     the macro and fire whenever ready, instead of being saved for burst windows / grouped packs.
 - The macro is held down. Single presses of other keys go through on top of it; *holding* another key
-  doesn't (in-game 2026-10-12), so for a held key (Scattershot) let go of the macro first.
+  doesn't (in-game 2026-10-12), so for a held key let go of the macro first (no held key left
+  since 2026-10-17: Scattershot moved into the macro).
 - MP is single-source: everything is paid for by weaving Earth's Retribution between spenders.
 - Every heal also heals me (party heals include me; Healing Light heals me + the lowest-HP member).
   No *dedicated* self-heal is needed; beyond that, self-preservation = positioning + reactive buttons.
@@ -65,9 +66,11 @@ window labels each entry with the first skill of that slot's queue: "Chain of To
 - **Slot 10:** Chain of Torment → Prayer of Amplification (DPS preset only) → Light of Regeneration → Condemnation
 - **Slot 12:** Debilitating Mark → Divine Aura → Earth Punishment → Judgment Thunder
 
-**Planned 2026-10-17 (not set up yet):** macro **10, 12, 5**, slot 5 (Q) = Voice of Doom in the DPS
-preset. Slots 10 and 12 are full (max 4 per queue), so it gets its own slot. In the Heal preset
-slot 5 is empty and the entry is skipped (costs its 10 ms delay).
+**Planned 2026-10-17 (not set up yet):** macro **10, 12, 5, 1**, all delays 10 ms.
+- Slot 5 (Q) = Voice of Doom in the DPS preset. Slots 10 and 12 are full (max 4 per queue), so it
+  gets its own slot. In the Heal preset slot 5 is empty and the entry is skipped (costs its 10 ms delay).
+- Slot 1 = Scattershot (Lv 1 base): only castable on a Staggered target, so it fires by itself during
+  Stagger and is skipped otherwise. Free damage, no attention.
 
 So the macro alternates one skill from each slot, each slot stepping through its own queue and
 skipping what isn't ready. Judgment Thunder (no cooldown) keeps slot 12 from ever going idle;
@@ -84,9 +87,10 @@ in one slot) → Condemnation in the debuff queue, Thunder on a key → 12, 6, 7
 Condemnation chains (2026-10-12/13; cast lock and skip delays made it fiddly, no noticeable gain) →
 current 10, 12 (2026-10-13).
 
-**Scattershot (since 2026-10-13): out of the macro.** When the target is Staggered, let go of the
-macro and hold Scattershot's key alone for the whole Stagger. Chosen because it feels good; whether
-it beats the macro on DPS is untested (the training dummy can't be Staggered). Stagger gauge damage
+**Scattershot (2026-10-17): dropped to base Lv 1, back in the macro (slot 1).** Guides skip it or
+advise against points, and holding it alone during Stagger (2026-10-13 → 10-17) didn't feel like
+noticeably more DPS. Its skill points go to Defiance and passives (see "Skill levels"). No more
+"let go of the macro during Stagger". Stagger gauge damage
 in the kit: **Bolt 20–35** (by charge), Earth Punishment 20 (in the macro), Debilitating Mark and
 Chain of Torment 10, Condemnation 7, Judgment Thunder 2; Voice of Doom: none listed in its tooltip.
 (Power Burst 50, no longer slotted.) So for an interrupt phase, hold a fully charged Bolt
@@ -97,7 +101,7 @@ Slots numbered 1–12 from the left (in-game 2026-10-13, screenshot). The macro 
 
 | Slot | Key | Queue | Use |
 |---|---|---|---|
-| 1 | 1 | Lightning Strike Scattershot | manual: let go of the macro, hold during Stagger |
+| 1 | 1 | Lightning Strike Scattershot (base Lv 1) | macro only (planned 2026-10-17) |
 | 2 | 2 | Healing Light | manual, reactive heal |
 | 3 | 3 | Radiant Recovery | manual, reactive heal |
 | 4 | 4 | Heal: Summon Resurrection · DPS: empty | manual: someone died |
@@ -156,13 +160,18 @@ maxed, the rest get levelled evenly.
 
 Lv 14: Earth's Retribution, Judgment Thunder, Debilitating Mark, Chain of Torment, Condemnation, Divine
 Aura, Bolt, Light of Regeneration, Radiant Recovery, Healing Light (13 → 14 by 2026-10-13) · Lv 12: Lightning Strike
-Scattershot (11 → 12 on 2026-10-13) · Lv 8: Defiance (skill points only, lowered 10 → 8 on 2026-10-16 to free 2 points for Immortal Veil). Stigmas: see above.
+Scattershot (11 → 12 on 2026-10-13; **planned 2026-10-17: base 10 → 1**, see below) · Lv 8: Defiance (skill points only, lowered 10 → 8 on 2026-10-16 to free 2 points for Immortal Veil). Stigmas: see above.
 Passives (in-game 2026-10-13, tile level incl. bonus): Empyrean Lord's Grace 13 (10+3) · Radiant Benediction 12 (10+2) · Earth's Grace 12 (10+2) · Healing Enhancement 11 (10+1) · Immortal Veil 12 (10+2, base 8 → 10 on 2026-10-16) · Warm Benediction 9 (7+2) · Survival Willpower 9 · Prayer of Concentration 8 · Empyrean Lord's Benediction 0 · Heal Block 0 (both reset, low value). Effects + icons: `knowledge/cleric-skills.md` "Passive".
 
 **Passive plan (2026-10-13):** Empyrean Lord's Grace, Earth's Grace, Healing Enhancement are at base 10
 (the skill-point cap; header bonuses +3/+2/+1), so done. Spare points: **Immortal Veil** (+14% Defense),
 then **Warm Benediction** (+13% Max HP); alternative: save for **Radiant Benediction** (free party heal
 on hit, low effort; needs more points than spare now). **Done 2026-10-13:** Heal Block reset (free), Radiant Benediction → 10, Immortal Veil 5 → 7; then Empyrean Lord's Benediction reset → Immortal Veil 8, Warm Benediction 7. **2026-10-16:** Defiance 10 → 8 (Lv 9–10 only scale the Blessing heal), Immortal Veil 8 → 10. Next spare points: Warm Benediction. If damage taken feels worse, put Empyrean Lord's Benediction back (free).
+
+**Planned 2026-10-17: Scattershot base 10 → 1** (lowest possible; its Daevanion levels still apply).
+Freed skill points, in order: **Defiance 8 → 10** (base for Daevanion 12) → **Warm Benediction**
+→ **Survival Willpower**. Not Prayer of Concentration (weakest passive left). How many points this
+frees is unknown (cost per level not recorded): note the number when doing it.
 
 Everything above is Mastery preset 1; Mastery preset 2 (Heal) is a copy with only the hotbar/macro
 differences listed in "Presets".
@@ -185,7 +194,7 @@ Options per skill: `knowledge/cleric-skills.md`. Lv 20 slots locked everywhere (
 | Debilitating Mark | 2 -15% target Defense · 4 +10% enemy Damage Boost reduction | Debuff skill: maximize debuffs. Not 1 (no MP cost + MP restore): MP isn't short. Not 3 (Stun chance) |
 | Divine Aura | 2 AoE · 3 +50% attack speed | Attack speed over +3s duration: the aura is stationary and packs sometimes walk out of it, so front-load the damage. Candidate for the 3rd slot (Lv 20): option 5, -10s CD |
 | Chain of Torment | 2 +3s DoT · 4 +10% enemy Damage Tolerance reduction | Debuff skill: maximize debuffs; CC (slow, Knockdown) least important. +3s DoT also widens Condemnation's window |
-| Lightning Strike Scattershot | 3 mobile · 4 Multi-Hit (slot 2 since Lv 12, 2026-10-13) | Mobility is paramount. Lv 16: option 5 (-1s all cooldowns per hit), strong since it has no cooldown and gets spammed during Stagger |
+| Lightning Strike Scattershot | none from 2026-10-17 (below Lv 8 once lowered to base 1); were 3 mobile · 4 Multi-Hit | Dropped to base Lv 1, macro-only filler during Stagger |
 | Light of Regeneration | 1 +5% Defense · 4 +5% Move Speed | Always up (cooldown = duration = 30s), so party-wide buffs with 100% uptime beat extra healing. Move Speed also serves mobility. Candidate for the 3rd slot (Lv 20): option 5, +5% PvE Damage Tolerance, same logic |
 | Condemnation | 2 up to +12% damage on fewer targets · 4 cooldown reset on Crit | Cooldown reset is the key pick (more casts inside Chain's window; Crit rate feeds it). No Root (CC), no MP (not needed). Candidate for the 3rd slot (Lv 20): option 5, Multi-Hit |
 | Healing Light | 2 +20% healing at ≤50% HP · 3 50% cleanse chance | Cleanse over more raw healing (+2% HP). Not 1 (+2 consecutive uses): unclear how it works, and the 6s CD is short anyway. Specific fights may call for other picks later. Candidate for the 3rd slot (Lv 20): option 5, -2s CD |
@@ -200,14 +209,16 @@ evenly). Further levels come from **Daevanion** (11–14) and **Arcana** (15–2
 `knowledge/cleric-skills.md` "Skill levels".
 
 **Daevanion (to 14), next nodes:**
-1. ~~Lightning Strike Scattershot 11 → 12~~ done 2026-10-13, Multi-Hit equipped.
-2. **Defiance → 12:** opens slot 2 + option 4 (+2s Tenacity). Base is 8 now (2026-10-16), so first move 2 points back from Immortal Veil (respec is free), then Daevanion +2.
+1. ~~Lightning Strike Scattershot 11 → 12~~ done 2026-10-13, Multi-Hit equipped. **Planned
+   2026-10-17:** reset Scattershot's Daevanion levels (boards can be reset) and spend them on Defiance,
+   if the board allows.
+2. **Defiance → 12:** opens slot 2 + option 4 (+2s Tenacity). Base back to 10 with Scattershot's freed skill points, then Daevanion +2.
 3. ~~Healing Light 13 → 14~~ done (by 2026-10-13).
 
 **Arcana (15–20), not started.** Lv 16 unlocks option 5, Lv 20 the 3rd slot. Candidates noted per skill
-in "Specialties"; strongest-looking: Scattershot (-1s all cooldowns per hit), Condemnation
+in "Specialties"; strongest-looking: Condemnation
 (Multi-Hit, guides say 16–20), Radiant Recovery (guides say 20), Healing Light (-2s CD). Order not
-decided yet.
+decided yet. (Scattershot's −1s all cooldowns per hit dropped with Scattershot, 2026-10-17.)
 
 ## Manual layer: trigger map
 Everything pressed on top of the held macro.
@@ -221,8 +232,7 @@ Everything pressed on top of the held macro.
 **Damage**
 - **Stagger interrupt phase** → a fully charged Bolt (35 gauge).
 - **Bolt ready, nothing to save it for** → charge it while moving.
-- **Target Staggered** → let go of the macro, hold Scattershot alone until the Stagger ends, then
-  back to the macro.
+- **Target Staggered** → nothing to do: Scattershot fires from the macro (since 2026-10-17).
 
 **Utility**
 - **MP low** → left click (Earth's Retribution) until ~50%, then back to the macro.
