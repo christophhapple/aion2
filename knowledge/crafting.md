@@ -16,7 +16,8 @@ Researched 2026-10-10. Few solid global sources; best is [70] (2026-10-06). Unve
 ## Professions
 - **Five crafts:** Blacksmithing, Armorsmithing, Handicrafting, Alchemy, Cooking [70][72].
 - **One gathering skill, "Essence Extraction":** ore, gems, logs, herbs, cooking ingredients, Odyle [70][71].
-- No cap: one character can level all five crafts [70]. Unlock at character level 10 [72].
+- No cap: one character can level all five crafts [70]. **No need to commit to one: crafts aren't
+  learned or unlearned, so there's nothing to reset** (in-game 2026-10-17). Unlock at character level 10 [72].
   Per character or per account: not stated (probably per character) [70].
 - What they make: Alchemy → Manastones, Soulstones, potions; Cooking → buff food [70][72];
   Blacksmithing/Armorsmithing/Handicrafting → weapons, armor, accessories.
@@ -57,7 +58,8 @@ Guides 2026-10, unverified unless tagged. Levels 6–10 (common) and specialty a
   the safe specialty picks before a craft is chosen.
 - Nodes: ~3 harvest attempts as a mini-game; failed rolls block a slot. Shared between players, respawn
   timer unknown [73][77].
-- **No gathering/crafting energy or daily cap found** [70][71]. (Odyle *Energy* is the dungeon-cube
+- **No gathering/crafting energy or daily cap found** [70][71]; for crafting confirmed: **no energy or
+  daily limit, only Kina and materials limit it** (in-game 2026-10-17). (Odyle *Energy* is the dungeon-cube
   currency; Odyle *the material* is something you gather.)
 
 ## Recipes and economy
