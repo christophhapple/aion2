@@ -25,13 +25,13 @@ tracker itself goes in `backlog.md`.
 - [ ] Verify: Transfer tab: what does the preview show, and what makes a piece an eligible source? (once you have eligible gear)
 - [ ] Check (crafting NPC): any crafting energy or daily limit? Can a craft be reset/unlearned?
 - [ ] Legion (if you join one): does the Legion menu show missions or Legion Coin? What does the Legion Merchant sell?
-- [ ] Skill points: does the Verteron Monolith offer Wisdom Stones? (Nightmare and Shugo shops: none, 2026-10-13) See `knowledge/progression.md` "Skill points"
 - [ ] Hover the name cut off in Earth Punishment's Lv 20 Stigma line ("+10s [Earth Punishment] and [Earth…]"). What is it?
 - [ ] *(at GS 1600)* Dhamira: revisit Manastones. All gear has cheap ones with only a few rerolls (2026-10-13); upgrade on pieces you keep
 - [ ] Pets / Genus Insight: save Soul Crystals, level boards with pets first; start pressing Analyze (nothing locked) once a board reaches Genus level 5. See `knowledge/endgame.md` "Pets"
 - [ ] *(low priority, later)* Dhamira: try Condemnation option 1 (+100 MP per hit) instead of option 2 (+12% on fewer targets) for a few fights; compare how often you need to refill MP with the current macro (10, 12)
 
 ## Done
+- [x] Verteron Monolith offers no Wisdom Stones (2026-10-17)
 - [x] Clash Rune: only one kind, same stat lines on every rune (2026-10-17)
 - [x] Dhamira DPS + Heal presets set up in-game: Stigma 1/2, Mastery 1/2 (2026-10-17)
 - [x] Invasion key count (x/7) only shows on the Invasion screen inside an Invasion, not from outside (2026-10-15)

@@ -80,12 +80,12 @@ Researched 2026-10-13; guides unless tagged. 1 Wisdom Stone (Bound) = 1 skill po
 - **Totals seen (in-game 2026-10-15):** a Lv 45 Elyos with all home-region regional quests, Sealed Dungeons,
   Strongholds, feathers and the 7 Rift quests done has **383**, close to the guide pool of 384 [186]; another
   Lv 45 Elyos showed 362 only because a skill reset hadn't refunded all points; after resetting properly it matched. So the pool is roughly right after all. **If a total looks low, do a full skill reset first.**
-- **Monolith / feathers:** trade for Wisdom Stones [192][193] **vs** global gives only Daevanion
-  Crystals there [186, newer, global-specific]. Check in-game.
+- **Monolith / feathers: no Wisdom Stones** (Verteron Monolith, in-game 2026-10-17), matching [186].
+  ~~Trade for Wisdom Stones~~ [192][193], likely KR.
 - **Shugo Festival shop: no Wisdom Stones** in its Consumables tab (in-game 2026-10-13; other tabs: Wings,
   Pets, Artwork, Skins). ~~4 price tiers, 350–2,800 tokens, up to 20~~ [191, datamine, not live].
 - **So no repeatable skill point source is known** on global (2026-10-13): what you have is what you get,
-  apart from the Monolith (unchecked) and future patches.
+  apart from future patches (Monolith checked too, 2026-10-17).
 - **Nightmare shop: no Wisdom Stones** in its Growth tab (in-game 2026-10-13; other tabs: Consumables, Wings, Skins, Statue). ~~Sells Wisdom Stones~~ [194][193]. Daevanion Crystals and Stigma Shards only [189].
 - **Not found:** Abyss shop, Daeva Pass free track [195], launch/Twitch events, achievements, titles,
   Legion. Higher passive levels come from Daevanion boards (+n on top of the skill-point cap of 10).
