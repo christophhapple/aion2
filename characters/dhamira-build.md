@@ -221,6 +221,13 @@ evenly). Further levels come from **Daevanion** (11–14) and **Arcana** (15–2
 2. **Defiance → 12:** opens slot 2 + option 4 (+2s Tenacity). Base back to 10 (2026-10-17), now Daevanion +2.
 3. ~~Healing Light 13 → 14~~ done (by 2026-10-13).
 
+**Boards reworked 2026-10-17.** Nezekan, Zikel, Vaizel and Triniel were checked for shorter paths and
+5 points saved (1/1/2/1). Spare points then went to **Prayer of Concentration** nodes: Zikel 2 green
+(4 points), Vaizel 1 common + 1 green (3), Triniel 1 common on the way to a green.
+- **Next:** 2 points for that last green Prayer of Concentration node on Triniel.
+- **Then:** common nodes with useful stats. Skip Multi-hit Resist (low PvE value, `knowledge/endgame.md`).
+- Corners: Nezekan all 4; Zikel, Vaizel, Triniel: what's taken matches what's wanted (2026-10-17).
+
 **Arcana (15–20), not started.** Lv 16 unlocks option 5, Lv 20 the 3rd slot. Candidates noted per skill
 in "Specialties"; strongest-looking: Condemnation
 (Multi-Hit, guides say 16–20), Radiant Recovery (guides say 20), Healing Light (-2s CD). Order not
