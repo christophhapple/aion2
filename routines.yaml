@@ -49,6 +49,16 @@ routines:
     cap: 3
     notes: Every hour at :00. +3 keys/day, banks to 12 (per account + server), so no rush until near 12.
 
+  - id: supply-daily
+    name: Abyss Supply Requests, Emergency tab
+    reset: daily
+    notes: Esc → Abyss Supply Request. Doing all of them isn't realistic; cap 1 = "did some", log the real count. Hand in Silentium (keep it, don't sell) or matching gear. AP + Enhance Stones. Details knowledge/abyss.md (guides, unverified).
+
+  - id: supply-weekly
+    name: Abyss Supply Requests, Weekly tab
+    reset: weekly
+    notes: Same window, Weekly tab. Cap 1 = "did some", partial is fine. Check the Boss tab before salvaging field boss gear. Reset assumed to be the normal weekly one (unverified).
+
   - id: halloween
     name: Halloween weekly quests (event, until 2026-11-04)
     reset: weekly
