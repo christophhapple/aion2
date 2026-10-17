@@ -25,7 +25,6 @@ tracker itself goes in `backlog.md`.
 - [ ] Legion (if you join one): does the Legion menu show missions or Legion Coin? What does the Legion Merchant sell?
 - [ ] Hover the name cut off in Earth Punishment's Lv 20 Stigma line ("+10s [Earth Punishment] and [Earth…]"). What is it?
 - [ ] *(at GS 1600)* Dhamira: revisit Manastones. All gear has cheap ones with only a few rerolls (2026-10-13); upgrade on pieces you keep
-- [ ] Pets / Genus Insight: save Soul Crystals, level boards with pets first; start pressing Analyze (nothing locked) once a board reaches Genus level 5. See `knowledge/endgame.md` "Pets"
 
 ## Done
 - [x] No unopened Rare Theostone Chest in the bag; Genus Analyze: 4 Soul Crystals per unlocked line, +4 extra per locked line (2026-10-17)
