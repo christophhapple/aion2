@@ -134,7 +134,7 @@ values a little: Light of Protection Lv 10 → 12 was +1% (15% → 16%) for 8 sh
 Shards reset free per Stigma, levels are per preset, and each preset gets the whole pool (50 shards,
 0 unspent, 2026-10-17).
 
-**DPS split:** Light of Protection **10** · Earth Punishment **10** (+10% Double Chance, party +5%) ·
+**DPS split (set in-game 2026-10-17):** Light of Protection **10** · Earth Punishment **10** (+10% Double Chance, party +5%) ·
 Prayer of Amplification **10** (×1.5 Empyrean Lord's Grace while active) · Voice of Doom **5** =
 15 + 15 + 15 + 5 = 50. Next: **Earth Punishment 10 → 15** (20: +10% Attack and Defense, party +5%);
 then decide between Earth Punishment 20 (40, doubles the always-crit Condemnation window) and Prayer or
