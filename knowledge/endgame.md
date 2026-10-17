@@ -217,6 +217,8 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
   reward · **Abyss shop: up to 200**, 4 steps of 50 at 10k / 15k / 20k / 25k Abyss Points each (in-game 2026-10-13) (cheapest
   source) · **Nightmare shop: 35** at 1,500 Phantasmal Fragments each (in-game 2026-10-13: "Per Character x/35" counts purchases, **lifetime, no reset**) · **Shugo Festival shop: 35** at
   300 Centuryroot Tokens each (in-game 2026-10-13; the game's name for the Shugo shop currency, in-game 2026-10-11; "Shugo Coins" in guides is likely the same currency). Max ≈ **300**, i.e. just enough for 4 × 20.
+- **Breakpoints:** new effects unlock only at Lv 5/10/15/20; levels in between only raise the base
+  values a little (in-game 2026-10-17). So shards are best spent to reach the next breakpoint.
 - **Reset is free and per Stigma**: shards come back and can go into another Stigma (in-game 2026-10-17).
   Levels are **per preset**: one Stigma can have different levels in different presets (in-game
   2026-10-17). **Each preset spends the full shard pool on its own** (in-game 2026-10-17), so a
