@@ -15,20 +15,24 @@ levels are per preset (in-game 2026-10-17). Switch via Batch Preset Equip (`know
 | | **1 · DPS** | **2 · Heal** |
 |---|---|---|
 | For | Open world, duties, daily dungeon, Nightmare, easy low-level dungeons | Group content, harder dungeons, Transcendence |
-| Stigmas | Light of Protection, Earth Punishment, Prayer of Amplification, Voice of Doom | Light of Protection, Earth Punishment, Summon Resurrection, Absolution |
-| Hotbar diff | Q = Voice of Doom; 4, E empty | 4 = Resurrection, E = Absolution; Q empty |
-| Macro diff | macro 10, 12, 5, 1; slot 10 incl. Prayer of Amplification | same macro (slot 5 empty, skipped); slot 10 without Prayer: Chain of Torment → Light of Regeneration → Condemnation |
+| Stigmas | Light of Protection, Earth Punishment, Prayer of Amplification, Noble Aura | Light of Protection, Earth Punishment, Summon Resurrection, Absolution |
+| Hotbar diff | R = Noble Aura; 4, E empty | 4 = Resurrection, E = Absolution; R empty |
+| Macro diff | macro 10, 12, 5 (slot 5 empty, skipped); slot 10 incl. Prayer of Amplification | same macro; slot 10 without Prayer: Chain of Torment → Light of Regeneration → Condemnation |
 | Skill levels, specialties, passives | identical | identical |
 
 - Each key means one thing across presets (Q is never a heal, E never damage).
 - **DPS: Voice of Doom replaced Power Burst (2026-10-17):** AoE hit + DoT on up to 4 targets vs. one
   ~4.1k single hit, and it runs in the macro instead of being saved. Lost: Power Burst's 50 Stagger
   (interrupt phases now rely on Bolt + Earth Punishment). Power Burst's shards → Voice of Doom Lv 5.
-- **To test (DPS): Noble Aura instead of Light of Protection.** ~700/s flat (Lv 1) for 5 min vs. +16%
-  damage and +16% damage tolerance (and party buffs). Break-even around 4.4k sustained DPS. Test
-  1 min each on the training dummy (or clear time on the same pack). Keep Light of Protection for
-  Nightmare either way (solo, the damage tolerance matters).
-- Heal drops Prayer (self-only) and Voice of Doom; Earth Punishment stays (damage engine, party Double
+- **DPS: Noble Aura replaced Voice of Doom (same day, 2026-10-17):** Voice of Doom roots me ~0.5s per
+  cast, which breaks movement while holding the macro. Noble Aura is mobile (aura follows me 5 min,
+  hits my target every 2s). Not in the macro: it's on **R (slot 7), next to Light of Protection (C)**,
+  both buffs to switch on at the pull.
+- **Rule (2026-10-17): the macro holds only mobile skills.** Anything that stops movement stutters the
+  held macro, so it goes out (Voice of Doom, Scattershot).
+- ~~To test (DPS): Noble Aura instead of Light of Protection~~: Noble Aura now runs *alongside* Light
+  of Protection (replacing Voice of Doom), so the comparison is moot.
+- Heal drops Prayer (self-only) and Noble Aura; Earth Punishment stays (damage engine, party Double
   Chance at Lv 10, costs no attention in the macro).
 - Flex Stigma: **Absolution** (party heal + cleanse 2; reactive, fits the trigger map). Alternative
   **Yustiel's Power** (party −20% PvE damage taken, 10s) once fights have known big hits; needs timing.
@@ -46,12 +50,14 @@ levels are per preset (in-game 2026-10-17). Switch via Batch Preset Equip (`know
   - **Reactive healing never goes in the macro** (Healing Light, Radiant Recovery): it stays on its
     own keys, so the macro never burns it.
   - **Timed or placed damage stays manual:** Bolt (charge). (Power Burst was saved for interrupt
-    phases until 2026-10-17; Voice of Doom, its replacement, runs in the macro.)
+    phases until 2026-10-17.)
+  - **Long buffs are pressed at the pull:** Light of Protection (C, toggle) and Noble Aura (R, 5 min),
+    side by side.
   - **Exception, convenience over DPS (2026-10-13):** Prayer of Amplification and Divine Aura are in
     the macro and fire whenever ready, instead of being saved for burst windows / grouped packs.
 - The macro is held down. Single presses of other keys go through on top of it; *holding* another key
   doesn't (in-game 2026-10-12), so for a held key let go of the macro first (no held key left
-  since 2026-10-17: Scattershot moved into the macro).
+  since 2026-10-17).
 - MP is single-source: everything is paid for by weaving Earth's Retribution between spenders.
 - Every heal also heals me (party heals include me; Healing Light heals me + the lowest-HP member).
   No *dedicated* self-heal is needed; beyond that, self-preservation = positioning + reactive buttons.
@@ -61,14 +67,15 @@ The "whenever ready" button. Mechanics (`knowledge/controls.md`): the macro and 
 **sequences that cycle**; each macro entry gives its slot one try (one skill from its queue), anything
 not castable is skipped, and the delay applies even to skipped entries.
 
-**Current setup (Mastery 1 and 2 set in-game 2026-10-17):** macro **10, 12, 5, 1**,
+**Current setup (Mastery 1 and 2 set in-game 2026-10-17):** macro **10, 12, 5**,
 all delays 10 ms. (The macro window labels each entry with the first skill of that slot's queue.)
 - **Slot 10:** Chain of Torment → Prayer of Amplification (DPS preset only) → Light of Regeneration → Condemnation
 - **Slot 12:** Debilitating Mark → Divine Aura → Earth Punishment → Judgment Thunder
-- Slot 5 (Q) = Voice of Doom in the DPS preset. Slots 10 and 12 are full (max 4 per queue), so it
-  gets its own slot. In the Heal preset slot 5 is empty and the entry is skipped (costs its 10 ms delay).
-- Slot 1 = Scattershot (Lv 1 base): only castable on a Staggered target, so it fires by itself during
-  Stagger and is skipped otherwise. Free damage, no attention.
+- Slot 5 (Q) is **empty in both presets** since 2026-10-17 (it held Voice of Doom; its replacement Noble
+  Aura sits on R, pressed manually). The entry is skipped and only costs its 10 ms delay; it can be
+  removed from the macro.
+- Scattershot (slot 1) is **out of the macro** in both presets since 2026-10-17: at base Lv 1 it lost
+  its mobile specialty, so each cast stuttered movement.
 
 So the macro alternates one skill from each slot, each slot stepping through its own queue and
 skipping what isn't ready. Judgment Thunder (no cooldown) keeps slot 12 from ever going idle;
@@ -83,14 +90,14 @@ History: original macro 7, 10, 12, 11 (2026-10-11) → Variant A (Scattershot �
 in one slot) → Condemnation in the debuff queue, Thunder on a key → 12, 6, 7, 10 with hold-E/R bursts
 (2026-10-11; holding a key on top of the held macro turned out not to work) → slots repeated for
 Condemnation chains (2026-10-12/13; cast lock and skip delays made it fiddly, no noticeable gain) →
-10, 12 (2026-10-13) → current 10, 12, 5, 1 (2026-10-17).
+10, 12 (2026-10-13) → 10, 12, 5, 1 (2026-10-17) → current 10, 12, 5 (2026-10-17: Scattershot out, slot 5 empty since Noble Aura moved to R).
 
-**Scattershot (2026-10-17): dropped to base Lv 1, back in the macro (slot 1).** Guides skip it or
-advise against points, and holding it alone during Stagger (2026-10-13 → 10-17) didn't feel like
-noticeably more DPS. Its skill points go to Defiance and passives (see "Skill levels"). No more
-"let go of the macro during Stagger". Stagger gauge damage
+**Scattershot (2026-10-17): dropped to base Lv 1, unused.** Guides skip it or advise against points,
+and holding it alone during Stagger (2026-10-13 → 10-17) didn't feel like noticeably more DPS. Its
+skill points go to Defiance and passives (see "Skill levels"). Briefly in the macro the same day, but
+without the mobile specialty it stuttered movement, so it's out. Stagger gauge damage
 in the kit: **Bolt 20–35** (by charge), Earth Punishment 20 (in the macro), Debilitating Mark and
-Chain of Torment 10, Condemnation 7, Judgment Thunder 2; Voice of Doom: none listed in its tooltip.
+Chain of Torment 10, Condemnation 7, Judgment Thunder 2; Noble Aura: none listed in its tooltip.
 (Power Burst 50, no longer slotted.) So for an interrupt phase, hold a fully charged Bolt
 (fight-dependent; Bolt has a 45s CD).
 
@@ -99,13 +106,13 @@ Slots numbered 1–12 from the left (in-game 2026-10-13, screenshot). The macro 
 
 | Slot | Key | Queue | Use |
 |---|---|---|---|
-| 1 | 1 | Lightning Strike Scattershot (base Lv 1) | macro only |
+| 1 | 1 | Lightning Strike Scattershot (base Lv 1) | unused (out of the macro, 2026-10-17) |
 | 2 | 2 | Healing Light | manual, reactive heal |
 | 3 | 3 | Radiant Recovery | manual, reactive heal |
 | 4 | 4 | Heal: Summon Resurrection · DPS: empty | manual: someone died |
-| 5 | Q | DPS: Voice of Doom · Heal: empty | macro |
+| 5 | Q | (empty; Voice of Doom until 2026-10-17) | |
 | 6 | E | Heal: Absolution · DPS: empty | manual: party low after a big hit, or debuffs left |
-| 7 | R | (empty) | |
+| 7 | R | DPS: Noble Aura · Heal: empty | at the pull (5 min), next to Light of Protection |
 | 8 | C | Light of Protection | toggle at the pull |
 | 9 | mouse thumb 2 | Bolt | manual (charge while moving) |
 | 10 | – | Chain of Torment → Prayer of Amplification (DPS only) → Light of Regeneration → Condemnation | macro only |
@@ -122,8 +129,9 @@ Levels: DPS / Heal (per preset, see the splits below).
 - Light of Protection (Lv 10 / 10): always-on party damage + defense
 - Earth Punishment (Lv 10 / 5): **the damage engine**: Condemnation always crits on its target, and every crit resets Condemnation. 30s CD, 10s DoT; Lv 20 adds +10s
 - Prayer of Amplification (Lv 10, DPS): self only (not party): +20% Attack, +20% PvE Damage Boost for 13s, 1 min CD
-- **Voice of Doom (Lv 5, DPS, 2026-10-17, replaces Power Burst):** AoE Earth damage to up to 4
-  enemies + DoT, enemy healing −60% for 20s; 200 MP, 1 min CD. Lv 5: up to +20% damage with more targets
+- **Noble Aura (DPS, 2026-10-17, replaces Voice of Doom; level not confirmed, presumably 5 from
+  Voice of Doom's shards):** aura follows me 5 min and hits my target every 2s; mobile; 1 min CD.
+  Lv 5: +200 Aura Crit. (Voice of Doom, slotted earlier the same day, rooted me ~0.5s per cast.)
 - **Summon Resurrection (Lv 10, Heal, 2026-10-16):** revive within 40m, 2 min CD; Lv 5 = −1s cast (2s → 1s). Lv 10 adds 3s invincibility after the res
 - **Absolution (Lv 10, Heal, 2026-10-17):** party heal + removes debuffs; Lv 5 = −30s CD (1:30 → 1:00), Lv 10 = removes all debuffs (base: up to 2)
 
@@ -133,10 +141,10 @@ Shards reset free per Stigma, levels are per preset, and each preset gets the wh
 0 unspent, 2026-10-17).
 
 **DPS split (set in-game 2026-10-17):** Light of Protection **10** · Earth Punishment **10** (+10% Double Chance, party +5%) ·
-Prayer of Amplification **10** (×1.5 Empyrean Lord's Grace while active) · Voice of Doom **5** =
-15 + 15 + 15 + 5 = 50. Next: **Earth Punishment 10 → 15** (20: +10% Attack and Defense, party +5%);
+Prayer of Amplification **10** (×1.5 Empyrean Lord's Grace while active) · Noble Aura **5?** (was
+Voice of Doom 5) = 15 + 15 + 15 + 5 = 50. Next: **Earth Punishment 10 → 15** (20: +10% Attack and Defense, party +5%);
 then decide between Earth Punishment 20 (40, doubles the always-crit Condemnation window) and Prayer or
-Light of Protection 15. Voice of Doom 10 only removes Protective Shields, low priority.
+Light of Protection 15. Noble Aura 10 (+20 dmg to targets afflicted with…, truncated) not assessed yet.
 
 **Heal split (set in-game 2026-10-17):** Light of Protection **10** · Absolution **10** (−30s CD, removes all debuffs) ·
 Summon Resurrection **10** (3s invincibility after the res) · Earth Punishment **5** (Condemnation
@@ -193,7 +201,7 @@ Options per skill: `knowledge/cleric-skills.md`. Lv 20 slots locked everywhere (
 | Debilitating Mark | 2 -15% target Defense · 4 +10% enemy Damage Boost reduction | Debuff skill: maximize debuffs. Not 1 (no MP cost + MP restore): MP isn't short. Not 3 (Stun chance) |
 | Divine Aura | 2 AoE · 3 +50% attack speed | Attack speed over +3s duration: the aura is stationary and packs sometimes walk out of it, so front-load the damage. Candidate for the 3rd slot (Lv 20): option 5, -10s CD |
 | Chain of Torment | 2 +3s DoT · 4 +10% enemy Damage Tolerance reduction | Debuff skill: maximize debuffs; CC (slow, Knockdown) least important. +3s DoT also widens Condemnation's window |
-| Lightning Strike Scattershot | none from 2026-10-17 (below Lv 8 once lowered to base 1); were 3 mobile · 4 Multi-Hit | Dropped to base Lv 1, macro-only filler during Stagger |
+| Lightning Strike Scattershot | none from 2026-10-17 (below Lv 8 once lowered to base 1); were 3 mobile · 4 Multi-Hit | Dropped to base Lv 1, unused (not mobile without option 3) |
 | Light of Regeneration | 1 +5% Defense · 4 +5% Move Speed | Always up (cooldown = duration = 30s), so party-wide buffs with 100% uptime beat extra healing. Move Speed also serves mobility. Candidate for the 3rd slot (Lv 20): option 5, +5% PvE Damage Tolerance, same logic |
 | Condemnation | 2 up to +12% damage on fewer targets · 4 cooldown reset on Crit | Cooldown reset is the key pick (more casts inside Chain's window; Crit rate feeds it). No Root (CC), no MP (not needed). Candidate for the 3rd slot (Lv 20): option 5, Multi-Hit |
 | Healing Light | 2 +20% healing at ≤50% HP · 3 50% cleanse chance | Cleanse over more raw healing (+2% HP). Not 1 (+2 consecutive uses): unclear how it works, and the 6s CD is short anyway. Specific fights may call for other picks later. Candidate for the 3rd slot (Lv 20): option 5, -2s CD |
@@ -231,7 +239,7 @@ Everything pressed on top of the held macro.
 **Damage**
 - **Stagger interrupt phase** → a fully charged Bolt (35 gauge).
 - **Bolt ready, nothing to save it for** → charge it while moving.
-- **Target Staggered** → nothing to do: Scattershot fires from the macro (since 2026-10-17).
+- **Target Staggered** → nothing extra (Scattershot unused since 2026-10-17).
 
 **Utility**
 - **MP low** → left click (Earth's Retribution) until ~50%, then back to the macro.
@@ -241,5 +249,5 @@ Everything pressed on top of the held macro.
 Radiant Recovery didn't clear → Absolution (E).
 
 ## Play loop
-At the pull: toggle Light of Protection. Then hold right click (macro) and
+At the pull: toggle Light of Protection (C), DPS preset also Noble Aura (R; lasts 5 min). Then hold right click (macro) and
 press on top of it per the trigger map above. Left click to switch target / pull the next pack.

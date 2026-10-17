@@ -4,7 +4,6 @@ One-off things to do or check in the game. Daily/weekly routines live in `routin
 tracker itself goes in `backlog.md`.
 
 ## Open
-- [ ] Dhamira, test: Noble Aura vs Light of Protection in the DPS preset, 1 min each on the training dummy (or clear time on the same pack). See `characters/dhamira-build.md` "Presets"
 - [ ] Dhamira, Daevanion (later): reset Scattershot's 2 levels, spend on Defiance (→ 12) if the board allows; then Defiance option 4 (+2s Tenacity) in slot 2. See `characters/dhamira-build.md` "Leveling priority"
 - [ ] Check (new 2026-10-16): bag: any unopened Rare Theostone Chest (Lv 45 regional quests)? · Genus Analyze cost now, per open/locked line
 - [ ] Easy achievement: next Fire Temple **Conquest** run, lie down (emote) in the boss room → title "Kromede Will Remember That" (guide, unverified; whether before or after the kill isn't stated). See `knowledge/achievements.md`
