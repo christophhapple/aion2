@@ -14,13 +14,20 @@ Mastery (levels, specialties, hotbar, macro) and Stigma are separate preset tabs
 | | **1 · DPS** | **2 · Heal** |
 |---|---|---|
 | For | Open world, duties, daily dungeon, Nightmare, easy low-level dungeons | Group content, harder dungeons, Transcendence |
-| Stigmas | Light of Protection, Earth Punishment, Prayer of Amplification, Power Burst | Light of Protection, Earth Punishment, Summon Resurrection, Absolution |
-| Hotbar diff | Q = Power Burst; 4, E empty | 4 = Resurrection, E = Absolution; Q empty |
-| Macro diff | slot 10 incl. Prayer of Amplification | slot 10 without it: Chain of Torment → Light of Regeneration → Condemnation |
+| Stigmas | Light of Protection, Earth Punishment, Prayer of Amplification, Voice of Doom | Light of Protection, Earth Punishment, Summon Resurrection, Absolution |
+| Hotbar diff | Q = Voice of Doom; 4, E empty | 4 = Resurrection, E = Absolution; Q empty |
+| Macro diff | macro 10, 12, 5; slot 10 incl. Prayer of Amplification | same macro (slot 5 empty, skipped); slot 10 without Prayer: Chain of Torment → Light of Regeneration → Condemnation |
 | Skill levels, specialties, passives | identical | identical |
 
 - Each key means one thing across presets (Q is never a heal, E never damage).
-- Heal drops Prayer (self-only) and Power Burst; Earth Punishment stays (damage engine, party Double
+- **DPS: Voice of Doom replaced Power Burst (2026-10-17):** AoE hit + DoT on up to 4 targets vs. one
+  ~4.1k single hit, and it runs in the macro instead of being saved. Lost: Power Burst's 50 Stagger
+  (interrupt phases now rely on Bolt + Earth Punishment). Power Burst's shards → Voice of Doom Lv 5.
+- **To test (DPS): Noble Aura instead of Light of Protection.** ~700/s flat (Lv 1) for 5 min vs. +16%
+  damage and +16% damage tolerance (and party buffs). Break-even around 4.4k sustained DPS. Test
+  1 min each on the training dummy (or clear time on the same pack). Keep Light of Protection for
+  Nightmare either way (solo, the damage tolerance matters).
+- Heal drops Prayer (self-only) and Voice of Doom; Earth Punishment stays (damage engine, party Double
   Chance at Lv 10, costs no attention in the macro).
 - Flex Stigma: **Absolution** (party heal + cleanse 2; reactive, fits the trigger map). Alternative
   **Yustiel's Power** (party −20% PvE damage taken, 10s) once fights have known big hits; needs timing.
@@ -37,8 +44,8 @@ Mastery (levels, specialties, hotbar, macro) and Stigma are separate preset tabs
     2026-10-13) buffs and the always-up heal, Light of Regeneration.
   - **Reactive healing never goes in the macro** (Healing Light, Radiant Recovery): it stays on its
     own keys, so the macro never burns it.
-  - **Timed or placed damage stays manual:** Power Burst (saved for interrupt phases, see below),
-    Bolt (charge).
+  - **Timed or placed damage stays manual:** Bolt (charge). (Power Burst was saved for interrupt
+    phases until 2026-10-17; Voice of Doom, its replacement, runs in the macro.)
   - **Exception, convenience over DPS (2026-10-13):** Prayer of Amplification and Divine Aura are in
     the macro and fire whenever ready, instead of being saved for burst windows / grouped packs.
 - The macro is held down. Single presses of other keys go through on top of it; *holding* another key
@@ -58,6 +65,10 @@ window labels each entry with the first skill of that slot's queue: "Chain of To
 - **Slot 10:** Chain of Torment → Prayer of Amplification (DPS preset only) → Light of Regeneration → Condemnation
 - **Slot 12:** Debilitating Mark → Divine Aura → Earth Punishment → Judgment Thunder
 
+**Planned 2026-10-17 (not set up yet):** macro **10, 12, 5**, slot 5 (Q) = Voice of Doom in the DPS
+preset. Slots 10 and 12 are full (max 4 per queue), so it gets its own slot. In the Heal preset
+slot 5 is empty and the entry is skipped (costs its 10 ms delay).
+
 So the macro alternates one skill from each slot, each slot stepping through its own queue and
 skipping what isn't ready. Judgment Thunder (no cooldown) keeps slot 12 from ever going idle;
 Condemnation only fires while Chain is on the target. In the Earth Punishment window Condemnation
@@ -75,11 +86,11 @@ current 10, 12 (2026-10-13).
 
 **Scattershot (since 2026-10-13): out of the macro.** When the target is Staggered, let go of the
 macro and hold Scattershot's key alone for the whole Stagger. Chosen because it feels good; whether
-it beats the macro on DPS is untested (the training dummy can't be Staggered). Power Burst is *not*
-used to set it up: it's saved for fight phases where Stagger damage has to burst to interrupt an
-attack. Stagger gauge damage in the kit: Power Burst 50, **Bolt 20–35** (by charge), Earth Punishment 20 (in the macro), Debilitating Mark
-and Chain of Torment 10, Condemnation 7, Judgment Thunder 2. So for an interrupt phase, hold a fully
-charged Bolt alongside Power Burst (fight-dependent; Bolt has a 45s CD).
+it beats the macro on DPS is untested (the training dummy can't be Staggered). Stagger gauge damage
+in the kit: **Bolt 20–35** (by charge), Earth Punishment 20 (in the macro), Debilitating Mark and
+Chain of Torment 10, Condemnation 7, Judgment Thunder 2; Voice of Doom: none listed in its tooltip.
+(Power Burst 50, no longer slotted.) So for an interrupt phase, hold a fully charged Bolt
+(fight-dependent; Bolt has a 45s CD).
 
 ## Hotbar
 Slots numbered 1–12 from the left (in-game 2026-10-13, screenshot). The macro is on **right click**.
@@ -90,7 +101,7 @@ Slots numbered 1–12 from the left (in-game 2026-10-13, screenshot). The macro 
 | 2 | 2 | Healing Light | manual, reactive heal |
 | 3 | 3 | Radiant Recovery | manual, reactive heal |
 | 4 | 4 | Heal: Summon Resurrection · DPS: empty | manual: someone died |
-| 5 | Q | DPS: Power Burst · Heal: empty | manual, saved for Stagger interrupt phases |
+| 5 | Q | DPS: Voice of Doom · Heal: empty | macro (planned 2026-10-17) |
 | 6 | E | Heal: Absolution · DPS: empty | manual: party low after a big hit, or debuffs left |
 | 7 | R | (empty) | |
 | 8 | C | Light of Protection | toggle at the pull |
@@ -108,7 +119,8 @@ Heal (the old "Group" from 2026-10-16, with Absolution in place of Prayer of Amp
 - Light of Protection (Lv 12, both): always-on party damage + defense
 - Earth Punishment (Lv 9, both, 2026-10-15): **the damage engine**: Condemnation always crits on its target, and every crit resets Condemnation. 30s CD, 10s DoT; Lv 20 adds +10s
 - Prayer of Amplification (Lv 7, DPS): self only (not party): +20% Attack, +20% PvE Damage Boost for 13s, 1 min CD
-- Power Burst (Lv 5, DPS): biggest single hit, heavy Stagger
+- **Voice of Doom (Lv 5, DPS, 2026-10-17, replaces Power Burst):** AoE Earth damage to up to 4
+  enemies + DoT, enemy healing −60% for 20s; 200 MP, 1 min CD. Lv 5: up to +20% damage with more targets
 - **Summon Resurrection (Lv 5, Heal, 2026-10-16):** revive within 40m, 2 min CD; Lv 5 = −1s cast (2s → 1s). Lv 10 adds 3s invincibility after the res
 - **Absolution (Lv 1, Heal, 2026-10-17):** party heal + removes up to 2 debuffs, 1 min 30s CD; Lv 5 = −30s CD
 
@@ -121,9 +133,10 @@ target; its unlocks are always on and also help the party. 44 shards in, 1 unspe
 5. Then decide: **Earth Punishment 15 → 20** (40, doubles the always-crit Condemnation window, ~13s →
    ~26s per minute) for solo, or **Light of Protection 12 → 15** (12, +10% Max HP for the party) if
    group content dominates by then.
-Light of Protection stays at 12 (its core is fully active); Power Burst stays at 5. 0 shards unspent (2026-10-17). Shards can be
+Light of Protection stays at 12 (its core is fully active); Power Burst reset, its shards → Voice of Doom 1 → 5 (2026-10-17). 0 shards unspent (2026-10-17). Shards can be
 reset free per Stigma, and levels are per preset (in-game 2026-10-17), so each preset can have its
-own shard split. The levels above are the DPS preset's; the Heal preset's split is still open.
+own shard split; each preset gets the whole pool (50 shards, 2026-10-17). The levels above are the DPS
+preset's (23 + 13 + 9 + 5 = 50); the Heal preset's split is still open.
 Costs per level: 1/2/4/8 in bands of 5 (`knowledge/endgame.md` "Stigma levels"). Shards: Abyss shop (10/50 bought at step 1, 2026-10-13; 40 more at 10k, then 15k/20k/25k).
 
 **If the Heal preset isn't enough** (content starts to bite): swap Absolution or Earth Punishment for
@@ -200,7 +213,7 @@ Everything pressed on top of the held macro.
 - **A debuff needs removing** → Radiant Recovery (up to 2, sure), Healing Light (1, 50% chance).
 
 **Damage**
-- **Stagger interrupt phase** → a fully charged Bolt (35 gauge); plus Power Burst (Q, 50) in the DPS preset.
+- **Stagger interrupt phase** → a fully charged Bolt (35 gauge).
 - **Bolt ready, nothing to save it for** → charge it while moving.
 - **Target Staggered** → let go of the macro, hold Scattershot alone until the Stagger ends, then
   back to the macro.
