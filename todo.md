@@ -5,7 +5,6 @@ tracker itself goes in `backlog.md`.
 
 ## Open
 - [ ] Dhamira, Daevanion: 2 points → last green Prayer of Concentration node on Triniel; then common nodes with good stats (no Multi-hit Resist)
-- [ ] Check (new 2026-10-16): bag: any unopened Rare Theostone Chest (Lv 45 regional quests)? · Genus Analyze cost now, per open/locked line
 - [ ] Easy achievement: next Fire Temple **Conquest** run, lie down (emote) in the boss room → title "Kromede Will Remember That" (guide, unverified; whether before or after the kill isn't stated). See `knowledge/achievements.md`
 - [ ] Easy achievements: use 1 Transformation Candy (Sweet Tooth, 27k Kina) · buy 5 items from the Black Cloud Merchant (Black Cloud Merchants Regular, title Big Spender, 27k Kina) · place a Kisk 5 times (Kisk Installer, 40k Kina + 13 Status Effect Resist Scrolls). Rewards are totals over all tiers, see `knowledge/achievements.md`
 - [ ] Check (Achievements menu): Five Veiled Fates (duties) and Herald of Hope (commands) progress; do rewards need claiming by hand? Per character or account-wide? Do town Command Scrolls count? Skim for unclaimed tiers. See `knowledge/achievements.md`
@@ -30,6 +29,7 @@ tracker itself goes in `backlog.md`.
 - [ ] *(low priority, later)* Dhamira: try Condemnation option 1 (+100 MP per hit) instead of option 2 (+12% on fewer targets) for a few fights; compare how often you need to refill MP with the current macro (10, 12)
 
 ## Done
+- [x] No unopened Rare Theostone Chest in the bag; Genus Analyze: 4 Soul Crystals per unlocked line, +4 extra per locked line (2026-10-17)
 - [x] Dhamira: Scattershot Daevanion levels reset, spent on Defiance (2026-10-17)
 - [x] Verteron Monolith offers no Wisdom Stones (2026-10-17)
 - [x] Clash Rune: only one kind, same stat lines on every rune (2026-10-17)

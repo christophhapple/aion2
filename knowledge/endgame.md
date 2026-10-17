@@ -157,7 +157,7 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
   Eternal Isle (Lv 49), 4–7 pets within 50 m each [201]. Time per pet: not found (chance drops).
 - **In-game 2026-10-13 (Cogni board, Insight Lv 4, 4 lines open):** lines rolled "Cogni Accuracy 15",
   "Cogni Critical Hit 13" (green = Rare), "Cogni Critical Hit Resist 7", "HP 10". **Analyze cost shown: 16
-  Soul Crystals + 4,000 Kina**, i.e. **4 crystals + 1,000 Kina per open line; one press rolls all unlocked lines; a locked line costs double (8 + 2,000)** (in-game 2026-10-13). ~~4 + 1,000 flat~~ [157]. Genus-prefixed
+  Soul Crystals + 4,000 Kina**, i.e. **4 crystals + 1,000 Kina per open line; one press rolls all unlocked lines; a locked line costs double (8 + 2,000)** (in-game 2026-10-13; crystal cost re-confirmed in-game 2026-10-17: 4 per unlocked line, +4 extra per locked line). ~~4 + 1,000 flat~~ [157]. Genus-prefixed
   stats apply to you **only against enemies of that genus**: tooltip "Increases Damage when attacking
   Cogni." (in-game 2026-10-13). Plain lines (HP) always apply. The character stat window has a **Genus**
   section per family: Attack, Defense, Accuracy, Evasion, Critical Hit, Critical Hit Resist, Block
