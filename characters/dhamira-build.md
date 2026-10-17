@@ -5,8 +5,27 @@ truth. Skill effects: `knowledge/cleric-skills.md`. Hotbar/macro mechanics: `kno
 Matches the game as of 2026-10-13 (hotbar, macro: screenshots) and 2026-10-11 (Stigmas, levels,
 specialties; updated piecemeal since).
 
-Target content: mostly group PvE. Current preset is offensive, for the leveling/gearing stretch where
-nothing threatens you.
+Target content: mostly group PvE.
+
+## Presets (decided 2026-10-17)
+Mastery (levels, specialties, hotbar, macro) and Stigma are separate preset tabs; a preset pair is
+"Mastery n + Stigma n". Stigma levels belong to the Stigma, not the preset (in-game 2026-10-17).
+
+| | **1 · DPS** | **2 · Heal** |
+|---|---|---|
+| For | Open world, duties, daily dungeon, Nightmare, easy low-level dungeons | Group content, harder dungeons, Transcendence |
+| Stigmas | Light of Protection, Earth Punishment, Prayer of Amplification, Power Burst | Light of Protection, Earth Punishment, Summon Resurrection, Absolution |
+| Hotbar diff | Q = Power Burst; 4, E empty | 4 = Resurrection, E = Absolution; Q empty |
+| Macro diff | slot 10 incl. Prayer of Amplification | slot 10 without it: Chain of Torment → Light of Regeneration → Condemnation |
+| Skill levels, specialties, passives | identical | identical |
+
+- Each key means one thing across presets (Q is never a heal, E never damage).
+- Heal drops Prayer (self-only) and Power Burst; Earth Punishment stays (damage engine, party Double
+  Chance at Lv 10, costs no attention in the macro).
+- Flex Stigma: **Absolution** (party heal + cleanse 2; reactive, fits the trigger map). Alternative
+  **Yustiel's Power** (party −20% PvE damage taken, 10s) once fights have known big hits; needs timing.
+- Specialties and passives: checked 2026-10-17, no reason to differ. Light of Regeneration keeps 1 + 4
+  (Move Speed) in Heal too; option 2 (+20% healing ≤50% HP) was the alternative.
 
 ## Playstyle model
 - Two axes: **what a skill does** (damage/heal/buff/debuff) and **when you press it** (proactive
@@ -36,7 +55,7 @@ not castable is skipped, and the delay applies even to skipped entries.
 **Current setup (in-game 2026-10-13, screenshot):** macro = **10, 12**, both delays 10 ms. (The macro
 window labels each entry with the first skill of that slot's queue: "Chain of Torment",
 "Debilitating Mark".)
-- **Slot 10:** Chain of Torment → Prayer of Amplification → Light of Regeneration → Condemnation
+- **Slot 10:** Chain of Torment → Prayer of Amplification (DPS preset only) → Light of Regeneration → Condemnation
 - **Slot 12:** Debilitating Mark → Divine Aura → Earth Punishment → Judgment Thunder
 
 So the macro alternates one skill from each slot, each slot stepping through its own queue and
@@ -70,13 +89,13 @@ Slots numbered 1–12 from the left (in-game 2026-10-13, screenshot). The macro 
 | 1 | 1 | Lightning Strike Scattershot | manual: let go of the macro, hold during Stagger |
 | 2 | 2 | Healing Light | manual, reactive heal |
 | 3 | 3 | Radiant Recovery | manual, reactive heal |
-| 4 | 4 | Summon Resurrection (since 2026-10-16) | manual: someone died |
-| 5 | Q | (empty since 2026-10-16; Power Burst in the offensive preset) | manual, saved for Stagger interrupt phases |
-| 6 | E | (empty) | |
+| 4 | 4 | Heal: Summon Resurrection · DPS: empty | manual: someone died |
+| 5 | Q | DPS: Power Burst · Heal: empty | manual, saved for Stagger interrupt phases |
+| 6 | E | Heal: Absolution · DPS: empty | manual: party low after a big hit, or debuffs left |
 | 7 | R | (empty) | |
 | 8 | C | Light of Protection | toggle at the pull |
 | 9 | mouse thumb 2 | Bolt | manual (charge while moving) |
-| 10 | – | Chain of Torment → Prayer of Amplification → Light of Regeneration → Condemnation | macro only |
+| 10 | – | Chain of Torment → Prayer of Amplification (DPS only) → Light of Regeneration → Condemnation | macro only |
 | 11 | left click | Earth's Retribution | pull / retarget, manual MP refill |
 | 12 | – | Debilitating Mark → Divine Aura → Earth Punishment → Judgment Thunder | macro only |
 
@@ -84,28 +103,29 @@ Defiance isn't a hotbar skill: it's on Space and only usable while crowd-control
 
 ## Stigma presets
 
-**Group (current since 2026-10-16, for Transcendence / party content):** Offensive with Power Burst swapped for Resurrection.
-- Light of Protection (Lv 12): always-on party damage + defense
-- Prayer of Amplification (Lv 7): self only (not party): +20% Attack, +20% PvE Damage Boost for 13s, 1 min CD. First to drop if Salvation is needed
-- Earth Punishment (Lv 9, 2026-10-15): **the damage engine**: Condemnation always crits on its target, and every crit resets Condemnation. 30s CD, 10s DoT; Lv 20 adds +10s
-- **Summon Resurrection (Lv 5, 2026-10-16):** revive within 40m, 2 min CD; Lv 5 = −1s cast (2s → 1s). Lv 10 adds 3s invincibility after the res
-
-**Offensive (until 2026-10-16):** for leveling/solo/trivial content: same but **Power Burst (Lv 5)** (biggest single hit, heavy Stagger) instead of Resurrection.
+Which Stigmas go in which preset: see "Presets" above. Stigma 1 = DPS (the old "Offensive"), Stigma 2 =
+Heal (the old "Group" from 2026-10-16, with Absolution in place of Prayer of Amplification).
+- Light of Protection (Lv 12, both): always-on party damage + defense
+- Earth Punishment (Lv 9, both, 2026-10-15): **the damage engine**: Condemnation always crits on its target, and every crit resets Condemnation. 30s CD, 10s DoT; Lv 20 adds +10s
+- Prayer of Amplification (Lv 7, DPS): self only (not party): +20% Attack, +20% PvE Damage Boost for 13s, 1 min CD
+- Power Burst (Lv 5, DPS): biggest single hit, heavy Stagger
+- **Summon Resurrection (Lv 5, Heal, 2026-10-16):** revive within 40m, 2 min CD; Lv 5 = −1s cast (2s → 1s). Lv 10 adds 3s invincibility after the res
+- **Absolution (Lv 1, Heal, 2026-10-17):** party heal + removes up to 2 debuffs, 1 min 30s CD; Lv 5 = −30s CD
 
 **Shard plan (decided 2026-10-13, after reading all Stigma tooltips):** Earth Punishment is the main
 target; its unlocks are always on and also help the party. 44 shards in, 1 unspent (2026-10-13); +6 into Earth Punishment 6→9 (2026-10-15).
 1. **Earth Punishment 5 → 10** (10 shards; at 9 (2026-10-15), 2 to go): +10% Double Chance (party +5%)
-2. **Prayer of Amplification 7 → 10** (6): ×1.5 Empyrean Lord's Grace while active (13s/min)
-3. **Earth Punishment 10 → 15** (20): +10% Attack and Defense (party +5%)
-4. Then decide: **Earth Punishment 15 → 20** (40, doubles the always-crit Condemnation window, ~13s →
+2. **Absolution 1 → 5** (4, added 2026-10-17): −30s CD (1:30 → 1:00) for the Heal preset
+3. **Prayer of Amplification 7 → 10** (6): ×1.5 Empyrean Lord's Grace while active (13s/min)
+4. **Earth Punishment 10 → 15** (20): +10% Attack and Defense (party +5%)
+5. Then decide: **Earth Punishment 15 → 20** (40, doubles the always-crit Condemnation window, ~13s →
    ~26s per minute) for solo, or **Light of Protection 12 → 15** (12, +10% Max HP for the party) if
    group content dominates by then.
-Light of Protection stays at 12 (its core is fully active); Power Burst stays at 5.
+Light of Protection stays at 12 (its core is fully active); Power Burst stays at 5. 0 shards unspent (2026-10-17).
 Costs per level: 1/2/4/8 in bands of 5 (`knowledge/endgame.md` "Stigma levels"). Shards: Abyss shop (10/50 bought at step 1, 2026-10-13; 40 more at 10k, then 15k/20k/25k).
 
-**Defensive / progression (not built yet)**, for when content starts to bite: likely Summon
-Resurrection + Salvation + Light of Protection + a flex (Benevolence for sustain, or Yustiel's Power
-for a defensive cooldown). Open questions then: does the group run a Chanter (Light of Protection doesn't stack with Undefeated Mantra, `knowledge/cleric-skills.md`; weakens Light of
+**If the Heal preset isn't enough** (content starts to bite): swap Absolution or Earth Punishment for
+Yustiel's Power (defensive cooldown), Salvation (self) or Benevolence (sustain). Open questions then: does the group run a Chanter (Light of Protection doesn't stack with Undefeated Mantra, `knowledge/cleric-skills.md`; weakens Light of
 Protection)? Are you the only healer?
 
 ## Skill levels (in-game 2026-10-11)
@@ -123,7 +143,8 @@ Passives (in-game 2026-10-13, tile level incl. bonus): Empyrean Lord's Grace 13 
 then **Warm Benediction** (+13% Max HP); alternative: save for **Radiant Benediction** (free party heal
 on hit, low effort; needs more points than spare now). **Done 2026-10-13:** Heal Block reset (free), Radiant Benediction → 10, Immortal Veil 5 → 7; then Empyrean Lord's Benediction reset → Immortal Veil 8, Warm Benediction 7. **2026-10-16:** Defiance 10 → 8 (Lv 9–10 only scale the Blessing heal), Immortal Veil 8 → 10. Next spare points: Warm Benediction. If damage taken feels worse, put Empyrean Lord's Benediction back (free).
 
-Everything above is Mastery preset 1.
+Everything above is Mastery preset 1; Mastery preset 2 (Heal) is a copy with only the hotbar/macro
+differences listed in "Presets".
 
 ## Specialties (in-game 2026-10-11)
 Options per skill: `knowledge/cleric-skills.md`. Lv 20 slots locked everywhere (no Arcana yet).
@@ -177,7 +198,7 @@ Everything pressed on top of the held macro.
 - **A debuff needs removing** → Radiant Recovery (up to 2, sure), Healing Light (1, 50% chance).
 
 **Damage**
-- **Stagger interrupt phase** → a fully charged Bolt (35 gauge); plus Power Burst (Q, 50) in the offensive preset.
+- **Stagger interrupt phase** → a fully charged Bolt (35 gauge); plus Power Burst (Q, 50) in the DPS preset.
 - **Bolt ready, nothing to save it for** → charge it while moving.
 - **Target Staggered** → let go of the macro, hold Scattershot alone until the Stagger ends, then
   back to the macro.
@@ -186,8 +207,8 @@ Everything pressed on top of the held macro.
 - **MP low** → left click (Earth's Retribution) until ~50%, then back to the macro.
 - **I got CC'd** → Defiance (Space). Trigger is "I can't act", not "I'm low"; only usable then.
 
-**Group preset:** someone died → Summon Resurrection (4). **Defensive preset only:** big telegraphed hit → Salvation just before impact;
-Absolution if more cleansing is needed.
+**Heal preset:** someone died → Summon Resurrection (4). Party low after a big hit, or debuffs
+Radiant Recovery didn't clear → Absolution (E).
 
 ## Play loop
 At the pull: toggle Light of Protection. Then hold right click (macro) and
