@@ -116,27 +116,33 @@ Defiance isn't a hotbar skill: it's on Space and only usable while crowd-control
 
 Which Stigmas go in which preset: see "Presets" above. Stigma 1 = DPS (the old "Offensive"), Stigma 2 =
 Heal (the old "Group" from 2026-10-16, with Absolution in place of Prayer of Amplification).
-- Light of Protection (Lv 12, both): always-on party damage + defense
-- Earth Punishment (Lv 9, both, 2026-10-15): **the damage engine**: Condemnation always crits on its target, and every crit resets Condemnation. 30s CD, 10s DoT; Lv 20 adds +10s
+Levels: DPS / Heal (per preset, see the splits below).
+- Light of Protection (Lv 12 / 12): always-on party damage + defense
+- Earth Punishment (Lv 9 / 6, 2026-10-15): **the damage engine**: Condemnation always crits on its target, and every crit resets Condemnation. 30s CD, 10s DoT; Lv 20 adds +10s
 - Prayer of Amplification (Lv 7, DPS): self only (not party): +20% Attack, +20% PvE Damage Boost for 13s, 1 min CD
 - **Voice of Doom (Lv 5, DPS, 2026-10-17, replaces Power Burst):** AoE Earth damage to up to 4
   enemies + DoT, enemy healing −60% for 20s; 200 MP, 1 min CD. Lv 5: up to +20% damage with more targets
 - **Summon Resurrection (Lv 5, Heal, 2026-10-16):** revive within 40m, 2 min CD; Lv 5 = −1s cast (2s → 1s). Lv 10 adds 3s invincibility after the res
-- **Absolution (Lv 1, Heal, 2026-10-17):** party heal + removes up to 2 debuffs, 1 min 30s CD; Lv 5 = −30s CD
+- **Absolution (Lv 10, Heal, 2026-10-17):** party heal + removes debuffs; Lv 5 = −30s CD (1:30 → 1:00), Lv 10 = removes all debuffs (base: up to 2)
 
 **Shard plan (decided 2026-10-13, after reading all Stigma tooltips):** Earth Punishment is the main
 target; its unlocks are always on and also help the party. 44 shards in, 1 unspent (2026-10-13); +6 into Earth Punishment 6→9 (2026-10-15).
 1. **Earth Punishment 5 → 10** (10 shards; at 9 (2026-10-15), 2 to go): +10% Double Chance (party +5%)
-2. **Absolution 1 → 5** (4, added 2026-10-17): −30s CD (1:30 → 1:00) for the Heal preset
-3. **Prayer of Amplification 7 → 10** (6): ×1.5 Empyrean Lord's Grace while active (13s/min)
-4. **Earth Punishment 10 → 15** (20): +10% Attack and Defense (party +5%)
-5. Then decide: **Earth Punishment 15 → 20** (40, doubles the always-crit Condemnation window, ~13s →
+2. **Prayer of Amplification 7 → 10** (6): ×1.5 Empyrean Lord's Grace while active (13s/min)
+3. **Earth Punishment 10 → 15** (20): +10% Attack and Defense (party +5%)
+4. Then decide: **Earth Punishment 15 → 20** (40, doubles the always-crit Condemnation window, ~13s →
    ~26s per minute) for solo, or **Light of Protection 12 → 15** (12, +10% Max HP for the party) if
    group content dominates by then.
 Light of Protection stays at 12 (its core is fully active); Power Burst reset, its shards → Voice of Doom 1 → 5 (2026-10-17). 0 shards unspent (2026-10-17). Shards can be
 reset free per Stigma, and levels are per preset (in-game 2026-10-17), so each preset can have its
-own shard split; each preset gets the whole pool (50 shards, 2026-10-17). The levels above are the DPS
-preset's (23 + 13 + 9 + 5 = 50); the Heal preset's split is still open.
+own shard split; each preset gets the whole pool (50 shards, 2026-10-17). The plan above is the DPS
+preset's (Light of Protection 12, Earth Punishment 9, Prayer 7, Voice of Doom 5 = 23 + 13 + 9 + 5 = 50).
+
+**Heal preset split (decided 2026-10-17, "A"):** Light of Protection **12** (23) · Absolution **10** (15:
+−30s CD, removes all debuffs) · Earth Punishment **6** (7) · Summon Resurrection **5** (5) = 50.
+Rejected "B" (Light of Protection 10, Resurrection 10 for 3s invincibility after the res): Light of
+Protection works every second, a res is rare. New shards in this preset: Earth Punishment 6 → 10
+(8, party Double Chance), then Resurrection 5 → 10 (10).
 Costs per level: 1/2/4/8 in bands of 5 (`knowledge/endgame.md` "Stigma levels"). Shards: Abyss shop (10/50 bought at step 1, 2026-10-13; 40 more at 10k, then 15k/20k/25k).
 
 **If the Heal preset isn't enough** (content starts to bite): swap Absolution or Earth Punishment for
