@@ -174,6 +174,24 @@ Arcana. Read with gear and Arcana unequipped: the baseline Arcana builds on. Sti
 Effects + icons: `knowledge/cleric-skills.md` "Passive". Before the 2026-10-17 rework: Scattershot 12,
 passives partly 11–13.
 
+**On top (equipped, 2026-10-17, told by the user):**
+- Gear: Scattershot +1, Healing Light +1, Healing Enhancement +1.
+- Arcana (4 of 5 slots, no Bell yet; grades not recorded):
+
+| Card | Set | Skill lines |
+|---|---|---|
+| Chalice | Magic | Earth's Grace +1, Immortal Veil +1, Prayer of Concentration +1 |
+| Parchment | Magic | Radiant Recovery +1, Debilitating Mark +1, Earth's Retribution +1 |
+| Compass | Vigor | Judgment Thunder +1, Defiance +1, Scattershot +1 |
+| Mirror | Vigor | Healing Enhancement +1, Radiant Benediction +1, Empyrean Lord's Benediction +1 |
+
+Both 2-piece sets are active (Magic Armor + Primal Vigor, `knowledge/gear.md`).
+**Totals:** Healing Enhancement 16 · Healing Light, Radiant Recovery, Debilitating Mark, Earth's
+Retribution, Judgment Thunder, Defiance, Earth's Grace, Immortal Veil, Radiant Benediction 15 ·
+Prayer of Concentration 9 · Scattershot 3 · Empyrean Lord's Benediction 2 · the rest 14.
+No active is at 16 yet, so no option 5 is unlocked. Wasted lines: Scattershot (2, unused skill),
+Empyrean Lord's Benediction (1, no points).
+
 **Passive plan (2026-10-13):** Empyrean Lord's Grace, Earth's Grace, Healing Enhancement are at base 10
 (the skill-point cap; header bonuses +3/+2/+1), so done. Spare points: **Immortal Veil** (+14% Defense),
 then **Warm Benediction** (+13% Max HP); alternative: save for **Radiant Benediction** (free party heal
@@ -189,7 +207,7 @@ Everything above is Mastery preset 1; Mastery preset 2 (Heal) is a copy with onl
 differences listed in "Presets".
 
 ## Specialties (in-game 2026-10-11)
-Options per skill: `knowledge/cleric-skills.md`. Lv 20 slots locked everywhere (no Arcana yet).
+Options per skill: `knowledge/cleric-skills.md`. Lv 20 slots locked everywhere (no skill at 20 yet).
 
 **Rules (offensive build):**
 - Pick options that make *me* stronger (damage, MP, my heals) over crowd control and enemy
@@ -234,7 +252,7 @@ evenly). Further levels come from **Daevanion** (11–14) and **Arcana** (15–2
 - **Then:** common nodes with useful stats. Skip Multi-hit Resist (low PvE value, `knowledge/endgame.md`).
 - Corners: Nezekan all 4; Zikel, Vaizel, Triniel: what's taken matches what's wanted (2026-10-17).
 
-**Arcana (15–20), not started.** Lv 16 unlocks option 5, Lv 20 the 3rd slot. Candidates noted per skill
+**Arcana (15–20): 4 cards equipped** (see "Skill levels"). Lv 16 unlocks option 5, Lv 20 the 3rd slot. Candidates noted per skill
 in "Specialties"; strongest-looking: Condemnation
 (Multi-Hit, guides say 16–20), Radiant Recovery (guides say 20), Healing Light (-2s CD). Order not
 decided yet. (Scattershot's −1s all cooldowns per hit dropped with Scattershot, 2026-10-17.)
