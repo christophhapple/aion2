@@ -136,18 +136,18 @@ Levels: DPS / Heal (per preset, see the splits below).
 
 **Shard rule (2026-10-17): spend to breakpoints** (5/10/15/20). Levels in between only raise base
 values a little: Light of Protection Lv 10 → 12 was +1% (15% → 16%) for 8 shards (in-game 2026-10-17).
-Shards reset free per Stigma, levels are per preset, and each preset gets the whole pool (50 shards,
-0 unspent, 2026-10-17).
+Shards reset free per Stigma, levels are per preset, and each preset gets the whole pool (**58 shards** (in-game 2026-10-17; 50 earlier that day),
+DPS 0 unspent, Heal 8 unspent).
 
 **DPS split (set in-game 2026-10-17):** Light of Protection **10** · Earth Punishment **10** (+10% Double Chance, party +5%) ·
 Prayer of Amplification **10** (×1.5 Empyrean Lord's Grace while active) · Noble Aura **9** (in-game 2026-10-17; was
-Voice of Doom 5) = 15 + 15 + 15 + 13 = 58 by the cost table, more than the 50-shard pool noted above (unresolved). Noble Aura 10 is 2 shards away. Next: **Earth Punishment 10 → 15** (20: +10% Attack and Defense, party +5%);
+Voice of Doom 5) = 15 + 15 + 15 + 13 = 58 (cost table confirmed). Noble Aura 10 is 2 shards away. Next: **Earth Punishment 10 → 15** (20: +10% Attack and Defense, party +5%);
 then decide between Earth Punishment 20 (40, doubles the always-crit Condemnation window) and Prayer or
 Light of Protection 15. Noble Aura 10 (+20 dmg to targets afflicted with…, truncated) not assessed yet.
 
 **Heal split (set in-game 2026-10-17):** Light of Protection **10** · Absolution **10** (−30s CD, removes all debuffs) ·
 Summon Resurrection **10** (3s invincibility after the res) · Earth Punishment **5** (Condemnation
-crit) = 15 + 15 + 15 + 5 = 50. Next: **Earth Punishment 5 → 10** (10: party Double Chance), then
+crit) = 15 + 15 + 15 + 5 = 50, **8 unspent**. Next: **Earth Punishment 5 → 10** (10: party Double Chance), then
 **Light of Protection 10 → 15** (20: +10% Max HP for the party).
 
 History: until 2026-10-17 one shared set (Light of Protection 12, Earth Punishment 9, Prayer 7,
