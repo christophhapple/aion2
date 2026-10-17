@@ -160,18 +160,19 @@ maxed, the rest get levelled evenly.
 
 Lv 14: Earth's Retribution, Judgment Thunder, Debilitating Mark, Chain of Torment, Condemnation, Divine
 Aura, Bolt, Light of Regeneration, Radiant Recovery, Healing Light (13 → 14 by 2026-10-13) · Lv 12: Lightning Strike
-Scattershot (11 → 12 on 2026-10-13; **planned 2026-10-17: base 10 → 1**, see below) · Lv 8: Defiance (skill points only, lowered 10 → 8 on 2026-10-16 to free 2 points for Immortal Veil). Stigmas: see above.
-Passives (in-game 2026-10-13, tile level incl. bonus): Empyrean Lord's Grace 13 (10+3) · Radiant Benediction 12 (10+2) · Earth's Grace 12 (10+2) · Healing Enhancement 11 (10+1) · Immortal Veil 12 (10+2, base 8 → 10 on 2026-10-16) · Warm Benediction 9 (7+2) · Survival Willpower 9 · Prayer of Concentration 8 · Empyrean Lord's Benediction 0 · Heal Block 0 (both reset, low value). Effects + icons: `knowledge/cleric-skills.md` "Passive".
+Scattershot (11 → 12 on 2026-10-13; **base 10 → 1 on 2026-10-17**, see below) · Defiance: base 10 (lowered 10 → 8 on 2026-10-16, back to 10 on 2026-10-17). Stigmas: see above.
+Passives (in-game 2026-10-13, tile level incl. bonus): Empyrean Lord's Grace 13 (10+3) · Radiant Benediction 12 (10+2) · Earth's Grace 12 (10+2) · Healing Enhancement 11 (10+1) · Immortal Veil 12 (10+2, base 8 → 10 on 2026-10-16) · Warm Benediction 9 (7+2) · Survival Willpower 9 · Prayer of Concentration 8 · **since 2026-10-17 (base): Warm Benediction 10, Survival Willpower 10, Prayer of Concentration 5** · Empyrean Lord's Benediction 0 · Heal Block 0 (both reset, low value). Effects + icons: `knowledge/cleric-skills.md` "Passive".
 
 **Passive plan (2026-10-13):** Empyrean Lord's Grace, Earth's Grace, Healing Enhancement are at base 10
 (the skill-point cap; header bonuses +3/+2/+1), so done. Spare points: **Immortal Veil** (+14% Defense),
 then **Warm Benediction** (+13% Max HP); alternative: save for **Radiant Benediction** (free party heal
 on hit, low effort; needs more points than spare now). **Done 2026-10-13:** Heal Block reset (free), Radiant Benediction → 10, Immortal Veil 5 → 7; then Empyrean Lord's Benediction reset → Immortal Veil 8, Warm Benediction 7. **2026-10-16:** Defiance 10 → 8 (Lv 9–10 only scale the Blessing heal), Immortal Veil 8 → 10. Next spare points: Warm Benediction. If damage taken feels worse, put Empyrean Lord's Benediction back (free).
 
-**Planned 2026-10-17: Scattershot base 10 → 1** (lowest possible; its Daevanion levels still apply).
-Freed skill points, in order: **Defiance 8 → 10** (base for Daevanion 12) → **Warm Benediction**
-→ **Survival Willpower**. Not Prayer of Concentration (weakest passive left). How many points this
-frees is unknown (cost per level not recorded): note the number when doing it.
+**Done 2026-10-17: Scattershot base 10 → 1** (lowest possible; its Daevanion levels still apply).
+Freed points went to **Defiance 8 → 10** (base for Daevanion 12), **Warm Benediction → 10**,
+**Survival Willpower → 10**, with **Prayer of Concentration down to 5** (weakest passive left).
+Every passive except Prayer of Concentration (5), Empyrean Lord's Benediction and Heal Block (0) is now
+at base 10.
 
 Everything above is Mastery preset 1; Mastery preset 2 (Heal) is a copy with only the hotbar/macro
 differences listed in "Presets".
@@ -212,7 +213,7 @@ evenly). Further levels come from **Daevanion** (11–14) and **Arcana** (15–2
 1. ~~Lightning Strike Scattershot 11 → 12~~ done 2026-10-13, Multi-Hit equipped. **Planned
    2026-10-17:** reset Scattershot's Daevanion levels (boards can be reset) and spend them on Defiance,
    if the board allows.
-2. **Defiance → 12:** opens slot 2 + option 4 (+2s Tenacity). Base back to 10 with Scattershot's freed skill points, then Daevanion +2.
+2. **Defiance → 12:** opens slot 2 + option 4 (+2s Tenacity). Base back to 10 (2026-10-17), now Daevanion +2.
 3. ~~Healing Light 13 → 14~~ done (by 2026-10-13).
 
 **Arcana (15–20), not started.** Lv 16 unlocks option 5, Lv 20 the 3rd slot. Candidates noted per skill
