@@ -2,8 +2,8 @@
 
 Imported 2026-10-10 from the Claude doc "AION 2 Cleric - Skills & Build Notes"; this file is the source of
 truth. Skill effects: `knowledge/cleric-skills.md`. Hotbar/macro mechanics: `knowledge/controls.md`.
-Matches the game as of 2026-10-13 (hotbar, macro: screenshots) and 2026-10-11 (Stigmas, levels,
-specialties; updated piecemeal since).
+Fully re-checked against the game on 2026-10-17: presets, hotbar, macro, Stigmas, skill levels (base,
+Daevanion, gear, Arcana), Daevanion boards, specialties.
 
 Target content: mostly group PvE.
 
