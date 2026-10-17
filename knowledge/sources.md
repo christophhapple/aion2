@@ -374,3 +374,7 @@ Added 2026-10-13 (pets).
 312. exitlag, Chanter build (Undefeated Mantra vs Cleric buff), 2026-10: https://www.exitlag.com/news/aion-2-chanter-build/
 313. metabot.gg, stats explained (Multi-hit Resist, resist stats, Daevanion node counts), G: https://metabot.gg/en/aion-2/stats
 314. metabot.gg, Daevanion guide (corner/Unique nodes per board, priority), G: https://metabot.gg/en/aion-2/guides/daevanion-guide
+
+Added 2026-10-17 (Chanter healing research).
+315. metabot.gg, Chanter class + skill pages (data from global client build 0.0.4387.0, no date), G: https://metabot.gg/en/aion-2/classes/chanter · https://metabot.gg/en/aion-2/skills/power-of-the-storm
+316. games.gg, Chanter guide, 2026-10-04, G: https://games.gg/aion-2/guides/aion-2-chanter-guide/

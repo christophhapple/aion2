@@ -70,7 +70,9 @@ Stigma Lv 5/10/15/20, fixed. Truncated tooltip text marked "…".
 - [Empyrean Lord's Grace] and [Earth's Grace] (Prayer Lv 10/15) are passives, see "Passive". Earth Punishment's
   Lv 20 line names **[Earth's Blessing]**, not [Earth's Grace] (in-game 2026-10-17). **Earth's Blessing** is Earth
   Punishment's own named buff (Lv 10 effect): on hit, caster Double Chance +10%, party members +5%, for 10s.
-  **Not received while the Chanter's [Power of the Storm] is active** (in-game 2026-10-17 tooltip).
+  **Not received while the Chanter's [Power of the Storm] is active** (in-game 2026-10-17 tooltip), and the
+  reverse is in Power of the Storm's tooltip [315]: mutually exclusive. Power of the Storm is Combat Speed +
+  cooldown reduction, not Double Chance [315]. All Chanter/Cleric conflicts: `classes.md` "Chanter as a healer".
 - Earth Punishment at **Lv 10**: 5332–5500 Earth damage + 550 every 1s for 10s, Nontarget, Mobile, Single
   Target (Hostile), 20m, Mace only (in-game 2026-10-17 tooltip).
 
