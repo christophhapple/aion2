@@ -176,7 +176,7 @@ passives partly 11–13.
 
 **On top (equipped, 2026-10-17, told by the user):**
 - Gear: Scattershot +1, Healing Light +1, Healing Enhancement +1.
-- Arcana (4 of 5 slots, no Bell yet; grades not recorded):
+- Arcana (4 of 5 slots, no Bell yet): all **Common, fully upgraded** (Common max +2, so 3 lines at +1 each). No room left: better levels need new cards.
 
 | Card | Set | Skill lines |
 |---|---|---|
@@ -252,10 +252,12 @@ evenly). Further levels come from **Daevanion** (11–14) and **Arcana** (15–2
 - **Then:** common nodes with useful stats. Skip Multi-hit Resist (low PvE value, `knowledge/endgame.md`).
 - Corners: Nezekan all 4; Zikel, Vaizel, Triniel: what's taken matches what's wanted (2026-10-17).
 
-**Arcana (15–20): 4 cards equipped** (see "Skill levels"). Lv 16 unlocks option 5, Lv 20 the 3rd slot. Candidates noted per skill
-in "Specialties"; strongest-looking: Condemnation
-(Multi-Hit, guides say 16–20), Radiant Recovery (guides say 20), Healing Light (-2s CD). Order not
-decided yet. (Scattershot's −1s all cooldowns per hit dropped with Scattershot, 2026-10-17.)
+**Arcana (15–20): 4 Common cards, maxed** (see "Skill levels"). Lv 16 unlocks option 5, Lv 20 the 3rd slot.
+- **Goal (2026-10-17): get option 5 on Condemnation (Multi-Hit) first**, then Healing Light (−2s CD), Radiant
+  Recovery (+5% HP restored), Bolt (guaranteed Crit). Which comes first depends on the cards that drop.
+- **Sets: keep both 2-piece bonuses** (2 Magic + 2 Vigor); a Bell is a free fifth slot, either set.
+- Replace cards with Scattershot or Empyrean Lord's Benediction lines first (Compass, Mirror): their levels are wasted.
+- Upgrades add +1 to a random line already on the card (guide), so prefer cards whose lines are all useful.
 
 ## Manual layer: trigger map
 Everything pressed on top of the held macro.
