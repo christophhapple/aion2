@@ -208,6 +208,14 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
   regional quests 58 = ~316, plus Shugo shop 50 and Nightmare shop 50 (**Nightmare shop: Daevanion Crystal 300 Phantasmal Fragments, 50 per character**, in-game 2026-10-13;
   reset period not shown) =
   **~416**. Rift quests add a few. So ~150 short of the PvE boards: prioritize (see class notes).
+- **Corner nodes (orange, grade Unique):** 4 points each, **+1.5% of one headline stat**, same for every
+  class [314] (guide, 2026-10-17, unverified). Reaching one costs ~14–19 points incl. the path:
+  - Nezekan: 2× Combat Speed, 2× Cooldown Reduction · Zikel: 2× Damage Boost, 2× Damage Tolerance ·
+    Vaizel: 2× Critical Damage Boost, 2× Critical Damage Tolerance · Triniel (6 corners): 3× Multi-hit
+    Chance, 3× Multi-hit Resist · Azphel (PvP): 4× PvP Damage Boost, 4× PvP Damage Tolerance.
+  - Guide priority: skill nodes of your core rotation first, then route to corners; early on, paths ending
+    in a corner or skill node are the best value per point [314]. Cleric guide: Cooldown Reduction + Combat
+    Speed (Nezekan), Damage Boost/Tolerance (Zikel), Crit Damage (Vaizel) [111].
 - **Multi-hit Resist:** "Reduces target's Multi-hit Chance", i.e. it lowers the chance that an
   attacker's hit on you becomes a Multi-hit. Daevanion has 3 nodes per class, +4.5% total [313]. No guide
   rates it; whether PvE monsters Multi-hit at all: not found. Purely defensive and small, so low priority for

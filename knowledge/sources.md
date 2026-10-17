@@ -373,3 +373,4 @@ Added 2026-10-13 (pets).
 311. games.gg, Cleric guide (skip Light of Protection with a Chanter), 2026-10: https://games.gg/aion-2/guides/aion-2-cleric-guide/
 312. exitlag, Chanter build (Undefeated Mantra vs Cleric buff), 2026-10: https://www.exitlag.com/news/aion-2-chanter-build/
 313. metabot.gg, stats explained (Multi-hit Resist, resist stats, Daevanion node counts), G: https://metabot.gg/en/aion-2/stats
+314. metabot.gg, Daevanion guide (corner/Unique nodes per board, priority), G: https://metabot.gg/en/aion-2/guides/daevanion-guide
