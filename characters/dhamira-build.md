@@ -17,7 +17,7 @@ levels are per preset (in-game 2026-10-17). Switch via Batch Preset Equip (`know
 | For | Open world, duties, daily dungeon, Nightmare, easy low-level dungeons | Group content, harder dungeons, Transcendence |
 | Stigmas | Light of Protection, Earth Punishment, Prayer of Amplification, Noble Aura | Light of Protection, Earth Punishment, Summon Resurrection, Absolution |
 | Hotbar diff | R = Noble Aura; 4, E empty | 4 = Resurrection, E = Absolution; R empty |
-| Macro diff | macro 10, 12, 5 (slot 5 empty, skipped); slot 10 incl. Prayer of Amplification | same macro; slot 10 without Prayer: Chain of Torment → Light of Regeneration → Condemnation |
+| Macro diff | macro 10, 12; slot 10 incl. Prayer of Amplification | same macro; slot 10 without Prayer: Chain of Torment → Light of Regeneration → Condemnation |
 | Skill levels, specialties, passives | identical | identical |
 
 - Each key means one thing across presets (Q is never a heal, E never damage).
@@ -67,13 +67,12 @@ The "whenever ready" button. Mechanics (`knowledge/controls.md`): the macro and 
 **sequences that cycle**; each macro entry gives its slot one try (one skill from its queue), anything
 not castable is skipped, and the delay applies even to skipped entries.
 
-**Current setup (Mastery 1 and 2 set in-game 2026-10-17):** macro **10, 12, 5**,
+**Current setup (Mastery 1 and 2 set in-game 2026-10-17):** macro **10, 12**,
 all delays 10 ms. (The macro window labels each entry with the first skill of that slot's queue.)
 - **Slot 10:** Chain of Torment → Prayer of Amplification (DPS preset only) → Light of Regeneration → Condemnation
 - **Slot 12:** Debilitating Mark → Divine Aura → Earth Punishment → Judgment Thunder
 - Slot 5 (Q) is **empty in both presets** since 2026-10-17 (it held Voice of Doom; its replacement Noble
-  Aura sits on R, pressed manually). The entry is skipped and only costs its 10 ms delay; it can be
-  removed from the macro.
+  Aura sits on R, pressed manually); its macro entry was removed the same day.
 - Scattershot (slot 1) is **out of the macro** in both presets since 2026-10-17: at base Lv 1 it lost
   its mobile specialty, so each cast stuttered movement.
 
@@ -90,7 +89,7 @@ History: original macro 7, 10, 12, 11 (2026-10-11) → Variant A (Scattershot �
 in one slot) → Condemnation in the debuff queue, Thunder on a key → 12, 6, 7, 10 with hold-E/R bursts
 (2026-10-11; holding a key on top of the held macro turned out not to work) → slots repeated for
 Condemnation chains (2026-10-12/13; cast lock and skip delays made it fiddly, no noticeable gain) →
-10, 12 (2026-10-13) → 10, 12, 5, 1 (2026-10-17) → current 10, 12, 5 (2026-10-17: Scattershot out, slot 5 empty since Noble Aura moved to R).
+10, 12 (2026-10-13) → 10, 12, 5, 1 (2026-10-17) → 10, 12, 5 (Scattershot out) → current 10, 12 (2026-10-17, Noble Aura moved to R).
 
 **Scattershot (2026-10-17): dropped to base Lv 1, unused.** Guides skip it or advise against points,
 and holding it alone during Stagger (2026-10-13 → 10-17) didn't feel like noticeably more DPS. Its
@@ -129,8 +128,8 @@ Levels: DPS / Heal (per preset, see the splits below).
 - Light of Protection (Lv 10 / 10): always-on party damage + defense
 - Earth Punishment (Lv 10 / 5): **the damage engine**: Condemnation always crits on its target, and every crit resets Condemnation. 30s CD, 10s DoT; Lv 20 adds +10s
 - Prayer of Amplification (Lv 10, DPS): self only (not party): +20% Attack, +20% PvE Damage Boost for 13s, 1 min CD
-- **Noble Aura (DPS, 2026-10-17, replaces Voice of Doom; level not confirmed, presumably 5 from
-  Voice of Doom's shards):** aura follows me 5 min and hits my target every 2s; mobile; 1 min CD.
+- **Noble Aura (DPS, 2026-10-17, Lv 9, replaces Voice of Doom):**
+  Aura follows me 5 min and hits my target every 2s; mobile; 1 min CD.
   Lv 5: +200 Aura Crit. (Voice of Doom, slotted earlier the same day, rooted me ~0.5s per cast.)
 - **Summon Resurrection (Lv 10, Heal, 2026-10-16):** revive within 40m, 2 min CD; Lv 5 = −1s cast (2s → 1s). Lv 10 adds 3s invincibility after the res
 - **Absolution (Lv 10, Heal, 2026-10-17):** party heal + removes debuffs; Lv 5 = −30s CD (1:30 → 1:00), Lv 10 = removes all debuffs (base: up to 2)
@@ -141,8 +140,8 @@ Shards reset free per Stigma, levels are per preset, and each preset gets the wh
 0 unspent, 2026-10-17).
 
 **DPS split (set in-game 2026-10-17):** Light of Protection **10** · Earth Punishment **10** (+10% Double Chance, party +5%) ·
-Prayer of Amplification **10** (×1.5 Empyrean Lord's Grace while active) · Noble Aura **5?** (was
-Voice of Doom 5) = 15 + 15 + 15 + 5 = 50. Next: **Earth Punishment 10 → 15** (20: +10% Attack and Defense, party +5%);
+Prayer of Amplification **10** (×1.5 Empyrean Lord's Grace while active) · Noble Aura **9** (in-game 2026-10-17; was
+Voice of Doom 5) = 15 + 15 + 15 + 13 = 58 by the cost table, more than the 50-shard pool noted above (unresolved). Noble Aura 10 is 2 shards away. Next: **Earth Punishment 10 → 15** (20: +10% Attack and Defense, party +5%);
 then decide between Earth Punishment 20 (40, doubles the always-crit Condemnation window) and Prayer or
 Light of Protection 15. Noble Aura 10 (+20 dmg to targets afflicted with…, truncated) not assessed yet.
 
