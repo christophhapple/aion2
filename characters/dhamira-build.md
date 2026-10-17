@@ -121,7 +121,9 @@ target; its unlocks are always on and also help the party. 44 shards in, 1 unspe
 5. Then decide: **Earth Punishment 15 → 20** (40, doubles the always-crit Condemnation window, ~13s →
    ~26s per minute) for solo, or **Light of Protection 12 → 15** (12, +10% Max HP for the party) if
    group content dominates by then.
-Light of Protection stays at 12 (its core is fully active); Power Burst stays at 5. 0 shards unspent (2026-10-17).
+Light of Protection stays at 12 (its core is fully active); Power Burst stays at 5. 0 shards unspent (2026-10-17). Shards can be
+reset free per Stigma (in-game 2026-10-17), so a Stigma that drops out of every preset gives its
+shards back for the next one; levels are shared across presets, so only one that's out of *both* is free.
 Costs per level: 1/2/4/8 in bands of 5 (`knowledge/endgame.md` "Stigma levels"). Shards: Abyss shop (10/50 bought at step 1, 2026-10-13; 40 more at 10k, then 15k/20k/25k).
 
 **If the Heal preset isn't enough** (content starts to bite): swap Absolution or Earth Punishment for
