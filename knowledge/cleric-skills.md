@@ -55,7 +55,7 @@ Stigma Lv 5/10/15/20, fixed. Truncated tooltip text marked "…".
 | **Benevolence** | Buff on caster 20s: heals 121–134 every 2s to caster + party within 40m (Lv 1); mobile | instant, 1 min 30s | +10s duration | 200 Stamina every 5s | 2% HP every 5s | cleansing every 5s |
 | **Prayer of Amplification** | **Caster only**: Attack +20%, PvE Damage Boost +20%, PvP Damage Boost +10% for 13s; mobile | instant, 1 min | +20% PvE / +10% PvP Damage Boost | ×1.5 [Empyrean Lord's Grace] effect… | ×1.5 [Earth's Grace] effect for the d… | +15% additional Attack |
 | **Summon Resurrection** | Revives a fallen party member within 40m; mobile | cast 2s, 2 min | −1s cast | invincible 3s after res | restores 20% Max HP | invincible 5s after res |
-| **Earth Punishment** | 4213–4322 Earth dmg + 432/s for 10s, one enemy 20m (Lv 5); **Condemnation always crits on its target**; 20 Stagger; mobile | 200 MP, instant, 30s | Condemnation crit | +10% Double Chance to caster and… (party +5%, 2026-10-11) | +10% Attack and Defense to caster… (party +5%) | +10s [Earth Punishment] and [Earth's Blessing] duration (in-game 2026-10-17) |
+| **Earth Punishment** | 4213–4322 Earth dmg + 432/s for 10s, one enemy 20m (Lv 5); **Condemnation always crits on its target**; 20 Stagger; mobile | 200 MP, instant, 30s | Condemnation crit | [Earth's Blessing]: +10% Double Chance to caster, party +5%, 10s (2026-10-17) | +10% Attack and Defense to caster… (party +5%) | +10s [Earth Punishment] and [Earth's Blessing] duration (in-game 2026-10-17) |
 | **Salvation** | Caster immune to damage and status effects 3s; not vs certain powerful attacks; unaffected by CD increase; shares a 30s lockout with Tenacity/Barrier-type effects | instant, 2 min 30s | +100% Incoming Heal | restores 20% Max HP at the end… | grants base [Salvation] effect to t… | triggers [Salvation] when afflicted… |
 | **Root** | 2795–2881 Earth dmg to up to 4 enemies within 4m of a target 20m away (Lv 1); 75% Root 10s (100% on NPCs); 15 Stagger | 200 MP, instant, 1 min | becomes mobile | +2s Root | +25% Root chance | ×2 DoT on rooted targets |
 | **Light of Protection** | Toggle, caster + nearby party (Lv 12; **level unlocks also apply to the party**, in-game 2026-10-13): PvE Damage Boost + PvE Damage Tolerance +16%, PvP both +8%, Incoming Heal +10%, Accuracy +100. **Lv 10: 15% / 7.5%**, rest the same (in-game 2026-10-17), i.e. +0.5% per level | toggle, 5s CD | +10% Incoming Heal | +100 Accuracy | +10% Max HP | +10% Perfect Chance |
@@ -68,8 +68,11 @@ Stigma Lv 5/10/15/20, fixed. Truncated tooltip text marked "…".
 
 - ~~Prayer of Amplification: party buff~~: the tooltip says Target: Caster (in-game 2026-10-13).
 - [Empyrean Lord's Grace] and [Earth's Grace] (Prayer Lv 10/15) are passives, see "Passive". Earth Punishment's
-  Lv 20 line names **[Earth's Blessing]**, not [Earth's Grace] (in-game 2026-10-17). What Earth's Blessing is
-  (e.g. the skill's own effect) isn't recorded.
+  Lv 20 line names **[Earth's Blessing]**, not [Earth's Grace] (in-game 2026-10-17). **Earth's Blessing** is Earth
+  Punishment's own named buff (Lv 10 effect): on hit, caster Double Chance +10%, party members +5%, for 10s.
+  **Not received while the Chanter's [Power of the Storm] is active** (in-game 2026-10-17 tooltip).
+- Earth Punishment at **Lv 10**: 5332–5500 Earth damage + 550 every 1s for 10s, Nontarget, Mobile, Single
+  Target (Hostile), 20m, Mace only (in-game 2026-10-17 tooltip).
 
 ## Passive
 Tooltips read in-game 2026-10-13. All always-on for the caster, Mace required. Values at the
