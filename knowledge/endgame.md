@@ -208,6 +208,11 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
   regional quests 58 = ~316, plus Shugo shop 50 and Nightmare shop 50 (**Nightmare shop: Daevanion Crystal 300 Phantasmal Fragments, 50 per character**, in-game 2026-10-13;
   reset period not shown) =
   **~416**. Rift quests add a few. So ~150 short of the PvE boards: prioritize (see class notes).
+- **Multi-hit Resist:** "Reduces target's Multi-hit Chance", i.e. it lowers the chance that an
+  attacker's hit on you becomes a Multi-hit. Daevanion has 3 nodes per class, +4.5% total [313]. No guide
+  rates it; whether PvE monsters Multi-hit at all: not found. Purely defensive and small, so low priority for
+  PvE (inference). Other "Resist" stats of this kind: Double Resist, Perfect Resist, Critical Hit Resist [313].
+  (guide, 2026-10-17, unverified)
 
 ## Stigma levels: can you max all four?
 **In theory roughly yes, but only after buying out every shop: a long grind** (guides, 2026-10).
