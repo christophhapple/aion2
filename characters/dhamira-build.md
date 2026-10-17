@@ -34,7 +34,7 @@ levels are per preset (in-game 2026-10-17). Switch via Batch Preset Equip (`know
   of Protection (replacing Voice of Doom), so the comparison is moot.
 - Heal drops Prayer (self-only) and Noble Aura; Earth Punishment stays (damage engine, party Double
   Chance at Lv 10, costs no attention in the macro).
-- Flex Stigma: **Absolution** (party heal + cleanse; reactive, fits the trigger map; the only cleanse since 2026-10-17). Alternative
+- Flex Stigma: **Absolution** (party heal + cleanse; reactive, fits the trigger map). Alternative
   **Yustiel's Power** (party −20% PvE damage taken, 10s) once fights have known big hits; needs timing.
 - Specialties and passives: checked 2026-10-17, no reason to differ. Light of Regeneration keeps 1 + 4
   (Move Speed) in Heal too; option 2 (+20% healing ≤50% HP) was the alternative.
@@ -222,13 +222,13 @@ Options per skill: `knowledge/cleric-skills.md`. Lv 20 slots locked everywhere (
 |---|---|---|
 | Judgment Thunder | 1 -20% MP consumed · 2 up to +12% damage on fewer targets | Own damage and MP over enemy slow/Root. Option 2 pays off on single bosses. No cooldown, so -20% MP means more casts per refill |
 | Debilitating Mark | 2 -15% target Defense · 4 +10% enemy Damage Boost reduction | Debuff skill: maximize debuffs. Not 1 (no MP cost + MP restore): MP isn't short. Not 3 (Stun chance) |
-| Divine Aura | 3 +50% attack speed · 4 +3s aura duration (since 2026-10-17) | Duration over AoE (user's choice). Without option 2 it likely hits only the selected target (base tooltip not read). Earlier: 2 AoE · 3. Candidate for the 3rd slot (Lv 20): option 5, -10s CD |
+| Divine Aura | 3 +50% attack speed · 4 +3s aura duration (since 2026-10-17) | Single target on purpose: enough AoE elsewhere, more single-target damage wanted (2026-10-17). Without option 2 it likely hits only the selected target. Earlier: 2 AoE · 3. Candidate for the 3rd slot (Lv 20): option 5, -10s CD |
 | Chain of Torment | 2 +3s DoT · 4 +10% enemy Damage Tolerance reduction | Debuff skill: maximize debuffs; CC (slow, Knockdown) least important. +3s DoT also widens Condemnation's window |
 | Lightning Strike Scattershot | none from 2026-10-17 (below Lv 8 once lowered to base 1); were 3 mobile · 4 Multi-Hit | Dropped to base Lv 1, unused (not mobile without option 3) |
 | Light of Regeneration | 1 +5% Defense · 4 +5% Move Speed | Always up (cooldown = duration = 30s), so party-wide buffs with 100% uptime beat extra healing. Move Speed also serves mobility. Candidate for the 3rd slot (Lv 20): option 5, +5% PvE Damage Tolerance, same logic |
 | Condemnation | 2 up to +12% damage on fewer targets · 4 cooldown reset on Crit | Cooldown reset is the key pick (more casts inside Chain's window; Crit rate feeds it). No Root (CC), no MP (not needed). Candidate for the 3rd slot (Lv 20): option 5, Multi-Hit |
 | Healing Light | 1 +2 consecutive uses · 2 +20% healing at ≤50% HP (since 2026-10-17) | Burst healing over the 50% cleanse chance. Earlier: 2 · 3 (cleanse). Candidate for the 3rd slot (Lv 20): option 5, -2s CD |
-| Radiant Recovery | 2 +1 consecutive use · 3 -3s CD (12 → 9s) (since 2026-10-17) | More party healing over cleansing 2. Earlier: 1 (cleanse 2) · 3. Candidate for the 3rd slot (Lv 20): option 5, +5% HP restored |
+| Radiant Recovery | 2 +1 consecutive use · 3 -3s CD (12 → 9s) (since 2026-10-17) | More party healing over cleansing 2; it still removes 1 without a specialty, which is enough. Earlier: 1 (cleanse 2) · 3. Candidate for the 3rd slot (Lv 20): option 5, +5% HP restored |
 | Bolt | 3 +30% Skill Speed · 4 up to +20% damage on fewer targets | Skill Speed = faster charging (likely: cast times shown 0.4/0.7/1.1s). Fewer targets = boss damage. No Stun (CC). Candidate for the 3rd slot (Lv 20): option 5, guaranteed Crit, on the biggest hit in the kit |
 | Defiance | 1 chain skill Blessing of Regeneration · 4 +2s Tenacity (slot 2 since 2026-10-17, Lv 14) | Blessing heals ~2.1k + 40% MP, more than option 3's 10% HP at ~13k max HP. Option 4: longer CC immunity. Lv 16 option 5: +50% PvE Damage Tolerance during Tenacity |
 | Earth's Retribution | 2 +20% Discharge trigger chance · 4 -7s Bolt CD on Discharge (since 2026-10-17) | Left click is used a lot, so more Discharge procs (damage + more Bolt CD cuts) add up; MP isn't short. Earlier: 1 +20% MP restored · 4 |
@@ -266,7 +266,7 @@ Everything pressed on top of the held macro.
 - **One person's HP drops sharply** → Healing Light (6s CD; heals me + the lowest-HP member, +20%
   at ≤50% HP, +2 consecutive uses). Most-pressed.
 - **Whole party took AoE damage** → Radiant Recovery (9s CD, +1 consecutive use).
-- **A debuff needs removing** → Heal preset: Absolution (E). DPS preset: no cleanse since 2026-10-17 (Healing Light and Radiant Recovery cleanse options dropped).
+- **A debuff needs removing** → Radiant Recovery (removes 1 without any specialty; enough, user 2026-10-17). Heal preset: Absolution (E) for more.
 
 **Damage**
 - **Stagger interrupt phase** → a fully charged Bolt (35 gauge).
