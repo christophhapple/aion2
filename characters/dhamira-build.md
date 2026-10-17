@@ -161,7 +161,7 @@ maxed, the rest get levelled evenly.
 Lv 14: Earth's Retribution, Judgment Thunder, Debilitating Mark, Chain of Torment, Condemnation, Divine
 Aura, Bolt, Light of Regeneration, Radiant Recovery, Healing Light (13 → 14 by 2026-10-13) · Lv 12: Lightning Strike
 Scattershot (11 → 12 on 2026-10-13; **base 10 → 1 on 2026-10-17**, see below) · Defiance: base 10 (lowered 10 → 8 on 2026-10-16, back to 10 on 2026-10-17). Stigmas: see above.
-Passives (in-game 2026-10-13, tile level incl. bonus): Empyrean Lord's Grace 13 (10+3) · Radiant Benediction 12 (10+2) · Earth's Grace 12 (10+2) · Healing Enhancement 11 (10+1) · Immortal Veil 12 (10+2, base 8 → 10 on 2026-10-16) · Warm Benediction 9 (7+2) · Survival Willpower 9 · Prayer of Concentration 8 · **since 2026-10-17 (base): Warm Benediction 10, Survival Willpower 10, Prayer of Concentration 5** · Empyrean Lord's Benediction 0 · Heal Block 0 (both reset, low value). Effects + icons: `knowledge/cleric-skills.md` "Passive".
+Passives (in-game 2026-10-13, tile level incl. bonus): Empyrean Lord's Grace 13 (10+3) · Radiant Benediction 12 (10+2) · Earth's Grace 12 (10+2) · Healing Enhancement 11 (10+1) · Immortal Veil 12 (10+2, base 8 → 10 on 2026-10-16) · Warm Benediction 9 (7+2) · Survival Willpower 9 · Prayer of Concentration 8 · **since 2026-10-17 (base): Warm Benediction 10, Survival Willpower 10, Prayer of Concentration 5** · Empyrean Lord's Benediction 1 · Heal Block 1 (both reset to the minimum, 0 points invested; low value). Effects + icons: `knowledge/cleric-skills.md` "Passive".
 
 **Passive plan (2026-10-13):** Empyrean Lord's Grace, Earth's Grace, Healing Enhancement are at base 10
 (the skill-point cap; header bonuses +3/+2/+1), so done. Spare points: **Immortal Veil** (+14% Defense),
@@ -171,7 +171,7 @@ on hit, low effort; needs more points than spare now). **Done 2026-10-13:** Heal
 **Done 2026-10-17: Scattershot base 10 → 1** (lowest possible; its Daevanion levels still apply).
 Freed points went to **Defiance 8 → 10** (base for Daevanion 12), **Warm Benediction → 10**,
 **Survival Willpower → 10**, with **Prayer of Concentration down to 5** (weakest passive left).
-Every passive except Prayer of Concentration (5), Empyrean Lord's Benediction and Heal Block (0) is now
+Every passive except Prayer of Concentration (5), Empyrean Lord's Benediction and Heal Block (Lv 1, no points) is now
 at base 10.
 
 Everything above is Mastery preset 1; Mastery preset 2 (Heal) is a copy with only the hotbar/macro

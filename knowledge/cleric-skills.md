@@ -113,7 +113,8 @@ so passives likely also cap at Lv 10 from skill points, like actives (inference)
 ## Skill levels
 - **Where levels come from** (in-game 2026-10-11): skill points raise a skill to **Lv 10**; Lv 11–14 come
   from **Daevanion** board nodes; Lv 15–20 from **Arcana**. Leftover skill points can only go to passives; **passive points can be reset for free** (in-game 2026-10-13); **active skill points too** (in-game 2026-10-16), so levels 1–10 on actives can be moved around freely.
-  An active can be lowered to **Lv 1** (not 0); **Daevanion levels still apply on top** of a lowered
+  An active can be lowered to **Lv 1** (not 0); passives too: **Lv 1 = 0 skill points invested**
+  (in-game 2026-10-17); **Daevanion levels still apply on top** of a lowered
   base (in-game 2026-10-17). **Daevanion boards can be reset** (in-game 2026-10-17). Skill-point cost
   per level: not known yet.
 - The skill window's tooltip shows Daevanion levels as a bonus: "Earth's Retribution (+4)" at Lv 14
