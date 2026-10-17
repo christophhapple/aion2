@@ -5,9 +5,13 @@ All in-game 2026-10-11 unless dated otherwise.
 - **Skill window** has two tabs: **Mastery** (active + passive skills, their levels and specialties,
   the hotbar and the macro) and **Stigma**. Each tab has **3 presets** (1/2/3). **Stigma levels
   are per preset**: the same Stigma can have different levels in different presets (in-game
-  2026-10-17). **Each preset spends the full shard pool on its own** (in-game 2026-10-17). Besides these there are gear, pet and Arcana presets, and **meta presets**
-  that combine a set of the others (in-game 2026-10-17, per the user). **Daevanion has no presets**
+  2026-10-17). **Each preset spends the full shard pool on its own** (in-game 2026-10-17). Besides these there are gear, pet and Arcana presets. **Daevanion has no presets**
   (in-game 2026-10-17).
+- **Batch Preset Equip** (the game's name; in-game 2026-10-17, screenshot): **Set 1/2/3**, each
+  storing one preset number (1–3) per area: **Gear, Arcana, Skills, Title, Wings, Pantheon, Genus
+  Insight**. Equipping a Set applies all of them at once. While a Set is equipped you can switch single
+  areas ("temporary equip", marked blue); **Save Changes** writes them into the Set, otherwise they're
+  lost when you equip a Set again. Open: whether "Skills" covers both Mastery and Stigma.
 
 - **Hotbar:** 12 slots, each can have a key assigned (mouse buttons count as keys). A key is optional.
 - **Skill queue per slot:** a slot holds up to 4 skills. Pressing it fires the first skill in the
