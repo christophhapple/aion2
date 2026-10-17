@@ -158,15 +158,21 @@ Costs per level: 1/2/4/8 in bands of 5 (`knowledge/endgame.md` "Stigma levels").
 Yustiel's Power (defensive cooldown), Salvation (self) or Benevolence (sustain). Open questions then: does the group run a Chanter (Light of Protection doesn't stack with Undefeated Mantra, `knowledge/cleric-skills.md`; weakens Light of
 Protection)? Are you the only healer?
 
-## Skill levels (in-game 2026-10-11)
-All actives are at Lv 10 from skill points (the cap); the rest comes from Daevanion, a few nodes still
-missing. Arcana (Lv 15–20) not started. Spare skill points go to passives: the important ones are
-maxed, the rest get levelled evenly.
+## Skill levels (in-game 2026-10-17: base + Daevanion, gear and Arcana unequipped)
+Levels come from skill points (base, cap 10), Daevanion (+1–4, up to 14), gear (+skill levels) and
+Arcana. Read with gear and Arcana unequipped: the baseline Arcana builds on. Stigmas: see above.
 
-Lv 14: Earth's Retribution, Judgment Thunder, Debilitating Mark, Chain of Torment, Condemnation, Divine
-Aura, Bolt, Light of Regeneration, Radiant Recovery, Healing Light (13 → 14 by 2026-10-13) · Lv 12: Lightning Strike
-Scattershot (11 → 12 on 2026-10-13; **base 10 → 1 on 2026-10-17**, see below) · Defiance: base 10 (lowered 10 → 8 on 2026-10-16, back to 10 on 2026-10-17). Stigmas: see above.
-Passives (in-game 2026-10-13, tile level incl. bonus): Empyrean Lord's Grace 13 (10+3) · Radiant Benediction 12 (10+2) · Earth's Grace 12 (10+2) · Healing Enhancement 11 (10+1) · Immortal Veil 12 (10+2, base 8 → 10 on 2026-10-16) · Warm Benediction 9 (7+2) · Survival Willpower 9 · Prayer of Concentration 8 · **since 2026-10-17 (base): Warm Benediction 10, Survival Willpower 10, Prayer of Concentration 5** · Empyrean Lord's Benediction 1 · Heal Block 1 (both reset to the minimum, 0 points invested; low value). Effects + icons: `knowledge/cleric-skills.md` "Passive".
+| Skill | Base | Daevanion | Total |
+|---|---|---|---|
+| Earth's Retribution, Judgment Thunder, Debilitating Mark, Divine Aura, Chain of Torment, Light of Regeneration, Condemnation, Healing Light, Radiant Recovery, Bolt | 10 | +4 | **14** (max) |
+| Defiance | 10 | +4 | **14** (max; slot 2 open since Lv 12) |
+| Lightning Strike Scattershot | 1 | 0 | 1 (unused) |
+| Warm Benediction, Empyrean Lord's Grace, Healing Enhancement, Immortal Veil, Earth's Grace, Survival Willpower, Radiant Benediction | 10 | +4 | **14** (max) |
+| Prayer of Concentration | 5 | +3 | 8 (last Triniel green node → 9) |
+| Empyrean Lord's Benediction, Heal Block | 1 | 0 | 1 (no points, low value) |
+
+Effects + icons: `knowledge/cleric-skills.md` "Passive". Before the 2026-10-17 rework: Scattershot 12,
+passives partly 11–13.
 
 **Passive plan (2026-10-13):** Empyrean Lord's Grace, Earth's Grace, Healing Enhancement are at base 10
 (the skill-point cap; header bonuses +3/+2/+1), so done. Spare points: **Immortal Veil** (+14% Defense),
@@ -206,7 +212,7 @@ Options per skill: `knowledge/cleric-skills.md`. Lv 20 slots locked everywhere (
 | Healing Light | 2 +20% healing at ≤50% HP · 3 50% cleanse chance | Cleanse over more raw healing (+2% HP). Not 1 (+2 consecutive uses): unclear how it works, and the 6s CD is short anyway. Specific fights may call for other picks later. Candidate for the 3rd slot (Lv 20): option 5, -2s CD |
 | Radiant Recovery | 1 cleanse up to 2 debuffs · 3 -3s CD (12 → 9s) | Same as Healing Light: cleanse first, no consecutive uses for now; may revisit. Matches the KR picks. Candidate for the 3rd slot (Lv 20): option 5, +5% HP restored |
 | Bolt | 3 +30% Skill Speed · 4 up to +20% damage on fewer targets | Skill Speed = faster charging (likely: cast times shown 0.4/0.7/1.1s). Fewer targets = boss damage. No Stun (CC). Candidate for the 3rd slot (Lv 20): option 5, guaranteed Crit, on the biggest hit in the kit |
-| Defiance | 1 chain skill Blessing of Regeneration (only 1 slot: Lv 8 since 2026-10-16) | Blessing heals ~2.1k + 40% MP, more than option 3's 10% HP at ~13k max HP. Option 2 (1000 Stamina) might be useful. All situational. Lv 12 (Daevanion) opens slot 2 |
+| Defiance | 1 chain skill Blessing of Regeneration · slot 2 open since 2026-10-17 (Lv 14): planned option 4 (+2s Tenacity), not confirmed in-game | Blessing heals ~2.1k + 40% MP, more than option 3's 10% HP at ~13k max HP. Option 2 (1000 Stamina) might be useful. All situational. |
 | Earth's Retribution | 1 +20% MP restored · 4 -7s Bolt CD (since 2026-10-13) | Option 1: when MP runs out, refill fast. Option 4 back in (replacing 3, +50% Multi-Hit) since left click is now used much more, so it triggers often; earlier it was dropped because Retribution was rarely cast. Not 2 (more Discharge) either: Discharge does deal damage, but Retribution is cast too rarely for more procs to add up |
 
 ## Leveling priority (2026-10-11)
@@ -218,7 +224,7 @@ evenly). Further levels come from **Daevanion** (11–14) and **Arcana** (15–2
 1. ~~Lightning Strike Scattershot 11 → 12~~ done 2026-10-13, Multi-Hit equipped. **Planned
    2026-10-17:** reset Scattershot's Daevanion levels (boards can be reset) and spend them on Defiance,
    if the board allows.
-2. **Defiance → 12:** opens slot 2 + option 4 (+2s Tenacity). Base back to 10 (2026-10-17), now Daevanion +2.
+2. ~~**Defiance → 12**~~ done 2026-10-17, now Lv 14 (Daevanion +4): slot 2 open, option 4 (+2s Tenacity) planned.
 3. ~~Healing Light 13 → 14~~ done (by 2026-10-13).
 
 **Boards reworked 2026-10-17.** Nezekan, Zikel, Vaizel and Triniel were checked for shorter paths and
