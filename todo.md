@@ -22,7 +22,6 @@ tracker itself goes in `backlog.md`.
 - [ ] Check (once a pet is fully levelled): does targeting a monster of that pet type show it as done?
 - [ ] *(low priority)* Check: what do the Abyss Rare/Epic/Unique Command Scrolls reward?
 - [ ] Verify: Nightmare: number of floors/levels, Phantasmal Fragments per clear (shop: prices recorded, limits lifetime, 2026-10-13)
-- [ ] Check: is there really only one kind of Clash Rune (same stat lines on every rune)?
 - [ ] Verify: Transfer tab: what does the preview show, and what makes a piece an eligible source? (once you have eligible gear)
 - [ ] Check (crafting NPC): any crafting energy or daily limit? Can a craft be reset/unlearned?
 - [ ] Legion (if you join one): does the Legion menu show missions or Legion Coin? What does the Legion Merchant sell?
@@ -33,6 +32,7 @@ tracker itself goes in `backlog.md`.
 - [ ] *(low priority, later)* Dhamira: try Condemnation option 1 (+100 MP per hit) instead of option 2 (+12% on fewer targets) for a few fights; compare how often you need to refill MP with the current macro (10, 12)
 
 ## Done
+- [x] Clash Rune: only one kind, same stat lines on every rune (2026-10-17)
 - [x] Dhamira DPS + Heal presets set up in-game: Stigma 1/2, Mastery 1/2 (2026-10-17)
 - [x] Invasion key count (x/7) only shows on the Invasion screen inside an Invasion, not from outside (2026-10-15)
 - [x] Odyle Energy refills +15 per 3 h without membership (2026-10-15)

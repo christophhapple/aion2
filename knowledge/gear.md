@@ -90,7 +90,7 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
 - Grade "Special" (teal background). Stats on a +2 rune: PvE Damage Tolerance 0.5% (+1% from
   enhancement), PvE Damage Boost 0.5%, Penetration 100, Combat Speed 1%, Multi-hit Chance 1%; required
   level 10 (in-game 2026-10-13). So enhancing adds only +1 GS per level but also boosts a stat line.
-- Apparently only one kind of Clash Rune (user's impression 2026-10-13, unconfirmed), so a spare from
+- Only one kind of Clash Rune, same stat lines on every rune (in-game 2026-10-17), so a spare from
   any source works as backup.
 - Upgrade: Clash Rune Enhance Scrolls + Kina + Enhance Stones. Success: +1 100%, +2 80%, +3 66%,
   +4 50%, … +10 10%; no pity [20][21].
