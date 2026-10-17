@@ -159,5 +159,8 @@ Guides disagree; most agree on the first point.
 - Manastones: weapon → Weapon Damage Boost, Crit Damage Boost, Damage Boost, Attack; armor → one Crit
   Damage Boost, rest Attack; skip Front Attack [111].
 - Daevanion: blue skill nodes first, then Cooldown Reduction + Combat Speed (Nezekan), Damage Boost/
-  Tolerance (Zikel), Crit Damage (Vaizel) [111].
+  Tolerance (Zikel), Crit Damage (Vaizel) [111]. Skill nodes to path first: Healing Light, Radiant
+  Recovery; passives Healing Enhancement + Warm Benediction (Nezekan), Prayer of Concentration + Radiant
+  Benediction (Zikel) [314]. Most-raised skill nodes in the planner: Empyrean Lord's Benediction, Radiant
+  Recovery, Empyrean Lord's Grace, +4 each [126] (guides, 2026-10-17, unverified).
 - Titles: see `titles.md`.
