@@ -17,7 +17,7 @@ administrator. ([aion2guidance](https://aion2guidance.com/en/dps-meter/), 2026-1
 | Tool | Notes | Regions | Uploads data? |
 |---|---|---|---|
 | [A2Tools](https://github.com/taengu/A2Tools-DPS-Meter) | Open source (GPL-3), most active (~600 commits, v2.0.62 on 2026-10-12), MSI installer, has an **offline build** | "any region" | Optional shareable logs; offline build has none |
-| [RATmeter](https://github.com/Kuroukihime/AIon2-Dps-Meter) | Open source, zip (no installer), party DPS, buff/cooldown overlays, stat-efficiency calculator. v1.11.3 on 2026-10-01 | Global | No, "all data stays local" |
+| [RATmeter](https://github.com/Kuroukihime/AIon2-Dps-Meter) | Works on EU / Nania (in-game 2026-10-17). Open source, zip (no installer), party DPS, buff/cooldown overlays, stat-efficiency calculator. v1.11.3 on 2026-10-01 | Global | No, "all data stays local" |
 | [Abyss Logs](https://github.com/karim-mo/aion2-abysslogs-dps-meter) | Overlay + website with public logs and leaderboards. Small repo (10 commits) | TW, KR, NA, SA, EU, Asia | Yes, one-click or auto upload |
 | Aletheia | Taiwan-focused, analyzer features paywalled, needs Discord login | TW; Global unconfirmed | Free tier auto-uploads |
 | Shugo.GG | Open beta, needs Discord-linked account | not stated | Yes |
