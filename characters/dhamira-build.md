@@ -9,7 +9,7 @@ Target content: mostly group PvE.
 
 ## Presets (decided 2026-10-17)
 Mastery (levels, specialties, hotbar, macro) and Stigma are separate preset tabs; a preset pair is
-"Mastery n + Stigma n". Stigma levels belong to the Stigma, not the preset (in-game 2026-10-17).
+"Mastery n + Stigma n". Stigma levels are per preset (in-game 2026-10-17).
 
 | | **1 · DPS** | **2 · Heal** |
 |---|---|---|
@@ -122,8 +122,8 @@ target; its unlocks are always on and also help the party. 44 shards in, 1 unspe
    ~26s per minute) for solo, or **Light of Protection 12 → 15** (12, +10% Max HP for the party) if
    group content dominates by then.
 Light of Protection stays at 12 (its core is fully active); Power Burst stays at 5. 0 shards unspent (2026-10-17). Shards can be
-reset free per Stigma (in-game 2026-10-17), so a Stigma that drops out of every preset gives its
-shards back for the next one; levels are shared across presets, so only one that's out of *both* is free.
+reset free per Stigma, and levels are per preset (in-game 2026-10-17), so each preset can have its
+own shard split. The levels above are the DPS preset's; the Heal preset's split is still open.
 Costs per level: 1/2/4/8 in bands of 5 (`knowledge/endgame.md` "Stigma levels"). Shards: Abyss shop (10/50 bought at step 1, 2026-10-13; 40 more at 10k, then 15k/20k/25k).
 
 **If the Heal preset isn't enough** (content starts to bite): swap Absolution or Earth Punishment for
