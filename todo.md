@@ -14,7 +14,6 @@ tracker itself goes in `backlog.md`.
 - [ ] Check: have you done a first Conquest clear of Krao Cave and Draupnir? Each gives a one-time ~2,480-stone achievement. Also note your Conquest pity progress (x/14) while you're there
 - [ ] Verify: after 2026-10-25 (DST change), do event times stay on the local clock? (Rift should still open at 02, 05, 08 … 23)
 - [ ] Verify: other siege days (Mon/Thu 21:00?) and Nahma (Fri/Sun 21:00?). Saturday 21:00 is confirmed
-- [ ] Verify: Substance Morph: can an unused Clash Rune Enhance Scroll become 100 Enhance Stones? (Do you have spare ones?)
 - [ ] Verify (Abyss, low priority): what happens when you die there (penalty, respawn point)? Does Abyss time keep running while dead or standing in Western Root?
 - [ ] Quick wins check: Pets levelled (to 3)? Joined a Legion? Hamme: unused Daevanion Crystals or Wisdom Stones in the bag? See `knowledge/progression.md` "Often missed". (Dhamira: no unused crystals or Wisdom Stones, 2026-10-13)
 - [ ] Check (once a pet is fully levelled): does targeting a monster of that pet type show it as done?
@@ -26,6 +25,7 @@ tracker itself goes in `backlog.md`.
 - [ ] *(at GS 1600)* Dhamira: revisit Manastones. All gear has cheap ones with only a few rerolls (2026-10-13); upgrade on pieces you keep
 
 ## Done
+- [x] Substance Morph: Clash Rune Enhance Scroll → 100 Enhance Stones works, but not worth it (2026-10-17)
 - [x] Crafting: no energy or daily limit, only Kina and materials; no profession to commit to, nothing to learn or unlearn (2026-10-17)
 - [x] No unopened Rare Theostone Chest in the bag; Genus Analyze: 4 Soul Crystals per unlocked line, +4 extra per locked line (2026-10-17)
 - [x] Dhamira: Scattershot Daevanion levels reset, spent on Defiance (2026-10-17)

@@ -10,8 +10,8 @@ Researched 2026-10-10. Few solid global sources; best is [70] (2026-10-06). Unve
   sell on the Market (in-game 2026-10-13) and later **top-tier crafted gear**
   (Dragon Lord, item IL 102 per piece vs. IL 54–86 for expedition sets [70][72][76]), which is expensive.
 - Gathering costs no energy (none found), so it's a reasonable **gap filler** between scheduled events.
-- Possible stone trick: Substance Morph turns an **unused Clash Rune Enhance Scroll into 100 Enhance
-  Stones** (search summary only; verify).
+- Substance Morph can turn an **unused Clash Rune Enhance Scroll into 100 Enhance Stones** (in-game
+  2026-10-17), but it's **not worth it** (player's judgement): keep spare scrolls for the runes.
 
 ## Professions
 - **Five crafts:** Blacksmithing, Armorsmithing, Handicrafting, Alchemy, Cooking [70][72].
