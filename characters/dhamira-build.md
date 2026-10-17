@@ -7,7 +7,7 @@ specialties; updated piecemeal since).
 
 Target content: mostly group PvE.
 
-## Presets (decided 2026-10-17)
+## Presets (decided and set up in-game 2026-10-17)
 Mastery (levels, specialties, hotbar, macro) and Stigma are separate preset tabs; a preset pair is
 "Mastery n + Stigma n". Stigma levels are per preset (in-game 2026-10-17).
 
@@ -60,7 +60,7 @@ The "whenever ready" button. Mechanics (`knowledge/controls.md`): the macro and 
 **sequences that cycle**; each macro entry gives its slot one try (one skill from its queue), anything
 not castable is skipped, and the delay applies even to skipped entries.
 
-**Current setup (Mastery 1 set in-game 2026-10-17; Mastery 2 not yet):** macro **10, 12, 5, 1**,
+**Current setup (Mastery 1 and 2 set in-game 2026-10-17):** macro **10, 12, 5, 1**,
 all delays 10 ms. (The macro window labels each entry with the first skill of that slot's queue.)
 - **Slot 10:** Chain of Torment → Prayer of Amplification (DPS preset only) → Light of Regeneration → Condemnation
 - **Slot 12:** Debilitating Mark → Divine Aura → Earth Punishment → Judgment Thunder
@@ -137,7 +137,7 @@ Prayer of Amplification **10** (×1.5 Empyrean Lord's Grace while active) · Voi
 then decide between Earth Punishment 20 (40, doubles the always-crit Condemnation window) and Prayer or
 Light of Protection 15. Voice of Doom 10 only removes Protective Shields, low priority.
 
-**Heal split:** Light of Protection **10** · Absolution **10** (−30s CD, removes all debuffs) ·
+**Heal split (set in-game 2026-10-17):** Light of Protection **10** · Absolution **10** (−30s CD, removes all debuffs) ·
 Summon Resurrection **10** (3s invincibility after the res) · Earth Punishment **5** (Condemnation
 crit) = 15 + 15 + 15 + 5 = 50. Next: **Earth Punishment 5 → 10** (10: party Double Chance), then
 **Light of Protection 10 → 15** (20: +10% Max HP for the party).

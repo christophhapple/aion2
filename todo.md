@@ -5,7 +5,7 @@ tracker itself goes in `backlog.md`.
 
 ## Open
 - [ ] Dhamira, test: Noble Aura vs Light of Protection in the DPS preset, 1 min each on the training dummy (or clear time on the same pack). See `characters/dhamira-build.md` "Presets"
-- [ ] Dhamira: set up preset 2 (Heal). Stigma 2: Light of Protection 10, Absolution 10, Summon Resurrection 10, Earth Punishment 5 (50 shards). Stigma 1: done (2026-10-17). Mastery 2: copy of 1, slot 10 without Prayer of Amplification, 4 = Resurrection, E = Absolution, Q empty. Preset 1 (DPS): Stigma 1 = Prayer + Voice of Doom instead of Resurrection/Absolution; reset Power Burst, its shards → Voice of Doom Lv 5; Q (slot 5) = Voice of Doom, 4 empty. Macro in both: 10, 12, 5, 1. Skills, hotbar, macro: done in Mastery 1 (2026-10-17), copy to 2. Daevanion: reset Scattershot's 2 levels, spend on Defiance (→ 12) if the board allows. See `characters/dhamira-build.md` "Presets"
+- [ ] Dhamira, Daevanion (later): reset Scattershot's 2 levels, spend on Defiance (→ 12) if the board allows; then Defiance option 4 (+2s Tenacity) in slot 2. See `characters/dhamira-build.md` "Leveling priority"
 - [ ] Check (new 2026-10-16): bag: any unopened Rare Theostone Chest (Lv 45 regional quests)? · Genus Analyze cost now, per open/locked line
 - [ ] Easy achievement: next Fire Temple **Conquest** run, lie down (emote) in the boss room → title "Kromede Will Remember That" (guide, unverified; whether before or after the kill isn't stated). See `knowledge/achievements.md`
 - [ ] Easy achievements: use 1 Transformation Candy (Sweet Tooth, 27k Kina) · buy 5 items from the Black Cloud Merchant (Black Cloud Merchants Regular, title Big Spender, 27k Kina) · place a Kisk 5 times (Kisk Installer, 40k Kina + 13 Status Effect Resist Scrolls). Rewards are totals over all tiers, see `knowledge/achievements.md`
@@ -33,6 +33,7 @@ tracker itself goes in `backlog.md`.
 - [ ] *(low priority, later)* Dhamira: try Condemnation option 1 (+100 MP per hit) instead of option 2 (+12% on fewer targets) for a few fights; compare how often you need to refill MP with the current macro (10, 12)
 
 ## Done
+- [x] Dhamira DPS + Heal presets set up in-game: Stigma 1/2, Mastery 1/2 (2026-10-17)
 - [x] Invasion key count (x/7) only shows on the Invasion screen inside an Invasion, not from outside (2026-10-15)
 - [x] Odyle Energy refills +15 per 3 h without membership (2026-10-15)
 - [x] Halloween event merchant found; quests, chest and login reward match the article (2026-10-14)
