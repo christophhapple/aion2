@@ -219,7 +219,8 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
   300 Centuryroot Tokens each (in-game 2026-10-13; the game's name for the Shugo shop currency, in-game 2026-10-11; "Shugo Coins" in guides is likely the same currency). Max ≈ **300**, i.e. just enough for 4 × 20.
 - **Reset is free and per Stigma**: shards come back and can go into another Stigma (in-game 2026-10-17).
   Levels are **per preset**: one Stigma can have different levels in different presets (in-game
-  2026-10-17). Unconfirmed: whether each preset spends the full shard pool on its own.
+  2026-10-17). **Each preset spends the full shard pool on its own** (in-game 2026-10-17), so a
+  second preset costs nothing.
 - Usual approach: one key Stigma to 20, the others at 5/10/15; the last 5 levels cost 40 of the 75 [128].
 
 ## Other caps
