@@ -8,8 +8,9 @@ specialties; updated piecemeal since).
 Target content: mostly group PvE.
 
 ## Presets (decided and set up in-game 2026-10-17)
-Mastery (levels, specialties, hotbar, macro) and Stigma are separate preset tabs; a preset pair is
-"Mastery n + Stigma n". Stigma levels are per preset (in-game 2026-10-17).
+Mastery (levels, specialties, hotbar, macro) and Stigma are separate tabs but **one linked "Skills"
+preset**: Skills 1 = Mastery 1 + Stigma 1 (DPS), Skills 2 = Mastery 2 + Stigma 2 (Heal). Stigma
+levels are per preset (in-game 2026-10-17). Switch via Batch Preset Equip (`knowledge/controls.md`).
 
 | | **1 · DPS** | **2 · Heal** |
 |---|---|---|
