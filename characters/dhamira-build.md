@@ -60,13 +60,10 @@ The "whenever ready" button. Mechanics (`knowledge/controls.md`): the macro and 
 **sequences that cycle**; each macro entry gives its slot one try (one skill from its queue), anything
 not castable is skipped, and the delay applies even to skipped entries.
 
-**Current setup (in-game 2026-10-13, screenshot):** macro = **10, 12**, both delays 10 ms. (The macro
-window labels each entry with the first skill of that slot's queue: "Chain of Torment",
-"Debilitating Mark".)
+**Current setup (Mastery 1 set in-game 2026-10-17; Mastery 2 not yet):** macro **10, 12, 5, 1**,
+all delays 10 ms. (The macro window labels each entry with the first skill of that slot's queue.)
 - **Slot 10:** Chain of Torment → Prayer of Amplification (DPS preset only) → Light of Regeneration → Condemnation
 - **Slot 12:** Debilitating Mark → Divine Aura → Earth Punishment → Judgment Thunder
-
-**Planned 2026-10-17 (not set up yet):** macro **10, 12, 5, 1**, all delays 10 ms.
 - Slot 5 (Q) = Voice of Doom in the DPS preset. Slots 10 and 12 are full (max 4 per queue), so it
   gets its own slot. In the Heal preset slot 5 is empty and the entry is skipped (costs its 10 ms delay).
 - Slot 1 = Scattershot (Lv 1 base): only castable on a Staggered target, so it fires by itself during
@@ -85,7 +82,7 @@ History: original macro 7, 10, 12, 11 (2026-10-11) → Variant A (Scattershot �
 in one slot) → Condemnation in the debuff queue, Thunder on a key → 12, 6, 7, 10 with hold-E/R bursts
 (2026-10-11; holding a key on top of the held macro turned out not to work) → slots repeated for
 Condemnation chains (2026-10-12/13; cast lock and skip delays made it fiddly, no noticeable gain) →
-current 10, 12 (2026-10-13).
+10, 12 (2026-10-13) → current 10, 12, 5, 1 (2026-10-17).
 
 **Scattershot (2026-10-17): dropped to base Lv 1, back in the macro (slot 1).** Guides skip it or
 advise against points, and holding it alone during Stagger (2026-10-13 → 10-17) didn't feel like
@@ -101,11 +98,11 @@ Slots numbered 1–12 from the left (in-game 2026-10-13, screenshot). The macro 
 
 | Slot | Key | Queue | Use |
 |---|---|---|---|
-| 1 | 1 | Lightning Strike Scattershot (base Lv 1) | macro only (planned 2026-10-17) |
+| 1 | 1 | Lightning Strike Scattershot (base Lv 1) | macro only |
 | 2 | 2 | Healing Light | manual, reactive heal |
 | 3 | 3 | Radiant Recovery | manual, reactive heal |
 | 4 | 4 | Heal: Summon Resurrection · DPS: empty | manual: someone died |
-| 5 | Q | DPS: Voice of Doom · Heal: empty | macro (planned 2026-10-17) |
+| 5 | Q | DPS: Voice of Doom · Heal: empty | macro |
 | 6 | E | Heal: Absolution · DPS: empty | manual: party low after a big hit, or debuffs left |
 | 7 | R | (empty) | |
 | 8 | C | Light of Protection | toggle at the pull |
