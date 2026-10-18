@@ -9,16 +9,17 @@ snippets. Sources [n]: `sources.md`. Schedule (sieges, bosses): `schedule.md`.
 - KR has a PvP on/off switch, but only for Spacetime Rifts, not the Abyss [86, KR].
 - **Safe point (Elyos): Latesran Western Root** in one corner (bind point, Command Merchant, Monolith,
   Kibelisk); the Asmodian base is in the opposite corner [80][81]. "Fixed safe islands" and choke islands
-  are mentioned [82, KR/TW snippet]. NPC guards/base safety: unknown.
+  are mentioned [82, KR/TW snippet]. **Western Root is safe: NPC guards, enemies can't get in** (in-game 2026-10-18).
 - **Death: no penalty**; you always respawn at the same point, the faction's only Kibelisk (one per faction)
   (in-game 2026-10-18).
-- **Abyss time** (7h per layer per week, F2P) runs only while you're inside the layer [80][50].
+- **Abyss time: 7h per week** (in-game 2026-10-18; per layer, F2P [80][50]), runs only while you're inside. Shown in the
+  Abyss screen and next to the minimap while inside (in-game 2026-10-18).
   **It keeps running whether you're alive or dead** (in-game 2026-10-18). Rift Stones add +1h (lesser +30 min) [50].
 
 ## Layers
 | Layer | Entry | Notes |
 |---|---|---|
-| **Lower Reshanta** ("Chaotic") | level 45; bases need GS 1000 [80] (**vs** also Combat Power 500k [81]) | Full flight. Running out of flight gauge mid-fight = glide down, "often a death sentence" [82] |
+| **Lower Reshanta** ("Chaotic") | level 45; bases need GS 1000 [80] (**vs** also Combat Power 500k [81]; unlikely: Combat Power at GS ~1600 is ~53k, in-game 2026-10-15) | Full flight. Running out of flight gauge mid-fight = glide down, "often a death sentence" [82] |
 | Middle Reshanta | GS ~3000 | Ground + glide only [84, KR/TW snippet] |
 | Upper Reshanta | reportedly an *under*-gear bracket (removed above ~GS 4300 / 400k CP) | Added in KR July 2026; unclear for global [84] |
 
@@ -28,7 +29,7 @@ Bosses: eight level-65 Hero field bosses drop Unique armor sets and refining sto
 - **Duty Missions:** 5/day, journal Duty tab; details in `endgame.md` [50].
 - **Command Scrolls** from the Command Merchant (37.5k / 75k / 150k Kinah): each hunt pays 1,000 Abyss
   Points [80]. 27 duty scroll quests, suggested for levels 46–49, also drop Abyssal Power Shards [80].
-- **Abyss Points cap:** weekly, separate for PvE and PvP, resets Wednesday; amount unknown [50].
+- **Abyss Points cap: none shown in-game** (in-game 2026-10-18). ~~Weekly cap, separate for PvE and PvP~~ [50] not seen.
 - **Shop:** Stigma Shards (up to 200 per character, **4 steps of 50: 10k → 15k → 20k → 25k Abyss Points per shard**, in-game 2026-10-13; [128]; purchases count per character, "x/50" per step) and Azphel crystals (10,000 each) [80]. Stigma details: `endgame.md`.
 - **Spend Abyss Points on Stigma Shards** (player's verdict 2026-10-11). Shards per Stigma level rise with the level (in-game 2026-10-11); exact numbers not recorded.
 - **Ereshkigal Monolith** (in Western Root, max level 20): uses Reshanta feathers only; gives permanent

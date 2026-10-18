@@ -14,17 +14,12 @@ tracker itself goes in `backlog.md`.
 - [ ] Quick wins check: Pets levelled (to 3)? Joined a Legion? Hamme: unused Daevanion Crystals or Wisdom Stones in the bag? See `knowledge/progression.md` "Often missed". (Dhamira: no unused crystals or Wisdom Stones, 2026-10-13)
 - [ ] Check (once a pet is fully levelled): does targeting a monster of that pet type show it as done?
 - [ ] *(low priority)* Check: what do the Abyss Rare/Epic/Unique Command Scrolls reward?
-- [ ] Abyss check: Abyss Points weekly cap: shown anywhere? Separate for PvE and PvP? How close do you get? See `knowledge/abyss.md`
-- [ ] Abyss check: Abyss shop: current AP balance and Stigma Shard step (x/50 at 10k)
-- [ ] Abyss check: is Latesran Western Root safe (NPC guards, can enemies get in)?
-- [ ] Abyss check: where is the remaining Abyss time (7h per layer per week) shown?
-- [ ] Abyss check: Lower Reshanta bases: GS 1000 enough, or also Combat Power 500k?
-- [ ] *(low priority)* Abyss check: Ereshkigal Monolith: how many traces per level, 200 or 300?
 - [ ] Verify: Transfer tab: what does the preview show, and what makes a piece an eligible source? (once you have eligible gear)
 - [ ] Legion (if you join one): does the Legion menu show missions or Legion Coin? What does the Legion Merchant sell?
 - [ ] *(at GS 1600)* Dhamira: revisit Manastones. All gear has cheap ones with only a few rerolls (2026-10-13); upgrade on pieces you keep
 
 ## Done
+- [x] Abyss checks: no AP cap shown; Western Root safe; Abyss time 7h/week, shown in the Abyss screen and by the minimap (2026-10-18)
 - [x] First Conquest clears of Krao Cave and Draupnir done; pity tracked in-game, not here (2026-10-18)
 - [x] Abyss death: no penalty, respawn always at the faction's one Kibelisk; Abyss time keeps running while dead (2026-10-18)
 - [x] Supply Requests window checked: tabs Emergency (daily, items change daily), Weekly, Craft, Boss (not repeatable); Silentium accepted (2026-10-18)
