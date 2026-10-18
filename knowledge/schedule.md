@@ -20,10 +20,10 @@ reading the global client [61][62][63]; unverified unless tagged `in-game`. Sour
 | **Shugo Festival** | **every hour at :00** | 10 min (5 [62]) | rewards from 10, good ones at 45 | Instanced minigames, 4–9 players. Rewards cost a Shugo key (B). Needs quest "Visions in Smoke" [61][63] |
 | **Dimensional Invasion** | **every hour at :30** | join ~3 min, round max 10 min (~5, in-game) | rewards from 45 | Open-world, score-based. Rewards only with an Invasion key (B); no key = nothing (in-game). Rotates Beritra Air Raid / Accursed Sword / Incursion of the Spirits [61][63]. Details: `events.md` |
 | **Spacetime Rift** | **every 3h**: 02, 05, 08, 11, 14, 17, 20, 23:00 | portal 10 min, ~60 min inside | – | Cross-faction PvP zone, sealed dungeons, quests, Abyss Points, enhance materials; 10 portals in home + enemy regions [63]. ~~every 2h~~ |
-| Watcher Kaira (Abyss boss, Lower Reshanta) | every 3h: 01, 04, 07, 10, 13, 16, 19, 22:00 | leaves after 30 min | 45 | Random spot, PvP zone [61][62] |
+| Watcher Kaira (Abyss boss, Lower Reshanta) | every 3h: 01, 04, 07, 10, 13, 16, 19, 22:00 | leaves after 30 min | 45 | Random spot, PvP zone [61][62]. **16:00 spawn confirmed** (in-game 2026-10-18: Abyss boss timer at 13:25 showed 2h 34m). All 3 timers that day landed exactly on scheduled times, so fixed schedule, not respawn-after-kill (inference) |
 | **Artifact Siege** (Lower/Middle Reshanta) | **Mon, Thu, Sat 21:00** (Sat 21:00 in-game: Abyss window) | 30 min | 45 | Winning faction gets 5 min in the Abyss Corridor [62][64]. ~~Wed + Sat~~ is KR [62] |
-| Siege bosses (Tamasa, Argo, Kaira, Dramos, Marakha, Ducal) | Mon, Thu, Sat 21:30 | 30 min | 45 | Rewards not documented [61] |
-| Guardian Lord **Nahma** (+ Enraged) | **Fri, Sun 21:00** | 30 min | 45 | Abyss [61][62] |
+| Siege bosses (Tamasa, Argo, Kaira, Dramos, Marakha, Ducal) | Mon, Thu, Sat 21:30 | 30 min | 45 | Rewards not documented [61]. **Executor Tamasa Mon 21:30 confirmed** (in-game 2026-10-18: timer showed 1d 8h 4m on Sun 13:25) |
+| Guardian Lord **Nahma** (+ Enraged) | **Fri, Sun 21:00** (Sun in-game) | 30 min | 45 | Abyss [61][62]. **Sun 21:00 confirmed**; the timer lists two Nahma entries (in-game 2026-10-18) |
 | Arena of Tactics (10v10) | daily 11:00–14:00, 19:00–21:00 | 10 min matches | 45 | Single source [63]; "not confirmed" [61] |
 | Field bosses (Verteron etc.) | no fixed time: respawn timer on the map | – | ~45 | Kina, gear, Manastones, stones [61] |
 
