@@ -9,7 +9,6 @@ tracker itself goes in `backlog.md`.
 - [ ] Check (Achievements menu): Five Veiled Fates (duties) and Herald of Hope (commands) progress; do rewards need claiming by hand? Per character or account-wide? Do town Command Scrolls count? Skim for unclaimed tiers. See `knowledge/achievements.md`
 - [ ] Check (Enhance window → Soul Binding tab): how many lines do your pieces have per grade, Kina cost of Bind/Reset, Soul Codex count in the bag. And in the Transfer preview: do Soul Binding lines and Theostones carry over?
 - [ ] Check: Season window: Oath Coin balance, Season Mission points this week, Season Shop limits (per season or weekly?), season end countdown. See `knowledge/seasons.md`
-- [ ] Check: have you done a first Conquest clear of Krao Cave and Draupnir? Each gives a one-time ~2,480-stone achievement. Also note your Conquest pity progress (x/14) while you're there
 - [ ] Verify: after 2026-10-25 (DST change), do event times stay on the local clock? (Rift should still open at 02, 05, 08 … 23)
 - [ ] Verify: other siege days (Mon/Thu 21:00?) and Nahma (Fri/Sun 21:00?). Saturday 21:00 is confirmed
 - [ ] Quick wins check: Pets levelled (to 3)? Joined a Legion? Hamme: unused Daevanion Crystals or Wisdom Stones in the bag? See `knowledge/progression.md` "Often missed". (Dhamira: no unused crystals or Wisdom Stones, 2026-10-13)
@@ -20,6 +19,7 @@ tracker itself goes in `backlog.md`.
 - [ ] *(at GS 1600)* Dhamira: revisit Manastones. All gear has cheap ones with only a few rerolls (2026-10-13); upgrade on pieces you keep
 
 ## Done
+- [x] First Conquest clears of Krao Cave and Draupnir done; pity tracked in-game, not here (2026-10-18)
 - [x] Abyss death: no penalty, respawn always at the faction's one Kibelisk; Abyss time keeps running while dead (2026-10-18)
 - [x] Supply Requests window checked: tabs Emergency (daily, items change daily), Weekly, Craft, Boss (not repeatable); Silentium accepted (2026-10-18)
 - [x] Dhamira, Daevanion: last green Prayer of Concentration node on Triniel (2026-10-18). Next: common nodes with good stats (no Multi-hit Resist)

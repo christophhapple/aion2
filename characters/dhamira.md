@@ -17,7 +17,8 @@ Build: [dhamira-build.md](dhamira-build.md)
 
 ## Expedition pity (Exploration, 2026-10-10)
 Krao Cave claimed · Draupnir 1/3 · Urugugu Canyon claimed · Fire Temple claimed · Vakron 0/3 ·
-Ferocious Horn Den 0/3. Conquest pity progress: not recorded yet.
+Ferocious Horn Den 0/3. Conquest: first clears of Krao Cave and Draupnir done (by 2026-10-18).
+Conquest pity: tracked in-game only, not here (user choice, 2026-10-18).
 
 ## One-time content (2026-10-12)
 Verteron done: all regional (green) quests incl. Spacetime Rift, Sealed Dungeons, Strongholds, feathers
