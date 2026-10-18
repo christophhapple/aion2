@@ -56,7 +56,7 @@ which version they describe; detailed sources are KR (2025-11 → 2026-05). Sour
   hand-in per request. Emergency asks for different items every day and resets at the normal daily reset
   (in-game 2026-10-18). Guides: Craft/Boss stay up long-term
   ("Season: …" in KR [216][219], "Regular: …" in a global guide [214]; some stay up all season [215]).
-  KR weekly reset is Wednesday, so probably the normal weekly reset here (unverified).
+  Weekly resets at the normal weekly reset, Wednesday (in-game 2026-10-18).
 - **Hand-ins:** Silentium for the repeatable ones (in-game 2026-10-18) [211][212][213]; gear of a required grade (more AP for
   higher grade) [216]; crafted gear and materials for the Craft tab [214][218]; field boss gear for
   the Boss tab: keep unneeded boss drops for it [221]. No list of which items qualify.

@@ -57,7 +57,7 @@ routines:
   - id: supply-weekly
     name: Supply Requests, Weekly tab
     reset: weekly
-    notes: Same window, Weekly tab. Cap 1 = "did some", partial is fine. Check the Boss tab before salvaging field boss gear. Reset assumed to be the normal weekly one (unverified).
+    notes: Same window, Weekly tab. Cap 1 = "did some", partial is fine. Check the Boss tab before salvaging field boss gear. Resets at the normal weekly reset (in-game 2026-10-18).
 
   - id: halloween
     name: Halloween weekly quests (event, until 2026-11-04)
