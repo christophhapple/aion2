@@ -6,7 +6,7 @@ tracker itself goes in `backlog.md`.
 ## Open
 - [ ] Easy achievement: next Fire Temple **Conquest** run, lie down (emote) in the boss room → title "Kromede Will Remember That" (guide, unverified; whether before or after the kill isn't stated). See `knowledge/achievements.md`
 - [ ] Easy achievements: use 1 Transformation Candy (Sweet Tooth, 27k Kina) · buy 5 items from the Black Cloud Merchant (Black Cloud Merchants Regular, title Big Spender, 27k Kina) · place a Kisk 5 times (Kisk Installer, 40k Kina + 13 Status Effect Resist Scrolls). Rewards are totals over all tiers, see `knowledge/achievements.md`
-- [ ] Check (Achievements → Progress → Quest): do town Command Scrolls count for Herald of Hope (does it go up after one)? Per character or account-wide? (Location + manual claiming found 2026-10-18.) See `knowledge/achievements.md`
+- [ ] Check (Achievements → Progress → Quest): do town Command Scrolls count for Herald of Hope (does it go up after one)? (Per character or account-wide: only matters once there's an alt.) See `knowledge/achievements.md`
 - [ ] Check (Enhance window → Soul Binding tab): how many lines do your pieces have per grade, Kina cost of Bind/Reset, Soul Codex count in the bag. And in the Transfer preview: do Soul Binding lines and Theostones carry over?
 - [ ] Verify: after 2026-10-25 (DST change), do event times stay on the local clock (Rift still at 02, 05, 08 … 23)? And is the daily reset at 08:00 or still 09:00 local? (Season/event countdowns hint 09:00; then `routines.yaml` needs 08:00 UTC)
 - [ ] Verify: Artifact Siege Thu 21:00, siege bosses Thu 21:30, Nahma Fri 21:00 (boss timer list + "Next Siege in" on the Chaotic Lower Reshanta card). Confirmed: Sat + Mon siege 21:00, Mon 21:30 Tamasa, Sun 21:00 Nahma, Kaira 16:00
