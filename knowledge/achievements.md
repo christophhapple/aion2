@@ -14,6 +14,11 @@ Researched 2026-10-15. Mostly metabot.gg, which reads the global client (build 0
   account-wide. Check in-game.
 
 ## Duty Missions and Commands
+**Where (in-game 2026-10-18):** Achievements → Progress tab → Quest (left). Shows Five Veiled Fates and Herald of Hope
+with the current tier, the Supply Request chains (Emergency 50, Weekly 5, deliver Rare items 50 / Epic items 5 / Rare gear 5 /
+gathered materials 150) and quest-line ones. Rewards per tier shown as Enhance Stones (gold) + Kina (silver), some
+with an item; a "Collect Rewards" button per card plus "Collect All Rewards", so **claimed by hand**. Quest category
+level (e.g. Level 3, 26/33) gives its own reward.
 **Only count achievements**: nothing per region, per mission, or for doing different missions [271][272][273].
 So for achievements **any duty counts**; pick by reward (slot 1 guaranteed: Soul Crystal > Odyle > tickets > Kina [275], `endgame.md`).
 
