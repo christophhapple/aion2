@@ -103,6 +103,6 @@ Global version's first in-game event. No paid requirement mentioned.
   Buying every weekly limit costs 338 coins, more than one week's quests (235).
 - **Candy keys:** key fragments drop in Expeditions and Transcendence; turn them into coloured keys via
   Substance Morph. Candies: red = 20 pet growth boxes, 10 battle scrolls; yellow = 10,000 Abyss Points,
-  10 life crystals; blue = 4 Odyle Energy, 10 resurrection stones. Each also has 5 Halloween Candy + 5 Cookies.
+  10 life crystals (yellow in-game 2026-10-18); blue = 4 Odyle Energy, 10 resurrection stones. Each also has 5 Halloween Candy + 5 Cookies.
 - **Buff food (5 min):** Candy = +25 Attack, +250 Defense, +300 max stamina, +40% stamina regen.
   Cookie = +500 max HP, +250 max MP, +300 max stamina, +40% stamina regen.
