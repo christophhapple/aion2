@@ -20,7 +20,7 @@ snippets. Sources [n]: `sources.md`. Schedule (sieges, bosses): `schedule.md`.
 | Layer | Entry | Notes |
 |---|---|---|
 | **Lower Reshanta** ("Chaotic") | level 45; bases need GS 1000 [80] (**vs** also Combat Power 500k [81]; unlikely: Combat Power at GS ~1600 is ~53k, in-game 2026-10-15) | Full flight. Running out of flight gauge mid-fight = glide down, "often a death sentence" [82] |
-| Middle Reshanta | GS ~3000 | Ground + glide only [84, KR/TW snippet] |
+| Middle Reshanta | GS ~3000 | Ground + glide only [84, KR/TW snippet]. Not shown in the Abyss screen at GS ~1600 (in-game 2026-10-18); may appear with higher GS |
 | Upper Reshanta | reportedly an *under*-gear bracket (removed above ~GS 4300 / 400k CP) | Added in KR July 2026; unclear for global [84] |
 
 Bosses: eight level-65 Hero field bosses drop Unique armor sets and refining stones; meant for groups [81].
