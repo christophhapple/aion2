@@ -16,7 +16,6 @@ tracker itself goes in `backlog.md`.
 - [ ] Quick wins check: Pets levelled (to 3)? Joined a Legion? Hamme: unused Daevanion Crystals or Wisdom Stones in the bag? See `knowledge/progression.md` "Often missed". (Dhamira: no unused crystals or Wisdom Stones, 2026-10-13)
 - [ ] Check (once a pet is fully levelled): does targeting a monster of that pet type show it as done?
 - [ ] *(low priority)* Check: what do the Abyss Rare/Epic/Unique Command Scrolls reward?
-- [ ] Verify: Nightmare: number of floors/levels, Phantasmal Fragments per clear (shop: prices recorded, limits lifetime, 2026-10-13)
 - [ ] Verify: Transfer tab: what does the preview show, and what makes a piece an eligible source? (once you have eligible gear)
 - [ ] Legion (if you join one): does the Legion menu show missions or Legion Coin? What does the Legion Merchant sell?
 - [ ] *(at GS 1600)* Dhamira: revisit Manastones. All gear has cheap ones with only a few rerolls (2026-10-13); upgrade on pieces you keep
