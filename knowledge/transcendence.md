@@ -8,6 +8,7 @@ from allthings.how stage-2 write-ups (region not stated, probably global) [304][
 - **Live on global (Season 1): Deus Research Base and Shattered Arkanis** [300][301][302]. Later:
   Submerged Life Temple (GS 2400+), Mirror of Scarlet Desire (3200+), Abyssal Horn Den (3800+) [300][301].
 - Party 2–5, Lv 45 [300][302][304]. Stages per dungeon: **GS 1600 / 1900 / 2200 / 2500** (in-game 2026-10-16).
+- **Kina per run: 300k at stage 1, +60k per further stage** (360k / 420k / 480k) (in-game 2026-10-18).
 - **Counters:** **no Transcendence reward count on global** (in-game 2026-10-18; ~~+1 / 12h, max 14~~ [300][301]) · per dungeon 2 / day, max 4 ·
   final-boss kills 28 / week · shares the **10 unobtained cubes / week** with Conquest (leave without opening
   the cube = −1; at 0 locked out until Wed reset) [306]. Cube 40 Odyle.
