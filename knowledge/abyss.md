@@ -51,6 +51,12 @@ Guides mostly describe KR/TW; global details may differ. Sources [319]–[321].
 - **How:** when the siege starts, **Dimensional Cores** appear at each Artifact; the faction landing the
   **final hit** on a core takes that Artifact [319][320]. A set number of players on the winning side get
   Abyss Points by contribution [319]; KR switched to per-class ranking on 2026-07-01 [320].
+- **Map panel "Artifact Siege"** (in-game 2026-10-18): shows the current owner of each Artifact since the last siege
+  (score, e.g. 1 : 2, and "Faction Status: Eastern Camp Dominated"). Listed as **Reshanta's Root**, **Sulfur Tree Island**
+  and **Archipelago of Siel's Wings** Artifact. Your own faction's Artifacts show **"Corridor Usage Time"** (02:10
+  seen; whether that's time left or a duration: unclear), enemy-held ones "Unavailable". In the Abyss the
+  **Asmodians are called "Eastern Camp"** (in-game); Elyos presumably "Western Camp" (inference: Western Root).
+  Snapshot 2026-10-18: Asmodians held Root + Siel's Wings, Elyos Sulfur Tree Island.
 - **Holding Artifacts:** whole faction gets +2.5% / +5% / +7.5% Abyss Point gain for 1 / 2 / 3 held [319].
 - **Abyss Corridor:** after the siege, an entrance opens at each held Artifact for the owning faction,
   **5 minutes** to enter and farm [319][62][64]. A faction holding none gets a catch-up corridor; AP there

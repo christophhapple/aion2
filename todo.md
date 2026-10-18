@@ -10,7 +10,7 @@ tracker itself goes in `backlog.md`.
 - [ ] Check (Enhance window → Soul Binding tab): how many lines do your pieces have per grade, Kina cost of Bind/Reset, Soul Codex count in the bag. And in the Transfer preview: do Soul Binding lines and Theostones carry over?
 - [ ] Check: Season window: Oath Coin balance, Season Mission points this week, Season Shop limits (per season or weekly?), season end countdown. See `knowledge/seasons.md`
 - [ ] Verify: after 2026-10-25 (DST change), do event times stay on the local clock? (Rift should still open at 02, 05, 08 … 23)
-- [ ] Verify: Artifact Siege Thu 21:00, siege bosses Thu 21:30, Nahma Fri 21:00 (boss timer list + "Next Siege in" on the Chaotic Lower Reshanta card). Map markers at the 3 Artifacts (Reshanta's Root, Branding Island, Grave of Steel)? Confirmed: Sat + Mon siege 21:00, Mon 21:30 Tamasa, Sun 21:00 Nahma, Kaira 16:00
+- [ ] Verify: Artifact Siege Thu 21:00, siege bosses Thu 21:30, Nahma Fri 21:00 (boss timer list + "Next Siege in" on the Chaotic Lower Reshanta card). Confirmed: Sat + Mon siege 21:00, Mon 21:30 Tamasa, Sun 21:00 Nahma, Kaira 16:00
 - [ ] Quick wins check: Pets levelled (to 3)? Joined a Legion? Hamme: unused Daevanion Crystals or Wisdom Stones in the bag? See `knowledge/progression.md` "Often missed". (Dhamira: no unused crystals or Wisdom Stones, 2026-10-13)
 - [ ] Check (once a pet is fully levelled): does targeting a monster of that pet type show it as done?
 - [ ] *(low priority)* Check: what do the Abyss Rare/Epic/Unique Command Scrolls reward?
