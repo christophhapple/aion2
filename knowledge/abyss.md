@@ -55,7 +55,7 @@ Guides mostly describe KR/TW; global details may differ. Sources [319]–[321].
   (score, e.g. 1 : 2, and "Faction Status: Eastern Camp Dominated"). Listed as **Reshanta's Root**, **Sulfur Tree Island**
   and **Archipelago of Siel's Wings** Artifact. Your own faction's Artifacts show **"Corridor Usage Time"** (02:10
   seen; whether that's time left or a duration: unclear), enemy-held ones "Unavailable". In the Abyss the
-  **Asmodians are called "Eastern Camp"** (in-game); Elyos presumably "Western Camp" (inference: Western Root).
+  **Asmodians are called "Eastern Camp", Elyos "Western Camp"** (in-game 2026-10-18).
   Snapshot 2026-10-18: Asmodians held Root + Siel's Wings, Elyos Sulfur Tree Island.
 - **Holding Artifacts:** whole faction gets +2.5% / +5% / +7.5% Abyss Point gain for 1 / 2 / 3 held [319].
 - **Abyss Corridor:** after the siege, an entrance opens at each held Artifact for the owning faction,
