@@ -8,7 +8,6 @@ tracker itself goes in `backlog.md`.
 - [ ] Easy achievements: use 1 Transformation Candy (Sweet Tooth, 27k Kina) · buy 5 items from the Black Cloud Merchant (Black Cloud Merchants Regular, title Big Spender, 27k Kina) · place a Kisk 5 times (Kisk Installer, 40k Kina + 13 Status Effect Resist Scrolls). Rewards are totals over all tiers, see `knowledge/achievements.md`
 - [ ] Check (Achievements menu): Five Veiled Fates (duties) and Herald of Hope (commands) progress; do rewards need claiming by hand? Per character or account-wide? Do town Command Scrolls count? Skim for unclaimed tiers. See `knowledge/achievements.md`
 - [ ] Check (Enhance window → Soul Binding tab): how many lines do your pieces have per grade, Kina cost of Bind/Reset, Soul Codex count in the bag. And in the Transfer preview: do Soul Binding lines and Theostones carry over?
-- [ ] Check: Season Shop limits: per season or weekly? (Oath Coins 30,770, missions and countdown done 2026-10-18.) See `knowledge/seasons.md`
 - [ ] Verify: after 2026-10-25 (DST change), do event times stay on the local clock (Rift still at 02, 05, 08 … 23)? And is the daily reset at 08:00 or still 09:00 local? (Season/event countdowns hint 09:00; then `routines.yaml` needs 08:00 UTC)
 - [ ] Verify: Artifact Siege Thu 21:00, siege bosses Thu 21:30, Nahma Fri 21:00 (boss timer list + "Next Siege in" on the Chaotic Lower Reshanta card). Confirmed: Sat + Mon siege 21:00, Mon 21:30 Tamasa, Sun 21:00 Nahma, Kaira 16:00
 - [ ] Quick wins check: Pets levelled (to 3)? Joined a Legion? Hamme: unused Daevanion Crystals or Wisdom Stones in the bag? See `knowledge/progression.md` "Often missed". (Dhamira: no unused crystals or Wisdom Stones, 2026-10-13)
@@ -19,6 +18,7 @@ tracker itself goes in `backlog.md`.
 - [ ] *(at GS 1600)* Dhamira: revisit Manastones. All gear has cheap ones with only a few rerolls (2026-10-13); upgrade on pieces you keep
 
 ## Done
+- [x] Season window checked: Oath Coins 30,770, Season Missions, countdown; Season Shop limits per server, per season (2026-10-18)
 - [x] Battlefield found: own window, Arena of Tactics 10v10, daily 11:00–14:00 + 19:00–21:00, up to 12k AP/week (2026-10-18)
 - [x] Abyss Corridor: entrance has a map icon + teleport, can be camped; inside an arena with endless spawns, AP per kill, ~10k AP in one run (2026-10-18)
 - [x] Abyss checks: no AP cap shown; Western Root safe; Abyss time 7h/week, shown in the Abyss screen and by the minimap (2026-10-18)

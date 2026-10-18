@@ -65,21 +65,24 @@ the reset pattern is from KR official notices. Unverified unless tagged `in-game
   | Arena | 18,380 |
   | Challenge (21), Abyss (17) | not totalled |
 
-- **Shop** (44 items, client data [236], limits mostly per account, period unknown). Examples:
+- **Shop** (client data: 44 items [236]). **In-game 2026-10-18 (Growth tab): limits are per server and per season**
+  (the timer on each item = season end); tabs Consumables, Growth, Materials, Special, Skins. Growth-tab prices and limits
+  below match [236] (✓ = seen in-game). Examples:
 
   | Item | Oath Coins | Limit |
   |---|---|---|
   | Refining Stone | 40 | 50 |
   | Expert's Refining Stone | 400 | 30 |
-  | Lesser / Intermediate / Superior Training Arcana | 1,500 / 4,500 / 11,300 | 20 / 10 / 5 |
-  | Soul Codex | 3,000 | 50 |
-  | Clash Rune Chest | 4,000 | 50 |
+  | Lesser / Intermediate / Superior Training Arcana | 1,500 ✓ / 4,500 / 11,300 | 20 / 10 / 5 ✓ |
+  | Soul Codex | 3,000 ✓ | 50 ✓ |
+  | Clash Rune Chest | 4,000 ✓ | 50 ✓ |
   | Radiant Odyle | 6,000 | 5 |
   | Resurrection Spiritstone | 6,000 | 30 |
-  | Rare Theostone Chest | 17,500 | 10 |
-  | Soul Codex: Reset | 20,000 | 5 |
-  | **Mysterious Crystal** | 25,000 | 5 |
-  | Philosopher's Stone: Revelation | 30,000 | 2 |
+  | Rare Theostone Chest | 17,500 ✓ | 10 ✓ |
+  | Soul Codex: Reset | 20,000 ✓ | 5 ✓ |
+  | **Mysterious Crystal** | 25,000 ✓ | 5 ✓ |
+  | Amplify Stone Fragment (Unique) | 300 ✓ | 20 ✓ |
+  | Philosopher's Stone: Revelation | 30,000 ✓ | 2 ✓ |
   | Skins / Talisra Wings | 39,600–120,000 / 210,000 | 1 per character |
 
 ## What happens at season end
