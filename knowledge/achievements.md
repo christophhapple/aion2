@@ -61,7 +61,7 @@ Rewards are totals over all tiers.
 | Frequent Visitor to Atreia | Log in 10 times | 6,390 Enhance Stones | Milestones [283] |
 | Only as Good as One's Gear | GS 50 … 3,000 (guide: "Item Level") | titles | Milestones |
 | Kibelisks | Activate each | 2–4k Kina each; all → title Teleportation Specialist | Kibelisk [284] |
-| Supply Request: Emergency / Weekly | 5 requests each | Enhance Stones, Soul Codex | Quests [271] |
+| Supply Request: Emergency / Weekly | chains, in-game tiers up to Emergency 50 / Weekly 5 (2026-10-18) | Enhance Stones, Kina, Soul Codex | Quests [271] |
 | Kromede Will Remember That | Lie down in the Fire Temple Conquest boss room | title | [276] |
 
 Several overlap with duties (kill counts on Eternal / Crimson Isle) and with things done anyway
