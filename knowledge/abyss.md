@@ -65,6 +65,8 @@ Guides mostly describe KR/TW; global details may differ. Sources [319]–[321].
   afternoon after Sat's siege). It can be camped: enemy players guarded it and killed anyone entering (in-game 2026-10-18).
   **Inside: an arena where monsters spawn continuously; more kills = more Abyss Points.** One run gave ~10k AP
   (in-game 2026-10-18), i.e. about one Stigma Shard from the Abyss shop: very worth it when your faction holds an Artifact.
+  **One run used the whole 02:10 at once; afterwards the map shows "usage time expired"** (in-game 2026-10-18). So
+  it is a per-siege allowance. Whether the amount depends on siege contribution: unknown (user's guess; guides say 5 min).
 - **Abyss Corridor:** after the siege, an entrance opens at each held Artifact for the owning faction,
   **5 minutes** to enter and farm [319][62][64]. A faction holding none gets a catch-up corridor; AP there
   doesn't count toward the PvE cap [321].

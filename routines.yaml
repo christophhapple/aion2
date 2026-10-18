@@ -43,6 +43,18 @@ routines:
     reset: weekly
     cap: 12
 
+  - id: siege
+    name: Artifact Siege (Abyss)
+    notes: Mon, Thu, Sat 21:00, 30 min (Sat + Mon in-game). Countdown "Next Siege in" on the Chaotic Lower Reshanta card. Mass faction PvP at 3 Artifacts; final hit on a Dimensional Core takes it. Optional, go with a group. Details knowledge/abyss.md.
+    reset: weekly
+    cap: 3
+
+  - id: corridor
+    name: Abyss Corridor run
+    notes: Only while Elyos hold an Artifact (map panel "Artifact Siege"; map icon + teleport). Arena with endless spawns, AP per kill, ~10k AP per run (in-game 2026-10-18). One allowance per siege (02:10 seen), used up in one go. Entrance can be camped by Asmodians. Cap 3 = one per siege; a lost siege means no corridor, that's fine.
+    reset: weekly
+    cap: 3
+
   - id: abyss-commands
     name: Abyss Command Scrolls (Common)
     notes: Command Shop in Latesran Western Root (Abyss). Common 15,000 Kina → 1,000 AP + 200 Abyssal Power Shards + 1–5 random (AP, Enhance Stones). 5/week per server, weekly reset (in-game 2026-10-18). Log when the missions are done, not when bought. Higher grades (37.5k / 75k / 150k) not tracked.
