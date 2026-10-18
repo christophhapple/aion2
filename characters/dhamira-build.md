@@ -168,7 +168,7 @@ Arcana. Read with gear and Arcana unequipped: the baseline Arcana builds on. Sti
 | Defiance | 1 chain skill Blessing of Regeneration · 4 +2s Tenacity (slot 2 since 2026-10-17, Lv 14) | Blessing heals ~2.1k + 40% MP, more than option 3's 10% HP at ~13k max HP. Option 4: longer CC immunity. Lv 16 option 5: +50% PvE Damage Tolerance during Tenacity |
 | Lightning Strike Scattershot | 1 | 0 | 1 (unused) |
 | Warm Benediction, Empyrean Lord's Grace, Healing Enhancement, Immortal Veil, Earth's Grace, Survival Willpower, Radiant Benediction | 10 | +4 | **14** (max) |
-| Prayer of Concentration | 5 | +4 | 9 (last Triniel green node taken 2026-10-18) |
+| Prayer of Concentration | 5 | +4 | 9 (last Triniel green node taken 2026-10-18; 10 with the Chalice Arcana) |
 | Empyrean Lord's Benediction, Heal Block | 1 | 0 | 1 (no points, low value) |
 
 Effects + icons: `knowledge/cleric-skills.md` "Passive". Before the 2026-10-17 rework: Scattershot 12,
@@ -188,7 +188,7 @@ passives partly 11–13.
 Both 2-piece sets are active (Magic Armor + Primal Vigor, `knowledge/gear.md`).
 **Totals:** Healing Enhancement 16 · Healing Light, Radiant Recovery, Debilitating Mark, Earth's
 Retribution, Judgment Thunder, Defiance, Earth's Grace, Immortal Veil, Radiant Benediction 15 ·
-Prayer of Concentration 9 · Scattershot 3 · Empyrean Lord's Benediction 2 · the rest 14.
+Prayer of Concentration 10 (2026-10-18, in-game) · Scattershot 3 · Empyrean Lord's Benediction 2 · the rest 14.
 No active is at 16 yet, so no option 5 is unlocked. Wasted lines: Scattershot (2, unused skill),
 Empyrean Lord's Benediction (1, no points).
 
