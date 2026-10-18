@@ -27,11 +27,13 @@ Bosses: eight level-65 Hero field bosses drop Unique armor sets and refining sto
 
 ## Low-risk PvE in the Abyss
 - **Duty Missions:** 5/day, journal Duty tab; details in `endgame.md` [50].
-- **Command Scrolls** from the Command Merchant (37.5k / 75k / 150k Kinah): each hunt pays 1,000 Abyss
+- **Command Scrolls (Abyss):** Command Shop in Latesran Western Root, 4 grades: **15,000 / 37,500 / 75,000 /
+  150,000 Kina** (white / green / blue / gold), **5 per grade per week, per server**, reset at the weekly reset
+  (in-game 2026-10-18). Each hunt pays 1,000 Abyss
   Points [80]. 27 duty scroll quests, suggested for levels 46–49, also drop Abyssal Power Shards [80].
   **Abyss Command Scroll, Common** (in-game 2026-10-18): basic reward 1,000 Abyss Points + 200 Abyssal Power
-  Shards; plus 1–5 random from: Abyss Points 200 / 400 / 1,800, Enhance Stones 500 (×2 slots). Price not recorded.
-  Rare/Epic/Unique rewards: not checked yet. **Abyssal Power Shards** work like normal Power Shards: toggle on to consume them, they buff Attack while being
+  Shards; plus 1–5 random from: Abyss Points 200 / 400 / 1,800, Enhance Stones 500 (×2 slots).
+  Green/blue/gold rewards: not checked yet. **Abyssal Power Shards** work like normal Power Shards: toggle on to consume them, they buff Attack while being
   used up; the Abyssal ones also ignore some of a PvP enemy's Defense (in-game 2026-10-18).
 - **Abyss Points cap: none shown in-game** (in-game 2026-10-18). ~~Weekly cap, separate for PvE and PvP~~ [50] not seen.
 - **Shop:** Stigma Shards (up to 200 per character, **4 steps of 50: 10k → 15k → 20k → 25k Abyss Points per shard**, in-game 2026-10-13; [128]; purchases count per character, "x/50" per step) and Azphel crystals (10,000 each) [80]. Stigma details: `endgame.md`.
