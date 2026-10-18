@@ -11,7 +11,6 @@ tracker itself goes in `backlog.md`.
 - [ ] Check: Season window: Oath Coin balance, Season Mission points this week, Season Shop limits (per season or weekly?), season end countdown. See `knowledge/seasons.md`
 - [ ] Verify: after 2026-10-25 (DST change), do event times stay on the local clock? (Rift should still open at 02, 05, 08 … 23)
 - [ ] Verify: Artifact Siege Thu 21:00, siege bosses Thu 21:30, Nahma Fri 21:00 (boss timer list + "Next Siege in" on the Chaotic Lower Reshanta card). Confirmed: Sat + Mon siege 21:00, Mon 21:30 Tamasa, Sun 21:00 Nahma, Kaira 16:00
-- [ ] Abyss Corridor (entrance found: map icon + teleport, but camped by Asmodians 2026-10-18): what is inside? Try with a group or when it's quiet
 - [ ] Quick wins check: Pets levelled (to 3)? Joined a Legion? Hamme: unused Daevanion Crystals or Wisdom Stones in the bag? See `knowledge/progression.md` "Often missed". (Dhamira: no unused crystals or Wisdom Stones, 2026-10-13)
 - [ ] Check (once a pet is fully levelled): does targeting a monster of that pet type show it as done?
 - [ ] *(low priority)* Check: what do the Abyss Command Scrolls above Common (green 37.5k / blue 75k / gold 150k Kina) reward?
@@ -20,6 +19,7 @@ tracker itself goes in `backlog.md`.
 - [ ] *(at GS 1600)* Dhamira: revisit Manastones. All gear has cheap ones with only a few rerolls (2026-10-13); upgrade on pieces you keep
 
 ## Done
+- [x] Abyss Corridor: entrance has a map icon + teleport, can be camped; inside an arena with endless spawns, AP per kill, ~10k AP in one run (2026-10-18)
 - [x] Abyss checks: no AP cap shown; Western Root safe; Abyss time 7h/week, shown in the Abyss screen and by the minimap (2026-10-18)
 - [x] First Conquest clears of Krao Cave and Draupnir done; pity tracked in-game, not here (2026-10-18)
 - [x] Abyss death: no penalty, respawn always at the faction's one Kibelisk; Abyss time keeps running while dead (2026-10-18)

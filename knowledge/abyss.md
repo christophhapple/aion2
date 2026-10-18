@@ -63,6 +63,8 @@ Guides mostly describe KR/TW; global details may differ. Sources [319]–[321].
 - **Holding Artifacts:** whole faction gets +2.5% / +5% / +7.5% Abyss Point gain for 1 / 2 / 3 held [319].
 - **Abyss Corridor entrance: map icon, you can teleport to it**, and it was open well after the siege (Sun
   afternoon after Sat's siege). It can be camped: enemy players guarded it and killed anyone entering (in-game 2026-10-18).
+  **Inside: an arena where monsters spawn continuously; more kills = more Abyss Points.** One run gave ~10k AP
+  (in-game 2026-10-18), i.e. about one Stigma Shard from the Abyss shop: very worth it when your faction holds an Artifact.
 - **Abyss Corridor:** after the siege, an entrance opens at each held Artifact for the owning faction,
   **5 minutes** to enter and farm [319][62][64]. A faction holding none gets a catch-up corridor; AP there
   doesn't count toward the PvE cap [321].
