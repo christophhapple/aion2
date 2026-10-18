@@ -32,7 +32,7 @@ patch notes, which beat guides. Every fact is tagged with its source and date or
 | `titles.md` | Title slots, owned bonus, which titles to equip | 2026-10-11 |
 | `achievements.md` | Achievement sections, duty/command counts, easy ones | 2026-10-15 |
 | `sorcerer.md` | Sorcerer skills, Stigmas, specialties, rotation, stats (all guides, unverified) | 2026-10-11 |
-| `abyss.md` | Abyss: PvP rules, layers, low-risk PvE, healer advice, Supply Requests | 2026-10-14 |
+| `abyss.md` | Abyss: PvP rules, layers, low-risk PvE, healer advice; also Supply Requests (not Abyss content, but pay AP) | 2026-10-14 |
 | `crafting.md` | Professions, gathering, crafted gear, economy | 2026-10-10 |
 | `schedule.md` | Event times, refilling counters, dated deadlines (EU) | 2026-10-10 |
 | `events.md` | Open-world events: Dimensional Invasion (rewards, keys, scoring) | 2026-10-11 |

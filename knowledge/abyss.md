@@ -40,14 +40,18 @@ Bosses: eight level-65 Hero field bosses drop Unique armor sets and refining sto
 - Bosses, sieges and contested spots need a group or legion [81][85]. Wait for more gear.
 - KR cut healing in Aug 2026 (range 40 m, power −20–50%) [91, KR]; may or may not come to global.
 
-## Abyss Supply Requests (보급 의뢰)
+## Supply Requests (보급 의뢰)
+
+**Not Abyss content** (in-game 2026-10-18): the game calls them just "Supply Requests"; one system, no
+separate Abyss version seen. ~~"Abyss Supply Request"~~ is a guide label [213], likely because they pay Abyss Points.
+Kept in this file for the AP link.
 
 Researched 2026-10-14. **Low–medium confidence**: no official global page; English guides don't say
 which version they describe; detailed sources are KR (2025-11 → 2026-05). Sources [211]–[221].
 
 - **What:** hand in specific items, get **Abyss Points + Enhance Stones** [211][213]
   (xboxplay says Kina + AP [212]). PvE-only way to earn AP [211][214]. Same requests for everyone [215].
-- **Where:** Esc menu → Abyss Supply Request [213]; KR: ALT+J [217]. Unlock condition not found.
+- **Where:** Esc menu → Supply Requests (in-game 2026-10-18); KR: ALT+J [217]. Unlock condition not found.
 - **Tabs:** Emergency (daily, has a deadline), Weekly, plus two long-running ones: Craft and Boss
   ("Season: …" in KR [216][219], "Regular: …" in a global guide [214]; some stay up all season [215]).
   KR weekly reset is Wednesday, so probably the normal weekly reset here (unverified).
