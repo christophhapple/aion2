@@ -168,7 +168,7 @@ Arcana. Read with gear and Arcana unequipped: the baseline Arcana builds on. Sti
 | Defiance | 1 chain skill Blessing of Regeneration · 4 +2s Tenacity (slot 2 since 2026-10-17, Lv 14) | Blessing heals ~2.1k + 40% MP, more than option 3's 10% HP at ~13k max HP. Option 4: longer CC immunity. Lv 16 option 5: +50% PvE Damage Tolerance during Tenacity |
 | Lightning Strike Scattershot | 1 | 0 | 1 (unused) |
 | Warm Benediction, Empyrean Lord's Grace, Healing Enhancement, Immortal Veil, Earth's Grace, Survival Willpower, Radiant Benediction | 10 | +4 | **14** (max) |
-| Prayer of Concentration | 5 | +3 | 8 (last Triniel green node → 9) |
+| Prayer of Concentration | 5 | +4 | 9 (last Triniel green node taken 2026-10-18) |
 | Empyrean Lord's Benediction, Heal Block | 1 | 0 | 1 (no points, low value) |
 
 Effects + icons: `knowledge/cleric-skills.md` "Passive". Before the 2026-10-17 rework: Scattershot 12,
@@ -248,8 +248,8 @@ evenly). Further levels come from **Daevanion** (11–14) and **Arcana** (15–2
 **Boards reworked 2026-10-17.** Nezekan, Zikel, Vaizel and Triniel were checked for shorter paths and
 5 points saved (1/1/2/1). Spare points then went to **Prayer of Concentration** nodes: Zikel 2 green
 (4 points), Vaizel 1 common + 1 green (3), Triniel 1 common on the way to a green.
-- **Next:** 2 points for that last green Prayer of Concentration node on Triniel.
-- **Then:** common nodes with useful stats. Skip Multi-hit Resist (low PvE value, `knowledge/endgame.md`).
+- ~~2 points for the last green Prayer of Concentration node on Triniel~~ done 2026-10-18 (Nightmare shop points).
+- **Next:** common nodes with useful stats. Skip Multi-hit Resist (low PvE value, `knowledge/endgame.md`).
 - Corners: Nezekan all 4; Zikel, Vaizel, Triniel: what's taken matches what's wanted (2026-10-17).
 
 **Arcana (15–20): 4 Common cards, maxed** (see "Skill levels"). Lv 16 unlocks option 5, Lv 20 the 3rd slot.
