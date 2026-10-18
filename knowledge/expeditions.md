@@ -38,7 +38,7 @@ third mode" [46]~~. KR added Hard in Dec 2025 [52][53, KR]. **Vakron Conquest re
 | Cube cost (Odyle) | Krao, Urugugu **20** (Krao in-game) · Fire Temple **30** · Draupnir, Vakron, Horn Den **40** [46][49][51] | **40** (in-game) |
 | Weekly cube limit | **none** (in-game) | **10 "unobtained cubes" per week**: clears left without opening the cube (in-game 2026-10-12); shared with Transcendence (in-game) |
 | Final boss, guaranteed | 4 Silentium + **1,000–1,500 Enhance Stones** [49] | 7 Silentium + **2,000 Enhance Stones** [49] (1,000–2,000 [56]) |
-| Kina per Conquest run | – | **Urugugu, Vakron ~300k each** (in-game 2026-10-18); the next tier ~400k (user, which two to confirm). The biggest regular Kina source for F2P |
+| Kina per Conquest run | – | **Urugugu, Vakron ~300k each** (in-game 2026-10-18); **Fire Temple, Ferocious Horn Den ~400k each** (GS 2100) (in-game 2026-10-18). Source (cube or drops): not recorded. The biggest regular Kina source for F2P |
 | Pity (runs to guarantee) | Krao, Urugugu, Fire Temple 1 · Draupnir, Vakron, Horn Den 3 (in-game) | ★1 Krao, Draupnir: 14 · ★2 Urugugu, Vakron: 21 · ★3 Fire Temple, Horn Den: 28 (in-game) |
 
 - **Remaining Unobtained Cube Count:** 10 per week per server (Wednesday reset), shown on the Conquest
