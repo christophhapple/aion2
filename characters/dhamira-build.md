@@ -136,19 +136,20 @@ Levels: DPS / Heal (per preset, see the splits below).
 
 **Shard rule (2026-10-17): spend to breakpoints** (5/10/15/20). Levels in between only raise base
 values a little: Light of Protection Lv 10 → 12 was +1% (15% → 16%) for 8 shards (in-game 2026-10-17).
-Shards reset free per Stigma, levels are per preset, and each preset gets the whole pool (**58 shards** (in-game 2026-10-17; 50 earlier that day),
-DPS 0 unspent, Heal 8 unspent).
+Shards reset free per Stigma, levels are per preset, and each preset gets the whole pool (**60 shards**
+(2026-10-18, +2 from the Nightmare shop; 58 on 2026-10-17), both presets 0 unspent: every Stigma at 10).
 
 **DPS split (set in-game 2026-10-17):** Light of Protection **10** · Earth Punishment **10** (+10% Double Chance, party +5%) ·
-Prayer of Amplification **10** (×1.5 Empyrean Lord's Grace while active) · Noble Aura **9** (in-game 2026-10-17; was
-Voice of Doom 5) = 15 + 15 + 15 + 13 = 58 (cost table confirmed). Noble Aura 10 is 2 shards away. Next: **Earth Punishment 10 → 15** (20: +10% Attack and Defense, party +5%);
+Prayer of Amplification **10** (×1.5 Empyrean Lord's Grace while active) · Noble Aura **10** (2026-10-18; was
+Voice of Doom 5) = 15 × 4 = 60. Next: **Earth Punishment 10 → 15** (20 shards: +10% Attack and Defense, party +5%);
 then decide between Earth Punishment 20 (40, doubles the always-crit Condemnation window) and Prayer or
 Light of Protection 15. Noble Aura 10 (+20 dmg to targets afflicted with…, truncated) not assessed yet.
 
 **Heal split (set in-game 2026-10-17):** Light of Protection **10** · Absolution **10** (−30s CD, removes all debuffs) ·
-Summon Resurrection **10** (3s invincibility after the res) · Earth Punishment **5** (Condemnation
-crit) = 15 + 15 + 15 + 5 = 50, **8 unspent**. Next: **Earth Punishment 5 → 10** (10: party Double Chance), then
-**Light of Protection 10 → 15** (20: +10% Max HP for the party).
+Summon Resurrection **10** (3s invincibility after the res) · Earth Punishment **10** (2026-10-18, party Double
+Chance) = 15 × 4 = 60. Next: **Earth Punishment 10 → 15** too: the same 20 shards count in both presets, and +10%
+Defense helps the healer. Other Lv 15 options are weak: Light of Protection +100 Accuracy (its +10% Max HP is Lv 20,
+40 more shards), Absolution +5% HP restored, Summon Resurrection 20% HP on res.
 
 History: until 2026-10-17 one shared set (Light of Protection 12, Earth Punishment 9, Prayer 7,
 Power Burst 5); briefly a Heal split "A" with Light of Protection 12 before the breakpoint rule.
