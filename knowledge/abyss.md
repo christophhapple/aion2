@@ -49,7 +49,7 @@ Kept in this file for the AP link.
 Researched 2026-10-14. **Low–medium confidence**: no official global page; English guides don't say
 which version they describe; detailed sources are KR (2025-11 → 2026-05). Sources [211]–[221].
 
-- **What:** hand in specific items, get **Abyss Points + Enhance Stones** [211][213]
+- **What:** hand in specific items, get **Abyss Points + Enhance Stones** (in-game 2026-10-18) [211][213]
   (xboxplay says Kina + AP [212]). PvE-only way to earn AP [211][214]. Same requests for everyone [215].
 - **Where:** Esc menu → Supply Requests (in-game 2026-10-18); KR: ALT+J [217]. Unlock condition not found.
 - **Tabs:** Emergency (daily, has a deadline), Weekly, plus two long-running ones: Craft and Boss

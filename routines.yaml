@@ -52,7 +52,7 @@ routines:
   - id: supply-daily
     name: Supply Requests, Emergency tab
     reset: daily
-    notes: Esc → Supply Requests (in-game name; not Abyss content, in-game 2026-10-18). Doing all of them isn't realistic; cap 1 = "did some", log the real count. Hand in Silentium (keep it, don't sell) or matching gear. AP + Enhance Stones. Details knowledge/abyss.md (guides, unverified).
+    notes: Esc → Supply Requests (in-game name; not Abyss content, in-game 2026-10-18). Doing all of them isn't realistic; cap 1 = "did some", log the real count. Hand in Silentium (keep it, don't sell) or matching gear. AP + Enhance Stones (in-game 2026-10-18). Details knowledge/abyss.md (amounts: guides, unverified).
 
   - id: supply-weekly
     name: Supply Requests, Weekly tab
