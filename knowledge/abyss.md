@@ -39,6 +39,27 @@ Bosses: eight level-65 Hero field bosses drop Unique armor sets and refining sto
 - **Ereshkigal Monolith** (in Western Root, max level 20): uses Reshanta feathers only; gives permanent
   **PvP** stats + Azphel Daevanion Crystals [80][89][90]. Traces needed: 200 [80] **vs** 300 [89].
 
+## Artifact Siege and timed Abyss content (researched 2026-10-18)
+
+Guides mostly describe KR/TW; global details may differ. Sources [319]–[321].
+
+- **When:** Mon, Thu, Sat 21:00 server time, 30 min (Sat in-game; times in `schedule.md`).
+- **Where:** three Artifacts in Lower Reshanta: **Reshanta's Root**, **Branding Island** (Sulfur Tree Island),
+  **Grave of Steel** (Archipelago of Siel's Wings) [319][320]. Entry: level 45 + GS 1000 [319] (500k
+  Combat Power in one guide, see Layers: unlikely).
+- **How:** when the siege starts, **Dimensional Cores** appear at each Artifact; the faction landing the
+  **final hit** on a core takes that Artifact [319][320]. A set number of players on the winning side get
+  Abyss Points by contribution [319]; KR switched to per-class ranking on 2026-07-01 [320].
+- **Holding Artifacts:** whole faction gets +2.5% / +5% / +7.5% Abyss Point gain for 1 / 2 / 3 held [319].
+- **Abyss Corridor:** after the siege, an entrance opens at each held Artifact for the owning faction,
+  **5 minutes** to enter and farm [319][62][64]. A faction holding none gets a catch-up corridor; AP there
+  doesn't count toward the PvE cap [321].
+- **Siege bosses** follow at 21:30 (Tamasa etc., `schedule.md`). Other timed Abyss bosses: Watcher Kaira every
+  3h, Guardian Lord Nahma Fri/Sun 21:00. **The Abyss boss timer list shows their countdowns** (in-game 2026-10-18);
+  whether it also shows the siege: unknown.
+- **For a healer (inference):** the siege is mass faction PvP; joining in a group and staying near the
+  front line healing can earn contribution AP, but the guides give no healer-specific advice.
+
 ## Advice for a healer at GS ~1100 (inference, not from a guide)
 - Worth it in small doses: Duty Missions, Command Scrolls and feathers **near Western Root**, then leave.
 - Go with a damage-dealing partner at minimum; a Cleric alone can't kill an attacker [85].

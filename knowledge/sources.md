@@ -384,3 +384,8 @@ Added 2026-10-18 (finding a legion).
 
 Added 2026-10-18 (Altgard gathering).
 318. allthings.how map (Orichalcum node counts) + playnews.gg (Raw Diamond / Sapphire by faction), 2026-10, G: https://allthings.how/aion-2/map/orichalcum/ · https://www.playnews.gg/en/guides/raw-diamond-in-aion-2-where-to-farm-this-resource-depending-on-your-faction-elyseans-asmodians
+
+Added 2026-10-18 (Artifact Siege).
+319. metabot.gg, Artifact Siege event page, undated, G?: https://metabot.gg/en/aion-2/events/artifact-siege
+320. wikily.gg, Artifact Siege, undated, KR/TW-based: https://wikily.gg/aion-2/artifact-siege
+321. allthings.how Abyss guides + expcarry Abyss entry/AP/artifacts, 2026-09/10, says level/GS gates are KR/TW, not confirmed global: https://allthings.how/?p=247152 · https://expcarry.com/aion-2-abyss-entry-ap-artifacts-pvp-gear
