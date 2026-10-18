@@ -52,7 +52,8 @@ which version they describe; detailed sources are KR (2025-11 → 2026-05). Sour
 - **What:** hand in specific items, get **Abyss Points + Enhance Stones** (in-game 2026-10-18) [211][213]
   (xboxplay says Kina + AP [212]). PvE-only way to earn AP [211][214]. Same requests for everyone [215].
 - **Where:** Esc menu → Supply Requests (in-game 2026-10-18); KR: ALT+J [217]. Unlock condition not found.
-- **Tabs:** Emergency (daily, has a deadline), Weekly, plus two long-running ones: Craft and Boss
+- **Tabs (in-game 2026-10-18):** Emergency (daily), Weekly, Craft, Boss. **Craft and Boss are not repeatable**: one
+  hand-in per request. Guides: Emergency has a deadline; Craft/Boss stay up long-term
   ("Season: …" in KR [216][219], "Regular: …" in a global guide [214]; some stay up all season [215]).
   KR weekly reset is Wednesday, so probably the normal weekly reset here (unverified).
 - **Hand-ins:** Silentium for the repeatable ones [211][212][213]; gear of a required grade (more AP for
