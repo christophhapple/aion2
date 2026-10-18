@@ -282,5 +282,14 @@ Researched 2026-10-13; guides only, thin sources. [196][197] read client data an
 - **Rewards, per arena:** participation **300 Abyss Points**, victory **500 Abyss Points**. Weekly maximum: 10
   participation rewards + 30 victory rewards, reset Wednesday. So up to 3,000 + 15,000 = **18,000 AP per arena per
   week** (own arithmetic; assumes a win pays only the victory reward).
-- **Matchmaking: always available, every day, both arenas** ("Matchmaking Time" tooltip). Guides' "Arena of Tactics (10v10)" is
-  not in the global client.
+- **Matchmaking: always available, every day, both arenas** ("Matchmaking Time" tooltip). The 10v10 "Arena of Tactics" isn't in this window;
+  it is the **Battlefield**, see below.
+
+## Battlefield (10v10 PvP, researched 2026-10-18, guides, unverified)
+- **Exists on global:** a weekly Season Mission asks to "Participate in Battlefield 1 time" (in-game 2026-10-18).
+  Not in the Arena window; where to enter: not found yet (guides speak of a separate "Battlefield" screen) [322].
+- Guides: menu name **Battlefield**, internal name **Arena of Tactics**. Map **Odyle Shard Cradle**: push the
+  Shard Catalyst into the enemy camp within 10 minutes. 10v10 (8v8 before a KR patch, 2026-07-01) [322][323].
+- **Times:** daily **11:00–14:00 and 19:00–21:00** server time [63][322][323].
+- **Queue:** solo or a full 5-player party only (KR patch 2026-08-12) [323]. Stats reportedly normalised [322].
+- **Rewards:** Abyss Points and medals; "Battlefield 3 win rewards/week" (see weekly limits above) [3][322].

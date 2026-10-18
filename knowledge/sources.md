@@ -389,3 +389,7 @@ Added 2026-10-18 (Artifact Siege).
 319. metabot.gg, Artifact Siege event page, undated, G?: https://metabot.gg/en/aion-2/events/artifact-siege
 320. wikily.gg, Artifact Siege, undated, KR/TW-based: https://wikily.gg/aion-2/artifact-siege
 321. allthings.how Abyss guides + expcarry Abyss entry/AP/artifacts, 2026-09/10, says level/GS gates are KR/TW, not confirmed global: https://allthings.how/?p=247152 · https://expcarry.com/aion-2-abyss-entry-ap-artifacts-pvp-gear
+
+Added 2026-10-18 (Battlefield).
+322. allthings.how, Battlefield / Arena of Tactics how-to, 2026, G?: https://allthings.how/?p=259789 · https://allthings.how/?p=253129
+323. thegameswiki.com, Battlegrounds, KR/TW-based: https://thegameswiki.com/aion-2/wiki/battlegrounds

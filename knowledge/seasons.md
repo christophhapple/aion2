@@ -46,7 +46,9 @@ the reset pattern is from KR official notices. Unverified unless tagged `in-game
   Transcendence: clear each stage of Deus Research Base and Shattered Arkanis. Nightmare: clear each boss level
   (7 bosses × 11 levels: Gatekeeper Pinopi, Furious Feruk, Fafnir's Poison Blood, Wraith Giselle, Fortress Guardian,
   Mutated Gerod, Zikel's Apparition). Challenge: Ascension Trial clears, **Tower of Trials** final score, PvP kills.
-- Unknown content named there: **Battlefield** and **Tower of Trials** (not researched yet).
+- **Battlefield:** the 10v10 PvP mode, see `endgame.md` "Battlefield". **Tower of Trials:** no guide mentions it; it
+  sits among the Ascension Trial missions and asks for a "final score", and the Ascension Trial is scored, so it is
+  probably the Ascension Trial's score chain (inference, 2026-10-18).
 - **Countdowns:** "Season resets in 58d 19h 11min" seen 2026-10-18 14:49 CEST → **2026-12-16 08:00 UTC (09:00 CET)**;
   "Event ends in 16d 19h 11min" → 2026-11-04 08:00 UTC (09:00 CET). Matches the "09:00" end date shown in the window.
 
