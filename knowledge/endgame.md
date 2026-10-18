@@ -282,5 +282,5 @@ Researched 2026-10-13; guides only, thin sources. [196][197] read client data an
 - **Rewards, per arena:** participation **300 Abyss Points**, victory **500 Abyss Points**. Weekly maximum: 10
   participation rewards + 30 victory rewards, reset Wednesday. So up to 3,000 + 15,000 = **18,000 AP per arena per
   week** (own arithmetic; assumes a win pays only the victory reward).
-- Matching hours: behind the "Matchmaking Time" info icon (not read yet). Guides' "Arena of Tactics (10v10)" is
+- **Matchmaking: always available, every day, both arenas** ("Matchmaking Time" tooltip). Guides' "Arena of Tactics (10v10)" is
   not in the global client.
