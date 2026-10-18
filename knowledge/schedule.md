@@ -24,7 +24,7 @@ reading the global client [61][62][63]; unverified unless tagged `in-game`. Sour
 | **Artifact Siege** (Lower/Middle Reshanta) | **Mon, Thu, Sat 21:00** (Sat + Mon in-game: "Next Siege in" countdown on the Chaotic Lower Reshanta card, 2026-10-18) | 30 min | 45 | Winning faction gets 5 min in the Abyss Corridor [62][64]. ~~Wed + Sat~~ is KR [62] |
 | Siege bosses (Tamasa, Argo, Kaira, Dramos, Marakha, Ducal) | Mon, Thu, Sat 21:30 | 30 min | 45 | Rewards not documented [61]. **Executor Tamasa Mon 21:30 confirmed** (in-game 2026-10-18: timer showed 1d 8h 4m on Sun 13:25) |
 | Guardian Lord **Nahma** (+ Enraged) | **Fri, Sun 21:00** (Sun in-game) | 30 min | 45 | Abyss [61][62]. **Sun 21:00 confirmed**; the timer lists two Nahma entries (in-game 2026-10-18) |
-| Arena of Tactics (10v10) | daily 11:00–14:00, 19:00–21:00 | 10 min matches | 45 | Single source [63]; "not confirmed" [61] |
+| Arena of Solitude (1v1) / Cooperation (5v5) | matchmaking hours: see the "Matchmaking Time" info icon (not read yet) | – | 45 | In-game 2026-10-18; details `endgame.md` "Arena". ~~Arena of Tactics (10v10), daily 11:00–14:00, 19:00–21:00~~ [63]: no 10v10 arena in the global client |
 | Field bosses (Verteron etc.) | no fixed time: respawn timer on the map | – | ~45 | Kina, gear, Manastones, stones [61] |
 
 **Field boss loot:** the map tooltip lists Unique, Epic and Rare possible loot, but a looted chest showed

@@ -272,3 +272,14 @@ Researched 2026-10-13; guides only, thin sources. [196][197] read client data an
   In-game options: Legion menu search/apply [197][198], or ask in region chat (general MMO practice, not from a source).
 - **So (inference):** joining a relaxed legion costs nothing and gives a title + small stats; it doesn't
   help Enhance Stones, shards or Kina. Main value later: people for group/Abyss content.
+
+## Arena (PvP, in-game 2026-10-18)
+- Arena window, tabs: **Arena of Solitude** (1v1: win by defeating the enemy first within the time limit),
+  **Arena of Cooperation** (5v5: win by defeating the whole enemy team), Rank, Trade Shop.
+- Season ranking: everyone starts at **1,500 RP**; promotion/demotion apply when ranks update. Season shown as
+  2026-09-30 09:00 – 2026-12-16 09:00.
+- **Rewards, per arena:** participation **300 Abyss Points**, victory **500 Abyss Points**. Weekly maximum: 10
+  participation rewards + 30 victory rewards, reset Wednesday. So up to 3,000 + 15,000 = **18,000 AP per arena per
+  week** (own arithmetic; assumes a win pays only the victory reward).
+- Matching hours: behind the "Matchmaking Time" info icon (not read yet). Guides' "Arena of Tactics (10v10)" is
+  not in the global client.

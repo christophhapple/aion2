@@ -5,7 +5,9 @@ the reset pattern is from KR official notices. Unverified unless tagged `in-game
 
 ## Global Season 1
 
-- **Runs 2026-09-30 → 2026-12-16 07:00 UTC** (08:00 local, CET); Season 2 starts then [222]. "16:00
+- **Runs 2026-09-30 → 2026-12-16 07:00 UTC** (08:00 local, CET); Season 2 starts then [222]. **In-game (Arena window,
+  2026-10-18): "09/30/2026 09:00 – 12/16/2026 09:00".** The 09:00 end doesn't fit 07:00 UTC in winter time (08:00 CET):
+  either the game shows a fixed summer-time offset or the season ends 08:00 UTC. Check the countdown in December. "16:00
   server time" in [223][224] is the same moment in KST. `schedule.md` has "Dec 15 at maintenance"
   for the Daeva Pass [65][66]: likely the same maintenance window. Check the in-game countdown.
 - **Seasonal in S1** [222]: Ascension Trial alternates weekly (Sanctum of Loathing / Nightmare Altar);
