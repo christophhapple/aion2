@@ -43,6 +43,12 @@ routines:
     reset: weekly
     cap: 12
 
+  - id: abyss-commands
+    name: Abyss Command Scrolls (Common)
+    notes: Command Shop in Latesran Western Root (Abyss). Common 15,000 Kina → 1,000 AP + 200 Abyssal Power Shards + 1–5 random (AP, Enhance Stones). 5/week per server, weekly reset (in-game 2026-10-18). Log when the missions are done, not when bought. Higher grades (37.5k / 75k / 150k) not tracked.
+    reset: weekly
+    cap: 5
+
   - id: shugo
     name: Shugo Festival (use keys)
     reset: daily
