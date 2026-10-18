@@ -37,7 +37,7 @@ the reset pattern is from KR official notices. Unverified unless tagged `in-game
   - Arena: take part 3 times, win once.
   - Transcendence: clear Transcendence dungeons (6), defeat 10 mini-bosses, extract 10 Arcana.
   - Nightmare: defeat bosses (10), get 3,000 Phantasmal Fragments, defeat a boss within a time limit.
-  - Challenge: gather 10 Odyle in the Abyss, complete 3 Abyss commands, defeat 3 Abyss bosses, take part in a
+  - Challenge: gather 10 Odyle in the Abyss, complete Abyss commands (chain 3 / 6 / 10 per week, in-game), defeat 3 Abyss bosses, take part in a
     **Battlefield** once, clear Ascension Trial 3 times, kill enemy players (officers; in Verteron/Altgard).
   - Event (Halloween): 10 easy ones (hunt in Abyss, one clear each of Transcendence, Conquest, Ascension Trial,
     Nightmare, log in 3 times, get a Unique piece, use 5 scrolls, Invasion, Shugo).
