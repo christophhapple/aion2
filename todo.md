@@ -23,6 +23,7 @@ tracker itself goes in `backlog.md`.
 - [ ] *(at GS 1600)* Dhamira: revisit Manastones. All gear has cheap ones with only a few rerolls (2026-10-13); upgrade on pieces you keep
 
 ## Done
+- [x] Dhamira, Daevanion: last green Prayer of Concentration node on Triniel (2026-10-18). Next: common nodes with good stats (no Multi-hit Resist)
 - [x] Earth Punishment Lv 20 line: "+10s [Earth Punishment] and [Earth's Blessing] duration" (2026-10-17)
 - [x] Substance Morph: Clash Rune Enhance Scroll → 100 Enhance Stones works, but not worth it (2026-10-17)
 - [x] Crafting: no energy or daily limit, only Kina and materials; no profession to commit to, nothing to learn or unlearn (2026-10-17)
