@@ -35,7 +35,7 @@ Bosses: eight level-65 Hero field bosses drop Unique armor sets and refining sto
   Shards; plus 1–5 random from: Abyss Points 200 / 400 / 1,800, Enhance Stones 500 (×2 slots).
   **Green (37,500)** (in-game 2026-10-18): e.g. "Archipelago of Siel's Wings: Defeat Abyss Drakan Chief" (boss + surrounding
   forces). Basic 1,000 Abyss Points + 400 Abyssal Power Shards; random rewards: 200-stacks of green/teal crystals, a
-  compass-like item, a feather (names not read). **Redraw** up to 10 times, 1,000 each (icon looks like Abyss Points).
+  compass-like item, and a chance at a **Radiant Ruby** (Unique gem, crafting material) (in-game 2026-10-18). **Redraw** up to 10 times, 1,000 each (icon looks like Abyss Points).
   Blue/gold rewards: not checked yet. **Abyssal Power Shards** work like normal Power Shards: toggle on to consume them, they buff Attack while being
   used up; the Abyssal ones also ignore some of a PvP enemy's Defense (in-game 2026-10-18).
 - **Abyss Points cap: none shown in-game** (in-game 2026-10-18). ~~Weekly cap, separate for PvE and PvP~~ [50] not seen.
