@@ -27,7 +27,7 @@ reading the global client [61][62][63]; unverified unless tagged `in-game`. Sour
 | Siege bosses (Tamasa, Argo, Kaira, Dramos, Marakha, Ducal) | Mon, Thu, Sat 21:30 | 30 min | 45 | Rewards not documented [61]. **Executor Tamasa Mon 21:30 confirmed** (in-game 2026-10-18: timer showed 1d 8h 4m on Sun 13:25) |
 | Guardian Lord **Nahma** (+ Enraged) | **Fri, Sun 21:00** (Sun in-game) | 30 min | 45 | Abyss [61][62]. **Sun 21:00 confirmed**; the timer lists two Nahma entries (in-game 2026-10-18) |
 | Arena of Solitude (1v1) / Cooperation (5v5) | **always available**, every day (in-game 2026-10-18: "Matchmaking Time" tooltip) | – | 45 | In-game 2026-10-18; details `endgame.md` "Arena" |
-| Battlefield (10v10, "Arena of Tactics") | daily 11:00–14:00, 19:00–21:00 | 10 min matches | 45 | Exists on global (weekly Season Mission, in-game 2026-10-18); not in the Arena window; times from guides [63][322][323]; details `endgame.md` "Battlefield" |
+| **Battlefield** (Arena of Tactics, 10v10) | **daily 11:00–14:00, 19:00–21:00** (in-game 2026-10-18) | 10 min matches [322] | 45 | Own Battlefield window; details `endgame.md` "Battlefield" |
 | Field bosses (Verteron etc.) | no fixed time: respawn timer on the map | – | ~45 | Kina, gear, Manastones, stones [61] |
 
 **Field boss loot:** the map tooltip lists Unique, Epic and Rare possible loot, but a looted chest showed

@@ -11,7 +11,6 @@ tracker itself goes in `backlog.md`.
 - [ ] Check: Season Shop limits: per season or weekly? (Oath Coins 30,770, missions and countdown done 2026-10-18.) See `knowledge/seasons.md`
 - [ ] Verify: after 2026-10-25 (DST change), do event times stay on the local clock (Rift still at 02, 05, 08 … 23)? And is the daily reset at 08:00 or still 09:00 local? (Season/event countdowns hint 09:00; then `routines.yaml` needs 08:00 UTC)
 - [ ] Verify: Artifact Siege Thu 21:00, siege bosses Thu 21:30, Nahma Fri 21:00 (boss timer list + "Next Siege in" on the Chaotic Lower Reshanta card). Confirmed: Sat + Mon siege 21:00, Mon 21:30 Tamasa, Sun 21:00 Nahma, Kaira 16:00
-- [ ] Find the Battlefield (10v10): where do you enter it, and does it open 11:00–14:00 and 19:00–21:00? A weekly Season Mission wants 1 participation. See `knowledge/endgame.md` "Battlefield"
 - [ ] Quick wins check: Pets levelled (to 3)? Joined a Legion? Hamme: unused Daevanion Crystals or Wisdom Stones in the bag? See `knowledge/progression.md` "Often missed". (Dhamira: no unused crystals or Wisdom Stones, 2026-10-13)
 - [ ] Check (once a pet is fully levelled): does targeting a monster of that pet type show it as done?
 - [ ] *(low priority)* Check: what do the Abyss Command Scrolls above Common (green 37.5k / blue 75k / gold 150k Kina) reward?
@@ -20,6 +19,7 @@ tracker itself goes in `backlog.md`.
 - [ ] *(at GS 1600)* Dhamira: revisit Manastones. All gear has cheap ones with only a few rerolls (2026-10-13); upgrade on pieces you keep
 
 ## Done
+- [x] Battlefield found: own window, Arena of Tactics 10v10, daily 11:00–14:00 + 19:00–21:00, up to 12k AP/week (2026-10-18)
 - [x] Abyss Corridor: entrance has a map icon + teleport, can be camped; inside an arena with endless spawns, AP per kill, ~10k AP in one run (2026-10-18)
 - [x] Abyss checks: no AP cap shown; Western Root safe; Abyss time 7h/week, shown in the Abyss screen and by the minimap (2026-10-18)
 - [x] First Conquest clears of Krao Cave and Draupnir done; pity tracked in-game, not here (2026-10-18)
