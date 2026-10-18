@@ -78,6 +78,8 @@ with patches. Therefore:
   no personal data. Each fact shows an "In-game" or "Guides" tag.
 - When those knowledge files change in a way the page shows, update the HTML and republish with the
   Artifact tool, passing the URL above as `url`, so the link stays the same. Mention it in the reply.
+- **Exception: `share/progression.html` (Hamme's page) only on request** (user, 2026-10-18: Hamme isn't
+  actively using it). Don't edit or republish it automatically; the user says when to update it.
 
 ## Computing status
 
