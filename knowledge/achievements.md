@@ -28,7 +28,7 @@ So for achievements **any duty counts**; pick by reward (slot 1 guaranteed: Soul
 | **Herald of Hope** | Complete Duty Quest: Command | same | same | **Messenger of Atreia** at 30: equipped Block +32, owned Evasion +5 [273] |
 | Daeva of Glorious Deeds (weekly, Season 1) | Complete 3 **Abyss** commands | 3/6/10 | 820 Oath Coins + 6,000 AP + 3 Silver Medals of Merit | – [274] |
 
-Whether town (Common) Command Scrolls count for Herald of Hope: presumably, not stated. The weekly
+**Both town and Abyss Command Scrolls count for Herald of Hope** (in-game 2026-10-18). The weekly
 Season one needs Abyss commands (missions in the Abyss, PvP zone).
 
 ## Easy ones (Lv 45, PvE, F2P), all global [270]
