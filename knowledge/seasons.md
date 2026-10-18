@@ -23,11 +23,30 @@ the reset pattern is from KR official notices. Unverified unless tagged `in-game
   "NAN × HAD", plus a match history), Transcendence, Nightmare, Ascension Trial. Each shows **Class Rank** and
   **Points**, the current season dungeon/boss (e.g. Transcendence: Shattered Arkanis; Ascension Trial: Sanctum of
   Loathing) and, for some, **Class Rank Rewards** (a card item). "Go Now" jumps to the content.
-- **Season Mission** panel = **achievement chains per category**, each step a concrete goal with a step count:
-  Abyss (25 steps, e.g. "collect 500,000 Abyss Points"), Arena (14, "win 20 times"), Transcendence (24, "defeat 10
-  mini-bosses"), Nightmare (77, "clear Furious Feruk level 8"), Challenge (27, e.g. "clear Sanctum of Loathing 7
-  times"), Event (none right now). These look like the "Season 1 achievements" in guides; guide step counts
-  (Challenge 21, Abyss 17) differ. ~~Weekly Season Missions with points that reset~~ [224]: not what the window shows.
+- **Season Mission window:** tabs **Abyss, Arena, Transcendence, Nightmare, Challenge, Event**; each has a **Weekly**
+  and a **Season** sub-tab (Event: Weekly only, and only while an event runs). Each card is a mission chain
+  ("Step 1/3"): a concrete goal, a **trophy-point** value (90–610) and rewards, usually the **season coin** (white-gold
+  leaf icon, also first in the top bar; presumably Oath Coins) + Abyss Points, sometimes items (Stigma-type shards,
+  Arcana cards, crystals). Overall progress counts finished steps ("All 35/167").
+- **Weekly trophy points:** completing missions adds trophy points to a weekly bar with milestones at 1,500 / 3,000 /
+  4,500 / 6,000 / 8,000; "Expected Weekly Rewards" are paid at the **weekly reset**, then the bar restarts. This matches
+  the guides' weekly Season Mission points [224].
+- **Weekly missions (examples):**
+  - Abyss: hunt 200 monsters in the Abyss, spend 1 hour there, kill 5 enemy players, defeat Nahma / Watcher Kaira /
+    Argo / a Dominator of Lower Reshanta, take part in or win 1 Artifact Siege.
+  - Arena: take part 3 times, win once.
+  - Transcendence: clear Transcendence dungeons (6), defeat 10 mini-bosses, extract 10 Arcana.
+  - Nightmare: defeat bosses (10), get 3,000 Phantasmal Fragments, defeat a boss within a time limit.
+  - Challenge: gather 10 Odyle in the Abyss, complete 3 Abyss commands, defeat 3 Abyss bosses, take part in a
+    **Battlefield** once, clear Ascension Trial 3 times, kill enemy players (officers; in Verteron/Altgard).
+  - Event (Halloween): 10 easy ones (hunt in Abyss, one clear each of Transcendence, Conquest, Ascension Trial,
+    Nightmare, log in 3 times, get a Unique piece, use 5 scrolls, Invasion, Shugo).
+- **Season missions (examples):** Abyss: 10 h in the Abyss, fly 60 min, hunt 2,000 monsters, collect 500,000 AP, take
+  part in 5 / win 3 sieges, PvP kills/deaths. Arena: 30 matches, 20 wins, 50 kills, 10 assists, 20 deaths.
+  Transcendence: clear each stage of Deus Research Base and Shattered Arkanis. Nightmare: clear each boss level
+  (7 bosses × 11 levels: Gatekeeper Pinopi, Furious Feruk, Fafnir's Poison Blood, Wraith Giselle, Fortress Guardian,
+  Mutated Gerod, Zikel's Apparition). Challenge: Ascension Trial clears, **Tower of Trials** final score, PvP kills.
+- Unknown content named there: **Battlefield** and **Tower of Trials** (not researched yet).
 - **Countdowns:** "Season resets in 58d 19h 11min" seen 2026-10-18 14:49 CEST → **2026-12-16 08:00 UTC (09:00 CET)**;
   "Event ends in 16d 19h 11min" → 2026-11-04 08:00 UTC (09:00 CET). Matches the "09:00" end date shown in the window.
 
