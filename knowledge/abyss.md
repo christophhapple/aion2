@@ -10,9 +10,10 @@ snippets. Sources [n]: `sources.md`. Schedule (sieges, bosses): `schedule.md`.
 - **Safe point (Elyos): Latesran Western Root** in one corner (bind point, Command Merchant, Monolith,
   Kibelisk); the Asmodian base is in the opposite corner [80][81]. "Fixed safe islands" and choke islands
   are mentioned [82, KR/TW snippet]. NPC guards/base safety: unknown.
-- **Death penalty: unknown** for Aion 2. (Aion 1 had "Soul Sickness", no XP loss [87, Aion 1 only].)
+- **Death: no penalty**; you always respawn at the same point, the faction's only Kibelisk (one per faction)
+  (in-game 2026-10-18). ~~Death penalty unknown~~.
 - **Abyss time** (7h per layer per week, F2P) runs only while you're inside the layer [80][50]; whether
-  it runs while dead/AFK/in base is undocumented. Rift Stones add +1h (lesser +30 min) [50].
+  **It keeps running whether you're alive or dead** (in-game 2026-10-18). Rift Stones add +1h (lesser +30 min) [50].
 
 ## Layers
 | Layer | Entry | Notes |
