@@ -43,7 +43,8 @@ Bosses: eight level-65 Hero field bosses drop Unique armor sets and refining sto
 
 Guides mostly describe KR/TW; global details may differ. Sources [319]–[321].
 
-- **When:** Mon, Thu, Sat 21:00 server time, 30 min (Sat in-game; times in `schedule.md`).
+- **When:** Mon, Thu, Sat 21:00 server time, 30 min (Sat + Mon in-game; times in `schedule.md`). **Countdown:** "Next Siege
+  in" on the Chaotic Lower Reshanta card in the Abyss screen (in-game 2026-10-18).
 - **Where:** three Artifacts in Lower Reshanta: **Reshanta's Root**, **Branding Island** (Sulfur Tree Island),
   **Grave of Steel** (Archipelago of Siel's Wings) [319][320]. Entry: level 45 + GS 1000 [319] (500k
   Combat Power in one guide, see Layers: unlikely).
