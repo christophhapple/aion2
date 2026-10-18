@@ -34,7 +34,7 @@ third mode" [46]~~. KR added Hard in Dec 2025 [52][53, KR]. **Vakron Conquest re
 
 | | Exploration | Conquest |
 |---|---|---|
-| Reward counts | 7 per dungeon, refill to 7 on Wednesday, don't bank [46][50] | +1 every 8h, bank up to 21 [46][47][50] |
+| Reward counts | 7 per dungeon, refill to 7 on Wednesday, don't bank [46][50] | **None on global**: no Conquest reward count, only the Odyle cube cost (in-game 2026-10-18). ~~+1 every 8h, bank up to 21~~ [46][47][50] |
 | Cube cost (Odyle) | Krao, Urugugu **20** (Krao in-game) · Fire Temple **30** · Draupnir, Vakron, Horn Den **40** [46][49][51] | **40** (in-game) |
 | Weekly cube limit | **none** (in-game) | **10 "unobtained cubes" per week**: clears left without opening the cube (in-game 2026-10-12); shared with Transcendence (in-game) |
 | Final boss, guaranteed | 4 Silentium + **1,000–1,500 Enhance Stones** [49] | 7 Silentium + **2,000 Enhance Stones** [49] (1,000–2,000 [56]) |
