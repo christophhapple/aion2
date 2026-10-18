@@ -59,6 +59,8 @@ Guides mostly describe KR/TW; global details may differ. Sources [319]–[321].
   **Asmodians are called "Eastern Camp", Elyos "Western Camp"** (in-game 2026-10-18).
   Snapshot 2026-10-18: Asmodians held Root + Siel's Wings, Elyos Sulfur Tree Island.
 - **Holding Artifacts:** whole faction gets +2.5% / +5% / +7.5% Abyss Point gain for 1 / 2 / 3 held [319].
+- **Abyss Corridor entrance: map icon, you can teleport to it**, and it was open well after the siege (Sun
+  afternoon after Sat's siege). It can be camped: enemy players guarded it and killed anyone entering (in-game 2026-10-18).
 - **Abyss Corridor:** after the siege, an entrance opens at each held Artifact for the owning faction,
   **5 minutes** to enter and farm [319][62][64]. A faction holding none gets a catch-up corridor; AP there
   doesn't count toward the PvE cap [321].
