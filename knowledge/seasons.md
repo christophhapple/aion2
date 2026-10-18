@@ -5,10 +5,9 @@ the reset pattern is from KR official notices. Unverified unless tagged `in-game
 
 ## Global Season 1
 
-- **Runs 2026-09-30 → 2026-12-16 07:00 UTC** (08:00 local, CET); Season 2 starts then [222]. **In-game (Arena window,
-  2026-10-18): "09/30/2026 09:00 – 12/16/2026 09:00".** The 09:00 end doesn't fit 07:00 UTC in winter time (08:00 CET):
-  either the game shows a fixed summer-time offset or the season ends 08:00 UTC. Check the countdown in December. "16:00
-  server time" in [223][224] is the same moment in KST. `schedule.md` has "Dec 15 at maintenance"
+- **Runs 2026-09-30 09:00 → 2026-12-16 09:00 local** (in-game 2026-10-18: Season window dates + countdown), i.e. ends
+  **08:00 UTC** (09:00 CET). ~~07:00 UTC / 08:00 local~~ [222]. Season 2 starts then. "16:00 server time" in
+  [223][224] (KST) = 07:00 UTC, an hour earlier than the in-game countdown. `schedule.md` has "Dec 15 at maintenance"
   for the Daeva Pass [65][66]: likely the same maintenance window. Check the in-game countdown.
 - **Seasonal in S1** [222]: Ascension Trial alternates weekly (Sanctum of Loathing / Nightmare Altar);
   fixed roster of 7 Nightmare bosses; Season 1 achievements; Season Missions; Season Shop; rankings
@@ -17,6 +16,20 @@ the reset pattern is from KR official notices. Unverified unless tagged `in-game
   Nothing says cards or Mysterious Crystals reset.
 - **Future (one source, unofficial)** [223]: S2 2026-12-16 → 2027-02-28 (adds "Subjugation"), S3
   → 2027-03-31, S4 → 2027-04-27. No official Season 2 announcement found.
+
+## Season window (in-game 2026-10-18)
+
+- **Rankings, one panel per mode:** Arena of Solitude (1:1, win rate), Abyss (shows the server pairing, e.g.
+  "NAN × HAD", plus a match history), Transcendence, Nightmare, Ascension Trial. Each shows **Class Rank** and
+  **Points**, the current season dungeon/boss (e.g. Transcendence: Shattered Arkanis; Ascension Trial: Sanctum of
+  Loathing) and, for some, **Class Rank Rewards** (a card item). "Go Now" jumps to the content.
+- **Season Mission** panel = **achievement chains per category**, each step a concrete goal with a step count:
+  Abyss (25 steps, e.g. "collect 500,000 Abyss Points"), Arena (14, "win 20 times"), Transcendence (24, "defeat 10
+  mini-bosses"), Nightmare (77, "clear Furious Feruk level 8"), Challenge (27, e.g. "clear Sanctum of Loathing 7
+  times"), Event (none right now). These look like the "Season 1 achievements" in guides; guide step counts
+  (Challenge 21, Abyss 17) differ. ~~Weekly Season Missions with points that reset~~ [224]: not what the window shows.
+- **Countdowns:** "Season resets in 58d 19h 11min" seen 2026-10-18 14:49 CEST → **2026-12-16 08:00 UTC (09:00 CET)**;
+  "Event ends in 16d 19h 11min" → 2026-11-04 08:00 UTC (09:00 CET). Matches the "09:00" end date shown in the window.
 
 ## Oath Coins and the Season Shop
 

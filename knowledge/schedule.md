@@ -11,6 +11,8 @@ reading the global client [61][62][63]; unverified unless tagged `in-game`. Sour
 - Times below are **server time** = local clock.
 - **Daylight saving change 2026-10-25:** the daily reset is fixed at 07:00 UTC (in-game), so locally it
   moves 09:00 → 08:00. Whether event times stay on the local clock or on UTC is **unknown**: verify.
+  **Hint (in-game 2026-10-18):** the Season and the Halloween event end at 09:00 CET (08:00 UTC) per their countdowns,
+  i.e. at the usual local reset time. So the reset may stay at 09:00 local after the change (unverified).
 - KR/TW schedules differ (e.g. Abyss sieges Wed/Sat in KR). Don't use KR timers such as aion2hub's [61].
 
 ## A. Fixed times
@@ -63,7 +65,7 @@ unobtained Odyle cubes 10 (server) [50].
 | 2026-10-28 | Planet's Call (50-level event pass) ends at maintenance [50][65]. No tasks, only XP from normal play (in-game), so not worth planning around |
 | 2026-11-09 | Community launch events end [67] |
 | 2026-12-01 | Log in before this for pre-registration/wishlist rewards [67] |
-| 2026-12-15 | Daeva Pass Season 1 ends at maintenance (free track) [65][66]; Season 1 ends 2026-12-16 07:00 UTC per [222]. **Spend Oath Coins before**, see `seasons.md` |
+| 2026-12-15 | Daeva Pass Season 1 ends at maintenance (free track) [65][66]; Season 1 ends **2026-12-16 09:00 local = 08:00 UTC** (in-game countdown 2026-10-18; ~~07:00 UTC~~ [222]). **Spend Oath Coins before**, see `seasons.md` |
 
 ## Timer sites
 daevaguides.com/timers (UTC, EU = NA, reviewed weekly) [61] · shugo.gg/timers (per-region server
