@@ -79,6 +79,8 @@ Guides 2026-10, unverified unless tagged. Levels 6–10 (common) and specialty a
   to buy; a Star Dragon Lord Longsword ~12.5M to craft vs. 37M listed. Rule: sale price minus material
   cost, fees and waste; check recent sales first.
 - Gathering zones: Verteron / Altgard, Chaotic Lower Reshanta (Abyss); Odyle also inside expeditions [71].
+  Both home regions have the same material types; node counts are similar (Orichalcum: Verteron 546,
+  Altgard 530; Diamond: Verteron 192, Altgard 200). No Altgard-only (enemy region) material found (2026-10-18, guides, unverified) [318].
 - **Crafted vs. expedition gear on global: unknown.** In Asia, crafted gear rolls max Potential stats [75];
   not confirmed for global. An old KR article said the opposite [75].
 

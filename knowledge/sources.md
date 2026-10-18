@@ -381,3 +381,6 @@ Added 2026-10-17 (Chanter healing research).
 
 Added 2026-10-18 (finding a legion).
 317. guildorder.com, Aion 2 legion finder + guides (finding/joining, recruiting after launch, legions on Discord), 2026, G+KR, third party: https://guildorder.com/games/aion2/guides/recruiting-for-your-legion-after-launch · https://guildorder.com/games/aion2/guides/finding-and-joining-a-founding-legion · https://guildorder.com/games/aion2/guides/running-a-legion-on-discord
+
+Added 2026-10-18 (Altgard gathering).
+318. allthings.how map (Orichalcum node counts) + playnews.gg (Raw Diamond / Sapphire by faction), 2026-10, G: https://allthings.how/aion-2/map/orichalcum/ · https://www.playnews.gg/en/guides/raw-diamond-in-aion-2-where-to-farm-this-resource-depending-on-your-faction-elyseans-asmodians
