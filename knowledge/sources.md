@@ -378,3 +378,6 @@ Added 2026-10-13 (pets).
 Added 2026-10-17 (Chanter healing research).
 315. metabot.gg, Chanter class + skill pages (data from global client build 0.0.4387.0, no date), G: https://metabot.gg/en/aion-2/classes/chanter · https://metabot.gg/en/aion-2/skills/power-of-the-storm
 316. games.gg, Chanter guide, 2026-10-04, G: https://games.gg/aion-2/guides/aion-2-chanter-guide/
+
+Added 2026-10-18 (finding a legion).
+317. guildorder.com, Aion 2 legion finder + guides (finding/joining, recruiting after launch, legions on Discord), 2026, G+KR, third party: https://guildorder.com/games/aion2/guides/recruiting-for-your-legion-after-launch · https://guildorder.com/games/aion2/guides/finding-and-joining-a-founding-legion · https://guildorder.com/games/aion2/guides/running-a-legion-on-discord

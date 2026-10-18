@@ -265,5 +265,10 @@ Researched 2026-10-13; guides only, thin sources. [196][197] read client data an
 - **Content:** no legion quests or legion weekly reset in client data; the 4 "Legion Content" airship
   instances only have training dummies [196]. Expeditions use cross-server matchmaking, no legion needed [197].
 - **Obligations:** none enforced by the game; rules are per legion (some track attendance) [199].
+- **Finding one** (2026-10-18, guide, unverified): legions coordinate on **Discord**; in-game legion chat is mostly
+  quiet (KR) [317]. In-client finder (KR) searches by name only, no filters for size, activity, time zone [317].
+  Listings: guildorder.com legion finder (by faction + region) and LFG board [317]; no official recruitment board.
+  Look for posts naming faction, server, play times and rules; prefer recent ones (many are pre-launch) [317].
+  In-game options: Legion menu search/apply [197][198], or ask in region chat (general MMO practice, not from a source).
 - **So (inference):** joining a relaxed legion costs nothing and gives a title + small stats; it doesn't
   help Enhance Stones, shards or Kina. Main value later: people for group/Abyss content.
