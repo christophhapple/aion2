@@ -78,6 +78,7 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
 - Scrolls: **Monolith only** [34]: 1 per level for levels 2–29, 2 at level 30 = 30 total [36][38]. No
   other source after level 30 [34]. Monolith levels cost Empyrean Traces (feathers) of your own faction's
   regions (Verteron for Elyos) [37].
+- **Power Shards:** consumable, toggle on to use; buff Attack while being consumed (in-game 2026-10-18).
 - **Spare feathers after Monolith 30:** global: convert to **Power Shards** via Substance Morph:
   **1 Empyrean Trace → 10 Power Shards** (in-game 2026-10-10), judged not worth it [37][39]. KR has 1 Trace → 50 Enhance Stones (capped 1,680/server) [40, KR], **not on global
   yet**; one guide expects it later [39, speculation]. Advice: keep the stack, morph only what you need [39].
