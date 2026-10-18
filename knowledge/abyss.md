@@ -11,8 +11,8 @@ snippets. Sources [n]: `sources.md`. Schedule (sieges, bosses): `schedule.md`.
   Kibelisk); the Asmodian base is in the opposite corner [80][81]. "Fixed safe islands" and choke islands
   are mentioned [82, KR/TW snippet]. NPC guards/base safety: unknown.
 - **Death: no penalty**; you always respawn at the same point, the faction's only Kibelisk (one per faction)
-  (in-game 2026-10-18). ~~Death penalty unknown~~.
-- **Abyss time** (7h per layer per week, F2P) runs only while you're inside the layer [80][50]; whether
+  (in-game 2026-10-18).
+- **Abyss time** (7h per layer per week, F2P) runs only while you're inside the layer [80][50].
   **It keeps running whether you're alive or dead** (in-game 2026-10-18). Rift Stones add +1h (lesser +30 min) [50].
 
 ## Layers
