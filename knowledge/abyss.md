@@ -67,7 +67,8 @@ Guides mostly describe KR/TW; global details may differ. Sources [319]–[321].
   (in-game 2026-10-18), i.e. about one Stigma Shard from the Abyss shop: very worth it when your faction holds an Artifact.
   **One run used the whole 02:10 at once; afterwards the map shows "usage time expired"** (in-game 2026-10-18). So
   it is a per-siege allowance. **02:10 came without taking part in the siege** (in-game 2026-10-18), so there is a base
-  allowance for the holding faction. Whether joining the siege adds more (guides say 5 min): not checked yet.
+  allowance for the holding faction. Open: does joining the siege add more (guides say 5 min)? Does holding 2–3
+  Artifacts raise the time, or give one corridor (and allowance) per Artifact? (02:10 seen while holding 1.)
 - **Abyss Corridor:** after the siege, an entrance opens at each held Artifact for the owning faction,
   **5 minutes** to enter and farm [319][62][64]. A faction holding none gets a catch-up corridor; AP there
   doesn't count toward the PvE cap [321].
