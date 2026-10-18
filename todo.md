@@ -8,7 +8,6 @@ tracker itself goes in `backlog.md`.
 - [ ] Easy achievements: use 1 Transformation Candy (Sweet Tooth, 27k Kina) · buy 5 items from the Black Cloud Merchant (Black Cloud Merchants Regular, title Big Spender, 27k Kina) · place a Kisk 5 times (Kisk Installer, 40k Kina + 13 Status Effect Resist Scrolls). Rewards are totals over all tiers, see `knowledge/achievements.md`
 - [ ] Check (Achievements menu): Five Veiled Fates (duties) and Herald of Hope (commands) progress; do rewards need claiming by hand? Per character or account-wide? Do town Command Scrolls count? Skim for unclaimed tiers. See `knowledge/achievements.md`
 - [ ] Check (Enhance window → Soul Binding tab): how many lines do your pieces have per grade, Kina cost of Bind/Reset, Soul Codex count in the bag. And in the Transfer preview: do Soul Binding lines and Theostones carry over?
-- [ ] Check: Supply Requests window (Esc menu): what the Emergency ones ask for, any reset timer shown? Do you have Silentium? See `knowledge/abyss.md`
 - [ ] Check: Season window: Oath Coin balance, Season Mission points this week, Season Shop limits (per season or weekly?), season end countdown. See `knowledge/seasons.md`
 - [ ] Check: have you done a first Conquest clear of Krao Cave and Draupnir? Each gives a one-time ~2,480-stone achievement. Also note your Conquest pity progress (x/14) while you're there
 - [ ] Verify: after 2026-10-25 (DST change), do event times stay on the local clock? (Rift should still open at 02, 05, 08 … 23)
@@ -23,6 +22,7 @@ tracker itself goes in `backlog.md`.
 - [ ] *(at GS 1600)* Dhamira: revisit Manastones. All gear has cheap ones with only a few rerolls (2026-10-13); upgrade on pieces you keep
 
 ## Done
+- [x] Supply Requests window checked: tabs Emergency (daily, items change daily), Weekly, Craft, Boss (not repeatable); Silentium accepted (2026-10-18)
 - [x] Dhamira, Daevanion: last green Prayer of Concentration node on Triniel (2026-10-18). Next: common nodes with good stats (no Multi-hit Resist)
 - [x] Earth Punishment Lv 20 line: "+10s [Earth Punishment] and [Earth's Blessing] duration" (2026-10-17)
 - [x] Substance Morph: Clash Rune Enhance Scroll → 100 Enhance Stones works, but not worth it (2026-10-17)

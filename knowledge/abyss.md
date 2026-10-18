@@ -53,10 +53,11 @@ which version they describe; detailed sources are KR (2025-11 → 2026-05). Sour
   (xboxplay says Kina + AP [212]). PvE-only way to earn AP [211][214]. Same requests for everyone [215].
 - **Where:** Esc menu → Supply Requests (in-game 2026-10-18); KR: ALT+J [217]. Unlock condition not found.
 - **Tabs (in-game 2026-10-18):** Emergency (daily), Weekly, Craft, Boss. **Craft and Boss are not repeatable**: one
-  hand-in per request. Guides: Emergency has a deadline; Craft/Boss stay up long-term
+  hand-in per request. Emergency asks for different items every day and resets at the normal daily reset
+  (in-game 2026-10-18). Guides: Craft/Boss stay up long-term
   ("Season: …" in KR [216][219], "Regular: …" in a global guide [214]; some stay up all season [215]).
   KR weekly reset is Wednesday, so probably the normal weekly reset here (unverified).
-- **Hand-ins:** Silentium for the repeatable ones [211][212][213]; gear of a required grade (more AP for
+- **Hand-ins:** Silentium for the repeatable ones (in-game 2026-10-18) [211][212][213]; gear of a required grade (more AP for
   higher grade) [216]; crafted gear and materials for the Craft tab [214][218]; field boss gear for
   the Boss tab: keep unneeded boss drops for it [221]. No list of which items qualify.
 - **Silentium rewards** (expcarry, "Global", 2026-10-12 [211]):
