@@ -55,6 +55,12 @@ routines:
     reset: weekly
     cap: 3
 
+  - id: battlefield
+    name: Battlefield (Arena of Tactics, 10v10)
+    notes: Own Battlefield window. Daily 11:00–14:00 and 19:00–21:00 (in-game). Rewards per week max 3 victory (3,000 AP + 2 items) + 3 participation (1,000 AP + 1 item), reset Wednesday; up to ~12k AP. Solo queue or a full 5-party. Cap 6 = matches; log matches, note wins.
+    reset: weekly
+    cap: 6
+
   - id: abyss-commands
     name: Abyss Command Scrolls (Common)
     notes: Command Shop in Latesran Western Root (Abyss). Common 15,000 Kina → 1,000 AP + 200 Abyssal Power Shards + 1–5 random (AP, Enhance Stones). 5/week per server, weekly reset (in-game 2026-10-18). Log when the missions are done, not when bought. Higher grades (37.5k / 75k / 150k) not tracked.
