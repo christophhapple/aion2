@@ -77,7 +77,7 @@ Guides mostly describe KR/TW; global details may differ. Sources [319]–[321].
   **5 minutes** to enter and farm [319][62][64]. A faction holding none gets a catch-up corridor; AP there
   doesn't count toward the PvE cap [321].
 - **Siege bosses** follow at 21:30 (Tamasa etc., `schedule.md`). Other timed Abyss bosses: Watcher Kaira every
-  3h, Guardian Lord Nahma Fri/Sun 21:00, Argo the Spirit King (time unclear). **The Abyss boss timer list shows their
+  3h, Guardian Lord Nahma Fri/Sun 21:00, Argo the Spirit King (probably 12h after its last death). **The Abyss boss timer list shows their
   countdowns; it lists more bosses once more of the map is uncovered** (in-game 2026-10-18);
   whether it also shows the siege: unknown.
 - **For a healer (inference):** the siege is mass faction PvP; joining in a group and staying near the
