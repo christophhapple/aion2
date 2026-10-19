@@ -146,7 +146,13 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
 - Spare duplicates → extract into Mysterious Crystals → Transmutation makes a Unique card for a chosen
   slot + set. **Cost (in-game 2026-10-19): 5 Mysterious Crystals + 2M Kina base; picking 1 line adds nothing, a 2nd
   line adds 3M Kina + 10 Mysterious Crystals; max 2 lines.** ~~Each of up to 2 sub-stats +10
-  crystals + 3M~~ [158]: only the second line costs extra. Transmutation "resets or changes" each season; nothing says cards or crystals reset [158]. See `seasons.md`.
+  crystals + 3M~~ [158]: only the second line costs extra.
+- **Mysterious Crystal sources (guides 2026, unverified unless tagged):** Season Shop 25,000 Oath Coins, limit 5
+  (in-game, `seasons.md`; one guide says per week instead of per season [325]) · **extracting spare Arcana** fills a
+  gauge, 1 crystal at 100%; upgraded cards count with their EXP [324][325][158] · **Ascension Trial** season score
+  milestones (1,000 / 3,000 / 4,000 / 5,000 named) [324][325] · Season Pass rewards [325] · possibly boss drops
+  morphed via Substance Morph, contradicted by a source saying Transcendence gives other crystals [325]. One guide
+  claims a 7-day Transmutation cooldown [325]. Transmutation "resets or changes" each season; nothing says cards or crystals reset [158]. See `seasons.md`.
 - Sources: Transcendence (GS 1600+, Unique from tier 3) [158], battle pass, coin shop, attendance [158].
 - Guide advice: fill every slot at 45, pick Vigor or Magic early for the 2-piece bonus, upgrade only
   cards you keep; a set-completing card can beat a higher-rarity one [158][160].

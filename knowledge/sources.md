@@ -393,3 +393,7 @@ Added 2026-10-18 (Artifact Siege).
 Added 2026-10-18 (Battlefield).
 322. allthings.how, Battlefield / Arena of Tactics how-to, 2026, G?: https://allthings.how/?p=259789 · https://allthings.how/?p=253129
 323. thegameswiki.com, Battlegrounds, KR/TW-based: https://thegameswiki.com/aion-2/wiki/battlegrounds
+
+Added 2026-10-19 (Mysterious Crystals).
+324. u4n.com, how to get Mysterious Crystals, 2026, ?, search summary: https://www.u4n.com/tw/news/how-to-get-mysterious-crystals-in-aion-2.html
+325. allthings.how Arcana/crystal guides, 2026, ?, search summary: https://allthings.how/?p=261112 · https://allthings.how/?p=261116 · https://allthings.how/?p=265101 · https://allthings.how/?p=261130
