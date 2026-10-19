@@ -180,7 +180,7 @@ passives partly 11–13.
 
 **On top (equipped, 2026-10-17, told by the user):**
 - Gear: Scattershot +1, Healing Light +1, Healing Enhancement +1.
-- Arcana (4 of 5 slots, no Bell yet): all **Common, fully upgraded** (Common max +2, so 3 lines at +1 each). No room left: better levels need new cards.
+- Arcana (4 of 5 slots, no Bell yet): all **Common, fully upgraded** (Common max +2, so 3 lines at +1 each), 22 GS each (in-game 2026-10-19). No room left: better levels need new cards.
 
 | Card | Set | Skill lines |
 |---|---|---|
