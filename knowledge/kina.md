@@ -38,7 +38,7 @@ Researched 2026-10-14. No official global page; guides 2026-09 → 10, several w
 ## Sinks (largest first, inference from the numbers)
 
 1. **Unique belt/amulet enhancement:** 297k–727k per step; Heroic belt 728k–1.43M [269].
-2. **Arcana Transmutation:** 2M (+3M per extra line), weekly cooldown [269] (`gear.md`).
+2. **Arcana Transmutation:** 2M, +3M for the second line (the first line is free, max 2 lines; in-game 2026-10-19), weekly cooldown [269] (`gear.md`).
 3. **Soul Fuse:** 1M per extra line [242] (`gear.md`).
 4. Normal gear enhancement: +2 5,000 · +5 18,500 · +10 51,500 per step [269]. Kina from failed tries
    and extraction is lost.
