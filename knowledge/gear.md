@@ -149,7 +149,10 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
   crystals + 3M~~ [158]: only the second line costs extra.
 - **Mysterious Crystal sources (guides 2026, unverified unless tagged):** Season Shop 25,000 Oath Coins, limit 5
   (in-game, `seasons.md`; one guide says per week instead of per season [325]) · **extracting spare Arcana** fills a
-  gauge, 1 crystal at 100%; upgraded cards count with their EXP [324][325][158] · **Ascension Trial** season score
+  gauge, 1 crystal at 100%; upgraded cards count with their EXP [324][325][158]. **In-game 2026-10-19:** Arcana
+  window → Extract tab: register up to 20 cards (filter by grade, "Register All"); **one Common +2 card = 11%**, shown
+  under the crystal with a ring filled to match. No "Success Chance" label (Substance Morph has one), so a gauge
+  is likely (inference, matches the guides); if so, ~9–10 Common +2 cards per crystal · **Ascension Trial** season score
   milestones (1,000 / 3,000 / 4,000 / 5,000 named) [324][325] · Season Pass rewards [325] · possibly boss drops
   morphed via Substance Morph, contradicted by a source saying Transcendence gives other crystals [325]. One guide
   claims a 7-day Transmutation cooldown [325]. Transmutation "resets or changes" each season; nothing says cards or crystals reset [158]. See `seasons.md`.
