@@ -210,8 +210,10 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
   gear 4, expandable to 5" [246, snippet].
 - **Transfer:** base lines carry over [242][243][244] (matches the KR wiki in "Enhancement" above);
   the Soul Fuse line does not.
-- **Soul Codex sources:** expeditions, Invasion (×3 with a key, `events.md`), Shugo Festival, Nightmare
-  shop, Hidden Cubes [242]; Season Shop 3,000 Oath Coins, limit 50 (`seasons.md`). KR: 200 Enhance
+- **Soul Codex sources (in-game 2026-10-19):** Transcendence, expeditions (Exploration and Conquest), Sanctuary,
+  Dimensional Invasion (×3 with a key, `events.md`), Nightmare shop, Season Shop (3,000 Oath Coins, limit 50,
+  `seasons.md`), several achievements, Hidden Cubes. Which source is best: unknown. Shugo Festival is named by [242]
+  but wasn't in the in-game list. "Sanctuary" is not described anywhere else in this knowledge base yet. KR: 200 Enhance
   Stones + 10,000 Kina → 1 Codex via conversion [247]. **Reset:** Nightmare shop, achievements, Season
   Shop (20,000, limit 5); Twitch drop ×2, 5–16 Oct (G) [250].
 - **Philosopher's Stone → Soul Fuse:** 2 stones add one extra random line to a **Unique or Heroic
