@@ -14,6 +14,7 @@ tracker itself goes in `backlog.md`.
 - [ ] Arcana Extract: after extracting one spare card, does the window still show 11% with nothing registered (= gauge that keeps progress) or 0% (= chance)? Does a +0 Common give less than 11%?
 - [ ] Cube-hunting audio for gathering/pet runs: Master + Sound Effects 100%, Music, Ambient, Monster, Mount, own character + wing sounds low. Save it as its own audio preset (the game supports audio presets, user 2026-10-19). See `knowledge/endgame.md` "Hidden Cubes"
 - [ ] Artifact Siege (Mon 2026-10-19 21:00, if you join): does it pay Abyss Points by contribution? How much did you get?
+- [ ] PvP preset: set up Skills preset 3 + Batch Set 3 per `characters/dhamira-build.md` "PvP preset" (Yustiel's Power, Salvation from the Abyss shop if not owned). While at it, read Salvation's full Lv 10–20 tooltip and check whether Salvation is blocked right after Defiance
 
 ## Done
 - [x] Achievement: Common gear piece enhanced to +5, title earned (2026-10-19)
