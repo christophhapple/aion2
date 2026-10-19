@@ -75,7 +75,7 @@ with patches. Therefore:
 | `share/content-overview.html` | https://claude.ai/artifact/TCzeBcfAYj7hUkbRHTNXHj | The user (private for now): Content Atlas with live timers ("Up next", rules in its script), all activities, progress sources, currencies |
 
 - Generated from `knowledge/` (mainly `progression.md`, `expeditions.md`, `gear.md`, `schedule.md`). Character-neutral,
-  no personal data. Each fact shows an "In-game" or "Guides" tag, except on the Content Atlas (user, 2026-10-19): no tags there, only a small grey "(unverified)" where a fact is guide-only.
+  no personal data. Each fact shows an "In-game" or "Guides" tag, except on the Content Atlas (user, 2026-10-19): no tags there, only a small grey "(unverified)" where a fact is guide-only. No exact Enhance Stone amounts there (user: irrelevant).
 - **Update only on request** (user, 2026-10-18): don't edit or republish these pages automatically when
   knowledge changes; the user says when. Then update the HTML and republish with the Artifact tool,
   passing the URL above as `url`, so the link stays the same.
