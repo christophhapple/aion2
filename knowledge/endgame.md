@@ -296,7 +296,11 @@ Subjugation 3 tickets/week (see below) · Abyss sieges Mon/Thu/Sat 21:00 server 
 - **Where (global):** open world in **Verteron and Altgard only** (Eltnen/Morheim are KR/TW); not in Poeta, Ishalgen
   or Reshanta [340][341]. Spawn groups: **95 in Verteron, 59 in Altgard**; each group picks one of 2–43 candidate
   spots, so the exact place varies; it can come back elsewhere [341]. **No map or minimap marker**: found by sight,
-  often on cliffs, ledges, ruins, riverbanks, some underwater [340]. Respawn timer: none in client data, unknown
+  often on cliffs, ledges, ruins, riverbanks, some underwater [340]. **Sound:** cubes hum (user: they make a sound,
+  2026-10-19); guides: it plays through **Sound Effects** (no own slider), heard up to ~130 m. Setup: Master + Sound
+  Effects 100%, lower Music, Ambient, Monster, Mount, own character and wing sounds; headphones with 3D audio for
+  direction. Which category carries it is the guides' reading of the client, unconfirmed. The angel statue near
+  Spirit's Rest (Verteron) sounds similar [342]. Respawn timer: none in client data, unknown
   [341]. Fan maps with all candidate spots: metabot.gg/en/aion-2/hidden-cubes [341].
 - **Key: Hidden Cube** needed for every cube in Verteron/Altgard ("Cannot open without a key") [340][341].
   Keys: hero quest Odyle Collection (Elyos) · district quest Nine Wonders 2nd Leg · achievement "Who Brought the
