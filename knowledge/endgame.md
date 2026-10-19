@@ -133,7 +133,9 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
 
 ## Pets
 - Mobs drop **pet souls** on kill; they don't go to the inventory and can't be hovered. **Progress is
-  only visible in the Pets menu** (in-game 2026-10-11). No loot-popup count either.
+  only visible in the Pets menu** (in-game 2026-10-11). No loot-popup count either. **Targeting a monster shows
+  nothing about its pet either**: a mob whose pet is at Lv 3 looks the same as one whose pet isn't (only the genus
+  tag, e.g. "Fera") (in-game 2026-10-19).
 - Pets menu → a pet's Source tab shows which monster drops its soul [121]. Drop rate falls when the mob
   is more than ~10 levels below you [121]. **Souls: 5 unlock a pet, +25 for Lv 2, +75 for Lv 3 = 105** [207][201]; cap Lv 3 on global (5 in KR/TW) [204]. ~~5 per pet~~ [121] was unlock only; numbers changed in a KR patch
   (Jan 2026), global unclear.

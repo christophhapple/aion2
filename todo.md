@@ -8,7 +8,6 @@ tracker itself goes in `backlog.md`.
 - [ ] Easy achievements: use 1 Transformation Candy (Sweet Tooth, 27k Kina) · buy 5 items from the Black Cloud Merchant (Black Cloud Merchants Regular, title Big Spender, 27k Kina) · place a Kisk 5 times (Kisk Installer, 40k Kina + 13 Status Effect Resist Scrolls). Rewards are totals over all tiers, see `knowledge/achievements.md`
 - [ ] Verify: after 2026-10-25 (DST change), do event times stay on the local clock (Rift still at 02, 05, 08 … 23)? And is the daily reset at 08:00 or still 09:00 local? (Season/event countdowns hint 09:00; then `routines.yaml` needs 08:00 UTC)
 - [ ] Quick wins check: Pets levelled (to 3)? Joined a Legion? Hamme: unused Daevanion Crystals or Wisdom Stones in the bag? See `knowledge/progression.md` "Often missed". (Dhamira: no unused crystals or Wisdom Stones, 2026-10-13)
-- [ ] Check (once a pet is fully levelled): does targeting a monster of that pet type show it as done?
 - [ ] *(low priority)* Check: what do the blue (75k) and gold (150k) Abyss Command Scrolls reward? (Green done 2026-10-18)
 - [ ] Transfer: on your first real transfer, note how many Transfer Stones it took and what ends up on the kept piece (Soul Binding lines, Manastones, Theostone, Soul Fuse). The window shows no result preview
 - [ ] Legion (if you join one): does the Legion menu show missions or Legion Coin? What does the Legion Merchant sell?
@@ -19,6 +18,7 @@ tracker itself goes in `backlog.md`.
 - [ ] Artifact Siege (Mon 2026-10-19 21:00, if you join): does it pay Abyss Points by contribution? How much did you get?
 
 ## Done
+- [x] Pet Lv 3 shows nothing when targeting its monster: Garden Papis looks the same before and after (2026-10-19)
 - [x] Manastones reworked: Superior Manastone on the Ascension Bracelet, other good stones saved for later gear (2026-10-19)
 - [x] Pantheon checked: unlock, slots, no enhancing, stats as in the guides; no GS, only Combat Power; presets 1–3 exist (not used yet); placement optimized with the few pieces owned; Transcendent Bakarma = 10 Draupnir Conquest clears, owned (2026-10-19)
 - [x] Soul Binding: Unique = 4 lines (one per grade); first Bind free, then 30k Kina + Codex per Bind; 188 Codex saved. Transfer window has no result preview, needs a Gear Transfer Material (2026-10-19)
