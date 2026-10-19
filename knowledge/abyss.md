@@ -101,12 +101,12 @@ Guides mostly describe KR/TW; global details may differ. Sources [319]–[321].
   **Argo Unique: 4,500 AP + 3 Silver Medals** + Argo gear ~0.1% each · **Dimensional Unique: 7,500 AP + 3 Silver
   Medals** + Argo/Kaira gear · **Nahma Unique: 20,000 AP + 3 Silver Medals** + Nahma gear, 7% Potential Stone: Abyss
   (Unique) (one older page lists a different Nahma chest: 6 Platinum Medals + 10,000 AP). Rare/Epic contents: not found.
-- **AP per proof (Unique):** Argo 900 · Dimensional 1,500 · Nahma 2,000. Argo base chest 1,000 AP for 1 proof, so for
-  Argo the Unique isn't better per proof on AP alone (assuming the Rare ≈ the base chest, unverified).
-- **So (inference):** proofs keep (stack 1,000, no expiry known), so saving costs nothing. Higher grades pay off when
-  the weekly craft limit, not the proof count, is what holds you back: then one Unique per craft beats several
-  Rares. Compare the Rare/Epic tooltips in Substance Morph before deciding; Silver Medals are PvP gear currency
-  (low value for a PvE player), so judge mainly by AP.
+- **Grades compared (in-game 2026-10-19):** **AP per proof is the same for every grade**; higher grades have
+  slightly better odds on the random items. So a Unique = the same AP as the equivalent Rares, a little better luck,
+  and fewer of the weekly crafts used.
+- **So (inference):** proofs keep (stack 1,000, no expiry known), so saving up for the highest grade costs nothing
+  and is slightly better. It matters most where the weekly craft limit binds (Dimensional and Nahma: 2/week).
+  Silver Medals are PvP gear currency (low value for a PvE player).
 
 ## Advice for a healer at GS ~1100 (inference, not from a guide)
 - Worth it in small doses: Duty Missions, Command Scrolls and feathers **near Western Root**, then leave.
