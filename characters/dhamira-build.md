@@ -45,6 +45,14 @@ alone or in a loose group, plus siege. Guide basis: `knowledge/cleric-skills.md`
 guides disagree). Rules: same as PvE (mobile macro, convenience over max output), plus **survival first**:
 in PvP, defensive buttons are what keep me farming; deaths cost only Abyss time (no penalty, `knowledge/abyss.md`).
 
+**Where it's used** (routines in `routines.yaml`, 2026-10-19):
+| Content | Routine | Setup |
+|---|---|---|
+| Open-world Abyss, Abyss commands | `abyss-time`, `abyss-commands` | PvP preset as below |
+| Arena of Solitude (1v1) | `arena-solo` | PvP preset as below; the test bench for the Root procs and the Q/E timing |
+| Arena of Cooperation (5v5), Battlefield (10v10), siege | `arena-team`, `battlefield`, `siege` | group variant: Absolution (or Summon Resurrection) instead of Prayer of Amplification, same shards. Swapping a Stigma is a free reset, so no 4th preset needed (all 3 are used) |
+| Abyss Corridor (PvE arena, endless spawns) | `corridor` | DPS preset (Set 1); switch back to Set 3 when leaving, the entrance gets camped |
+
 **Skills preset 3** = a copy of preset 1 (DPS), then these changes. Batch Preset Equip **Set 3** = Skills 3,
 everything else as Set 1 (Genus Insight: Crit Resist in slot 2 [guide], later, if it's cheap).
 
@@ -55,8 +63,8 @@ everything else as Set 1 (Genus Insight: Crit Resist in slot 2 [guide], later, i
 | Prayer of Amplification | 10 | 15 | stays in the macro (zero attention); +10% PvP Damage Boost, +10% more at Lv 5 |
 | Yustiel's Power | 15 | 35 | the PvP core per guides: PvP +10% Tolerance for me + party, Lv 5 shield 10% Max HP, Lv 10 +100 Block/Evasion, Lv 15 +20% Status Effect Resist (vs CC) |
 | Salvation | 10 | 15 | the escape button: 3s immune to damage and CC; Lv 5 +100% Incoming Heal, Lv 10 restores 20% Max HP at the end |
-Out: Earth Punishment (guides split; good only vs tanky classes) and Noble Aura. Group or siege variant:
-Absolution or Summon Resurrection instead of Prayer (decide when it comes up).
+Out: Earth Punishment (guides split; good only vs tanky classes) and Noble Aura. Group variant: see "Where it's used":
+Absolution for cleanse + party heal by default, Summon Resurrection if the group keeps losing people.
 
 **Hotbar diff vs DPS:** Q = Yustiel's Power, E = Salvation, R empty (Noble Aura out). Macro: same as DPS.
 Both new keys are defensive, so "Q never a heal, E never damage" still holds.
