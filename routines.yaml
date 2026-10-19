@@ -108,6 +108,6 @@ routines:
 
   - id: abyss-time
     name: Abyss time (Lower Reshanta)
-    notes: 7h/week, runs only while inside, also while dead (in-game 2026-10-18). Log hours spent as ×n (round to whole hours). Whether unused time carries over and on which reset it refills: unconfirmed. Rift Stones add +1h (guide). Use it for Abyss commands, corridor, open-world PvP.
+    notes: 7h/week, runs only while inside, also while dead (in-game 2026-10-18). Log hours spent as ×n (round to whole hours). Unused hours do NOT carry over; the weekly reset refills it to 7h (in-game 2026-10-19), so use it before Wednesday. Rift Stones add +1h (guide). Use it for Abyss commands, corridor, open-world PvP.
     reset: weekly
     cap: 7
