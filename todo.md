@@ -12,11 +12,11 @@ tracker itself goes in `backlog.md`.
 - [ ] Legion (if you join one): does the Legion menu show missions or Legion Coin? What does the Legion Merchant sell?
 - [ ] Achievement "Bonds of the Black Wings": visit all villages in Altgard, 1/2
 - [ ] Arcana Extract: after extracting one spare card, does the window still show 11% with nothing registered (= gauge that keeps progress) or 0% (= chance)? Does a +0 Common give less than 11%?
-- [ ] Achievement: enhance one Common gear piece to +5 for a title
 - [ ] Cube-hunting audio for gathering/pet runs: Master + Sound Effects 100%, Music, Ambient, Monster, Mount, own character + wing sounds low. Save it as its own audio preset (the game supports audio presets, user 2026-10-19). See `knowledge/endgame.md` "Hidden Cubes"
 - [ ] Artifact Siege (Mon 2026-10-19 21:00, if you join): does it pay Abyss Points by contribution? How much did you get?
 
 ## Done
+- [x] Achievement: Common gear piece enhanced to +5, title earned (2026-10-19)
 - [x] Pet souls after Lv 3: still drop, but no Genus EXP and the count stays at 105, so wasted (2026-10-19)
 - [x] Pet Lv 3 shows nothing when targeting its monster: Garden Papis looks the same before and after (2026-10-19)
 - [x] Manastones reworked: Superior Manastone on the Ascension Bracelet, other good stones saved for later gear (2026-10-19)
