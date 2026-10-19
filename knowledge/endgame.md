@@ -206,6 +206,30 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
 - **So (inference):** worth doing passively: collect pets met while questing, claim milestone crystals,
   push boards to Insight 5–10 without locking. Skip heavy rerolling (Kina), rift/Abyss pets, boss-pet purchases.
 
+### Enemy-region-only pets, Elyos (researched 2026-10-19, guide, unverified)
+- **39 pets spawn only in Altgard** for Elyos (Asmodians: 44 only in Verteron) [201]. From the guide's own client spawn export (launcher v27, home region rechecked unchanged on v28,
+  2026-10-10); spawn placements, not drop rates. Pet (genus) ← monster (Lv) [201]:
+  - **Cogni (6):** Mumu Worker ← Mumu Worker 32 / Escaped Mumu Worker 33 · Mumu Warrior ← Mumu Watcher 32–41,
+    Gribade Mumu Warrior 40 · Klaw Scout ← Consumed Klaw 30 · Addicted Shulak Cart Worker ← Rampaging Shulak Cart
+    Worker 36 · Varg Berserker ← Varg Berserker 32, Chief's Bodyguard 42 · Biruta Herbalist ← Biruta Herbalist 17
+  - **Natura (4):** Ashen Dionae ← 21 · Mutated Forest Guardian ← 22, Unstable Forest Guardian 48 · Ashen Agrint ←
+    Unstable Agrint 48 · Odyle Stone Spirit ← Faded Odyle Spirit 46
+  - **Fera (9):** Armadon ← Red Shell Mole 10, Withered Armadon 21 · Withered Branch Spider ← 11–40 · Tayga ← Guard
+    Troopers / Search Party Tayga 40 · Mutated Ursus ← Ashen Ursus 21 · Tamed Karnif ← Blades Karnif 24, Tamed Blades
+    Beast 37 · Basilisk ← Black Ash Basilisk 21 · Cadaver Insectoid ← Drana Cadaver Insectoid 12 · Eternal Coradon ←
+    40 · Tog ← 18
+  - **Varian (20):** Swarm ← Contaminated Swarm 11, Giant Ore Insectoid 35 · Faded Mutant ← 35 · Drana Mutant ←
+    Twisted Mutant 10 · Congealed Drana ← 12 · Cadaver Cleaner ← Ruins Corpse Cleaner 24, Ferocious Cadaver Cleaner 34 ·
+    Poison Blood ← Cursed 29, Unstable 47 · Faded Predator ← 35 · Duduka Worker ← 41 · Drana Slime ← 11 · Distorted
+    Mutant ← Consumed Spirit Guardian 30 · Faded Floater ← 35 · Mudthorn ← Addicted Mudthorn 36, Remnant of Subspace 44 ·
+    Faded Drana ← Faded Chunk 35 · Duduka Trebuchet Worker ← Duduka Slinger 42 · Vigilant Oculazen ← 32 · Drakana
+    Kalgolem ← Crash Site Kalgolem 11 · Faded Mutant Brute ← 35 · Parasite Swarm ← Giant Ore Insectoid Adult 36 ·
+    Soulless Corpse Gnat ← 33 · Slime ← Unruly Slime 29
+- Most of these mobs are Lv 10–36, so at Lv 45 the soul drop rate is reduced (>~10 levels below you [121]). The
+  Lv 40+ ones (Mumu Warrior, Varg Berserker, Tayga, Eternal Coradon, Forest Guardian / Agrint 48, Odyle Stone Spirit
+  46, Poison Blood 47, Duduka Worker/Trebuchet 41–42, Mudthorn 44) are the efficient rift targets (own inference).
+- Check per pet: Pets menu → Source tab shows where its monster spawns [121].
+
 ### Genus Insight stat lines (researched 2026-10-16, guides, unverified)
 - **9 lines per board** (in-game 2026-10-16), opened at Insight 1–9; Insight 10 adds no line, only better grade odds
   [287][288][289][291]. Grade odds: Lv 9 C 25 / R 25 / E 39 / U 10 / H 1 %, Lv 10 20 / 30 / 30 / 15 / 5 % [288][289][294].
