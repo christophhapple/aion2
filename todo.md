@@ -14,6 +14,7 @@ tracker itself goes in `backlog.md`.
 - [ ] Legion (if you join one): does the Legion menu show missions or Legion Coin? What does the Legion Merchant sell?
 - [ ] *(at GS 1600)* Dhamira: revisit Manastones. All gear has cheap ones with only a few rerolls (2026-10-13); upgrade on pieces you keep
 - [ ] Achievement "Bonds of the Black Wings": visit all villages in Altgard, 1/2
+- [ ] Arcana Extract: after extracting one spare card, does the window still show 11% with nothing registered (= gauge that keeps progress) or 0% (= chance)? Does a +0 Common give less than 11%?
 - [ ] Artifact Siege (Mon 2026-10-19 21:00, if you join): does it pay Abyss Points by contribution? How much did you get?
 
 ## Done
