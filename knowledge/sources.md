@@ -402,3 +402,11 @@ Added 2026-10-19 (Pantheon).
 326. aion2.tools, Pantheon guide + planner, 2026-10-11, G: https://aion2.tools/guides/pantheon
 327. game8, List of all Pantheon decorations, upd. 2026-10-15, G: https://game8.co/games/Aion-2/archives/613941
 328. search summary (vortexgaming, aion2.blog, sportskeeda, showgamer, rsnxt), 2026-10, ?: https://vortexgaming.io/en/postdetail/629451 · https://aion2.blog/pantheon/ · https://www.sportskeeda.com/mmo/aion-2-pantheon-system-explained · https://www.rsnxt.com/News/aion-2-the-pantheon-system-your-guide-to-statues-art-and-power.html
+
+Added 2026-10-19 (Proof of Hero).
+329. wikily.gg, Proof of Hero (Argo/Nahma/Kaira) uses, undated, G?: https://wikily.gg/aion-2/materials/proof-of-hero-kaira-bound · https://wikily.gg/aion-2/materials/proof-of-hero-argo-bound · https://wikily.gg/aion-2/materials/proof-of-hero-nahma-bound
+330. game8, Proof of Hero: Lower Reshanta / Nahma, upd. 2026-10-16, G: https://game8.co/games/Aion-2/archives/632095 · https://game8.co/games/Aion-2/archives/632094
+331. Fextralife wiki, Proof of Hero (Argo), Argo's Merit Chest, Nahma's Exquisite Merit Chest, undated: https://aion2.wiki.fextralife.com/Proof_of_Hero_(Argo) · https://aion2.wiki.fextralife.com/Argo's_Merit_Chest
+332. metabot.gg, Substance Morph (Conversion) table, G client data: https://metabot.gg/en/aion-2/conversion
+333. elitegrindlab, Substance Morph recipes, 2026: https://www.elitegrindlab.com/aion-2/substance-morph/
+334. search summary (wikily, aion2.gaming.tools), Merit Chest Unique contents, G: https://wikily.gg/aion-2/consumables/argo-s-merit-chest-unique-bound · https://aion2.gaming.tools/items/533700299 · https://wikily.gg/aion-2/consumables/dimensional-merit-chest-unique-bound

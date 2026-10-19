@@ -83,6 +83,31 @@ Guides mostly describe KR/TW; global details may differ. Sources [319]–[321].
 - **For a healer (inference):** the siege is mass faction PvP; joining in a group and staying near the
   front line healing can earn contribution AP, but the guides give no healer-specific advice.
 
+## Proof of Hero → Merit Chests (researched 2026-10-19, guides, unverified)
+- **What:** boss-specific materials from the Abyss bosses: Proof of Hero (Kaira), (Argo), (Nahma) from those
+  bosses' rewards; Proof of Hero: Lower Reshanta from the monsters after the Artifact Siege [329][330]. Special grade,
+  bound, stacks to 1,000, can't be sold [329][331]. No expiry mentioned anywhere.
+- **Use:** Substance Morph (Medal tab) → that boss's Merit Chest, 100% success, no Kina [332][333]. Limits are
+  **per character per week** and given per recipe; whether grades share one limit: not stated.
+
+| Chest | Base | Rare | Epic | Unique | Limit/week |
+|---|---|---|---|---|---|
+| Kaira's | 1 | 3 | 5 | – | 10 |
+| Argo's | – | 1 | 3 | 5 | 7 |
+| Dimensional (Lower Reshanta) | – | 1 | 3 | 5 | 2 |
+| Nahma's | – | 1 | 3 | **10** | 2 |
+
+- **Contents known** [331][334]: Argo base: 1,000 AP + 1 Silver Medal of Merit + small chance at Argo gear ·
+  **Argo Unique: 4,500 AP + 3 Silver Medals** + Argo gear ~0.1% each · **Dimensional Unique: 7,500 AP + 3 Silver
+  Medals** + Argo/Kaira gear · **Nahma Unique: 20,000 AP + 3 Silver Medals** + Nahma gear, 7% Potential Stone: Abyss
+  (Unique) (one older page lists a different Nahma chest: 6 Platinum Medals + 10,000 AP). Rare/Epic contents: not found.
+- **AP per proof (Unique):** Argo 900 · Dimensional 1,500 · Nahma 2,000. Argo base chest 1,000 AP for 1 proof, so for
+  Argo the Unique isn't better per proof on AP alone (assuming the Rare ≈ the base chest, unverified).
+- **So (inference):** proofs keep (stack 1,000, no expiry known), so saving costs nothing. Higher grades pay off when
+  the weekly craft limit, not the proof count, is what holds you back: then one Unique per craft beats several
+  Rares. Compare the Rare/Epic tooltips in Substance Morph before deciding; Silver Medals are PvP gear currency
+  (low value for a PvE player), so judge mainly by AP.
+
 ## Advice for a healer at GS ~1100 (inference, not from a guide)
 - Worth it in small doses: Duty Missions, Command Scrolls and feathers **near Western Root**, then leave.
 - Go with a damage-dealing partner at minimum; a Cleric alone can't kill an attacker [85].
