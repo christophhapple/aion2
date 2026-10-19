@@ -47,8 +47,8 @@ Verteron done: all regional (green) quests incl. Spacetime Rift, Sealed Dungeons
 | Clash Rune | +2 | | Clash Rune | +2 |
 
 ## Gear notes
-- Ascension Bracelet: Unique +10 (2026-10-13), cheap Manastone. Second bracelet: Epic +10 (2026-10-19).
-- Manastones: cheap ones in all gear, few rerolls (2026-10-13). Revisit at GS 1600.
+- Ascension Bracelet: Unique +10 (2026-10-13), Superior Manastone (2026-10-19). Second bracelet: Epic +10 (2026-10-19).
+- Manastones: reworked 2026-10-19. Good one only on the Ascension Bracelet; other good stones saved for later gear.
 - Wings (in-game 2026-10-13): own 6 — Lesser, Intermediate, Superior, Ultimate Daeva, Aullaeu, Glorious (crafted 2026-10-11). Sealing Wings crafted 2026-10-15 (7th pair). Equipped: Ultimate Daeva. **Flight Power 6,100** (2026-10-16, +200 from Sealing Wings; was 5,900).
 - Clash Runes: both at +2 (2026-10-13); 2 spares destroyed trying for +3, none left.
 - Mace (+10 Aulamus, 2026-10-19): Soul Binding 57.9% (Status Effect Chance, Back Attack, Precision, Lightning Strike Scattershot +1), Theostone Zikel's Vestige, Manastones Defense+50 ×2, Block+10 ×2.

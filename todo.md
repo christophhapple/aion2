@@ -12,13 +12,13 @@ tracker itself goes in `backlog.md`.
 - [ ] *(low priority)* Check: what do the blue (75k) and gold (150k) Abyss Command Scrolls reward? (Green done 2026-10-18)
 - [ ] Transfer: on your first real transfer, note how many Transfer Stones it took and what ends up on the kept piece (Soul Binding lines, Manastones, Theostone, Soul Fuse). The window shows no result preview
 - [ ] Legion (if you join one): does the Legion menu show missions or Legion Coin? What does the Legion Merchant sell?
-- [ ] *(at GS 1600)* Dhamira: revisit Manastones. All gear has cheap ones with only a few rerolls (2026-10-13); upgrade on pieces you keep
 - [ ] Achievement "Bonds of the Black Wings": visit all villages in Altgard, 1/2
 - [ ] Arcana Extract: after extracting one spare card, does the window still show 11% with nothing registered (= gauge that keeps progress) or 0% (= chance)? Does a +0 Common give less than 11%?
 - [ ] Achievement: enhance one Common gear piece to +5 for a title
 - [ ] Artifact Siege (Mon 2026-10-19 21:00, if you join): does it pay Abyss Points by contribution? How much did you get?
 
 ## Done
+- [x] Manastones reworked: Superior Manastone on the Ascension Bracelet, other good stones saved for later gear (2026-10-19)
 - [x] Pantheon checked: unlock, slots, no enhancing, stats as in the guides; no GS, only Combat Power; presets 1–3 exist (not used yet); placement optimized with the few pieces owned; Transcendent Bakarma = 10 Draupnir Conquest clears, owned (2026-10-19)
 - [x] Soul Binding: Unique = 4 lines (one per grade); first Bind free, then 30k Kina + Codex per Bind; 188 Codex saved. Transfer window has no result preview, needs a Gear Transfer Material (2026-10-19)
 - [x] Achievements: Five Veiled Fates + Herald of Hope under Achievements → Progress → Quest, claimed by hand; town and Abyss Command Scrolls both count (2026-10-18)
