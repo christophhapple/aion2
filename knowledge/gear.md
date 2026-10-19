@@ -37,8 +37,17 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
   for stones spent above +10. So enhancing gear you'll replace soon costs only Kina.
 - **Transfer** (carry enhancement onto a new piece; community name "succession crafting"): **exists on
   global**, Enhancement window → "Transfer" tab, choose source + destination gear (in-game 2026-10-10).
-  Rules and preview not seen yet (no eligible source gear). Korean wiki: carries enhancement, breakthrough
-  and Soul Binding to an equal or higher tier piece in the same slot [33, KR].
+  Korean wiki: carries enhancement, breakthrough and Soul Binding to an equal or higher tier piece in the
+  same slot [33, KR].
+- **Transfer window (in-game 2026-10-19, two Unique maces: +10 Aulamus GS 70, +0 Holy Spirit GS 41):**
+  - Shows both pieces side by side with their Soul Binding Rate and lines; one is marked **"Deleted upon Gear
+    Transfer"**, the other **"Superior Transfer"**. Tooltip: "Transfers gear to a higher grade. Higher grade gear
+    cannot be transferred to lower grade gear. When transferring to a higher grade, Soul Binding stats are applied
+    at the enhance level of the transferred gear."
+  - **No preview of the result**: only the two pieces' own tooltips, nothing on what carries over (Manastones,
+    Theostone, Soul Fuse). So the "Carries / Does not carry" list below is still unverified.
+  - Needs a **Gear Transfer Material** item (shown with count 0 when you have none); name and source not checked yet.
+  - "Grade" here seems to mean the gear tier (GS), not rarity: both pieces were Unique (inference).
 - **What Transfer carries (researched 2026-10-16, guides, unverified):**
   - **Carries:** enhancement level, breakthrough, **Soul Binding base lines at their reached values**
     [33, KR][242][243][244][296][297].
@@ -203,13 +212,17 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
   pool depends on the item type; stacks with base stats, Manastones, Theostones [242][244].
 - **Where:** Enhance window → Soul Binding tab: Bind / Sync / Reset [242][245].
 - **Bind:** each try raises the Soul Binding Rate by a random amount, smaller near the cap; 30,000 Kina +
-  1 or more Soul Codex per try, more Codex near the cap [242]. Makes the item untradeable. At 100% the
+  1 or more Soul Codex per try, more Codex near the cap [242]. **In-game 2026-10-19:** the first Bind (unlocking
+  the lines) is free; each Bind that raises the rate costs 30,000 Kina + Soul Codex, the Codex being the real cost.
+  Each line shows current/max (e.g. 19.35%/22.15%) plus a progress % (in-game); that lines grow as the rate
+  rises is an inference. Makes the item untradeable. At 100% the
   item is maxed and locked [242][245]. Total Codex needed to reach 100%: not found.
 - **Sync:** reroll one chosen line; costs a same-grade, same-type item (destroyed) or a Sync Stone
   (lower-grade stone: 10% success) [242][243][245]. Unique only, per [245]. Can reroll the same stat.
 - **Reset:** reroll all lines, rate back to 0; costs Soul Codex: Reset + Kina (amount unknown) [242][243].
-- **Lines per grade, contradiction:** Common 1, Rare 2, Epic 3, Unique 3–5, Heroic 4–6 [242] vs "all
-  gear 4, expandable to 5" [246, snippet].
+- **Lines per grade: one per rarity step, Unique = 4 lines** (in-game 2026-10-19), so presumably Common 1, Rare 2,
+  Epic 3 (user). Plus one class skill line counted among them (e.g. "Lightning Strike Scattershot Lv. +1").
+  ~~Unique 3–5, Heroic 4–6~~ [242] and ~~all gear 4~~ [246] were both off for Unique; Heroic not seen yet.
 - **Transfer:** base lines carry over [242][243][244] (matches the KR wiki in "Enhancement" above);
   the Soul Fuse line does not.
 - **Soul Codex sources (in-game 2026-10-19):** Transcendence, expeditions (Exploration and Conquest), Sanctuary,
@@ -237,8 +250,8 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
 - **Sources:** level-45 regional quests give Rare Theostone Chests [248][252]; Abyss shop selection chest
   (35,000 AP, pick the effect) [251]; Season and Arena shops; Daeva Pass. Rare Theostone Chest = one
   random Rare, weighted to damage stones [248]. Combine ≥4: Rare → Epic 11.1%, Epic → Unique 9.1% [248].
-- **Transfer, contradiction:** lost when moving to new gear [248][253] vs kept [251]. Check the Transfer
-  preview in-game.
+- **Transfer, contradiction:** lost when moving to new gear [248][253] vs kept [251]. The Transfer window
+  shows no result preview (in-game 2026-10-19), so only an actual transfer will tell.
 - **So (inference):** low priority; a free Rare damage stone on the weapon is enough. The Season Shop
   chest (17,500 Oath Coins) is poor value.
 
