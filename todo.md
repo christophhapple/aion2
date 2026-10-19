@@ -15,6 +15,7 @@ tracker itself goes in `backlog.md`.
 - [ ] Artifact Siege (Mon 2026-10-19 21:00, if you join): does it pay Abyss Points by contribution? How much did you get?
 - [ ] PvP preset: set up Skills preset 3 + Batch Set 3 per `characters/dhamira-build.md` "PvP preset" (Yustiel's Power, Salvation from the Abyss shop if not owned). While at it, read Salvation's full Lv 10–20 tooltip and check whether Salvation is blocked right after Defiance
 - [ ] Pantheon: can Eternal Gartua (Verteron, Eternal Isle) and Immortal Gartua (Altgard, Immortal Isle) both be placed, or do they share a slot? Decides whether Altgard field bosses are worth it. See `knowledge/endgame.md` "Artworks"
+- [ ] PvP routines: check in-game that the PvP entries in `routines.yaml` still match (Arena of Solitude / Cooperation, Battlefield, Artifact Siege, Abyss Corridor, Abyss time): times, weekly limits, rewards. Note anything that's off or missing
 
 ## Done
 - [x] Achievement "Bonds of the Black Wings": visited all villages in Altgard (2026-10-19)
