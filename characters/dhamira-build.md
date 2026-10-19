@@ -61,9 +61,15 @@ Absolution or Summon Resurrection instead of Prayer (decide when it comes up).
 **Hotbar diff vs DPS:** Q = Yustiel's Power, E = Salvation, R empty (Noble Aura out). Macro: same as DPS.
 Both new keys are defensive, so "Q never a heal, E never damage" still holds.
 
-**Specialties:** keep the PvE picks for now; one swap that two guides agree on and costs no attention:
-**Healing Light 2 → 3** (50% cleanse on my own heal). Not taken: CC procs (Knockdown, Stun, Root, slows),
-since the rule "own power over CC" stays; revisit if fights are lost to kiting melee (Divine Aura 1).
+**Specialties:** the PvE picks, with three swaps. All are random procs, so none adds anything to press or watch:
+- **Healing Light 2 → 3** (50% cleanse on my own heal; two guides agree).
+- **Judgment Thunder 1 → 4** (10% Root 2s): almost free, since MP isn't short; Thunder fires constantly from the macro.
+- **Condemnation 2 → 3** (20% Root 3s): costs some single-target damage, but it's the most-hit skill.
+- Why Root: it holds melee off a ranged Cleric, and **my Defiance doesn't remove Root** (tooltip list), so if other
+  classes' breaks match, Root is hard to shake (inference). The PvE rule "own power over CC" doesn't apply here (2026-10-19).
+- Kept: Chain of Torment 2 (+3s DoT also keeps Condemnation's window open), Debilitating Mark 2, 4 (option 4 also
+  cuts PvP Damage Boost). Bolt and Divine Aura CC: too rare to matter. Unknown: how much players' Status Effect Resist
+  and immunity windows blunt 10–20% procs, so try it and compare.
 Close by: **Defiance option 5** (+25% PvP Damage Tolerance during Tenacity) needs Lv 16, one Arcana line
 away (now 15).
 
