@@ -10,6 +10,7 @@ Researched 2026-10-15. Mostly metabot.gg, which reads the global client (build 0
   Transcendence, Nightmare, Arena). ~191 titles come from achievements [276].
   ~~Titles menu~~ categories (Adventure, Quest, Challenge, Dungeon, Item, Growth) are a separate menu (`titles.md`).
 - **Tiered:** I/II/III…, each tier pays at its threshold. metabot lists only the total over all tiers.
+  Thresholds don't always scale linearly (in-game 2026-10-19), so a single number is often only tier I.
 - **Not found:** whether rewards must be claimed by hand, and whether progress is per character or
   account-wide. Check in-game.
 

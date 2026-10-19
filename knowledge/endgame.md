@@ -295,4 +295,5 @@ Researched 2026-10-13; guides only, thin sources. [196][197] read client data an
   same item as in some Season Mission rewards; guides say medals [322]). Weekly maximum **3 victory + 3
   participation** rewards, reset Wednesday. So up to 9,000 + 3,000 = **12,000 AP per week** from 6 matches (own
   arithmetic; assumes a win pays only the victory reward).
-- Counts for the weekly Season Mission "Participate in Battlefield 1 time" (Challenge tab).
+- Counts for the weekly Season Mission "Participate in Battlefield" (Challenge tab), a chain with steps at **1 / 2 / 3
+  matches** (in-game 2026-10-19), so 3 matches a week finish it. ~~"1 time"~~ was only step 1.

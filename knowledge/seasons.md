@@ -28,6 +28,8 @@ the reset pattern is from KR official notices. Unverified unless tagged `in-game
   ("Step 1/3"): a concrete goal, a **trophy-point** value (90–610) and rewards, usually the **season coin** (white-gold
   leaf icon, also first in the top bar; presumably Oath Coins) + Abyss Points, sometimes items (Stigma-type shards,
   Arcana cards, crystals). Overall progress counts finished steps ("All 35/167").
+  Step targets **don't always scale linearly** (Battlefield 1 / 2 / 3, Abyss commands 3 / 6 / 10), so one number seen
+  on a card or in a guide may be only one step: check the whole chain (in-game 2026-10-19).
 - **Weekly trophy points:** completing missions adds trophy points to a weekly bar with milestones at 1,500 / 3,000 /
   4,500 / 6,000 / 8,000; "Expected Weekly Rewards" are paid at the **weekly reset**, then the bar restarts. This matches
   the guides' weekly Season Mission points [224].
@@ -37,8 +39,8 @@ the reset pattern is from KR official notices. Unverified unless tagged `in-game
   - Arena: take part 3 times, win once.
   - Transcendence: clear Transcendence dungeons (6), defeat 10 mini-bosses, extract 10 Arcana.
   - Nightmare: defeat bosses (10), get 3,000 Phantasmal Fragments, defeat a boss within a time limit.
-  - Challenge: gather 10 Odyle in the Abyss, complete Abyss commands (chain 3 / 6 / 10 per week, in-game), defeat 3 Abyss bosses, take part in a
-    **Battlefield** once, clear Ascension Trial 3 times, kill enemy players (officers; in Verteron/Altgard).
+  - Challenge: gather 10 Odyle in the Abyss, complete Abyss commands (chain 3 / 6 / 10 per week, in-game), defeat 3 Abyss bosses, take part in
+    **Battlefield** (steps 1 / 2 / 3 matches, in-game 2026-10-19), clear Ascension Trial 3 times, kill enemy players (officers; in Verteron/Altgard).
   - Event (Halloween): 10 easy ones (hunt in Abyss, one clear each of Transcendence, Conquest, Ascension Trial,
     Nightmare, log in 3 times, get a Unique piece, use 5 scrolls, Invasion, Shugo).
 - **Season missions (examples):** Abyss: 10 h in the Abyss, fly 60 min, hunt 2,000 monsters, collect 500,000 AP, take
