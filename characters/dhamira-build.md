@@ -126,7 +126,7 @@ Which Stigmas go in which preset: see "Presets" above. Stigma 1 = DPS (the old "
 Heal (the old "Group" from 2026-10-16, with Absolution in place of Prayer of Amplification).
 Levels: DPS / Heal (per preset, see the splits below).
 - Light of Protection (Lv 10 / 10): always-on party damage + defense
-- Earth Punishment (Lv 10 / 5): **the damage engine**: Condemnation always crits on its target, and every crit resets Condemnation. 30s CD, 10s DoT; Lv 20 adds +10s
+- Earth Punishment (Lv 15 / 15, 2026-10-19): **the damage engine**: Condemnation always crits on its target, and every crit resets Condemnation. 30s CD, 10s DoT; Lv 20 adds +10s
 - Prayer of Amplification (Lv 10, DPS): self only (not party): +20% Attack, +20% PvE Damage Boost for 13s, 1 min CD
 - **Noble Aura (DPS, 2026-10-17, Lv 9, replaces Voice of Doom):**
   Aura follows me 5 min and hits my target every 2s; mobile; 1 min CD.
@@ -136,19 +136,22 @@ Levels: DPS / Heal (per preset, see the splits below).
 
 **Shard rule (2026-10-17): spend to breakpoints** (5/10/15/20). Levels in between only raise base
 values a little: Light of Protection Lv 10 → 12 was +1% (15% → 16%) for 8 shards (in-game 2026-10-17).
-Shards reset free per Stigma, levels are per preset, and each preset gets the whole pool (**60 shards**
-(2026-10-18, +2 from the Nightmare shop; 58 on 2026-10-17), both presets 0 unspent: every Stigma at 10).
+Shards reset free per Stigma, levels are per preset, and each preset gets the whole pool (**80 shards**
+(2026-10-19, +20 bought; 60 on 2026-10-18), both presets 0 unspent (assumed: 80 = exactly the splits below)).
 
-**DPS split (set in-game 2026-10-17):** Light of Protection **10** · Earth Punishment **10** (+10% Double Chance, party +5%) ·
-Prayer of Amplification **10** (×1.5 Empyrean Lord's Grace while active) · Noble Aura **10** (2026-10-18; was
-Voice of Doom 5) = 15 × 4 = 60. Next: **Earth Punishment 10 → 15** (20 shards: +10% Attack and Defense, party +5%);
-then decide between Earth Punishment 20 (40, doubles the always-crit Condemnation window) and Prayer or
-Light of Protection 15. Noble Aura 10 (+20 dmg to targets afflicted with…, truncated) not assessed yet.
+**DPS split (2026-10-19):** Light of Protection **10** · Earth Punishment **15** (+10% Double Chance, party +5%;
++10% Attack and Defense, party +5%) · Prayer of Amplification **10** (×1.5 Empyrean Lord's Grace while active) ·
+Noble Aura **10** (2026-10-18; was Voice of Doom 5) = 15 + 35 + 15 + 15 = 80.
+Next (2026-10-19 plan): **+20 → Prayer of Amplification 15** (×1.5 Earth's Grace = Crit Damage Boost 16% → 24%
+while Prayer is up), then **+40 → Earth Punishment 20** (+10s: Earth Punishment and Earth's Blessing last 20s on a
+30s CD, so the always-crit Condemnation window goes from 1/3 to 2/3 of the time). Light of Protection 15 (+100
+Accuracy) and Noble Aura 15 (+30% vs Incapacitated) are weak for PvE.
 
-**Heal split (set in-game 2026-10-17):** Light of Protection **10** · Absolution **10** (−30s CD, removes all debuffs) ·
-Summon Resurrection **10** (3s invincibility after the res) · Earth Punishment **10** (2026-10-18, party Double
-Chance) = 15 × 4 = 60. Next: **Earth Punishment 10 → 15** too: the same 20 shards count in both presets, and +10%
-Defense helps the healer. Other Lv 15 options are weak: Light of Protection +100 Accuracy (its +10% Max HP is Lv 20,
+**Heal split (2026-10-19):** Light of Protection **10** · Absolution **10** (−30s CD, removes all debuffs) ·
+Summon Resurrection **10** (3s invincibility after the res) · Earth Punishment **15** = 80.
+Next: the 20 shards that give DPS Prayer 15 have no good Lv 15 here; park them in Light of Protection 15 (+100
+Accuracy, also for the party). At +40 more, Earth Punishment 20 in this preset too (Earth's Blessing 20s for the
+party). Reset is free, so parking costs nothing. Other Lv 15 options are weak: Light of Protection +100 Accuracy (its +10% Max HP is Lv 20,
 40 more shards), Absolution +5% HP restored, Summon Resurrection 20% HP on res.
 
 History: until 2026-10-17 one shared set (Light of Protection 12, Earth Punishment 9, Prayer 7,
