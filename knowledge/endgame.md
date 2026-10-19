@@ -88,7 +88,8 @@ Researched 2026-10-19 from guides [326] (global, planner), [327] (global), [328]
     vs "10 clears" [327]): **10 Conquest clears** (in-game 2026-10-19) · Fortress Guardian Notun, Gerod (+10 to two stats), 8,000 Phantasmal Fragments each ·
     3 Ascension statues (Dream Fragment, Artifact of Eternity, Asahr's Mirror), one per Ascension step.
   - Artworks: **Immortal / Eternal Gartua** (Illusion/Life/Wisdom/Destiny +5): field bosses on Immortal Isle (Altgard)
-    and Eternal Isle (Verteron), or Substance Morph from 20,000 Artwork Scrap. Others from field bosses (piece or
+    and Eternal Isle (Verteron), or Substance Morph from 20,000 Artwork Scrap. The **Substance Morph "Decor" tab** is
+    these Pantheon Artworks (user 2026-10-19). Others from field bosses (piece or
     scraps), Conquest (each expedition has one, `expeditions.md`), Market, Shugo Festival shop [327].
 - **Season pieces:** ranking rewards (Abyss, Nightmare, Transcendence) are decorations whose effect lasts until the
   end of the following season [326].
