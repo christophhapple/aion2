@@ -48,6 +48,9 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
     Theostone, Soul Fuse). So the "Carries / Does not carry" list below is still unverified.
   - Needs a **Gear Transfer Material** item (shown with count 0 when you have none); name and source not checked yet.
   - "Grade" here seems to mean the gear tier (GS), not rarity: both pieces were Unique (inference).
+  - Picking gear lists **Equipped Gear** and the **Cube** (bag) separately. Some pieces are greyed out: **"Gear with
+    fixed Soul Binding effects cannot be used in gear transfer"** (in-game 2026-10-19). Which items have fixed lines
+    isn't marked anywhere else; the greyed ones looked like the guard and a bracelet (from the icons, unconfirmed).
 - **What Transfer carries (researched 2026-10-16, guides, unverified):**
   - **Carries:** enhancement level, breakthrough, **Soul Binding base lines at their reached values**
     [33, KR][242][243][244][296][297].
