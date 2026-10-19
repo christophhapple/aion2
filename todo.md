@@ -15,6 +15,7 @@ tracker itself goes in `backlog.md`.
 - [ ] *(at GS 1600)* Dhamira: revisit Manastones. All gear has cheap ones with only a few rerolls (2026-10-13); upgrade on pieces you keep
 - [ ] Achievement "Bonds of the Black Wings": visit all villages in Altgard, 1/2
 - [ ] Arcana Extract: after extracting one spare card, does the window still show 11% with nothing registered (= gauge that keeps progress) or 0% (= chance)? Does a +0 Common give less than 11%?
+- [ ] Pantheon: open it. Which Colossus/Statues/Artworks are placed, any unused decoration items in the bag? Does GS change when you place a piece? See `knowledge/endgame.md` "Pantheon"
 - [ ] Artifact Siege (Mon 2026-10-19 21:00, if you join): does it pay Abyss Points by contribution? How much did you get?
 
 ## Done
