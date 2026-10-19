@@ -92,3 +92,22 @@ routines:
     name: Dimensional Invasion (use key)
     reset: daily
     notes: Every hour at :30, ~5 min. Only worth it with a key (no key = no rewards, in-game). +1 key/day, banks to 7.
+
+  # PvP (second priority since 2026-10-19). Build: characters/dhamira-build.md "PvP preset" (Batch Set 3).
+  - id: arena-solo
+    name: Arena of Solitude (1v1)
+    notes: Arena window, matchmaking always open. 300 AP per match, 500 AP per win (in-game 2026-10-18). Weekly reward limit 10 participation + 30 victory, Wed reset. Cap 10 = matches played; more wins still pay, so log the real count and note wins. Best test of the PvP preset. Details knowledge/endgame.md "Arena".
+    reset: weekly
+    cap: 10
+
+  - id: arena-team
+    name: Arena of Cooperation (5v5)
+    notes: Same window and rewards as arena-solo (separate limit, 10 participation + 30 victory per week) (in-game 2026-10-18). Cap 10 = matches played; log the real count and note wins.
+    reset: weekly
+    cap: 10
+
+  - id: abyss-time
+    name: Abyss time (Lower Reshanta)
+    notes: 7h/week, runs only while inside, also while dead (in-game 2026-10-18). Log hours spent as ×n (round to whole hours). Whether unused time carries over and on which reset it refills: unconfirmed. Rift Stones add +1h (guide). Use it for Abyss commands, corridor, open-world PvP.
+    reset: weekly
+    cap: 7

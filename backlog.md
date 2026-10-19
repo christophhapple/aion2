@@ -3,9 +3,9 @@
 Ideas and tasks for building this tracker. In-game tasks go in `todo.md`.
 
 ## Open
-- [ ] PvP routines in `routines.yaml` (PvP now second priority, 2026-10-19): add Arena of Solitude + Arena of Cooperation (weekly 10 participation + 30 victory rewards each, Wed reset, `knowledge/endgame.md` "Arena") and Abyss time (7h/week); re-check the existing siege, corridor and battlefield entries (notes still say "optional")
 
 ## Done
+- [x] PvP routines in `routines.yaml`: arena-solo, arena-team, abyss-time added, siege note updated (2026-10-19)
 - [x] Research a Cleric PvP build → `knowledge/cleric-skills.md` "PvP", draft in `characters/dhamira-build.md` "PvP preset" (2026-10-19)
 - [x] Research pets → `knowledge/endgame.md` "Pets: value vs effort" (2026-10-13)
 - [x] Research legions → `knowledge/endgame.md` "Legions" (2026-10-13)
