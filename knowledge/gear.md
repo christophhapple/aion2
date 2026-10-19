@@ -46,7 +46,12 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
     at the enhance level of the transferred gear."
   - **No preview of the result**: only the two pieces' own tooltips, nothing on what carries over (Manastones,
     Theostone, Soul Fuse). So the "Carries / Does not carry" list below is still unverified.
-  - Needs a **Gear Transfer Material** item (shown with count 0 when you have none); name and source not checked yet.
+  - Needs a **Gear Transfer Material**: **Transfer Stone (Unique) (Bound)**, "Can be used on Unique gear". Made via
+    **Substance Morph from spare Unique gear** (pick several pieces; "Include Enhanced" checkbox), 100% success; the
+    recipe says "Quantity to Receive: 10" (in-game 2026-10-19; whether that's per morph or a limit: unclear). How many
+    stones one transfer takes: not checked. **Sync Stone (Unique) (Bound)** (for Soul Binding Sync) comes from the
+    same kind of recipe. Extract Enhance Stones from enhanced spares first (100% refund, see above) rather than
+    morphing them with "Include Enhanced" (inference).
   - "Grade" here seems to mean the gear tier (GS), not rarity: both pieces were Unique (inference).
   - Picking gear lists **Equipped Gear** and the **Cube** (bag) separately. Some pieces are greyed out: **"Gear with
     fixed Soul Binding effects cannot be used in gear transfer"** (in-game 2026-10-19). Which items have fixed lines
