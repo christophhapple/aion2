@@ -79,8 +79,15 @@ td strong { font-weight: 700; }
   font-family: var(--font-mono); font-variant-numeric: tabular-nums; font-size: 0.95rem; }
 .timers .t-state { display: block; font-family: var(--font-body); font-size: 0.72rem; font-weight: 700;
   letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); }
-.timers .t-bar { grid-column: 1 / -1; height: 6px; margin-top: 0.3rem; border-radius: 3px;
+.timers .t-bar { grid-column: 1 / -1; position: relative; height: 6px; margin-top: 0.3rem; border-radius: 3px;
   background: var(--line); overflow: hidden; }
+.timers .t-bar::after { content: ""; position: absolute; inset: 0; background: var(--ticks, none); }
+.timers li.live .t-bar::after { display: none; }
+.timers li.scale { padding-block: 0.4rem 0.2rem; }
+.timers .t-scale { grid-column: 1 / -1; position: relative; height: 1.1rem; font-family: var(--font-mono);
+  font-size: 0.72rem; color: var(--muted); }
+.timers .t-scale span { position: absolute; top: 0; transform: translateX(-50%); }
+.timers .t-scale span:last-child { transform: translateX(-100%); }
 .timers .t-fill { display: block; height: 100%; border-radius: 3px; background: var(--sky); }
 .timers li.soon .t-fill { background: var(--gold); }
 .timers li.soon .t-count { color: var(--gold); }
@@ -102,7 +109,7 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
 
   <section aria-labelledby="timers">
     <h2 id="timers">Up next</h2>
-    <p>Everything on the clock, soonest first, in your local time. Each bar runs down to the start, measured from the end of the previous one. It turns gold in the last 10 minutes. Running events are on top in green, and their bar shows how much of the event is left.</p>
+    <p>Everything on the clock, soonest first, in your local time. The bars show the time left on one shared scale, so a shorter bar means sooner. The scale is logarithmic (marks at 10 min, 1 hour, 6 hours, 1 day, 1 week, 2 months) so that minutes and weeks both fit. A bar turns gold in the last 10 minutes. Running events are on top in green, and their bar shows how much of the event is left.</p>
     <div class="table-wrap"><ol class="timers" id="timer-list" aria-live="off"><li><span class="t-name">Loading timers…</span></li></ol></div>
     <p class="dim">Event times follow the server clock, which matches Central European time (checked in-game in October). Whether events stay on that clock after the 25 Oct clock change is not confirmed yet. Resets are fixed in UTC (in-game). Argo, the Spirit King has no fixed time: it seems to return about 12h after it dies.</p>
   </section>
@@ -226,8 +233,8 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
     { name: "Weekly reset", utcHour: 7, utcDay: 3, tag: GAME },
   ];
   const DEADLINES = [
-    { name: "Halloween event ends", from: Date.UTC(2026, 9, 14, 7), at: Date.UTC(2026, 10, 4, 8), tag: GAME },
-    { name: "Season 1 ends", note: "spend Oath Coins", from: Date.UTC(2026, 8, 30, 7), at: Date.UTC(2026, 11, 16, 8), tag: GAME },
+    { name: "Halloween event ends", at: Date.UTC(2026, 10, 4, 8), tag: GAME },
+    { name: "Season 1 ends", note: "spend Oath Coins", at: Date.UTC(2026, 11, 16, 8), tag: GAME },
   ];
 
   function range(a, b) { const r = []; for (let i = a; i <= b; i++) r.push(i); return r; }
@@ -253,7 +260,7 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
   function occurrences(now) {
     const out = [];
     const today = zoneParts(now);
-    for (let i = -7; i <= 8; i++) {
+    for (let i = -1; i <= 8; i++) {
       const base = new Date(Date.UTC(today.year, today.month - 1, today.day + i));
       const y = base.getUTCFullYear(), mo = base.getUTCMonth(), d = base.getUTCDate(), wd = base.getUTCDay();
       for (const ev of EVENTS) {
@@ -308,39 +315,50 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
     return cache;
   }
 
+  // One logarithmic scale for every waiting bar: 1 min = empty, 60 days = full.
+  const SCALE_MIN = MIN, SCALE_MAX = 60 * DAY;
+  const TICKS = [["10m", 10 * MIN], ["1h", HOUR], ["6h", 6 * HOUR], ["1d", DAY], ["1w", 7 * DAY], ["2mo", SCALE_MAX]];
+  function logFrac(ms) {
+    return Math.log(Math.max(ms, SCALE_MIN) / SCALE_MIN) / Math.log(SCALE_MAX / SCALE_MIN);
+  }
+
   const SOON = 10 * MIN;
   function rows(now) {
     const list = [];
-    const seen = new Set(), lastEnd = {};
+    const seen = new Set();
     for (const o of sortedOccurrences(now)) {
       const name = o.ev.name;
-      if (o.end <= now) { lastEnd[name] = o.end; continue; }
-      if (seen.has(name)) continue;
+      if (o.end <= now || seen.has(name)) continue;
       seen.add(name);
       const live = o.start <= now;
       const count = live ? o.end - now : o.start - now;
-      const span = live ? o.end - o.start : o.start - (lastEnd[name] ?? o.start - DAY);
       list.push({ name, note: o.ev.note, tag: o.tag, live, soon: !live && count <= SOON, key: live ? o.end - DAY : o.start,
         detail: live ? `until ${timeFmt.format(o.end)}` : `${when(o.start, now)}–${timeFmt.format(o.end)}`,
-        count, frac: count / span });
+        count, frac: live ? count / (o.end - o.start) : logFrac(count) });
     }
     for (const r of RESETS) {
       const t = nextReset(r, now);
       list.push({ name: r.name, tag: r.tag, reset: true, soon: t - now <= SOON, key: t, detail: when(t, now),
-        count: t - now, frac: (t - now) / (r.utcDay !== undefined ? 7 * DAY : DAY) });
+        count: t - now, frac: logFrac(t - now) });
     }
     for (const dl of DEADLINES) {
       if (dl.at <= now) continue;
       list.push({ name: dl.name, note: dl.note, tag: dl.tag, reset: true, key: dl.at, detail: when(dl.at, now),
-        count: dl.at - now, frac: (dl.at - now) / (dl.at - dl.from) });
+        count: dl.at - now, frac: logFrac(dl.at - now) });
     }
     return list.sort((a, b) => a.key - b.key);
   }
 
+  const tickPos = TICKS.map(([label, ms]) => [label, logFrac(ms) * 100]);
+  const scaleRow = `<li class="scale" aria-hidden="true"><span class="t-scale">${
+    tickPos.map(([label, p]) => `<span style="left: ${p.toFixed(2)}%">${label}</span>`).join("")}</span></li>`;
+  document.documentElement.style.setProperty("--ticks", `linear-gradient(to right, ${
+    tickPos.slice(0, -1).map(([, p]) => `transparent ${p}%, var(--surface) ${p}%, var(--surface) calc(${p}% + 2px), transparent calc(${p}% + 2px)`).join(", ")})`);
+
   const el = document.getElementById("timer-list");
   function render() {
     const now = Date.now();
-    el.innerHTML = rows(now).map(r => `
+    el.innerHTML = scaleRow + rows(now).map(r => `
       <li class="${r.live ? "live" : ""}${r.soon ? " soon" : ""}${r.reset ? " reset" : ""}">
         <span class="t-name">${r.name} <span class="tag ${r.tag}">${r.tag === GAME ? "In-game" : "Guides"}</span></span>
         <span class="t-count"><span class="t-state">${r.live ? "Live, ends in" : r.reset ? "In" : "Starts in"}</span>${countdown(r.count)}</span>
