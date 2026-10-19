@@ -45,7 +45,7 @@ routines:
 
   - id: siege
     name: Artifact Siege (Abyss)
-    notes: Mon, Thu, Sat 21:00, 30 min (Sat + Mon in-game). Countdown "Next Siege in" on the Chaotic Lower Reshanta card. Mass faction PvP at 3 Artifacts; final hit on a Dimensional Core takes it. Optional, go with a group. Details knowledge/abyss.md.
+    notes: Mon, Thu, Sat 21:00, 30 min (Sat + Mon in-game). Countdown "Next Siege in" on the Chaotic Lower Reshanta card. Mass faction PvP at 3 Artifacts; final hit on a Dimensional Core takes it. PvP is second priority since 2026-10-19: join when online, ideally with a group, PvP preset (Batch Set 3). A won Artifact opens the corridor. Details knowledge/abyss.md.
     reset: weekly
     cap: 3
 
