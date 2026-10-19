@@ -6,7 +6,9 @@ Overview: `progression.md`.
 ## What raises GS
 Gear, enhancement, Manastones/Theostones, belt, amulet, Ascension bracelets, Clash Runes, Arcana
 [1][2][15]. Daevanion points raise **GS 1:1** (in-game 2026-10-13); Pantheon raises Combat Power, not GS [14] (unverified).
-Arcana per card: basic +20, green +40 [2][14] **vs** green +40, blue +60, unique +80 [17, KR-era].
+Arcana per card: **Common 20, Unique 80** (in-game 2026-10-19: Common cards show 20, the Transmutation preview
+shows a Unique card at 80), **+1 GS per upgrade level** (Common +2 = 22, in-game 2026-10-19). Rare 40, Epic 60 per
+guides [2][14][17], consistent with the in-game values but not seen yet.
 
 **+1 enhancement level = +1 GS** (in-game 2026-10-10, one test; assumed linear and the same for all
 rarities, unconfirmed). **Enhance Stones are the bottleneck** for enhancing (in-game experience 2026-10-10).
@@ -134,8 +136,10 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
   - Magic Armor: 2 pieces restore 1,500 MP at ≤20% MP (30 s cooldown); 4 pieces +1,000 PvE Defense at ≥50% MP.
 - Per grade [158]: Common GS 20, 1 skill level, max +2 · Rare GS 40, 2 skill levels, max +3 ·
   Epic GS 60, 3 skill levels, max +4 · Unique GS 80, 4 skill levels, max +5. Skill levels go to skills
-  listed on the card; each upgrade adds +1 to a random skill line already on it [160]. Matches the GS
-  line above, except for the Common value.
+  listed on the card; each upgrade adds +1 to a random skill line already on it [160]. GS confirmed
+  in-game for Common (20, +1 per upgrade level) and Unique (80), see "What raises GS" (2026-10-19).
+  A card's grade can't be raised: a Common stays Common, better grades are new cards (user's impression
+  in-game 2026-10-19, nothing in-game suggests otherwise).
 - **Upgrade:** no Enhance Stones, no failure; feed Training Arcana (200–5,000 EXP each) or spare cards.
   Unique to +5 = 93,000 EXP. EXP carries over when an upgraded card is used as material [158] **vs**
   "not 1:1, you lose some" [160].
