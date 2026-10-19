@@ -63,7 +63,7 @@ Older KR-client drop data for Krao (guaranteed epic piece, pity at 14 gives a Be
 | 45 + 1000 | **Abyss**: Lower Reshanta (PvP). **Details: `abyss.md`** | 7h/week per layer (14h only with paid membership) [3]. Abyss Points → Stigma shards, consumables, wings; unique accessories best from ~1600 [14][27]. PvE parts: weekly scroll quests, 2-minute artifact corridors, field bosses. Risk: ganking; stay at the edges [27]. Abyss gear is PvP-statted [28]. |
 | 1000 | Ascension Trial (Forgotten Repository) | **Difficulties: Easy 1000, Normal 1500, Hard 2000, Extreme 2500** (in-game 2026-10-11; ~~~1500~~ [14] is Normal). 3/week, score-scaled rewards [3][14]; save runs for the last day [4] |
 | 1600 (in-game 2026-10-16) | **Transcendence** (2–5 players, timed; in-game 2026-10-19) | Arcana cards, Manastones, Soul Codex (in-game 2026-10-19); stages at 1600/1900/2200/2500 (in-game 2026-10-16; [15][21]); no reward count (in-game 2026-10-18; ~~1 count per 12h~~ [3]), 40 Odyle per cube (in-game 2026-10-19) |
-| ~2800 | Raid: Abyssal Forge: Ludra | **Removed on global** for rework [8][9] |
+| ~2800 | **Sanctuary** (10-player PvE raid, the step after Transcendence; user 2026-10-19): Abyssal Forge: Ludra | **Removed on global** for rework [8][9]. Details and the later raids: "Sanctuary (raids)" below |
 
 ## Pantheon
 Researched 2026-10-19 from guides [326] (global, planner), [327] (global), [328] (summaries); unverified unless tagged `in-game`.
@@ -271,7 +271,44 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
 
 ## Other caps
 Daily Dungeon 14/week per server · Duty Missions 5/day per server · Battlefield 3 win rewards/week ·
-Subjugation 3 tickets/week · Abyss sieges Mon/Thu/Sat 21:00 server time (~~Wed + Sat~~ is KR), see `schedule.md` [3][4][62].
+Subjugation 3 tickets/week (see below) · Abyss sieges Mon/Thu/Sat 21:00 server time (~~Wed + Sat~~ is KR), see `schedule.md` [3][4][62].
+
+## Sanctuary (raids) (researched 2026-10-19)
+- **Sanctuary = the 10-player PvE raids**, the step after Transcendence (user 2026-10-19). 10 players in two
+  parties of 5; both factions can group [335][336].
+- **Raids** [335][336] (gates in GS; KR-based tables, global may differ):
+  - **Abyssal Forge: Ludra**: GS 2,800 [335] vs 2,700 [336]; 4 entries/week, used on entry; one final-boss kill
+    per week. Loot: Unique gear (GS 54–102 pieces, Ludra weapons and bracelets), 30% Philosopher's Stone:
+    Revelation [335]. **Temporarily removed on global for a rework** [8][9][335].
+  - Corroded Decontamination Facility 3,500 · Chalice of Muspel 4,500 (or 4,300) · Snowfield of Sorrow 5,800+:
+    KR content, not on global yet [336].
+- **Contradiction:** the in-game Soul Codex source list names **Sanctuary** (in-game 2026-10-19), while guides say
+  Ludra is offline on global. Either it's back or the list shows planned sources. Check the dungeon list in-game.
+- **For you (inference):** far off anyway (GS 1821 vs 2,700+).
+
+## Subjugation (researched 2026-10-19)
+- Guides: a weekly **4-player dungeon** mode, **3 tickets per character per week**, used on entry; KR patch
+  2025-11-26 doubled its rewards when it cut attempts [337].
+- **Not seen on global** (user 2026-10-19: never heard of it).
+  (The "Unknown Fissure" 14/week pool in guides' cap lists is the Daily Dungeon, user 2026-10-19.)
+
+## Hidden Cubes (researched 2026-10-19)
+- **Where (global):** open world in **Verteron and Altgard only** (Eltnen/Morheim are KR/TW); not in Poeta, Ishalgen
+  or Reshanta [340][341]. Spawn groups: **95 in Verteron, 59 in Altgard**; each group picks one of 2–43 candidate
+  spots, so the exact place varies; it can come back elsewhere [341]. **No map or minimap marker**: found by sight,
+  often on cliffs, ledges, ruins, riverbanks, some underwater [340]. Respawn timer: none in client data, unknown
+  [341]. Fan maps with all candidate spots: metabot.gg/en/aion-2/hidden-cubes [341].
+- **Key: Hidden Cube** needed for every cube in Verteron/Altgard ("Cannot open without a key") [340][341].
+  Keys: hero quest Odyle Collection (Elyos) · district quest Nine Wonders 2nd Leg · achievement "Who Brought the
+  Chest?" (7 across tiers) · **Season Shop: 10 per account, 3,000 Oath Coins each** · also battle pass, Monolith,
+  attendance, maybe duties (amounts unknown) [341].
+- **Rewards with a key** [340][341]: 10 Silentium, ~1,000 Soul Crystals, Superior Power Shards, **Soul Codex**,
+  consumables; rare: wings (Radiant Love), Unique skins, emotes. Opening takes ~4s.
+- One source says they're not on global yet [340]; the in-game Soul Codex source list names Hidden Cubes (in-game
+  2026-10-19), so they exist.
+- **So (inference):** keys are the limit, not finding cubes. Use keys as you get them on a cube you pass; with a
+  fan map, a few spots near where you already play are enough. Probably KR/TW content or a different global name;
+  ignore until it shows up.
 
 ## Upcoming (global)
 - Season 1 Daeva Pass: 2026-09-30 → 2026-12-16 [3] (free track only; F2P)

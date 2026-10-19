@@ -257,7 +257,7 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
 - **Soul Codex sources (in-game 2026-10-19):** Transcendence, expeditions (Exploration and Conquest), Sanctuary,
   Dimensional Invasion (×3 with a key, `events.md`), Nightmare shop, Season Shop (3,000 Oath Coins, limit 50,
   `seasons.md`), several achievements, Hidden Cubes. Which source is best: unknown. Shugo Festival is named by [242]
-  but wasn't in the in-game list. "Sanctuary" is not described anywhere else in this knowledge base yet. KR: 200 Enhance
+  but wasn't in the in-game list. "Sanctuary" = the 10-player raids (`endgame.md`). KR: 200 Enhance
   Stones + 10,000 Kina → 1 Codex via conversion [247]. **Reset:** Nightmare shop, achievements, Season
   Shop (20,000, limit 5); Twitch drop ×2, 5–16 Oct (G) [250].
 - **Philosopher's Stone → Soul Fuse:** 2 stones add one extra random line to a **Unique or Heroic
@@ -267,6 +267,18 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
   30,000 Oath Coins each = exactly one Fuse.
 - **So (inference):** bind only Unique pieces you'll keep or transfer; fix bad lines (Sync/Reset)
   before spending Codex; Fuse only a maxed keeper whose type matches.
+
+## Potential (researched 2026-10-19)
+
+- **Potential = PvP stats** on gear (user 2026-10-19). Guides (global client): a separate track on **Unique gear that
+  is Soul Bound**, 4 levels, always succeeds [338][339]:
+  - Cost: Potential Stone: Abyss (Unique) + 100,000 Abyss Points per level; stones 1 → 4 per level, **10 stones +
+    400,000 AP for a full piece** [338][339].
+  - Stats: weapon and accessories **PvP Damage Boost**, armor and bracelets **PvP Damage Tolerance**, +0.5% per
+    level, 2% at 4 [338].
+  - Stones: PvP Trade Shop from 25,000 AP (limited) [338]; Nahma's Unique Merit Chest 7% (`abyss.md`).
+  - **Lost on Transfer** [338][296][298]. One guide describes PvE Potential; the global guides say there is none [338].
+- **For you (inference):** PvP only and expensive in AP, which you'd rather spend on Stigma Shards. Skip.
 
 ## Theostones (researched 2026-10-14)
 

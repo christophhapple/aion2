@@ -410,3 +410,12 @@ Added 2026-10-19 (Proof of Hero).
 332. metabot.gg, Substance Morph (Conversion) table, G client data: https://metabot.gg/en/aion-2/conversion
 333. elitegrindlab, Substance Morph recipes, 2026: https://www.elitegrindlab.com/aion-2/substance-morph/
 334. search summary (wikily, aion2.gaming.tools), Merit Chest Unique contents, G: https://wikily.gg/aion-2/consumables/argo-s-merit-chest-unique-bound · https://aion2.gaming.tools/items/533700299 · https://wikily.gg/aion-2/consumables/dimensional-merit-chest-unique-bound
+
+Added 2026-10-19 (Sanctuary, Subjugation, Potential, Hidden Cubes).
+335. search summary (expcarry Ludra guide, metabot dungeon guide, ggwtb global PvE), 2026-10, G?: https://expcarry.com/aion-2-ludra-boss-guide · https://metabot.gg/en/aion-2/guides/dungeon-guide · https://ggwtb.com/blog/aion-2-global-pve-guides-dungeons--raids-and-weekly-priorities
+336. 6sword.com, Sanctuary raids, upd. 2026-09-30, KR-based: https://6sword.com/en/aion2/guide/77
+337. search summary (metabot/expcarry daily-weekly checklists, aion2hub KR patch 2025-11-26), 2026: https://metabot.gg/en/aion-2/guides/daily-weekly-checklist · https://aion2hub.com/updates/aion-2-update-2025-11-26-2
+338. search summary (aion2maps Potential, metabot enhancement guide, wikily enhance-potential, allthings.how PvP Trade Shop), 2026-10, G: https://aion2maps.com/guides/potential/ · https://metabot.gg/en/aion-2/guides/gear-enhancement-guide · https://wikily.gg/aion-2/enhancement/enhance-potential · https://allthings.how/aion-2-pvp-trade-shop-every-item-price-and-currency/
+339. gameplay.tips enhancement guide, 2026, Asia-era parts: https://gameplay.tips/guides/aion-2-enhancement-guide-upgrading-your-gear.html
+340. search summary (Fextralife, wikily, allthings.how, space4games, expcarry), Hidden Cubes, 2026-10: https://aion2.wiki.fextralife.com/Hidden_Cubes · https://wikily.gg/aion-2/hidden-cubes · https://allthings.how/aion-2-hidden-cubes-how-to-find-and-open-them-for-rewards/
+341. metabot.gg, Hidden Cube guide + map, 2026-10-01 (upd. 10-15), G client data: https://metabot.gg/en/aion-2/guides/hidden-cubes-guide · https://metabot.gg/en/aion-2/hidden-cubes
