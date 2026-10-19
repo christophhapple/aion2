@@ -6,7 +6,7 @@ Researched 2026-10-10. Early-launch guides, partly contradictory — in-game too
 - **Weekly reset: Wednesday 07:00 UTC** (= 09:00 CEST / 08:00 CET) (in-game 2026-10-10: Daily Dungeon "weekly recharge" countdown).
 - **Daily reset: 07:00 UTC** (in-game 2026-10-10) = 09:00 CEST / 08:00 CET. Matches expcarry;
   ~~metabot's "16:00 server time"~~ is wrong for EU.
-- Daily: Duty Missions ×5 (**doesn't bank**, the only daily that's lost if skipped; in-game 2026-10-13), Nightmare ×2 (consumed only on clear, banks), Odyle Energy (+15/3h, cube = 40),
+- Daily: Duty Missions ×5 (**doesn't bank**, the only daily that's lost if skipped; in-game 2026-10-13), Nightmare ×2 (consumed only on clear, in-game 2026-10-19; banks), Odyle Energy (+15/3h, cube = 40),
   Shugo Festival keys ×3, Dimensional Invasion key ×1.
 - Weekly (don't bank — use before Wednesday): Daily Dungeon pool 14 (shared per server across alts),
   Ascension Trial ×3, raids, Subjugation tickets, Abyss time (7h per layer), ~~Expedition exploration ×7~~ (no clear limit, in-game 2026-10-19),

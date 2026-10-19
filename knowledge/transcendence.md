@@ -63,5 +63,5 @@ debuffs, `cleric-skills.md`). Whether the Talisra wrong-colour stun can be clean
   better Arcana; Soulstones from stage 4 [300].
 - **So for Arcana slots:** Deus → Bell + Compass, Arkanis → Mirror + Parchment, both → Chalice.
 - **Season 1 achievements** [308]: first clear per stage per dungeon 1,460 / 2,510 / 4,080 / 5,660 Oath Coins
-  + Training Arcana · weekly: 3/6/10 clears, no-death clear, clear under 15 min, 10 mini-bosses, extract 10
+  + Training Arcana (Training Arcana confirmed as Transcendence **Season** Mission rewards, not weekly, in-game 2026-10-19) · weekly: 3/6/10 clears, no-death clear, clear under 15 min, 10 mini-bosses, extract 10
   Arcana · 38,720 Oath Coins in total.
