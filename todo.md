@@ -14,6 +14,7 @@ tracker itself goes in `backlog.md`.
 - [ ] Cube-hunting audio for gathering/pet runs: Master + Sound Effects 100%, Music, Ambient, Monster, Mount, own character + wing sounds low. Save it as its own audio preset (the game supports audio presets, user 2026-10-19). See `knowledge/endgame.md` "Hidden Cubes"
 - [ ] Artifact Siege (Mon 2026-10-19 21:00, if you join): does it pay Abyss Points by contribution? How much did you get?
 - [ ] PvP preset: set up Skills preset 3 + Batch Set 3 per `characters/dhamira-build.md` "PvP preset" (Yustiel's Power, Salvation from the Abyss shop if not owned). While at it, read Salvation's full Lv 10–20 tooltip and check whether Salvation is blocked right after Defiance
+- [ ] Pantheon: can Eternal Gartua (Verteron, Eternal Isle) and Immortal Gartua (Altgard, Immortal Isle) both be placed, or do they share a slot? Decides whether Altgard field bosses are worth it. See `knowledge/endgame.md` "Artworks"
 
 ## Done
 - [x] Achievement "Bonds of the Black Wings": visited all villages in Altgard (2026-10-19)
