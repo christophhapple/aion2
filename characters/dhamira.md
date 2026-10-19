@@ -32,17 +32,17 @@ Verteron done: all regional (green) quests incl. Spacetime Rift, Sealed Dungeons
   - Specialty: Odyle and Gem full (Seeker, Plentiful Harvest 3, Appraiser 3); nothing else.
 - Crafting: none yet. Plan: Alchemy first (Manastones, gem powders; self-use, F2P can't sell). See `knowledge/crafting.md`.
 
-## Gear (in-game 2026-10-13, screenshot)
+## Gear (in-game 2026-10-13, screenshot; pauldrons, earring, ring +10 per Transfer list 2026-10-19)
 | Slot | Grade +level | | Slot | Grade +level |
 |---|---|---|---|---|
 | Mace | Unique +10 | | Guard | Unique +10 |
-| Helmet | Epic +1 | | Pauldrons | Unique +5 |
+| Helmet | Epic +1 | | Pauldrons | Unique +10 |
 | Top | Unique +10 | | Belt | Unique +0 |
 | Legs | Unique +10 | | Gloves | Unique +10 |
 | Cloak | Epic +1 | | Shoes | Epic +0 |
-| Earring | Unique +5 | | Earring | Epic +1 |
+| Earring | Unique +10 | | Earring | Epic +1 |
 | Necklace | Epic +1 | | Revelation amulet | Unique +0 |
-| Ring | Unique +5 | | Ring | Epic +1 |
+| Ring | Unique +10 | | Ring | Epic +1 |
 | Bracelet | Unique +10 | | Bracelet | Epic +1 |
 | Clash Rune | +2 | | Clash Rune | +2 |
 
