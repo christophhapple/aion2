@@ -15,6 +15,7 @@ tracker itself goes in `backlog.md`.
 - [ ] Legion (if you join one): does the Legion menu show missions or Legion Coin? What does the Legion Merchant sell?
 - [ ] *(at GS 1600)* Dhamira: revisit Manastones. All gear has cheap ones with only a few rerolls (2026-10-13); upgrade on pieces you keep
 - [ ] Achievement "Bonds of the Black Wings": visit all villages in Altgard, 1/2
+- [ ] Artifact Siege (Mon 2026-10-19 21:00, if you join): does it pay Abyss Points by contribution? How much did you get?
 
 ## Done
 - [x] Achievements: Five Veiled Fates + Herald of Hope under Achievements → Progress → Quest, claimed by hand; town and Abyss Command Scrolls both count (2026-10-18)
