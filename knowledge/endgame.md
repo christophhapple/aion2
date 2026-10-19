@@ -53,7 +53,7 @@ are about the **Korean** version (cap 50 since 2026-07-01). Gear score (GS) thre
 **Details moved to `expeditions.md`** (2026-10-10 research, supersedes the older notes here).
 Summary: three tiers of paired dungeons. Conquest gates are GS 700 (Krao Cave, Draupnir), 1400
 (Urugugu Canyon, Vakron Sky Island) and 2100 (Fire Temple, Ferocious Horn Den). The easier Exploration
-mode opens earlier. ~~Krao/Draupnir at ~1000 GS [1][2]~~: Conquest opens at 700 [46][47][48].
+mode opens earlier. ~~Krao/Draupnir at ~1000 GS [1][2]~~: Conquest opens at 700 (in-game 2026-10-19) [46][47][48], Fire Temple / Horn Den at 2100 (in-game 2026-10-19).
 Older KR-client drop data for Krao (guaranteed epic piece, pity at 14 gives a Berk accessory set) [23, KR].
 
 ## Other content
@@ -62,7 +62,7 @@ Older KR-client drop data for Krao (guaranteed epic piece, pity at 14 gives a Be
 | 45 (or 1000 [19]) | **Nightmare** (solo boss) | 2 attempts/day, bank to 14, spent only on clear [3][17] (earlier **vs** every try costs a ticket [4]). Up to 1,500 Phantasmal Fragments per run [26]. Shop tabs (in-game 2026-10-13): Consumables, Growth, Wings, Skins, Statue. Growth: Clash Rune Chest 500 (no limit shown), Stigma Shard 1,500 (35 per character), Daevanion Crystal 300 (50 per character), all Bound; limits count purchases and are **lifetime** (in-game); no Wisdom Stones. Guides also list Amplify Stone Fragments, Soul Codex [3]. Weekly clears give Daevanion points [14]. Floors/tiers undocumented. |
 | 45 + 1000 | **Abyss**: Lower Reshanta (PvP). **Details: `abyss.md`** | 7h/week per layer (14h only with paid membership) [3]. Abyss Points → Stigma shards, consumables, wings; unique accessories best from ~1600 [14][27]. PvE parts: weekly scroll quests, 2-minute artifact corridors, field bosses. Risk: ganking; stay at the edges [27]. Abyss gear is PvP-statted [28]. |
 | 1000 | Ascension Trial (Forgotten Repository) | **Difficulties: Easy 1000, Normal 1500, Hard 2000, Extreme 2500** (in-game 2026-10-11; ~~~1500~~ [14] is Normal). 3/week, score-scaled rewards [3][14]; save runs for the last day [4] |
-| 1600 (in-game 2026-10-16) | **Transcendence** (5-player, timed) | Arcana cards; stages at 1600/1900/2200/2500 (in-game 2026-10-16; [15][21]); 1 count per 12h, 40 Odyle per cube [3] |
+| 1600 (in-game 2026-10-16) | **Transcendence** (2–5 players, timed; in-game 2026-10-19) | Arcana cards, Manastones, Soul Codex (in-game 2026-10-19); stages at 1600/1900/2200/2500 (in-game 2026-10-16; [15][21]); no reward count (in-game 2026-10-18; ~~1 count per 12h~~ [3]), 40 Odyle per cube (in-game 2026-10-19) |
 | ~2800 | Raid: Abyssal Forge: Ludra | **Removed on global** for rework [8][9] |
 
 ## Pantheon

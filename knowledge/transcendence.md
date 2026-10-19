@@ -7,11 +7,11 @@ from allthings.how stage-2 write-ups (region not stated, probably global) [304][
 ## Basics
 - **Live on global (Season 1): Deus Research Base and Shattered Arkanis** [300][301][302]. Later:
   Submerged Life Temple (GS 2400+), Mirror of Scarlet Desire (3200+), Abyssal Horn Den (3800+) [300][301].
-- Party 2–5, Lv 45 [300][302][304]. Stages per dungeon: **GS 1600 / 1900 / 2200 / 2500** (in-game 2026-10-16).
+- Party 2–5 (in-game 2026-10-19), Lv 45 [300][302][304]. Stages per dungeon: **GS 1600 / 1900 / 2200 / 2500** (in-game 2026-10-16).
 - **Kina per run: 300k at stage 1, +60k per further stage** (360k / 420k / 480k), paid on the boss kill, not from the cube (in-game 2026-10-18).
 - **Counters:** **no Transcendence reward count on global** (in-game 2026-10-18; ~~+1 / 12h, max 14~~ [300][301]) · per dungeon 2 / day, max 4 ·
   final-boss kills 28 / week · shares the **10 unobtained cubes / week** with Conquest (leave without opening
-  the cube = −1; at 0 locked out until Wed reset) [306]. Cube 40 Odyle.
+  the cube = −1; at 0 locked out until Wed reset) [306]. Cube 40 Odyle (in-game 2026-10-19).
 - **Final boss is locked behind a kill counter**; a mini-boss counts ~45 kills [304]. Deus stage 4: 150 [309, unverified].
 - **Time limit:** not documented on global; 30 min on Deus stage 4 per one video [309]. A weekly
   achievement asks for a clear under 15 min [308]. What happens at timeout: not found.

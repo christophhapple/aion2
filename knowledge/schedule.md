@@ -52,7 +52,7 @@ the map at the kill, ranked [155].
 | Abyss time | 7h per layer (Lower, Middle) / week; no carry-over | – | character |
 | Growth dungeons (Silent Graveyard, Fafnite Amphitheater) | 7h each / week | – | character [50]. **Not seen on global** (in-game 2026-10-18), possibly KR only |
 
-Weekly (Wed 07:00 UTC), no banking: Exploration 7 per dungeon · Conquest final boss 35 · Transcendence
+Weekly (Wed 07:00 UTC), no banking: ~~Exploration 7 per dungeon~~ (no clear limit, in-game 2026-10-19) · Conquest final boss 35 · Transcendence
 final boss 28 · raid attempts 4 · Ascension Trial 3 · Subjugation 3 · Unknown Fissure 14 (server) ·
 unobtained Odyle cubes 10 (server) [50].
 

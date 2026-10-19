@@ -11,12 +11,12 @@ Every expedition has **exactly two modes: Exploration (easy) and Conquest (hard)
 
 | Tier | Expedition | Exploration (Lv / GS) | Conquest (Lv / GS) | Party | Conquest loot |
 |---|---|---|---|---|---|
-| ★1 | Krao Cave | 20 / 200 | 45 / **700** | 1–5 | Rupture weapons, Berk accessories (item IL 54) |
-| ★1 | Draupnir | 45 / 700 | 45 / **700** | 1–5 | Bakarma armor (IL 54) |
+| ★1 | Krao Cave | 20 / 200 | 45 / **700** (in-game 2026-10-19) | 1–5 | Rupture weapons, Berk accessories (item IL 54) |
+| ★1 | Draupnir | 45 / 700 | 45 / **700** (in-game 2026-10-19) | 1–5 | Bakarma armor (IL 54) |
 | ★2 | Urugugu Canyon | 28 / 300 | 45 / **1400** | 2–5 | Aulamus weapons + accessories (IL 70) |
 | ★2 | Vakron Sky Island | 45 / 1400 | 45 / **1400** | 2–5 | Vakron armor (IL 70) |
-| ★3 | Fire Temple | 35 / 500 | 45 / **2100** | 1–5 | Enraged Kromede weapons + accessories (IL 84–86) |
-| ★3 | Ferocious Horn Den | 45 / 2100 | 45 / **2100** | 1–5 | Nuakum armor, Wrathful Ego (IL 86) |
+| ★3 | Fire Temple | 35 / 500 | 45 / **2100** (in-game 2026-10-19) | 1–5 | Enraged Kromede weapons + accessories (IL 84–86) |
+| ★3 | Ferocious Horn Den | 45 / 2100 | 45 / **2100** (in-game 2026-10-19) | 1–5 | Nuakum armor, Wrathful Ego (IL 86) |
 
 Five more exist in client data, gated at 2800–3800 GS (Hard 3000–4500): Dying Dramata's Nest, Cradle
 of Nihility, Hall of Illusion, Azure Breath Island, Citadel of the Fallen Daeva. Not confirmed live [46][48].
@@ -34,7 +34,7 @@ third mode" [46]~~. KR added Hard in Dec 2025 [52][53, KR]. **Vakron Conquest re
 
 | | Exploration | Conquest |
 |---|---|---|
-| Reward counts | 7 per dungeon, refill to 7 on Wednesday, don't bank [46][50] | **None on global**: no Conquest reward count, only the Odyle cube cost (in-game 2026-10-18). ~~+1 every 8h, bank up to 21~~ [46][47][50] |
+| Reward counts | **No clear limit** (in-game 2026-10-19). ~~7 per dungeon, refill to 7 on Wednesday~~ [46][50] | **None on global**: no Conquest reward count, only the Odyle cube cost (in-game 2026-10-18). ~~+1 every 8h, bank up to 21~~ [46][47][50] |
 | Cube cost (Odyle) | Krao, Urugugu **20** (Krao in-game) · Fire Temple **30** · Draupnir, Vakron, Horn Den **40** [46][49][51] | **40** (in-game) |
 | Weekly cube limit | **none** (in-game) | **10 "unobtained cubes" per week**: clears left without opening the cube (in-game 2026-10-12); shared with Transcendence (in-game) |
 | Final boss, guaranteed | 4 Silentium + **1,000–1,500 Enhance Stones** [49] | 7 Silentium + **2,000 Enhance Stones** [49] (1,000–2,000 [56]) |
@@ -72,7 +72,7 @@ third mode" [46]~~. KR added Hard in Dec 2025 [52][53, KR]. **Vakron Conquest re
 - **Conquest is still needed** for what Exploration doesn't give: the IL 54 gear set, wing feathers,
   pity rewards (14 claims for ★1), and the one-time 2,480-stone first-clear achievement.
 - Suggested mix: Conquest until you have the Krao/Draupnir set pieces you want, then spend the rest on
-  Krao/Urugugu Exploration (20). Skip 40-cost Exploration cubes. Unverified: check cube costs in-game.
+  Krao/Urugugu Exploration (20). Skip 40-cost Exploration cubes. Exploration cubes cost 20–40 (in-game 2026-10-19).
 
 ## Enhance Stones per run (other sources for comparison)
 

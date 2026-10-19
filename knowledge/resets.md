@@ -9,7 +9,7 @@ Researched 2026-10-10. Early-launch guides, partly contradictory — in-game too
 - Daily: Duty Missions ×5 (**doesn't bank**, the only daily that's lost if skipped; in-game 2026-10-13), Nightmare ×2 (consumed only on clear, banks), Odyle Energy (+15/3h, cube = 40),
   Shugo Festival keys ×3, Dimensional Invasion key ×1.
 - Weekly (don't bank — use before Wednesday): Daily Dungeon pool 14 (shared per server across alts),
-  Ascension Trial ×3, raids, Subjugation tickets, Abyss time (7h per layer), Expedition exploration ×7,
+  Ascension Trial ×3, raids, Subjugation tickets, Abyss time (7h per layer), ~~Expedition exploration ×7~~ (no clear limit, in-game 2026-10-19),
   weekly quests (PvE up to 12, PvP up to 20).
 
 Sources:
