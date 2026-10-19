@@ -15,6 +15,7 @@ tracker itself goes in `backlog.md`.
 - [ ] Achievement "Bonds of the Black Wings": visit all villages in Altgard, 1/2
 - [ ] Arcana Extract: after extracting one spare card, does the window still show 11% with nothing registered (= gauge that keeps progress) or 0% (= chance)? Does a +0 Common give less than 11%?
 - [ ] Achievement: enhance one Common gear piece to +5 for a title
+- [ ] Cube-hunting audio for gathering/pet runs: Master + Sound Effects 100%, Music, Ambient, Monster, Mount, own character + wing sounds low. Check whether the audio settings can be saved as a preset; if not, note your normal values first. See `knowledge/endgame.md` "Hidden Cubes"
 - [ ] Artifact Siege (Mon 2026-10-19 21:00, if you join): does it pay Abyss Points by contribution? How much did you get?
 
 ## Done
