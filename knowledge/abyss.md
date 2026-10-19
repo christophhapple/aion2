@@ -12,7 +12,7 @@ snippets. Sources [n]: `sources.md`. Schedule (sieges, bosses): `schedule.md`.
   are mentioned [82, KR/TW snippet]. **Western Root is safe: NPC guards, enemies can't get in** (in-game 2026-10-18).
 - **Death: no penalty**; you always respawn at the same point, the faction's only Kibelisk (one per faction)
   (in-game 2026-10-18).
-- **Abyss time: 7h per week** (in-game 2026-10-18; per layer, F2P [80][50]), runs only while you're inside. Shown in the
+- **Abyss time: 7h per week** (in-game 2026-10-18; per layer, F2P [80][50]), runs only while you're inside. **Unused hours don't carry over; the weekly reset refills it** (in-game 2026-10-19). Shown in the
   Abyss screen and next to the minimap while inside (in-game 2026-10-18).
   **It keeps running whether you're alive or dead** (in-game 2026-10-18). Rift Stones add +1h (lesser +30 min) [50].
 
