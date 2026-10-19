@@ -57,13 +57,16 @@ Guides mostly describe KR/TW; global details may differ. Sources [319]–[321].
 - **How:** when the siege starts, **Dimensional Cores** appear at each Artifact; the faction landing the
   **final hit** on a core takes that Artifact [319][320]. A set number of players on the winning side get
   Abyss Points by contribution [319]; KR switched to per-class ranking on 2026-07-01 [320].
+  **Taking part paid ~13k Abyss Points even though the Elyos lost overall (1 : 2) and held only one Artifact**; no
+  contribution score or ranking was shown anywhere (in-game 2026-10-19). Whether the amount depends on contribution: unknown.
 - **Map panel "Artifact Siege"** (in-game 2026-10-18): shows the current owner of each Artifact since the last siege
   (score, e.g. 1 : 2, and "Faction Status: Eastern Camp Dominated"). Listed as **Reshanta's Root**, **Sulfur Tree Island**
   and **Archipelago of Siel's Wings** Artifact. Your own faction's Artifacts show **"Corridor Usage Time"** (02:10
   seen; it doesn't count down while you're elsewhere in the Abyss, in-game 2026-10-18; probably the time you can
   spend inside the corridor, counting down only in there: inference), enemy-held ones "Unavailable". In the Abyss the
   **Asmodians are called "Eastern Camp", Elyos "Western Camp"** (in-game 2026-10-18).
-  Snapshot 2026-10-18: Asmodians held Root + Siel's Wings, Elyos Sulfur Tree Island.
+  Snapshot 2026-10-18: Asmodians held Root + Siel's Wings, Elyos Sulfur Tree Island. Same result after the Mon
+  2026-10-19 siege (1 : 2).
 - **Holding Artifacts:** whole faction gets +2.5% / +5% / +7.5% Abyss Point gain for 1 / 2 / 3 held [319].
 - **Abyss Corridor entrance: map icon, you can teleport to it**, and it was open well after the siege (Sun
   afternoon after Sat's siege). It can be camped: enemy players guarded it and killed anyone entering (in-game 2026-10-18).
@@ -71,7 +74,8 @@ Guides mostly describe KR/TW; global details may differ. Sources [319]–[321].
   (in-game 2026-10-18), i.e. about one Stigma Shard from the Abyss shop: very worth it when your faction holds an Artifact.
   **One run used the whole 02:10 at once; afterwards the map shows "usage time expired"** (in-game 2026-10-18). So
   it is a per-siege allowance. **02:10 came without taking part in the siege** (in-game 2026-10-18), so there is a base
-  allowance for the holding faction. Open: does joining the siege add more (guides say 5 min)? Does holding 2–3
+  allowance for the holding faction. **Joining the siege didn't add time: 02:10 again** (in-game 2026-10-19, holding 1
+  Artifact; ~~joining adds 5 min~~ [319][62][64]). Open: does holding 2–3
   Artifacts raise the time? **Likely one corridor per Artifact**: each Artifact row in the map panel has its own
   corridor status ("Corridor Usage Time" vs "Unavailable") (inference from the panel, 2026-10-18; 02:10 seen while holding 1).
 - **Abyss Corridor:** after the siege, an entrance opens at each held Artifact for the owning faction,
