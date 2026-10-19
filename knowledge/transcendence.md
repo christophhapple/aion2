@@ -28,7 +28,7 @@ from allthings.how stage-2 write-ups (region not stated, probably global) [304][
 
 Trash tip (stage 2+): pull mobs off the corpses before fighting the next pack [304][305].
 
-## Deus Research Base (Arcana: Bell, Compass, Chalice) [304][302][309]
+## Deus Research Base (Arcana: Bell, Compass, Chalice; in-game 2026-10-19) [304][302][309]
 1. **Gelcos**: marked player gets charged; lead it away and drop the electric zone at the edge. Pull-in →
    whip AoE (step out or defensive). Nine-lane ground slam, then a second. Fight in a corner.
 2. **Nazmun**: rotating lasers (jump them), sequential beams, bombs. **Marked players get a ring that explodes
@@ -39,7 +39,7 @@ Trash tip (stage 2+): pull mobs off the corpses before fighting the next pack [3
    Save stagger skills for it.
 - Common wipes: failed stagger, falling off, chain mistakes.
 
-## Shattered Arkanis (Arcana: Mirror, Parchment, Chalice) [305][300][302]
+## Shattered Arkanis (Arcana: Mirror, Parchment, Chalice; in-game 2026-10-19) [305][300][302]
 1. **Siliator of Deceit**: chakrams from 75 %: two marked players steer theirs into each other; they come back
    at 60 %. Donut + cleave: melee behind, ranged at the edge. Bouncing blades punish tight stacking.
 2. **Ruthilis of Pain**: quadrant cleaves leave **lightning puddles that move clockwise and kill on
@@ -61,7 +61,8 @@ debuffs, `cleric-skills.md`). Whether the Talisra wrong-colour stun can be clean
   Fragment 20 %, Lesser Manastone / Soulstone 30 %, Intermediate 6 %; plus Silentium, Soul Codex, Enhance
   Stones, Kina. Mini-bosses: Soul Codex 40 %, Amplify Stone Fragment 20 %. Higher stages: bigger loot table,
   better Arcana; Soulstones from stage 4 [300].
-- **So for Arcana slots:** Deus → Bell + Compass, Arkanis → Mirror + Parchment, both → Chalice.
+- **So for Arcana slots:** Deus → Bell + Compass, Arkanis → Mirror + Parchment, both → Chalice
+  (in-game 2026-10-19). **Chalice has a lower drop rate than the other types in both dungeons** (in-game 2026-10-19).
 - **Season 1 achievements** [308]: first clear per stage per dungeon 1,460 / 2,510 / 4,080 / 5,660 Oath Coins
   + Training Arcana (Training Arcana confirmed as Transcendence **Season** Mission rewards, not weekly, in-game 2026-10-19) · weekly: 3/6/10 clears, no-death clear, clear under 15 min, 10 mini-bosses, extract 10
   Arcana · 38,720 Oath Coins in total.
