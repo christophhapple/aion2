@@ -92,6 +92,13 @@ td strong { font-weight: 700; }
 .timers li.live .t-fill { background: var(--ok); }
 .timers li.live .t-count, .timers li.live .t-state { color: var(--ok); }
 .timers li.reset .t-name { color: var(--gold); }
+.timers .t-alarm { display: inline-flex; align-items: center; justify-content: center; vertical-align: -0.2em;
+  width: 1.9rem; height: 1.9rem; margin: -0.4rem 0 -0.4rem 0.2rem; padding: 0; border: 0; border-radius: 50%;
+  background: transparent; color: var(--muted); opacity: 0.45; cursor: pointer; }
+.timers .t-alarm:hover { opacity: 0.8; }
+.timers .t-alarm[aria-pressed="true"] { color: var(--gold); opacity: 1; }
+.timers .t-alarm:focus-visible { outline: 2px solid var(--gold); outline-offset: 1px; }
+.sound-hint { padding: 0.5rem 0.8rem; border-radius: 6px; background: var(--gold-soft); color: var(--gold); font-weight: 600; }
 footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; border-top: 1px solid var(--line); padding-top: 1.25rem; }
 </style>
 
@@ -106,6 +113,8 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
   <section aria-labelledby="timers">
     <h2 id="timers">Up next</h2>
     <p>Everything on the clock, soonest first, in your local time. The bars show the time left on one shared scale, so a shorter bar means sooner. The scale is logarithmic (marks at 10 min, 1 hour, 6 hours, 1 day, 1 week, 2 months) so that minutes and weeks both fit. A bar turns gold in the last 10 minutes. Running events are on top in green, and their bar shows how much of the event is left.</p>
+    <p class="dim">The bell next to an event plays three beeps 2 minutes before it starts. Alarms are saved in this browser only, and the page has to stay open (a background tab is fine, but the beep can then come up to a minute late).</p>
+    <p class="sound-hint" id="sound-hint" hidden>You have alarms on. Tap or click anywhere on the page once so it's allowed to play sound.</p>
     <div class="table-wrap"><ol class="timers" id="timer-list" aria-live="off"><li><span class="t-name">Loading timers…</span></li></ol></div>
     <p class="dim">Event times follow the server clock, which matches Central European time (checked in-game in October). Whether events stay on that clock after the 25 Oct clock change is not confirmed yet. Resets are fixed in UTC (in-game). Argo, the Spirit King has no fixed time: it seems to return about 12h after it dies.</p>
   </section>
@@ -351,17 +360,102 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
   document.documentElement.style.setProperty("--ticks", `linear-gradient(to right, ${
     tickPos.slice(0, -1).map(([, p]) => `transparent ${p}%, var(--surface) ${p}%, var(--surface) calc(${p}% + 2px), transparent calc(${p}% + 2px)`).join(", ")})`);
 
+  // Alarms: per event, saved in this browser only; beep 2 minutes before the start.
+  const ALARM_LEAD = 2 * MIN;
+  const ALARM_KEY = "atlas-alarms";
+  let alarms = new Set();
+  try { alarms = new Set(JSON.parse(localStorage.getItem(ALARM_KEY) || "[]")); } catch (e) {}
+  function saveAlarms() { try { localStorage.setItem(ALARM_KEY, JSON.stringify([...alarms])); } catch (e) {} }
+  const fired = new Set();
+
+  let audio = null;
+  function unlockAudio() {
+    try {
+      if (!audio) {
+        audio = new (window.AudioContext || window.webkitAudioContext)();
+        audio.onstatechange = updateHint;
+      }
+      if (audio.state !== "running") audio.resume().catch(() => {});
+    } catch (e) {}
+    updateHint();
+  }
+  function beep(times) {
+    if (!audio) return;
+    if (audio.state !== "running") {
+      audio.resume().then(() => { if (audio.state === "running") beep(times); }).catch(() => {});
+      return;
+    }
+    const t0 = audio.currentTime + 0.05;
+    for (let i = 0; i < times; i++) {
+      const osc = audio.createOscillator(), gain = audio.createGain();
+      osc.type = "sine";
+      osc.frequency.value = 880;
+      const t = t0 + i * 0.35;
+      gain.gain.setValueAtTime(0.0001, t);
+      gain.gain.exponentialRampToValueAtTime(0.4, t + 0.02);
+      gain.gain.exponentialRampToValueAtTime(0.0001, t + 0.25);
+      osc.connect(gain).connect(audio.destination);
+      osc.start(t);
+      osc.stop(t + 0.3);
+    }
+  }
+
+  const hint = document.getElementById("sound-hint");
+  function updateHint() {
+    hint.hidden = !(alarms.size && (!audio || audio.state !== "running"));
+  }
+  document.addEventListener("pointerdown", () => { if (alarms.size) unlockAudio(); });
+
+  const BELL = `<svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M12 22a2.5 2.5 0 0 0 2.45-2h-4.9A2.5 2.5 0 0 0 12 22Zm7-6V11a7 7 0 0 0-5.5-6.84V3.5a1.5 1.5 0 0 0-3 0v.66A7 7 0 0 0 5 11v5l-2 2v1h18v-1l-2-2Z"/></svg>`;
+
   const el = document.getElementById("timer-list");
+  el.addEventListener("click", e => {
+    const btn = e.target.closest(".t-alarm");
+    if (!btn) return;
+    const name = btn.dataset.name;
+    if (alarms.has(name)) alarms.delete(name);
+    else { alarms.add(name); unlockAudio(); beep(1); }
+    saveAlarms();
+    updateHint();
+    sig = "";
+    render();
+  });
+
+  // Rebuild the list only when its shape changes, so the alarm buttons stay clickable;
+  // every second only the countdowns and bars are updated in place.
+  let sig = "";
   function render() {
     const now = Date.now();
-    el.innerHTML = scaleRow + rows(now).map(r => `
+    const list = rows(now);
+    const newSig = list.map(r => `${r.name}|${r.live}|${r.soon}|${r.detail}|${alarms.has(r.name)}`).join("/");
+    if (newSig !== sig) {
+      sig = newSig;
+      el.innerHTML = scaleRow + list.map(r => {
+        const on = alarms.has(r.name);
+        return `
       <li class="${r.live ? "live" : ""}${r.soon ? " soon" : ""}${r.reset ? " reset" : ""}">
-        <span class="t-name">${r.name}${r.tag === GUIDE ? ` <span class="unverified">(unverified)</span>` : ""}</span>
-        <span class="t-count">${r.live ? `<span class="t-state">Live, ends in</span>` : ""}${countdown(r.count)}</span>
+        <span class="t-name">${r.name}${r.tag === GUIDE ? ` <span class="unverified">(unverified)</span>` : ""}
+          <button type="button" class="t-alarm" data-name="${r.name}" aria-pressed="${on}"
+            aria-label="${on ? "Turn off" : "Turn on"} the alarm 2 minutes before ${r.name}" title="Alarm 2 minutes before">${BELL}</button></span>
+        <span class="t-count">${r.live ? `<span class="t-state">Live, ends in</span>` : ""}<span class="t-num"></span></span>
         <span class="t-when">${r.detail}${r.note ? `<br>${r.note}` : ""}</span>
-        <span class="t-bar" aria-hidden="true"><span class="t-fill" style="width: ${(Math.min(1, Math.max(0, r.frac)) * 100).toFixed(2)}%"></span></span>
-      </li>`).join("");
+        <span class="t-bar" aria-hidden="true"><span class="t-fill"></span></span>
+      </li>`;
+      }).join("");
+    }
+    const items = el.querySelectorAll("li:not(.scale)");
+    list.forEach((r, i) => {
+      const li = items[i];
+      li.querySelector(".t-num").textContent = countdown(r.count);
+      li.querySelector(".t-fill").style.width = `${(Math.min(1, Math.max(0, r.frac)) * 100).toFixed(2)}%`;
+      const id = `${r.name}@${r.key}`;
+      if (alarms.has(r.name) && !r.live && r.count <= ALARM_LEAD && !fired.has(id)) {
+        fired.add(id);
+        beep(3);
+      }
+    });
   }
+  updateHint();
   render();
   setInterval(render, 1000);
 })();
