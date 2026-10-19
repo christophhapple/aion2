@@ -32,22 +32,22 @@ Verteron done: all regional (green) quests incl. Spacetime Rift, Sealed Dungeons
   - Specialty: Odyle and Gem full (Seeker, Plentiful Harvest 3, Appraiser 3); nothing else.
 - Crafting: none yet. Plan: Alchemy first (Manastones, gem powders; self-use, F2P can't sell). See `knowledge/crafting.md`.
 
-## Gear (in-game 2026-10-13, screenshot; pauldrons, earring, ring +10 per Transfer list 2026-10-19)
+## Gear (in-game 2026-10-19, screenshot)
 | Slot | Grade +level | | Slot | Grade +level |
 |---|---|---|---|---|
 | Mace | Unique +10 | | Guard | Unique +10 |
-| Helmet | Epic +1 | | Pauldrons | Unique +10 |
-| Top | Unique +10 | | Belt | Unique +0 |
+| Helmet | Epic +10 | | Pauldrons | Unique +10 |
+| Top | Unique +10 | | Belt | Unique +6 |
 | Legs | Unique +10 | | Gloves | Unique +10 |
-| Cloak | Epic +1 | | Shoes | Epic +0 |
-| Earring | Unique +10 | | Earring | Epic +1 |
-| Necklace | Epic +1 | | Revelation amulet | Unique +0 |
-| Ring | Unique +10 | | Ring | Epic +1 |
-| Bracelet | Unique +10 | | Bracelet | Epic +1 |
+| Cloak | Epic +10 | | Shoes | Epic +10 |
+| Earring | Unique +10 | | Earring | Epic +10 |
+| Necklace | Epic +10 | | Revelation amulet | Unique +6 |
+| Ring | Unique +10 | | Ring | Epic +10 |
+| Bracelet | Unique +10 | | Bracelet | Epic +10 |
 | Clash Rune | +2 | | Clash Rune | +2 |
 
 ## Gear notes
-- Ascension Bracelet: Unique +10 (2026-10-13), cheap Manastone. Second bracelet: Epic +1.
+- Ascension Bracelet: Unique +10 (2026-10-13), cheap Manastone. Second bracelet: Epic +10 (2026-10-19).
 - Manastones: cheap ones in all gear, few rerolls (2026-10-13). Revisit at GS 1600.
 - Wings (in-game 2026-10-13): own 6 — Lesser, Intermediate, Superior, Ultimate Daeva, Aullaeu, Glorious (crafted 2026-10-11). Sealing Wings crafted 2026-10-15 (7th pair). Equipped: Ultimate Daeva. **Flight Power 6,100** (2026-10-16, +200 from Sealing Wings; was 5,900).
 - Clash Runes: both at +2 (2026-10-13); 2 spares destroyed trying for +3, none left.
