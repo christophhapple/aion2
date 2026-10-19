@@ -52,11 +52,7 @@ section { display: grid; gap: 1rem; min-width: 0; }
 header { display: grid; gap: 0.9rem; }
 .eyebrow { text-transform: uppercase; letter-spacing: 0.12em; font-size: 0.78rem; font-weight: 700; color: var(--gold); }
 .meta { color: var(--muted); font-size: 0.95rem; display: flex; flex-wrap: wrap; gap: 0.25rem 1rem; }
-.legend { display: flex; flex-wrap: wrap; gap: 0.5rem 1rem; align-items: center; font-size: 0.92rem; color: var(--muted); }
-.tag { display: inline-block; font-size: 0.7rem; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase;
-  padding: 0.08rem 0.4rem; border-radius: 4px; vertical-align: 0.12em; white-space: nowrap; }
-.tag.game { background: var(--ok-soft); color: var(--ok); }
-.tag.guide { background: var(--gold-soft); color: var(--gold); }
+.unverified { color: var(--muted); font-size: 0.82rem; font-weight: 400; }
 .table-wrap { overflow-x: auto; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; }
 table { border-collapse: collapse; width: 100%; font-size: 0.96rem; }
 th, td { text-align: left; padding: 0.6rem 0.8rem; border-bottom: 1px solid var(--line); vertical-align: top; }
@@ -105,7 +101,6 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
     <h1>Content Atlas</h1>
     <p>Every repeatable activity at level 45, what it costs, and what it feeds. Use it to answer "where do I get X?" and "what is this activity good for?".</p>
     <div class="meta"><span>Updated 19 Oct 2026</span><span>Daily reset 09:00 local, weekly Wednesday 09:00 (after the 25 Oct clock change: not yet confirmed)</span></div>
-    <div class="legend"><span><span class="tag game">In-game</span> checked in the game</span><span><span class="tag guide">Guides</span> from online guides, not yet checked</span></div>
   </header>
 
   <section aria-labelledby="timers">
@@ -123,30 +118,30 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
         <thead><tr><th>Activity</th><th>How often</th><th>Main rewards</th></tr></thead>
         <tbody>
           <tr class="group"><td colspan="3">Dungeons</td></tr>
-          <tr><td><strong>Daily Dungeon</strong> <span class="dim">(solo)</span></td><td>14 a week, shared by your characters on the server <span class="tag game">In-game</span></td><td><strong>6,000–7,000 Enhance Stones per run</strong>, the biggest stone source <span class="tag game">In-game</span></td></tr>
-          <tr><td><strong>Ascension Trial</strong> <span class="dim">(Easy GS 1000, Normal 1500, Hard 2000, Extreme 2500)</span></td><td>3 a week</td><td>3,500 Enhance Stones per run on Normal <span class="tag game">In-game</span></td></tr>
+          <tr><td><strong>Daily Dungeon</strong> <span class="dim">(solo)</span></td><td>14 a week, shared by your characters on the server</td><td><strong>6,000–7,000 Enhance Stones per run</strong>, the biggest stone source</td></tr>
+          <tr><td><strong>Ascension Trial</strong> <span class="dim">(Easy GS 1000, Normal 1500, Hard 2000, Extreme 2500)</span></td><td>3 a week</td><td>3,500 Enhance Stones per run on Normal</td></tr>
           <tr><td><strong>Nightmare</strong> <span class="dim">(solo boss)</span></td><td>2 a day, banks to 14; only a clear uses an attempt</td><td>Phantasmal Fragments for the Nightmare shop</td></tr>
           <tr><td><strong>Expeditions, Exploration</strong> <span class="dim">(easy)</span></td><td>7 per dungeon a week; cube 20–40 Odyle</td><td>1,000–1,500 stones, gear, Silentium</td></tr>
-          <tr><td><strong>Expeditions, Conquest</strong> <span class="dim">(hard)</span></td><td><strong>No run limit</strong>; cube 40 Odyle. Leaving a cube unopened uses up one of 10 a week, and at 0 you can't enter <span class="tag game">In-game</span></td><td>2,000 stones, <strong>gear sets</strong>, Silentium; first clear of each +2,480 stones. <strong>Kina on the boss kill, no Odyle needed:</strong> ~300k (Urugugu, Vakron), ~400k (Fire Temple, Horn Den) <span class="tag game">In-game</span></td></tr>
-          <tr><td><strong>Transcendence</strong> <span class="dim">(2–5 players; Deus Research Base, Shattered Arkanis)</span></td><td>No reward count; cube 40 Odyle; stages at GS 1600 / 1900 / 2200 / 2500 <span class="tag game">In-game</span></td><td><strong>Arcana cards</strong>, Manastones, Soul Codex; Kina on the boss kill: 300k at stage 1, +60k per stage <span class="tag game">In-game</span>; Oath Coins from its season achievements</td></tr>
+          <tr><td><strong>Expeditions, Conquest</strong> <span class="dim">(hard)</span></td><td><strong>No run limit</strong>; cube 40 Odyle. Leaving a cube unopened uses up one of 10 a week, and at 0 you can't enter</td><td>2,000 stones, <strong>gear sets</strong>, Silentium; first clear of each +2,480 stones. <strong>Kina on the boss kill, no Odyle needed:</strong> ~300k (Urugugu, Vakron), ~400k (Fire Temple, Horn Den)</td></tr>
+          <tr><td><strong>Transcendence</strong> <span class="dim">(2–5 players; Deus Research Base, Shattered Arkanis)</span></td><td>No reward count; cube 40 Odyle; stages at GS 1600 / 1900 / 2200 / 2500</td><td><strong>Arcana cards</strong>, Manastones, Soul Codex; Kina on the boss kill: 300k at stage 1, +60k per stage; Oath Coins from its season achievements</td></tr>
           <tr class="group"><td colspan="3">Events on the clock</td></tr>
-          <tr><td><strong>Shugo Festival</strong></td><td>Every hour at :00. 3 keys a day, banks to 12, shared on the server <span class="tag game">In-game</span></td><td>~150 Centuryroot Tokens per run; 3 runs of a minigame give its title <span class="tag game">In-game</span></td></tr>
-          <tr><td><strong>Dimensional Invasion</strong></td><td>Every hour at :30, about 5 min. 1 key a day, banks to 7 <span class="tag game">In-game</span></td><td>Tokens, Soul Codex; nothing without a key <span class="tag game">In-game</span></td></tr>
-          <tr><td><strong>Spacetime Rift</strong> <span class="dim">(enemy region, PvP zone)</span></td><td>Every 3h: 02, 05, 08, 11, 14, 17, 20, 23 <span class="tag game">In-game</span></td><td>One-time: rift quests (skill points), enemy dungeons for Kina, Abyss Points, stones <span class="tag game">In-game</span></td></tr>
+          <tr><td><strong>Shugo Festival</strong></td><td>Every hour at :00. 3 keys a day, banks to 12, shared on the server</td><td>~150 Centuryroot Tokens per run; 3 runs of a minigame give its title</td></tr>
+          <tr><td><strong>Dimensional Invasion</strong></td><td>Every hour at :30, about 5 min. 1 key a day, banks to 7</td><td>Tokens, Soul Codex; nothing without a key</td></tr>
+          <tr><td><strong>Spacetime Rift</strong> <span class="dim">(enemy region, PvP zone)</span></td><td>Every 3h: 02, 05, 08, 11, 14, 17, 20, 23</td><td>One-time: rift quests (skill points), enemy dungeons for Kina, Abyss Points, stones</td></tr>
           <tr class="group"><td colspan="3">Errands</td></tr>
-          <tr><td><strong>Duty Missions</strong> <span class="dim">(Journal → Duty)</span></td><td>5 a day, <strong>don't bank</strong> <span class="tag game">In-game</span></td><td>Pick by the guaranteed first reward: Soul Crystals, Odyle, tickets, Kina</td></tr>
-          <tr><td><strong>Supply Requests</strong> <span class="dim">(Esc → Supply Requests)</span></td><td>Emergency tab: new items every day. Weekly tab: resets Wednesday. Craft and Boss tabs: once each <span class="tag game">In-game</span></td><td>Abyss Points + Enhance Stones for handing in Silentium or gear; keep Silentium, don't sell it <span class="tag game">In-game</span></td></tr>
-          <tr><td><strong>Command Scrolls</strong> <span class="dim">(capital merchant, 15,000 Kina)</span></td><td>12 a week <span class="tag game">In-game</span></td><td>1,000+ Abyss Points, some stones <span class="tag game">In-game</span></td></tr>
-          <tr><td><strong>Abyss Command Scrolls</strong> <span class="dim">(Command Shop in Western Root, Abyss)</span></td><td>4 grades: 15,000 / 37,500 / 75,000 / 150,000 Kina, 5 of each a week, shared on the server <span class="tag game">In-game</span></td><td>Common: 1,000 Abyss Points + 200 Abyssal Power Shards + random AP and stones. Green: 1,000 AP + 400 shards, chance at a Radiant Ruby. A weekly season mission asks for 10 <span class="tag game">In-game</span></td></tr>
-          <tr><td><strong>Season Missions</strong> <span class="dim">(Season window)</span></td><td>Weekly and season-long chains in 6 tabs (Abyss, Arena, Transcendence, Nightmare, Challenge, Event) <span class="tag game">In-game</span></td><td>Oath Coins + Abyss Points; weekly trophy points pay extra rewards at the weekly reset <span class="tag game">In-game</span></td></tr>
-          <tr><td><strong>Halloween event</strong> <span class="dim">(until 4 Nov, 09:00)</span></td><td>10 quests a week <span class="tag game">In-game</span></td><td>Pumpkin Coins</td></tr>
+          <tr><td><strong>Duty Missions</strong> <span class="dim">(Journal → Duty)</span></td><td>5 a day, <strong>don't bank</strong></td><td>Pick by the guaranteed first reward: Soul Crystals, Odyle, tickets, Kina</td></tr>
+          <tr><td><strong>Supply Requests</strong> <span class="dim">(Esc → Supply Requests)</span></td><td>Emergency tab: new items every day. Weekly tab: resets Wednesday. Craft and Boss tabs: once each</td><td>Abyss Points + Enhance Stones for handing in Silentium or gear; keep Silentium, don't sell it</td></tr>
+          <tr><td><strong>Command Scrolls</strong> <span class="dim">(capital merchant, 15,000 Kina)</span></td><td>12 a week</td><td>1,000+ Abyss Points, some stones</td></tr>
+          <tr><td><strong>Abyss Command Scrolls</strong> <span class="dim">(Command Shop in Western Root, Abyss)</span></td><td>4 grades: 15,000 / 37,500 / 75,000 / 150,000 Kina, 5 of each a week, shared on the server</td><td>Common: 1,000 Abyss Points + 200 Abyssal Power Shards + random AP and stones. Green: 1,000 AP + 400 shards, chance at a Radiant Ruby. A weekly season mission asks for 10</td></tr>
+          <tr><td><strong>Season Missions</strong> <span class="dim">(Season window)</span></td><td>Weekly and season-long chains in 6 tabs (Abyss, Arena, Transcendence, Nightmare, Challenge, Event)</td><td>Oath Coins + Abyss Points; weekly trophy points pay extra rewards at the weekly reset</td></tr>
+          <tr><td><strong>Halloween event</strong> <span class="dim">(until 4 Nov, 09:00)</span></td><td>10 quests a week</td><td>Pumpkin Coins</td></tr>
           <tr class="group"><td colspan="3">Abyss and PvP</td></tr>
-          <tr><td><strong>Abyss</strong> <span class="dim">(Lower Reshanta, PvP zone)</span></td><td>7h a week; the time keeps running while you're dead. Death has no penalty <span class="tag game">In-game</span></td><td>Abyss Points (no cap shown), Abyss bosses, weekly season missions <span class="tag game">In-game</span></td></tr>
-          <tr><td><strong>Artifact Siege</strong> <span class="dim">(faction vs faction)</span></td><td>Mon, Thu, Sat 21:00, 30 min (Mon + Sat <span class="tag game">In-game</span>, Thu <span class="tag guide">Guides</span>)</td><td>Abyss Points by contribution; the faction holding an Artifact gets an Abyss Corridor</td></tr>
-          <tr><td><strong>Abyss Corridor</strong> <span class="dim">(only while your faction holds an Artifact)</span></td><td>One time allowance per siege (2:10 seen), used up in one run; the entrance can be camped <span class="tag game">In-game</span></td><td>Arena with endless monsters, <strong>~10,000 Abyss Points per run</strong> <span class="tag game">In-game</span></td></tr>
-          <tr><td><strong>Abyss bosses</strong></td><td>Watcher Kaira every 3h (01, 04 … 22) · siege bosses Mon/Thu/Sat 21:30 · Nahma Fri/Sun 21:00 (Mon, Sun and Kaira <span class="tag game">In-game</span>)</td><td>Needed for weekly season missions</td></tr>
-          <tr><td><strong>Battlefield</strong> <span class="dim">(10v10)</span></td><td>Daily 11:00–14:00 and 19:00–21:00; solo queue or a full 5-party <span class="tag game">In-game</span></td><td>Win 3,000 AP + 2 items, take part 1,000 AP + 1 item; 3 of each a week, up to 12,000 AP <span class="tag game">In-game</span></td></tr>
-          <tr><td><strong>Arena</strong> <span class="dim">(1v1 Solitude, 5v5 Cooperation)</span></td><td>Always open <span class="tag game">In-game</span></td><td>Win 500 AP, take part 300 AP; weekly max 30 wins + 10 participations per arena <span class="tag game">In-game</span></td></tr>
+          <tr><td><strong>Abyss</strong> <span class="dim">(Lower Reshanta, PvP zone)</span></td><td>7h a week; the time keeps running while you're dead. Death has no penalty</td><td>Abyss Points (no cap shown), Abyss bosses, weekly season missions</td></tr>
+          <tr><td><strong>Artifact Siege</strong> <span class="dim">(faction vs faction)</span></td><td>Mon, Thu, Sat 21:00, 30 min <span class="unverified">(Thu unverified)</span></td><td>Abyss Points by contribution; the faction holding an Artifact gets an Abyss Corridor</td></tr>
+          <tr><td><strong>Abyss Corridor</strong> <span class="dim">(only while your faction holds an Artifact)</span></td><td>One time allowance per siege (2:10 seen), used up in one run; the entrance can be camped</td><td>Arena with endless monsters, <strong>~10,000 Abyss Points per run</strong></td></tr>
+          <tr><td><strong>Abyss bosses</strong></td><td>Watcher Kaira every 3h (01, 04 … 22) · siege bosses Mon/Thu/Sat 21:30 · Nahma Fri/Sun 21:00 <span class="unverified">(Thu/Sat siege bosses and Fri Nahma unverified)</span></td><td>Needed for weekly season missions</td></tr>
+          <tr><td><strong>Battlefield</strong> <span class="dim">(10v10)</span></td><td>Daily 11:00–14:00 and 19:00–21:00; solo queue or a full 5-party</td><td>Win 3,000 AP + 2 items, take part 1,000 AP + 1 item; 3 of each a week, up to 12,000 AP</td></tr>
+          <tr><td><strong>Arena</strong> <span class="dim">(1v1 Solitude, 5v5 Cooperation)</span></td><td>Always open</td><td>Win 500 AP, take part 300 AP; weekly max 30 wins + 10 participations per arena</td></tr>
         </tbody>
       </table>
     </div>
@@ -163,12 +158,12 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
           <tr><td><strong>Gear</strong></td><td>Conquest (the sets above); Transcendence for Manastones and Soulstones</td></tr>
           <tr><td><strong>Arcana cards</strong></td><td>Transcendence: <strong>Deus</strong> drops Bell, Compass, Chalice · <strong>Arkanis</strong> drops Mirror, Parchment, Chalice</td></tr>
           <tr><td><strong>Arcana upgrades</strong></td><td>Training Arcana from the Season Shop and Transcendence achievements</td></tr>
-          <tr><td><strong>Daevanion points</strong> <span class="dim">(+1 GS each)</span> <span class="tag game">In-game</span></td><td>Daevanion Crystals: Nightmare shop, Shugo shop, rift quests</td></tr>
-          <tr><td><strong>Stigma levels</strong></td><td>Stigma Shards: Abyss shop, Shugo shop, Nightmare shop <span class="tag game">In-game</span></td></tr>
+          <tr><td><strong>Daevanion points</strong> <span class="dim">(+1 GS each)</span></td><td>Daevanion Crystals: Nightmare shop, Shugo shop, rift quests</td></tr>
+          <tr><td><strong>Stigma levels</strong></td><td>Stigma Shards: Abyss shop, Shugo shop, Nightmare shop</td></tr>
           <tr><td><strong>Belt and Revelation amulet</strong></td><td>Belt scrolls only from Strongholds; amulet scrolls only from Monolith levels</td></tr>
           <tr><td><strong>Soul Binding</strong></td><td>Soul Codex: expeditions, Invasion, Shugo, Nightmare, Season Shop</td></tr>
           <tr><td><strong>Genus Insight</strong> <span class="dim">(pets)</span></td><td>Soul Crystals: Duty Missions, pet collection milestones, achievements</td></tr>
-          <tr><td><strong>Skill points</strong></td><td>One-time only: levelling, regional quests, home Sealed Dungeons, rift quests. A finished character has about 383 <span class="tag game">In-game</span></td></tr>
+          <tr><td><strong>Skill points</strong></td><td>One-time only: levelling, regional quests, home Sealed Dungeons, rift quests. A finished character has about 383</td></tr>
         </tbody>
       </table>
     </div>
@@ -180,14 +175,14 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
       <table>
         <thead><tr><th>Currency</th><th>Earned from</th><th>Best buy</th></tr></thead>
         <tbody>
-          <tr><td><strong>Abyss Points</strong></td><td>Abyss Corridor (~10k a run), Battlefield and Arena, Command Scrolls (town and Abyss), Supply Requests, Season Missions, rift dungeons, Abyss</td><td>Stigma Shards (<span class="num">10,000</span> each for the first 50) in the Abyss shop, which is also the Arena Trade Shop <span class="tag game">In-game</span></td></tr>
-          <tr><td><strong>Abyssal Power Shards</strong></td><td>Abyss Command Scrolls</td><td>Not bought with, used: toggle on for an Attack buff that also ignores some of a PvP enemy's Defense <span class="tag game">In-game</span></td></tr>
-          <tr><td><strong>Phantasmal Fragments</strong></td><td>Nightmare</td><td>Daevanion Crystals first (<span class="num">300</span>), then a spare Clash Rune <span class="tag game">In-game</span></td></tr>
-          <tr><td><strong>Centuryroot Tokens</strong></td><td>Shugo Festival, Invasion</td><td>Stigma Shards (<span class="num">300</span>) and every Daevanion Crystal <span class="tag game">In-game</span></td></tr>
-          <tr><td><strong>Oath Coins</strong> <span class="dim">(Season 1, spend before 16 Dec)</span></td><td>Season Missions and achievements; Transcendence alone pays about <span class="num">38,700</span></td><td>Training Arcana, Mysterious Crystals; Season Shop limits are per server, per season <span class="tag game">In-game</span></td></tr>
-          <tr><td><strong>Odyle Energy</strong></td><td>+15 every 3h, cap 560 <span class="tag game">In-game</span></td><td>Expedition and Transcendence reward cubes; never let it hit the cap</td></tr>
+          <tr><td><strong>Abyss Points</strong></td><td>Abyss Corridor (~10k a run), Battlefield and Arena, Command Scrolls (town and Abyss), Supply Requests, Season Missions, rift dungeons, Abyss</td><td>Stigma Shards (<span class="num">10,000</span> each for the first 50) in the Abyss shop, which is also the Arena Trade Shop</td></tr>
+          <tr><td><strong>Abyssal Power Shards</strong></td><td>Abyss Command Scrolls</td><td>Not bought with, used: toggle on for an Attack buff that also ignores some of a PvP enemy's Defense</td></tr>
+          <tr><td><strong>Phantasmal Fragments</strong></td><td>Nightmare</td><td>Daevanion Crystals first (<span class="num">300</span>), then a spare Clash Rune</td></tr>
+          <tr><td><strong>Centuryroot Tokens</strong></td><td>Shugo Festival, Invasion</td><td>Stigma Shards (<span class="num">300</span>) and every Daevanion Crystal</td></tr>
+          <tr><td><strong>Oath Coins</strong> <span class="dim">(Season 1, spend before 16 Dec)</span></td><td>Season Missions and achievements; Transcendence alone pays about <span class="num">38,700</span></td><td>Training Arcana, Mysterious Crystals; Season Shop limits are per server, per season</td></tr>
+          <tr><td><strong>Odyle Energy</strong></td><td>+15 every 3h, cap 560</td><td>Expedition and Transcendence reward cubes; never let it hit the cap</td></tr>
           <tr><td><strong>Pumpkin Coins</strong> <span class="dim">(event)</span></td><td>Halloween weekly quests</td><td>The event chest first, then keys and tickets</td></tr>
-          <tr><td><strong>Kina</strong></td><td>Mostly <strong>Conquest and Transcendence boss kills</strong> (300k–480k a run, no Odyle needed) <span class="tag game">In-game</span>; small amounts from almost everything</td><td>Enhancing, Command Scrolls, Arcana Transmutation</td></tr>
+          <tr><td><strong>Kina</strong></td><td>Mostly <strong>Conquest and Transcendence boss kills</strong> (300k–480k a run, no Odyle needed); small amounts from almost everything</td><td>Enhancing, Command Scrolls, Arcana Transmutation</td></tr>
         </tbody>
       </table>
     </div>
@@ -206,7 +201,7 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
   </section>
 
   <footer>
-    <p>The game is new and guides often contradict each other. Facts marked "In-game" were checked by a player. If something doesn't match what you see, tell whoever shared this page.</p>
+    <p>The game is new and guides often contradict each other. "(unverified)" marks things that so far come only from guides and have not been checked in the game. If something doesn't match what you see, tell whoever shared this page.</p>
     <p>Main sources: <a href="https://metabot.gg/en/aion-2/guides/dungeon-guide">metabot.gg dungeon guide</a> · <a href="https://metabot.gg/en/aion-2/transcendence">metabot.gg Transcendence</a> · <a href="https://www.keengamer.com/articles/guides/aion-2-daily-and-weekly-checklist-what-to-do-before-each-reset/">KeenGamer daily and weekly checklist</a></p>
   </footer>
 </main>
@@ -361,7 +356,7 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
     const now = Date.now();
     el.innerHTML = scaleRow + rows(now).map(r => `
       <li class="${r.live ? "live" : ""}${r.soon ? " soon" : ""}${r.reset ? " reset" : ""}">
-        <span class="t-name">${r.name} <span class="tag ${r.tag}">${r.tag === GAME ? "In-game" : "Guides"}</span></span>
+        <span class="t-name">${r.name}${r.tag === GUIDE ? ` <span class="unverified">(unverified)</span>` : ""}</span>
         <span class="t-count">${r.live ? `<span class="t-state">Live, ends in</span>` : ""}${countdown(r.count)}</span>
         <span class="t-when">${r.detail}${r.note ? `<br>${r.note}` : ""}</span>
         <span class="t-bar" aria-hidden="true"><span class="t-fill" style="width: ${(Math.min(1, Math.max(0, r.frac)) * 100).toFixed(2)}%"></span></span>
