@@ -66,9 +66,38 @@ Older KR-client drop data for Krao (guaranteed epic piece, pity at 14 gives a Be
 | ~2800 | Raid: Abyssal Forge: Ludra | **Removed on global** for rework [8][9] |
 
 ## Pantheon
-1 Colossus, 4 Statue and 12 Artwork slots. Upgraded by **replacing** pieces with better ones, not by
-enhancing [25]. Pieces from Nightmare shop/statues [1] and Conquest drops (Artwork) [1][23]. Raises
-Combat Power, not GS [14].
+Researched 2026-10-19, guides only (unverified): [326] (global, planner), [327] (global), [328] (summaries).
+- **Unlock:** second Ascension quest, *The One Who Hears the Voice* [327] (one guide: around Lv 22 [328]). Per
+  character. Has its own preset slot (Batch Preset Equip, `controls.md`).
+- **Slots: 1 Colossus, 4 Statues, 12 Artworks**; a piece fits only its own slot type. Use a decoration item once to
+  add it to your list; each counts once per character; **only placed pieces count** [326][327][25].
+- **Upgrade = replace** a placed piece with a better one, no enhancing [25][328]. Rarity (green → blue → purple → gold)
+  sets the strength [328].
+- **God stats:** each piece adds points to 1–4 of 10 god stats; **each point = +0.1% to two combat stats** [326]:
+  Justice (Defense, Perfect Chance) · Freedom (Accuracy, Evasion) · Illusion (Cooldown reduction, Endurance
+  Penetration) · Life (HP, Regeneration) · Time (Combat Speed, Double Resist) · **Destruction (Attack**, Perfect Resist) ·
+  **Death (Critical Hit**, Regeneration Penetration) · **Wisdom (MP Cost reduction, Double Chance)** · Destiny (MP,
+  Endurance) · Space (Move Speed, Block).
+- **Points per piece** [326]: Colossus 35–55 per stat (70–165 total) · Statue 6–12 per stat (6–36) · Artwork 2–5
+  per stat (4–20). A full faction set ≈ 427 points. Twelve top Artworks (166) roughly equal the best Colossus (165).
+- **Notable pieces** [326][327]:
+  - Colossus: **Guardian Lord Nahma** (Justice/Time/Destruction +55), drops from Nahma (Abyss, Fri/Sun 21:00, PvP zone) ·
+    **Zikel's Apparition** (same stats +45), **14,000 Phantasmal Fragments** in the Nightmare shop · Incarnated Warding
+    Feather (Justice/Time +35), Elyos quest Zumion's Ward.
+  - Statues: **Transcendent Bakarma** (Freedom/Death/Space +12), Draupnir **Conquest** clear achievement (tier 4 [326]
+    vs "10 clears" [327]) · Fortress Guardian Notun, Gerod (+10 to two stats), 8,000 Phantasmal Fragments each ·
+    3 Ascension statues (Dream Fragment, Artifact of Eternity, Asahr's Mirror), one per Ascension step.
+  - Artworks: **Immortal / Eternal Gartua** (Illusion/Life/Wisdom/Destiny +5): field bosses on Immortal Isle (Altgard)
+    and Eternal Isle (Verteron), or Substance Morph from 20,000 Artwork Scrap. Others from field bosses (piece or
+    scraps), Conquest (each expedition has one, `expeditions.md`), Market, Shugo Festival shop [327].
+- **Season pieces:** ranking rewards (Abyss, Nightmare, Transcendence) are decorations whose effect lasts until the
+  end of the following season [326].
+- **Guide picks** [328]: Colossus first (biggest single source); Statues Death, Freedom, Space; Artworks Wisdom and
+  Illusion, then Destiny or Life.
+- **GS:** raises Combat Power, not GS [14]; no newer guide mentions GS (unverified).
+- **So (inference):** for a PvE Cleric the useful stats are Destruction (Attack), Death (Crit), Wisdom (Double
+  Chance), Illusion (Cooldown), Time (Combat Speed). Cheapest real step: Zikel's Apparition (14,000 Fragments)
+  competes with Daevanion crystals, Stigma Shards and Clash Rune chests in the same shop.
 
 ## Duty Missions
 Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.

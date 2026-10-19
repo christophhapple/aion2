@@ -23,7 +23,7 @@ patch notes, which beat guides. Every fact is tagged with its source and date or
 | `progression.md` | **One-page progression map: start here** | 2026-10-10 |
 | `resets.md` | Reset times, entry caps | 2026-10-10 |
 | `expeditions.md` | All expeditions: gates, modes, cube costs, rewards, run order | 2026-10-10 |
-| `endgame.md` | One-time content, Nightmare, Abyss, Transcendence, Pantheon | 2026-10-10 |
+| `endgame.md` | One-time content, Nightmare, Abyss, Transcendence, Pantheon | 2026-10-19 |
 | `gear.md` | Gear progression, currencies, Cleric notes, Soul Binding, Theostones | 2026-10-14 |
 | `cleric-skills.md` | Cleric active + Stigma skills (from in-game tooltips), stat priorities (guides) | 2026-10-11 |
 | `controls.md` | Hotbar skill queues and the macro | 2026-10-11 |

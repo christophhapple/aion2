@@ -397,3 +397,8 @@ Added 2026-10-18 (Battlefield).
 Added 2026-10-19 (Mysterious Crystals).
 324. u4n.com, how to get Mysterious Crystals, 2026, ?, search summary: https://www.u4n.com/tw/news/how-to-get-mysterious-crystals-in-aion-2.html
 325. allthings.how Arcana/crystal guides, 2026, ?, search summary: https://allthings.how/?p=261112 · https://allthings.how/?p=261116 · https://allthings.how/?p=265101 · https://allthings.how/?p=261130
+
+Added 2026-10-19 (Pantheon).
+326. aion2.tools, Pantheon guide + planner, 2026-10-11, G: https://aion2.tools/guides/pantheon
+327. game8, List of all Pantheon decorations, upd. 2026-10-15, G: https://game8.co/games/Aion-2/archives/613941
+328. search summary (vortexgaming, aion2.blog, sportskeeda, showgamer, rsnxt), 2026-10, ?: https://vortexgaming.io/en/postdetail/629451 · https://aion2.blog/pantheon/ · https://www.sportskeeda.com/mmo/aion-2-pantheon-system-explained · https://www.rsnxt.com/News/aion-2-the-pantheon-system-your-guide-to-statues-art-and-power.html
