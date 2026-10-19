@@ -10,7 +10,7 @@ tracker itself goes in `backlog.md`.
 - [ ] Quick wins check: Pets levelled (to 3)? Joined a Legion? Hamme: unused Daevanion Crystals or Wisdom Stones in the bag? See `knowledge/progression.md` "Often missed". (Dhamira: no unused crystals or Wisdom Stones, 2026-10-13)
 - [ ] Check (once a pet is fully levelled): does targeting a monster of that pet type show it as done?
 - [ ] *(low priority)* Check: what do the blue (75k) and gold (150k) Abyss Command Scrolls reward? (Green done 2026-10-18)
-- [ ] Transfer: hover the Gear Transfer Material: what is it, where from? On your first real transfer, note what ends up on the kept piece (Soul Binding lines, Manastones, Theostone, Soul Fuse). The window shows no result preview
+- [ ] Transfer: on your first real transfer, note how many Transfer Stones it took and what ends up on the kept piece (Soul Binding lines, Manastones, Theostone, Soul Fuse). The window shows no result preview
 - [ ] Legion (if you join one): does the Legion menu show missions or Legion Coin? What does the Legion Merchant sell?
 - [ ] *(at GS 1600)* Dhamira: revisit Manastones. All gear has cheap ones with only a few rerolls (2026-10-13); upgrade on pieces you keep
 - [ ] Achievement "Bonds of the Black Wings": visit all villages in Altgard, 1/2
