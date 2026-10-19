@@ -57,8 +57,8 @@ Guides mostly describe KR/TW; global details may differ. Sources [319]–[321].
 - **How:** when the siege starts, **Dimensional Cores** appear at each Artifact; the faction landing the
   **final hit** on a core takes that Artifact [319][320]. A set number of players on the winning side get
   Abyss Points by contribution [319]; KR switched to per-class ranking on 2026-07-01 [320].
-  **Taking part paid ~13k Abyss Points even though the Elyos lost overall (1 : 2) and held only one Artifact**; no
-  contribution score or ranking was shown anywhere (in-game 2026-10-19). Whether the amount depends on contribution: unknown.
+  **Taking part showed no contribution score or ranking anywhere** (in-game 2026-10-19, Elyos lost 1 : 2). Whether
+  taking part pays AP at all: not seen yet.
 - **Map panel "Artifact Siege"** (in-game 2026-10-18): shows the current owner of each Artifact since the last siege
   (score, e.g. 1 : 2, and "Faction Status: Eastern Camp Dominated"). Listed as **Reshanta's Root**, **Sulfur Tree Island**
   and **Archipelago of Siel's Wings** Artifact. Your own faction's Artifacts show **"Corridor Usage Time"** (02:10
@@ -71,7 +71,7 @@ Guides mostly describe KR/TW; global details may differ. Sources [319]–[321].
 - **Abyss Corridor entrance: map icon, you can teleport to it**, and it was open well after the siege (Sun
   afternoon after Sat's siege). It can be camped: enemy players guarded it and killed anyone entering (in-game 2026-10-18).
   **Inside: an arena where monsters spawn continuously; more kills = more Abyss Points.** One run gave ~10k AP
-  (in-game 2026-10-18), i.e. about one Stigma Shard from the Abyss shop: very worth it when your faction holds an Artifact.
+  (in-game 2026-10-18), ~13k AP the next time (in-game 2026-10-19), i.e. about one Stigma Shard from the Abyss shop: very worth it when your faction holds an Artifact.
   **One run used the whole 02:10 at once; afterwards the map shows "usage time expired"** (in-game 2026-10-18). So
   it is a per-siege allowance. **02:10 came without taking part in the siege** (in-game 2026-10-18), so there is a base
   allowance for the holding faction. **Joining the siege didn't add time: 02:10 again** (in-game 2026-10-19, holding 1

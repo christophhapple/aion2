@@ -17,7 +17,7 @@ tracker itself goes in `backlog.md`.
 - [ ] PvP routines: check in-game that the PvP entries in `routines.yaml` still match (Arena of Solitude / Cooperation, Battlefield, Artifact Siege, Abyss Corridor, Abyss time): times, weekly limits, rewards. Note anything that's off or missing
 
 ## Done
-- [x] Artifact Siege joined: ~13k Abyss Points despite a 1 : 2 loss, no contribution shown; corridor time still 02:10 (2026-10-19)
+- [x] Artifact Siege joined: no contribution shown, no siege AP seen (1 : 2 loss); corridor time still 02:10, corridor run ~13k AP (2026-10-19)
 - [x] Achievement "Bonds of the Black Wings": visited all villages in Altgard (2026-10-19)
 - [x] Achievement: Common gear piece enhanced to +5, title earned (2026-10-19)
 - [x] Pet souls after Lv 3: still drop, but no Genus EXP and the count stays at 105, so wasted (2026-10-19)
