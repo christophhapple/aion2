@@ -33,7 +33,7 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
 - Above +15: Amplify Stones, 66% → 20%, 600k–3M Kina per try [21].
 - Failure never breaks or downgrades the item; only materials are lost [22].
 - **Extraction** (gear inventory menu) returns **100% of the Enhance Stones** invested (in-game test
-  2026-10-10; the window doesn't show the amount beforehand). Kina spent is lost [31][32][22]. Unclear
+  2026-10-10; the window doesn't show the amount beforehand) and **destroys the item** (in-game 2026-10-19). Kina spent is lost [31][32][22]. Unclear
   for stones spent above +10. So enhancing gear you'll replace soon costs only Kina.
 - **Transfer** (carry enhancement onto a new piece; community name "succession crafting"): **exists on
   global**, Enhancement window → "Transfer" tab, choose source + destination gear (in-game 2026-10-10).
@@ -50,12 +50,17 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
     **Substance Morph from spare Unique gear** (pick several pieces; "Include Enhanced" checkbox), 100% success; the
     recipe says "Quantity to Receive: 10" (in-game 2026-10-19; whether that's per morph or a limit: unclear). How many
     stones one transfer takes: not checked. **Sync Stone (Unique) (Bound)** (for Soul Binding Sync) comes from the
-    same kind of recipe. Extract Enhance Stones from enhanced spares first (100% refund, see above) rather than
-    morphing them with "Include Enhanced" (inference).
+    same kind of recipe. A spare piece is used up either way: **Extraction destroys the item** (in-game 2026-10-19),
+    so it's stones (Extraction) *or* Transfer/Sync Stones (morph), not both. Whether morphing an enhanced piece
+    refunds any Enhance Stones: unknown.
   - "Grade" here seems to mean the gear tier (GS), not rarity: both pieces were Unique (inference).
-  - Picking gear lists **Equipped Gear** and the **Cube** (bag) separately. Some pieces are greyed out: **"Gear with
-    fixed Soul Binding effects cannot be used in gear transfer"** (in-game 2026-10-19). Which items have fixed lines
-    isn't marked anywhere else; the greyed ones looked like the guard and a bracelet (from the icons, unconfirmed).
+  - Picking gear lists **Equipped Gear** and the **Cube** (bag) separately. **Only Unique pieces** can be picked, at
+    any enhance level (+0, +6, +10 all seen) (in-game 2026-10-19).
+  - Pieces at **100% Soul Binding Rate are greyed out**: "Gear with fixed Soul Binding effects cannot be used in gear
+    transfer" (in-game 2026-10-19). So "fixed" = maxed at 100% (user's reading; guides also say 100% locks the item
+    [242][245]). **Consequence (inference):** a piece bound to 100% can never be transferred, so the Codex spent on it
+    stays with that piece. Push to 100% only on keepers; on gear you'll replace, stop below 100% if you want to
+    transfer it.
   - **Same slot only:** after picking the target, only pieces of the same type are offered as source (weapon →
     weapon, gloves → gloves) (in-game 2026-10-19; matches the KR wiki [33]).
 - **What Transfer carries (researched 2026-10-16, guides, unverified):**
