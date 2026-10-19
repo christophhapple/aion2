@@ -12,7 +12,7 @@ tracker itself goes in `backlog.md`.
 - [ ] Transfer: on your first real transfer, note how many Transfer Stones it took and what ends up on the kept piece (Soul Binding lines, Manastones, Theostone, Soul Fuse). The window shows no result preview
 - [ ] Legion (if you join one): does the Legion menu show missions or Legion Coin? What does the Legion Merchant sell?
 - [ ] Achievement "Bonds of the Black Wings": visit all villages in Altgard, 1/2
-- [ ] Pets: kill a few mobs of a Lv 3 pet (e.g. Garden Papis). Does that genus board's Insight EXP (Fera) go up, or does the pet's soul count go past 105?
+- [ ] Pets: does a Lv 3 pet's soul count go past 105 after more kills (e.g. Garden Papis)? (No Genus EXP from extra souls, 2026-10-19)
 - [ ] Arcana Extract: after extracting one spare card, does the window still show 11% with nothing registered (= gauge that keeps progress) or 0% (= chance)? Does a +0 Common give less than 11%?
 - [ ] Achievement: enhance one Common gear piece to +5 for a title
 - [ ] Cube-hunting audio for gathering/pet runs: Master + Sound Effects 100%, Music, Ambient, Monster, Mount, own character + wing sounds low. Save it as its own audio preset (the game supports audio presets, user 2026-10-19). See `knowledge/endgame.md` "Hidden Cubes"
