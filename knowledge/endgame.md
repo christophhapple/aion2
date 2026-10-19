@@ -136,7 +136,7 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
   only visible in the Pets menu** (in-game 2026-10-11). No loot-popup count either. **Targeting a monster shows
   nothing about its pet either**: a mob whose pet is at Lv 3 looks the same as one whose pet isn't (only the genus
   tag, e.g. "Fera") (in-game 2026-10-19). **Souls keep dropping after Lv 3** (in-game 2026-10-19). They give **no Genus Insight EXP** (in-game
-  2026-10-19; ~~each soul gives Genus Insight EXP~~ [343]). Whether they count toward anything else is unknown; no guide says they bank for a
+  2026-10-19; ~~each soul gives Genus Insight EXP~~ [343]). The soul count stays at 105 too (in-game 2026-10-19), so **extra souls are wasted**: stop farming a pet at Lv 3. No sign they bank for a
   future level cap (KR has Lv 5).
 - Pets menu → a pet's Source tab shows which monster drops its soul [121]. Drop rate falls when the mob
   is more than ~10 levels below you [121]. **Souls: 5 unlock a pet, +25 for Lv 2, +75 for Lv 3 = 105** [207][201]; cap Lv 3 on global (5 in KR/TW) [204]. ~~5 per pet~~ [121] was unlock only; numbers changed in a KR patch
