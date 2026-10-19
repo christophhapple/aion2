@@ -66,22 +66,33 @@ everything else as Set 1 (Genus Insight: Crit Resist in slot 2 [guide], later, i
 Out: Earth Punishment (guides split; good only vs tanky classes) and Noble Aura. Group variant: see "Where it's used":
 Absolution for cleanse + party heal by default, Summon Resurrection if the group keeps losing people.
 
-**Hotbar diff vs DPS:** Q = Yustiel's Power, E = Salvation, R empty (Noble Aura out). Macro: same as DPS.
-Both new keys are defensive, so "Q never a heal, E never damage" still holds.
+**Hotbar diff vs DPS:** Q = Yustiel's Power, E = Salvation, R empty (Noble Aura out), mouse thumb 2 empty
+(Bolt out). Macro: same as DPS. Both new keys are defensive, so "Q never a heal, E never damage" still holds.
 
-**Specialties:** the PvE picks, with three swaps. All are random procs, so none adds anything to press or watch:
+**Bolt out (user, 2026-10-19):** in PvP turmoil it rarely gets cast, and when it does it hits one player.
+Skill levels are per Mastery preset, so in preset 3 only: **Bolt base 10 → 1** (Daevanion keeps it at Lv 5,
+no specialties, unused). Its Stagger damage likely doesn't matter in PvP (unconfirmed, see "Open").
+The points can't go to Defiance: it's already at the skill-point cap (base 10); its Lv 16 for option 5 has to
+come from Arcana or gear. Freed points go to passives instead, see "Passives".
+
+**Specialties:** the PvE picks, with four swaps. All are random procs, so none adds anything to press or watch:
 - **Healing Light 2 → 3** (50% cleanse on my own heal; two guides agree).
 - **Judgment Thunder 1 → 4** (10% Root 2s): almost free, since MP isn't short; Thunder fires constantly from the macro.
 - **Condemnation 2 → 3** (20% Root 3s): costs some single-target damage, but it's the most-hit skill.
+- **Earth's Retribution 4 → 3** (+50% Multi-Hit chance): option 4 cuts Bolt's cooldown, wasted with Bolt out.
 - Why Root: it holds melee off a ranged Cleric, and **my Defiance doesn't remove Root** (tooltip list), so if other
   classes' breaks match, Root is hard to shake (inference). The PvE rule "own power over CC" doesn't apply here (2026-10-19).
 - Kept: Chain of Torment 2 (+3s DoT also keeps Condemnation's window open), Debilitating Mark 2, 4 (option 4 also
-  cuts PvP Damage Boost). Bolt and Divine Aura CC: too rare to matter. Unknown: how much players' Status Effect Resist
+  cuts PvP Damage Boost). Divine Aura CC: too rare to matter. Unknown: how much players' Status Effect Resist
   and immunity windows blunt 10–20% procs, so try it and compare.
 Close by: **Defiance option 5** (+25% PvP Damage Tolerance during Tenacity) needs Lv 16, one Arcana line
 away (now 15).
 
-**Passives:** unchanged. Immortal Veil and Survival Willpower (the guides' PvP picks) are already at base 10.
+**Passives:** Immortal Veil and Survival Willpower (the guides' PvP picks) are already at base 10. Bolt's freed
+points, in this order (both trigger on their own, nothing to press):
+1. **Prayer of Concentration 5 → 10:** at ≤50% HP a shield + Heal Boost +20% for 30s; a guide PvP pick.
+2. **Heal Block** with what's left: 7% chance on hit, target's Incoming Heal −48% for 5s; PvP only, good vs healers.
+Cost per level is unknown, so the split shows in-game (Scattershot 10 → 1 paid for three passives, 2026-10-17).
 
 **Trigger map (on top of the macro):**
 - **An enemy player starts on me** → Yustiel's Power (Q). Not at the pull: it's 10s, save it for their burst.
@@ -93,7 +104,8 @@ away (now 15).
 - Losing anyway → die or fly back to Western Root; respawn there, no penalty.
 
 **Open (in-game):** does Salvation's Lv 10 line really restore 20% Max HP; does the Tenacity lockout block
-Salvation after Defiance; does Chain of Torment option 4 (PvE Damage Tolerance) do anything in PvP.
+Salvation after Defiance; does Chain of Torment option 4 (PvE Damage Tolerance) do anything in PvP; do
+players have a Stagger gauge (bar under an enemy player's HP bar when targeted; no source says).
 
 ## Playstyle model
 - Two axes: **what a skill does** (damage/heal/buff/debuff) and **when you press it** (proactive
