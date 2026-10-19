@@ -10,13 +10,13 @@ tracker itself goes in `backlog.md`.
 - [ ] *(low priority)* Check: what do the blue (75k) and gold (150k) Abyss Command Scrolls reward? (Green done 2026-10-18)
 - [ ] Transfer: on your first real transfer, note how many Transfer Stones it took and what ends up on the kept piece (Soul Binding lines, Manastones, Theostone, Soul Fuse). The window shows no result preview
 - [ ] Legion (if you join one): does the Legion menu show missions or Legion Coin? What does the Legion Merchant sell?
-- [ ] Achievement "Bonds of the Black Wings": visit all villages in Altgard, 1/2
 - [ ] Arcana Extract: after extracting one spare card, does the window still show 11% with nothing registered (= gauge that keeps progress) or 0% (= chance)? Does a +0 Common give less than 11%?
 - [ ] Cube-hunting audio for gathering/pet runs: Master + Sound Effects 100%, Music, Ambient, Monster, Mount, own character + wing sounds low. Save it as its own audio preset (the game supports audio presets, user 2026-10-19). See `knowledge/endgame.md` "Hidden Cubes"
 - [ ] Artifact Siege (Mon 2026-10-19 21:00, if you join): does it pay Abyss Points by contribution? How much did you get?
 - [ ] PvP preset: set up Skills preset 3 + Batch Set 3 per `characters/dhamira-build.md` "PvP preset" (Yustiel's Power, Salvation from the Abyss shop if not owned). While at it, read Salvation's full Lv 10–20 tooltip and check whether Salvation is blocked right after Defiance
 
 ## Done
+- [x] Achievement "Bonds of the Black Wings": visited all villages in Altgard (2026-10-19)
 - [x] Achievement: Common gear piece enhanced to +5, title earned (2026-10-19)
 - [x] Pet souls after Lv 3: still drop, but no Genus EXP and the count stays at 105, so wasted (2026-10-19)
 - [x] Pet Lv 3 shows nothing when targeting its monster: Garden Papis looks the same before and after (2026-10-19)
