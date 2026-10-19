@@ -3,7 +3,6 @@
 Ideas and tasks for building this tracker. In-game tasks go in `todo.md`.
 
 ## Open
-- [ ] Progression map: review the draft with the user, fix with in-game checks
 
 ## Done
 - [x] Research pets → `knowledge/endgame.md` "Pets: value vs effort" (2026-10-13)
