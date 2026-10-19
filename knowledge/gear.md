@@ -51,6 +51,8 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
   - Picking gear lists **Equipped Gear** and the **Cube** (bag) separately. Some pieces are greyed out: **"Gear with
     fixed Soul Binding effects cannot be used in gear transfer"** (in-game 2026-10-19). Which items have fixed lines
     isn't marked anywhere else; the greyed ones looked like the guard and a bracelet (from the icons, unconfirmed).
+  - **Same slot only:** after picking the target, only pieces of the same type are offered as source (weapon →
+    weapon, gloves → gloves) (in-game 2026-10-19; matches the KR wiki [33]).
 - **What Transfer carries (researched 2026-10-16, guides, unverified):**
   - **Carries:** enhancement level, breakthrough, **Soul Binding base lines at their reached values**
     [33, KR][242][243][244][296][297].
@@ -58,7 +60,7 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
     (Theostones: [251] says kept, see "Theostones"). The **Soul Fuse line** (Philosopher's Stone) does not carry; the new
     piece needs a new Fuse [296][297].
   - Source piece is described as "sacrificial", so probably consumed; not stated outright [299]. Kina cost
-    and same-slot rule: not found on global. KR (2026-06-10): Bound gear only [299, KR].
+    not found on global; same-slot rule confirmed in-game (above). KR (2026-06-10): Bound gear only [299, KR].
   - **So (inference):** enhancement and Soul Binding are safe on gear you'll replace; Manastones, Theostones
     and Soul Fuse only on keepers. Check the Transfer preview once you have an eligible pair.
 - Wing → enhancement stone conversion capped at 20/week per server (patch 2026-10-07) [7].
