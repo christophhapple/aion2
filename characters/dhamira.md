@@ -53,6 +53,7 @@ Verteron done: all regional (green) quests incl. Spacetime Rift, Sealed Dungeons
 - Clash Runes: both at +2 (2026-10-13); 2 spares destroyed trying for +3, none left.
 - Mace (+10 Aulamus, 2026-10-19): Soul Binding 57.9% (Status Effect Chance, Back Attack, Precision, Lightning Strike Scattershot +1), Theostone Zikel's Vestige, Manastones Defense+50 ×2, Block+10 ×2.
 - Soul Codex: 188 (2026-10-19), saved for better gear.
+- Pantheon (2026-10-19): optimized with the few pieces owned, incl. Transcendent Bakarma (statue); no set bonuses used yet.
 - Pets: 77/200 owned, collection rewards all claimed (2026-10-13).
 
 ## Notes
