@@ -68,7 +68,7 @@ Older KR-client drop data for Krao (guaranteed epic piece, pity at 14 gives a Be
 ## Pantheon
 Researched 2026-10-19 from guides [326] (global, planner), [327] (global), [328] (summaries); unverified unless tagged `in-game`.
 - **Unlock:** second Ascension quest, *The One Who Hears the Voice* [327] (in-game 2026-10-19; one guide: around Lv 22 [328]). Per
-  character. Has its own preset slot (Batch Preset Equip, `controls.md`).
+  character. **Presets 1–3** (in-game 2026-10-19), part of Batch Preset Equip (`controls.md`).
 - **Slots: 1 Colossus, 4 Statues, 12 Artworks** (in-game 2026-10-19); a piece fits only its own slot type. Use a decoration item once to
   add it to your list; each counts once per character; **only placed pieces count** [326][327][25].
 - **Upgrade = replace** a placed piece with a better one, no enhancing (in-game 2026-10-19) [25][328]. Rarity (green → blue → purple → gold)
@@ -94,7 +94,6 @@ Researched 2026-10-19 from guides [326] (global, planner), [327] (global), [328]
   end of the following season [326].
 - **Guide picks** [328]: Colossus first (biggest single source); Statues Death, Freedom, Space; Artworks Wisdom and
   Illusion, then Destiny or Life.
-- **Sets** exist (in-game 2026-10-19): set bonuses for certain combinations of pieces; no guide covers them, details not recorded.
 - **Pieces are rare** (in-game 2026-10-19): few choices per slot early on, so filling every slot matters more than picking stats (inference).
 - **GS: none.** Raises Combat Power through its stats, not GS (in-game 2026-10-19; matches [14]).
 - **So (inference):** for a PvE Cleric the useful stats are Destruction (Attack), Death (Crit), Wisdom (Double

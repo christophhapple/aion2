@@ -18,7 +18,7 @@ tracker itself goes in `backlog.md`.
 - [ ] Artifact Siege (Mon 2026-10-19 21:00, if you join): does it pay Abyss Points by contribution? How much did you get?
 
 ## Done
-- [x] Pantheon checked: unlock, slots, no enhancing, stats as in the guides; no GS, only Combat Power; sets exist (not used yet); placement optimized with the few pieces owned; Transcendent Bakarma = 10 Draupnir Conquest clears, owned (2026-10-19)
+- [x] Pantheon checked: unlock, slots, no enhancing, stats as in the guides; no GS, only Combat Power; presets 1–3 exist (not used yet); placement optimized with the few pieces owned; Transcendent Bakarma = 10 Draupnir Conquest clears, owned (2026-10-19)
 - [x] Soul Binding: Unique = 4 lines (one per grade); first Bind free, then 30k Kina + Codex per Bind; 188 Codex saved. Transfer window has no result preview, needs a Gear Transfer Material (2026-10-19)
 - [x] Achievements: Five Veiled Fates + Herald of Hope under Achievements → Progress → Quest, claimed by hand; town and Abyss Command Scrolls both count (2026-10-18)
 - [x] Season window checked: Oath Coins 30,770, Season Missions, countdown; Season Shop limits per server, per season (2026-10-18)
