@@ -116,8 +116,8 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
   Unique to +5 = 93,000 EXP. EXP carries over when an upgraded card is used as material [158] **vs**
   "not 1:1, you lose some" [160].
 - Spare duplicates → extract into Mysterious Crystals → Transmutation makes a Unique card for a chosen
-  slot + set. **Cost (in-game 2026-10-19): 2M Kina base; picking 1 line adds nothing, a 2nd line adds 3M Kina +
-  10 Mysterious Crystals; max 2 lines.** Base crystal cost: 5 [158], not checked. ~~Each of up to 2 sub-stats +10
+  slot + set. **Cost (in-game 2026-10-19): 5 Mysterious Crystals + 2M Kina base; picking 1 line adds nothing, a 2nd
+  line adds 3M Kina + 10 Mysterious Crystals; max 2 lines.** ~~Each of up to 2 sub-stats +10
   crystals + 3M~~ [158]: only the second line costs extra. Transmutation "resets or changes" each season; nothing says cards or crystals reset [158]. See `seasons.md`.
 - Sources: Transcendence (GS 1600+, Unique from tier 3) [158], battle pass, coin shop, attendance [158].
 - Guide advice: fill every slot at 45, pick Vigor or Magic early for the 2-piece bonus, upgrade only
