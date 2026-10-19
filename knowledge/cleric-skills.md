@@ -171,3 +171,40 @@ Guides disagree; most agree on the first point.
   Benediction (Zikel) [314]. Most-raised skill nodes in the planner: Empyrean Lord's Benediction, Radiant
   Recovery, Empyrean Lord's Grace, +4 each [126] (guides, 2026-10-17, unverified).
 - Titles: see `titles.md`.
+
+## PvP (guides, 2026-10, unverified)
+No source covers the Abyss specifically, and option numbers in KR sources may not match global. Option
+numbers below are the in-game ones from "Specialty options".
+
+**Stigmas.** Light of Protection (PvP +7.5% Damage Boost/Tolerance at Lv 10, toggle) and **Yustiel's Power**
+are in nearly every PvP loadout [347][349][351]. Beyond that, by format:
+- Duels / small fights: + Prayer of Amplification, Voice of Doom (anti-heal on the enemy healer/tank) [347];
+  **vs** Earth Punishment, Noble Aura, Prayer [348] (no Yustiel); KR solo: + Noble Aura, Salvation [351].
+- Group PvP: Absolution replaces the damage Stigma [347]; **vs** Light of Protection, Absolution,
+  Yustiel's Power, Salvation [349]; **vs** Benevolence, Absolution, Salvation, Summon Resurrection [348];
+  KR party: Summon Resurrection + Yustiel's Power required [351].
+- Abyss / open world: Summon Resurrection sometimes in place of Absolution [347].
+- **Salvation** = "the escape button", emergency survival window [349][350]. Earth Punishment: good vs tanky
+  classes (Templar, Gladiator) [351]; others drop it for defense.
+- Yustiel's Power: hold it for the enemy's burst, don't fire it at the pull [347].
+- Salvation Lv 15 gives its immunity to the lowest-HP party member, Lv 20 castable while stunned/knocked down [349] (in-game tooltip truncated).
+
+**Specialties** (changes vs the PvE picks; guides disagree a lot):
+| Skill | PvP suggestion |
+|---|---|
+| Chain of Torment | 3 (20% Knockdown) [347][348] |
+| Divine Aura | 1 (−40% Move Speed, kiting melee) [348][349] |
+| Healing Light | 3 (50% cleanse) [348][349] |
+| Bolt | 2 (+300 Skill Accuracy vs Evasion) [347]; Stun chance [349] |
+| Debilitating Mark | 3 (Stun chance) in team fights [347][348]; keep 2, 4 [351] |
+| Earth's Retribution | 5 (ignores Block/Evasion, Lv 16) [347] |
+| Condemnation | 3 (Root) [349]; KR 2, 3, 4 [351] |
+| Light of Regeneration | Move Speed [349]; KR prefers Defense [351] |
+| Defiance | max it, option 5 (+25% PvP Damage Tolerance during Tenacity) [348] |
+
+**Passives:** Survival Willpower, Prayer of Concentration, Immortal Veil (Crit Resist) up [348][349][351];
+Heal Block a little vs healers [348]; Empyrean Lord's Benediction (Block) for PvP [347].
+**Stats:** Max HP, Status Effect Resist, PvP Damage Tolerance, then Attack [349]; Genus Insight: Crit Resist
+in slot 2 [347]. Azphel board: only PvP Damage Boost/Tolerance, own crystals [347][348].
+**Play:** survival first, keep Defiance, cleanses, emergency heals and defensives manual; don't let the
+damage macro delay them [350].

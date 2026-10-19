@@ -426,3 +426,10 @@ Added 2026-10-19 (Membership).
 344. shugo.gg, Global Special Quai Membership revealed (from NC notice 2026-08-18), 2026-08-18, G: https://shugo.gg/news/global-special-quai-membership · NC notice: https://aion2.plaync.com/en-us/board/notice/view?articleId=6a850010fa34c1011d6273b2
 345. game8, Subscription guide, upd. 2026-10-04, G: https://game8.co/games/Aion-2/archives/622515
 346. search summary (NC notice, allthings.how Odyle, showgamer, sportskeeda, mmoexp), 2026: https://allthings.how/aion-2-how-to-get-odyle/ · https://showgamer.com/en/guides/6403-podpiska-v-aion-2-skolko-stoit-i-chto-daet-osoboe-chlenstvo-kuay · https://www.sportskeeda.com/mmo/aion-2-subscription-price-perks-is-worth-getting
+
+Added 2026-10-19 (Cleric PvP).
+347. aion2-guides.info, Cleric build (PvP mode from Lucia's global guide, 2026-10-05), upd. 2026-10-19, G: https://aion2-guides.info/en/cleric/
+348. aoeah.com, Cleric builds PvP & PvE, 2026-10-09, G: https://www.aoeah.com/news/4868--best-aion-2-cleric-builds-skills-macros--daevanion-pvp--pve
+349. Fextralife wiki, Cleric Builds (Group PvP Support), upd. 2026-10-09: https://aion2.wiki.fextralife.com/Cleric_Builds
+350. expcarry.com, Cleric guide (PvP row only), upd. 2026-10-17, G: https://expcarry.com/aion-2-cleric-guide
+351. vortexgaming.io, KR Cleric PvP stigmas/specialties (ranker stats), undated, KR: https://vortexgaming.io/postdetail/977592 · inven community: https://www.inven.co.kr/board/aion2/6452/657
