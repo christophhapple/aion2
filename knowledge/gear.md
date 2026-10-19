@@ -73,8 +73,9 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
     piece needs a new Fuse [296][297].
   - Source piece is described as "sacrificial", so probably consumed; not stated outright [299]. Kina cost
     not found on global; same-slot rule confirmed in-game (above). KR (2026-06-10): Bound gear only [299, KR].
-  - **So (inference):** enhancement and Soul Binding are safe on gear you'll replace; Manastones, Theostones
-    and Soul Fuse only on keepers. Check the Transfer preview once you have an eligible pair.
+  - **So (inference):** enhancement and Soul Binding (below 100%, see above) are safe on gear you'll replace;
+    Manastones, Theostones and Soul Fuse only on keepers. The window has no result preview (in-game 2026-10-19),
+    so the first real transfer will tell.
 - Wing → enhancement stone conversion capped at 20/week per server (patch 2026-10-07) [7].
 
 ## Belt and Revelation amulet (shared rules)
