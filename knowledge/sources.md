@@ -421,3 +421,8 @@ Added 2026-10-19 (Sanctuary, Subjugation, Potential, Hidden Cubes).
 341. metabot.gg, Hidden Cube guide + map, 2026-10-01 (upd. 10-15), G client data: https://metabot.gg/en/aion-2/guides/hidden-cubes-guide · https://metabot.gg/en/aion-2/hidden-cubes
 342. search summary (raidrelay, mmoexp, aoeah, vortexgaming), Hidden Cube sound, 2026-10: https://raidrelay.com/aion-2-hidden-cube-guide · https://www.mmoexp.com/News/aion-2-hidden-cube-guide-locations-and-sound-tips.html · https://www.aoeah.com/news/4890--aion-2-hidden-cube-locations-map-respawn-time-rewards-sound-keys--farm-route · https://vortexgaming.io/en/postdetail/612466
 343. search summary (gamingpromax Klaw/Cogni pet guide, mobalytics pet leveling, allthings.how pet souls), 2026: https://gamingpromax.com/aion-2-elite-klaw-cogni-pet-guide/ · https://mobalytics.gg/gamebase/guides/aion-2-pet-leveling · https://allthings.how/aion-2-how-to-unlock-any-pet-by-farming-pet-souls/
+
+Added 2026-10-19 (Membership).
+344. shugo.gg, Global Special Quai Membership revealed (from NC notice 2026-08-18), 2026-08-18, G: https://shugo.gg/news/global-special-quai-membership · NC notice: https://aion2.plaync.com/en-us/board/notice/view?articleId=6a850010fa34c1011d6273b2
+345. game8, Subscription guide, upd. 2026-10-04, G: https://game8.co/games/Aion-2/archives/622515
+346. search summary (NC notice, allthings.how Odyle, showgamer, sportskeeda, mmoexp), 2026: https://allthings.how/aion-2-how-to-get-odyle/ · https://showgamer.com/en/guides/6403-podpiska-v-aion-2-skolko-stoit-i-chto-daet-osoboe-chlenstvo-kuay · https://www.sportskeeda.com/mmo/aion-2-subscription-price-perks-is-worth-getting

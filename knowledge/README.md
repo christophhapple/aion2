@@ -38,5 +38,6 @@ patch notes, which beat guides. Every fact is tagged with its source and date or
 | `events.md` | Open-world events: Dimensional Invasion (rewards, keys, scoring) | 2026-10-11 |
 | `seasons.md` | Season 1 dates, Oath Coins + Season Shop, what resets at season end (KR pattern) | 2026-10-14 |
 | `kina.md` | Bound vs normal Kina, income, sinks (F2P) | 2026-10-14 |
+| `membership.md` | Special Quai Membership: price, benefits, the cube "selection count" rule | 2026-10-19 |
 | `dps-meters.md` | Built-in Combat Analysis, third-party meters, ban risk | 2026-10-17 |
 | `sources.md` | Numbered source list ([n] references) | — |
