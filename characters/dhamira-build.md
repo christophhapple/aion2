@@ -71,7 +71,7 @@ Absolution for cleanse + party heal by default, Summon Resurrection if the group
 
 **Bolt out (user, 2026-10-19):** in PvP turmoil it rarely gets cast, and when it does it hits one player.
 Skill levels are per Mastery preset, so in preset 3 only: **Bolt base 10 → 1** (Daevanion keeps it at Lv 5,
-no specialties, unused). Its Stagger damage likely doesn't matter in PvP (unconfirmed, see "Open").
+no specialties, unused). Its Stagger damage doesn't matter: players have no Stagger gauge (in-game 2026-10-19).
 The points can't go to Defiance: it's already at the skill-point cap (base 10); its Lv 16 for option 5 has to
 come from Arcana or gear. Freed points go to passives instead, see "Passives".
 
@@ -104,8 +104,7 @@ Cost per level is unknown, so the split shows in-game (Scattershot 10 → 1 paid
 - Losing anyway → die or fly back to Western Root; respawn there, no penalty.
 
 **Open (in-game):** does Salvation's Lv 10 line really restore 20% Max HP; does the Tenacity lockout block
-Salvation after Defiance; does Chain of Torment option 4 (PvE Damage Tolerance) do anything in PvP; do
-players have a Stagger gauge (bar under an enemy player's HP bar when targeted; no source says).
+Salvation after Defiance; does Chain of Torment option 4 (PvE Damage Tolerance) do anything in PvP.
 
 ## Playstyle model
 - Two axes: **what a skill does** (damage/heal/buff/debuff) and **when you press it** (proactive
