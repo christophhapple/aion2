@@ -12,12 +12,12 @@ tracker itself goes in `backlog.md`.
 - [ ] Legion (if you join one): does the Legion menu show missions or Legion Coin? What does the Legion Merchant sell?
 - [ ] Arcana Extract: after extracting one spare card, does the window still show 11% with nothing registered (= gauge that keeps progress) or 0% (= chance)? Does a +0 Common give less than 11%?
 - [ ] Cube-hunting audio for gathering/pet runs: Master + Sound Effects 100%, Music, Ambient, Monster, Mount, own character + wing sounds low. Save it as its own audio preset (the game supports audio presets, user 2026-10-19). See `knowledge/endgame.md` "Hidden Cubes"
-- [ ] Artifact Siege (Mon 2026-10-19 21:00, if you join): does it pay Abyss Points by contribution? How much did you get?
 - [ ] PvP preset: set up Skills preset 3 + Batch Set 3 per `characters/dhamira-build.md` "PvP preset" (Yustiel's Power, Salvation from the Abyss shop if not owned). While at it, read Salvation's full Lv 10–20 tooltip and check whether Salvation is blocked right after Defiance
 - [ ] Pantheon: can Eternal Gartua (Verteron, Eternal Isle) and Immortal Gartua (Altgard, Immortal Isle) both be placed, or do they share a slot? Decides whether Altgard field bosses are worth it. See `knowledge/endgame.md` "Artworks"
 - [ ] PvP routines: check in-game that the PvP entries in `routines.yaml` still match (Arena of Solitude / Cooperation, Battlefield, Artifact Siege, Abyss Corridor, Abyss time): times, weekly limits, rewards. Note anything that's off or missing
 
 ## Done
+- [x] Artifact Siege joined: ~13k Abyss Points despite a 1 : 2 loss, no contribution shown; corridor time still 02:10 (2026-10-19)
 - [x] Achievement "Bonds of the Black Wings": visited all villages in Altgard (2026-10-19)
 - [x] Achievement: Common gear piece enhanced to +5, title earned (2026-10-19)
 - [x] Pet souls after Lv 3: still drop, but no Genus EXP and the count stays at 105, so wasted (2026-10-19)
