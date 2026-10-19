@@ -7,6 +7,7 @@ snippets. Sources [n]: `sources.md`. Schedule (sieges, bosses): `schedule.md`.
 - **Entering the Abyss makes you a PvP target.** Both factions share Lower Reshanta and can attack on
   sight; no PvP flag or opt-out found [80][82][85]. (Being killed while flying around is expected; in-game 2026-10-10.)
 - KR has a PvP on/off switch, but only for Spacetime Rifts, not the Abyss [86, KR].
+- **No Stagger gauge on players:** an enemy player shows no Stagger bar when targeted, so Stagger damage does nothing in PvP (in-game 2026-10-19).
 - **Safe point (Elyos): Latesran Western Root** in one corner (bind point, Command Merchant, Monolith,
   Kibelisk); the Asmodian base is in the opposite corner [80][81]. "Fixed safe islands" and choke islands
   are mentioned [82, KR/TW snippet]. **Western Root is safe: NPC guards, enemies can't get in** (in-game 2026-10-18).
