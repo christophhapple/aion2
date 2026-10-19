@@ -3,6 +3,7 @@
 Ideas and tasks for building this tracker. In-game tasks go in `todo.md`.
 
 ## Open
+- [ ] Research a Cleric PvP build (Abyss, for Abyss Points) → PvP section in `characters/dhamira-build.md`: Stigmas, specialty picks, how it fits the preset slots, low mental load (2026-10-19)
 
 ## Done
 - [x] Research pets → `knowledge/endgame.md` "Pets: value vs effort" (2026-10-13)
