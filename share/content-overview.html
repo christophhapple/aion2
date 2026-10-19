@@ -362,7 +362,7 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
     el.innerHTML = scaleRow + rows(now).map(r => `
       <li class="${r.live ? "live" : ""}${r.soon ? " soon" : ""}${r.reset ? " reset" : ""}">
         <span class="t-name">${r.name} <span class="tag ${r.tag}">${r.tag === GAME ? "In-game" : "Guides"}</span></span>
-        <span class="t-count"><span class="t-state">${r.live ? "Live, ends in" : r.reset ? "In" : "Starts in"}</span>${countdown(r.count)}</span>
+        <span class="t-count">${r.live ? `<span class="t-state">Live, ends in</span>` : ""}${countdown(r.count)}</span>
         <span class="t-when">${r.detail}${r.note ? `<br>${r.note}` : ""}</span>
         <span class="t-bar" aria-hidden="true"><span class="t-fill" style="width: ${(Math.min(1, Math.max(0, r.frac)) * 100).toFixed(2)}%"></span></span>
       </li>`).join("");
