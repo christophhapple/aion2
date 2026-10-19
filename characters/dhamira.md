@@ -51,7 +51,7 @@ Verteron done: all regional (green) quests incl. Spacetime Rift, Sealed Dungeons
 - Manastones: reworked 2026-10-19. Good one only on the Ascension Bracelet; other good stones saved for later gear.
 - Wings (in-game 2026-10-13): own 6 — Lesser, Intermediate, Superior, Ultimate Daeva, Aullaeu, Glorious (crafted 2026-10-11). Sealing Wings crafted 2026-10-15 (7th pair). Equipped: Ultimate Daeva. **Flight Power 6,100** (2026-10-16, +200 from Sealing Wings; was 5,900).
 - Clash Runes: both at +2 (2026-10-13); 2 spares destroyed trying for +3, none left.
-- Mace (+10 Aulamus, 2026-10-19): Soul Binding 57.9% (Status Effect Chance, Back Attack, Precision, Lightning Strike Scattershot +1), Theostone Zikel's Vestige, Manastones Defense+50 ×2, Block+10 ×2.
+- Mace (+10 Aulamus, 2026-10-19): Soul Binding 57.9% (Status Effect Chance, Back Attack, Precision, Lightning Strike Scattershot +1), Theostone Zikel's Vestige.
 - Soul Codex: 188 (2026-10-19), saved for better gear.
 - Pantheon (2026-10-19): optimized with the few pieces owned, incl. Transcendent Bakarma (statue); only one preset used.
 - Pets: 77/200 owned, collection rewards all claimed (2026-10-13).
