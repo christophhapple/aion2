@@ -35,7 +35,7 @@ are about the **Korean** version (cap 50 since 2026-07-01). Gear score (GS) thre
     later or different in KR: unverified.
   - Field bosses there drop gear for skins/supply requests [95].
   - **After the 7 quests:** clear the enemy Sealed Dungeons and Strongholds once each (yields above,
-    one-time). After that, repeatable: Kina, Abyss Points, Enhance Stones from mobs, field bosses, green side quests; no yields published [94][96]. Titles: "Hello There" (3 rift uses), "Nice to Meet You" (50 uses, PvE Damage +2.9%, weaker than Guardian +3%) [109]. Time-extension tickets (+10 / +30 min) exist [96]. KR has a Domination mode and weekly rift challenges (Sep 2026), not seen on global.
+    one-time). After that, repeatable: Kina, Abyss Points, Enhance Stones from mobs, field bosses; no yields published [94][96]. **No green side quests in the enemy region** (in-game 2026-10-19). ~~green side quests~~ [94][96]. Titles: "Hello There" (3 rift uses), "Nice to Meet You" (50 uses, PvE Damage +2.9%, weaker than Guardian +3%) [109]. Time-extension tickets (+10 / +30 min) exist [96]. KR has a Domination mode and weekly rift challenges (Sep 2026), not seen on global.
   - Safety: open PvP there. Attacking an enemy guard flags you for PvP for 10 min. Stay unflagged and
     away from enemy outposts: their guards attack on sight [94].
   - **Kibelisks on the enemy map:** enemy Kibelisks are guarded by strong NPCs that kill you if you get
