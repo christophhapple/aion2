@@ -86,7 +86,7 @@ Guides mostly describe KR/TW; global details may differ. Sources [319]–[321].
 ## Proof of Hero → Merit Chests (researched 2026-10-19, guides, unverified)
 - **What:** boss-specific materials from the Abyss bosses: Proof of Hero (Kaira), (Argo), (Nahma) from those
   bosses' rewards; Proof of Hero: Lower Reshanta from the monsters after the Artifact Siege [329][330]. Special grade,
-  bound, stacks to 1,000, can't be sold [329][331]. No expiry mentioned anywhere.
+  bound, stacks to 1,000, can't be sold [329][331]. **Expire when the season ends** (in-game 2026-10-19; Season 1 ends 2026-12-16 09:00 local, `seasons.md`).
 - **Use:** Substance Morph (Medal tab) → that boss's Merit Chest, 100% success, no Kina [332][333]. Limits are
   **per character per week** and given per recipe; whether grades share one limit: not stated.
 
@@ -104,8 +104,9 @@ Guides mostly describe KR/TW; global details may differ. Sources [319]–[321].
 - **Grades compared (in-game 2026-10-19):** **AP per proof is the same for every grade**; higher grades have
   slightly better odds on the random items. So a Unique = the same AP as the equivalent Rares, a little better luck,
   and fewer of the weekly crafts used.
-- **So (inference):** proofs keep (stack 1,000, no expiry known), so saving up for the highest grade costs nothing
-  and is slightly better. It matters most where the weekly craft limit binds (Dimensional and Nahma: 2/week).
+- **So (inference):** proofs keep until the season ends, so saving up for the highest grade costs nothing
+  and is slightly better, as long as you **craft everything before the season ends**. Because of the weekly craft
+  limits you can't dump a big stack in the last week, so craft as you go (e.g. each time you have enough for a Unique). It matters most where the weekly craft limit binds (Dimensional and Nahma: 2/week).
   Silver Medals are PvP gear currency (low value for a PvE player).
 
 ## Advice for a healer at GS ~1100 (inference, not from a guide)

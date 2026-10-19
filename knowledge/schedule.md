@@ -67,7 +67,7 @@ unobtained Odyle cubes 10 (server) [50].
 | 2026-10-28 | Planet's Call (50-level event pass) ends at maintenance [50][65]. No tasks, only XP from normal play (in-game), so not worth planning around |
 | 2026-11-09 | Community launch events end [67] |
 | 2026-12-01 | Log in before this for pre-registration/wishlist rewards [67] |
-| 2026-12-15 | Daeva Pass Season 1 ends at maintenance (free track) [65][66]; Season 1 ends **2026-12-16 09:00 local = 08:00 UTC** (in-game countdown 2026-10-18; ~~07:00 UTC~~ [222]). **Spend Oath Coins before**, see `seasons.md` |
+| 2026-12-15 | Daeva Pass Season 1 ends at maintenance (free track) [65][66]; Season 1 ends **2026-12-16 09:00 local = 08:00 UTC** (in-game countdown 2026-10-18; ~~07:00 UTC~~ [222]). **Spend Oath Coins before**, see `seasons.md`. **Proofs of Hero expire** then too (in-game 2026-10-19): craft Merit Chests before |
 
 ## Timer sites
 daevaguides.com/timers (UTC, EU = NA, reviewed weekly) [61] · shugo.gg/timers (per-region server
