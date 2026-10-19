@@ -306,8 +306,10 @@ Subjugation 3 tickets/week (see below) · Abyss sieges Mon/Thu/Sat 21:00 server 
   consumables; rare: wings (Radiant Love), Unique skins, emotes. Opening takes ~4s.
 - One source says they're not on global yet [340]; the in-game Soul Codex source list names Hidden Cubes (in-game
   2026-10-19), so they exist.
-- **So (inference):** keys are the limit, not finding cubes. Use keys as you get them on a cube you pass; with a
-  fan map, a few spots near where you already play are enough. Probably KR/TW content or a different global name;
+- **So:** for a player who mostly does duties and instances, **finding cubes is the limit, not keys**: keys pile
+  up, cubes are rarely passed (user 2026-10-19). The candidate spots are known (fan map), only which spot is
+  active is random. Best combined with open-world time anyway (gathering, pet hunting): check the map for spots
+  along that route (inference). Probably KR/TW content or a different global name;
   ignore until it shows up.
 
 ## Upcoming (global)
