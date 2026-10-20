@@ -37,11 +37,15 @@ Bosses: eight level-65 Hero field bosses drop Unique armor sets and refining sto
   **Green (37,500)** (in-game 2026-10-18): e.g. "Archipelago of Siel's Wings: Defeat Abyss Drakan Chief" (boss + surrounding
   forces). Basic 1,000 Abyss Points + 400 Abyssal Power Shards; random rewards: 200-stacks of green/teal crystals, a
   compass-like item, and a chance at a **Radiant Ruby** (Unique gem, crafting material) (in-game 2026-10-18). **Redraw** up to 10 times, 1,000 each (icon looks like Abyss Points).
-  **Epic** (in-game 2026-10-20; which price tier it is wasn't noted): e.g. "Sulfur Tree Island: Defeat Abyss Nagarant
+  Probably Epic = blue (75,000) and Unique = gold (150,000): only inferred from the 200/400/600/800 shard steps, unconfirmed.
+  **Epic** (in-game 2026-10-20): e.g. "Sulfur Tree Island: Defeat Abyss Nagarant
   Brawler" (boss + surrounding forces). Basic 1,000 Abyss Points + 600 Abyssal Power Shards (red shard icon; 200 /
   400 / 600 across grades); random rewards: 200 yellow crystals, 550 Abyss Points, a pair of Rare (green) boots, a
   weapon-like item with a red badge (blue background), 2,000 of a gold ore/crystal item. Redraw 0/10, 1,000 each.
-  Other grade's rewards: not checked yet. **Abyssal Power Shards** work like normal Power Shards: toggle on to consume them, they buff Attack while being
+  **Unique** (in-game 2026-10-20): e.g. "Reshanta's Root: Defeat Abyss Drakan Superior/Elite Drakan" (Elite + Superior
+  Drakan + surrounding forces). Basic 1,000 Abyss Points + 800 Abyssal Power Shards; random rewards: 400 and 500 of
+  the gold ore/crystal item, a sword with a red badge, 1,100 Abyss Points, 200 red crystals (teal background).
+  Redraw 0/10, 1,000 each. **Abyssal Power Shards** work like normal Power Shards: toggle on to consume them, they buff Attack while being
   used up; the Abyssal ones also ignore some of a PvP enemy's Defense (in-game 2026-10-18).
 - **Abyss Points cap: none shown in-game** (in-game 2026-10-18). ~~Weekly cap, separate for PvE and PvP~~ [50] not seen.
 - **Shop:** Stigma Shards (up to 200 per character, **4 steps of 50: 10k → 15k → 20k → 25k Abyss Points per shard**, in-game 2026-10-13; [128]; purchases count per character, "x/50" per step) and Azphel crystals (10,000 each) [80]. Stigma details: `endgame.md`.

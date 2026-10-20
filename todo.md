@@ -6,7 +6,7 @@ tracker itself goes in `backlog.md`.
 ## Open
 - [ ] Easy achievement: next Fire Temple **Conquest** run, lie down (emote) in the boss room → title "Kromede Will Remember That" (guide, unverified; whether before or after the kill isn't stated). See `knowledge/achievements.md`
 - [ ] Verify: after 2026-10-25 (DST change), do event times stay on the local clock (Rift still at 02, 05, 08 … 23)? And is the daily reset at 08:00 or still 09:00 local? (Season/event countdowns hint 09:00; then `routines.yaml` needs 08:00 UTC)
-- [ ] *(low priority)* Check: what do the blue (75k) and gold (150k) Abyss Command Scrolls reward? (Green done 2026-10-18; an "Epic" one seen 2026-10-20, price tier not noted)
+- [ ] *(low priority)* Abyss Command Shop: is the 75k scroll Epic and the 150k one Unique? (Rewards of all grades recorded 2026-10-20, only the price ↔ grade link is a guess)
 - [ ] Transfer: on your first real transfer, note how many Transfer Stones it took and what ends up on the kept piece (Soul Binding lines, Manastones, Theostone, Soul Fuse). The window shows no result preview
 - [ ] Legion (if you join one): does the Legion menu show missions or Legion Coin? What does the Legion Merchant sell?
 - [ ] Arcana Extract: after extracting one spare card, does the window still show 11% with nothing registered (= gauge that keeps progress) or 0% (= chance)? Does a +0 Common give less than 11%?
