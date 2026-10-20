@@ -9,6 +9,15 @@ so the rules below are official unless tagged otherwise. Not tried in-game.
   The only way to the other side is a new character on a server of that faction.
 - Instanced content (dungeons) is cross-server, so same-faction friends on other servers can still run
   dungeons together; open world, Market and Legion need the same server (guide [361], unverified).
+- **Instanced matchmaking seems to mix factions** (in-game 2026-10-20). The Expedition room list shows
+  leaders from Elyos *and* Asmodian servers side by side (SIE, FRE, HIT next to BAB, ZEM, ULG), and a
+  Battlefield team had both too (VAI, SIE, NEZ, NAN next to LUM, BAB, ISR, ZIK). Which tag is which faction comes
+  from the server pair list [363] (guide), so that part is unverified.
+- **Room Settings → Faction: "All" (default) or "Same Faction"** (in-game 2026-10-20). So Expedition rooms
+  are cross-faction unless the leader restricts them. The room list's **"My Faction"** checkbox presumably
+  filters for "Same Faction" rooms. Ticking it showed no rooms at all, so hardly anyone sets it (inference).
+  Still open: can you party with or friend someone from the other faction directly, outside the room
+  list? ~~Elyos and Asmodians can't group anywhere~~ (Claude's own assumption 2026-10-20, contradicted by this).
 
 ## Server transfer, autumn 2026 window
 - **Which servers when** [359][360]:

@@ -7,9 +7,9 @@ site, shared by the user 2026-10-16; the in-game icons look the same (in-game 20
 
 Top row left to right: Gladiator, Templar, Assassin, Ranger. Bottom row: Sorcerer, Spiritmaster, Cleric, Chanter.
 
-In-game the icons are colored per class, on a dark diamond frame (party list + Battlefield lineup, in-game 2026-10-20). Colors
-not seen yet are marked "?". Colored copy: `images/class-icons-color.png` (tint approximated, unseen classes
-stay silver); regenerate with `node knowledge/images/tint-class-icons.js` after adding a color there.
+In-game the icons are colored per class, on a dark diamond frame (party list, Battlefield lineup, Expedition room list, in-game 2026-10-20). All 8 colors seen.
+Colored copy: `images/class-icons-color.png` (tint approximated by eye); regenerate with
+`node knowledge/images/tint-class-icons.js` after changing a color there.
 
 ![Class icons, in-game colors](images/class-icons-color.png)
 
@@ -20,7 +20,7 @@ stay silver); regenerate with `node knowledge/images/tint-class-icons.js` after 
 | **Assassin** | Melee burst DPS, stealth | **Two crossed daggers** (X) with a small diamond at the crossing | light green |
 | **Ranger** | Ranged DPS, bow, traps | A **bow with an arrow pointing up**, wing-like limbs | green |
 | **Sorcerer** | Ranged magic DPS | A **diamond in a ring**, open book or wing shapes underneath | purple |
-| **Spiritmaster** | Summoner (elemental spirits) | A **four-pointed star inside a full circle** (compass look) | ? |
+| **Spiritmaster** | Summoner (elemental spirits) | A **four-pointed star inside a full circle** (compass look) | pink/magenta |
 | **Cleric** | Healer, protective magic | A **lyre/harp**: two curved arms with upright strings in the middle | yellow/gold |
 | **Chanter** | Hybrid support, buffs + healing | A **flame/lotus** shape with a small orb, petals curling outward | orange |
 
