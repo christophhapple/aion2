@@ -42,9 +42,8 @@ snapshot: `characters/dhamira-achievements.md`. Season 1 weeklies are routines (
 | Exploration / Conquest Clear, each expedition | see snapshot (2026-10-20) | 180–520 ES per tier | ~1,600 + 2,480 Enhance Stones per dungeon | Comes with expeditions. Never done: Vakron + Fire Temple Conquest (title each), Horn Den, Ludra |
 | Nothing Personal, Kid (player kills) | 258 (2026-10-20) | 300: title card, 4 scrolls | PvP titles incl. Treading on Black Wings (guides) | Close; Abyss / Arena / Battlefield kills |
 | Uncertain Path (Verteron Spacetime Rift) | 10 (2026-10-20) | 30 | title Nice to Meet You at 50 (PvE Damage Boost +2.9%, guides) | Attack title, just repetition |
-| Rare / Legendary / One-of-a-Kind Gear | ? (Resource tab) | ? | 1,910 / 2,450 / 3,210 Enhance Stones | Passive |
-| Veteran Wing Collector | ? (Resource tab) | ? | title Dominator of Dimensions at 25 wings | Best PvE defense title, long-term |
-
+| Rare / Legendary / One-of-a-Kind Gear | 246 / 243 / 30 (2026-10-20) | 300 / 300 / 50: 370 / 410 / 530 ES | 1,910 / 2,450 / 3,210 Enhance Stones | Passive |
+| Veteran Wing Collector | 7 wings (2026-10-20) | 12: title card | title Dominator of Dimensions at 25 wings | Best PvE defense title, long-term |
 ## Done
 - [x] Achievement Stance Toward the Strong: 100 bosses finished with a crit (2026-10-19)
 - [x] All Altgard Sealed Dungeons + Strongholds cleared (2026-10-20)

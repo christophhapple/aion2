@@ -2,7 +2,7 @@
 
 Snapshot from screenshots (in-game 2026-10-20). Only open cards are listed, as current/next tier,
 with the next tier's reward where it's useful (ES = Enhance Stones). Finished groups in one line.
-Not yet seen: **Resource** tab, Season 1 achievements. Which ones matter: `knowledge/achievements.md`,
+Not in this window: Season 1 achievements (probably the Season Missions window). Which ones matter: `knowledge/achievements.md`,
 the tracked ones are in `goals.md`.
 
 ## Progress
@@ -112,3 +112,59 @@ Speedrun tiers get faster (10 min Exploration, 7 or 20 min Conquest seen).
 | Fire Temple (3/8) | 1/2 (250 ES) | 0/1 (250 ES, title) | Expl <10 min, Conq <20 min, Conq no death, solo ×2, Sauna (title), small kill counts |
 | Horn Den (0/10) | 0/1 (180 ES) | 0/1 (250 ES) | all open |
 | Sanctuary / Ludra (0/7) | Clear 0/1 (340 ES) | – | all open |
+
+## Resource
+**Collection** (Level 32/34)
+
+| Achievement | Progress | Next reward |
+|---|---|---|
+| Rare Gear VI | 246/300 | 370 ES |
+| Legendary Gear VII (Epic) | 243/300 | 410 ES |
+| One-of-a-Kind Gear (Unique) | 30/50 | 530 ES |
+| Fashionista IV (skins) | 186/200 | item, 10k Kina |
+| Veteran Wing Collector | 7/12 | item, title card |
+| Transformation Whizz (titles) | 208/250 | title card |
+| Boss Imitator I / Tastes Found in Danger / Au Naturel Orichalcum (skins) | 12/30 · 7/10 · 6/10 | |
+| Poko's Friend, Joyful Wings, Poko's Wings | 0/7 · 0/3 · 0/3 | |
+| Artwork: Shugo, Expedition, Nightmare Statue, Boss Loot | 0/1 each | |
+
+Done: Decent Gear VII (10-19).
+
+**Use** (Level 1, 8/10)
+
+| Achievement | Progress | Next reward |
+|---|---|---|
+| Sweet Tooth (Transformation Candy) | **0/1** | Kina |
+| Storage Keeper III | 48/50 | title card |
+| Foodie III | 47/100 | |
+| Black Cloud Merchants | 5/10 | title card |
+| Kisk Installer / Kisk User | 0/5 · 0/5 | |
+| The Joy of Spending (Kina at merchants) | 1.35M/5M | |
+
+**Enhancement** (29/38)
+
+| Achievement | Progress | Next reward |
+|---|---|---|
+| Power of Steady Enhancement (enhance) | 302/500 | 650 ES, title card |
+| Minimum Standards III (pieces at +10) | 23/50 | |
+| Tailor-Made IV (Unique to +13) | 0/1 | |
+| Filled with Manastones / Abyssal Manastones | 53/60 · 2/5 | |
+| Divine Stone (bind Theostones) Rare / Epic / Unique | 2/3 · 0/3 · 0/3 | |
+| Aiming Higher: combine to Epic / Unique Theostone | 0/5 · 0/1 | |
+| Fulfilled Soul (100% Soul Binding) | 0/1 | 80 ES |
+| Soulful Rare / Epic / Unique Gear (Soul Binding) | 1/5 each | |
+| Extraction: Rare VII / Epic VII / Unique / +10 or higher | 241/300 · 233/300 · 3/5 · 3/5 | |
+
+Done: Common and Rare to +5, Epic to +10.
+
+**Crafting** (Level 1, 0/18): nothing started, all professions at 1/50. Beginning of Crafting 0/5 (240 ES).
+
+**Gathering** (27/32)
+
+| Achievement | Progress |
+|---|---|
+| Ore IV / Gem IV / Log I / Herb III / Cooking ingredients | 142/200 · 157/200 · 6/10 · 81/100 · 105/200 |
+| Skybound Treasure (Odyle) | 384/500 |
+| Substance Morph: 10 materials / 5 Fine / 1 Pure / 1 Radiant | 7/10 · 0/5 · 0/1 · 0/1 |
+
+Done: Essence Extraction proficiency 100 (10-10), Lucky Gatherer VII (10-13).
