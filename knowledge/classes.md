@@ -8,7 +8,10 @@ site, shared by the user 2026-10-16; the in-game icons look the same (in-game 20
 Top row left to right: Gladiator, Templar, Assassin, Ranger. Bottom row: Sorcerer, Spiritmaster, Cleric, Chanter.
 
 In-game the icons are colored per class, on a dark diamond frame (party list, in-game 2026-10-20). Colors
-not seen yet are marked "?".
+not seen yet are marked "?". Colored copy: `images/class-icons-color.png` (tint approximated, unseen classes
+stay silver); regenerate with `node knowledge/images/tint-class-icons.js` after adding a color there.
+
+![Class icons, in-game colors](images/class-icons-color.png)
 
 | Class | Role | How to spot the icon | In-game color |
 |---|---|---|---|
