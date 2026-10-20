@@ -7,6 +7,9 @@ Researched 2026-10-11. Times: `schedule.md`. Sources [n]: `sources.md`. Unverifi
 - **When:** every hour at :30 server time; ~3 min to join (timer icon next to the minimap), then the
   round. **10-minute time limit; a round took about 5 min** (in-game 2026-10-11). ~~3 min~~ [102].
   Random field spots in the home regions (Verteron/Altgard) [100].
+- **Didn't show up at 15:30 on 2026-10-20** (in-game). No patch, known-issue post or timer change found that
+  day (all trackers still say every :30 [61][62][63][352]). Possible reason: can't be entered while inside a Spacetime
+  Rift [352, unverified]. Watch whether it comes back at the next :30.
 - **Who:** solo is fine, no minimum party [100]. Rewards from level 45 [100].
 - **Three types, one shared reward table** [100][102]. Waves of mobs across a platform, boss in the
   centre near the end [102]. Beritra Air Raid seen in-game 2026-10-11.

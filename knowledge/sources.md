@@ -433,3 +433,5 @@ Added 2026-10-19 (Cleric PvP).
 349. Fextralife wiki, Cleric Builds (Group PvP Support), upd. 2026-10-09: https://aion2.wiki.fextralife.com/Cleric_Builds
 350. expcarry.com, Cleric guide (PvP row only), upd. 2026-10-17, G: https://expcarry.com/aion-2-cleric-guide
 351. vortexgaming.io, KR Cleric PvP stigmas/specialties (ranker stats), undated, KR: https://vortexgaming.io/postdetail/977592 · inven community: https://www.inven.co.kr/board/aion2/6452/657
+352. thegameswiki.com, Dimensional Invasion (not enterable during a Spacetime Rift), undated: https://thegameswiki.com/aion-2/wiki/dimensional-invasion
+353. Steam news, official "[Notice] Maintenance | Oct. 20 (PDT) / Oct. 21 (CEST)", 2026-10-19: https://steamcommunity.com/app/3393110/allnews/?l=english
