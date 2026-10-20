@@ -7,13 +7,13 @@
 | Faction | Elyos (home region: Verteron) |
 | Level | 45 (max) |
 | Campaign | Main story done |
-| Gear score | 1821 |
+| Gear score | 1842 |
 | Combat Power | 90.90K |
 | Skill points | 383 total (in-game 2026-10-15) |
 | Server | Nania (EU) |
-| Updated | 2026-10-19 |
+| Updated | 2026-10-20 |
 
-Build: [dhamira-build.md](dhamira-build.md)
+Build: [dhamira-build.md](dhamira-build.md) · Achievements: [dhamira-achievements.md](dhamira-achievements.md)
 
 ## Expedition pity (Exploration, 2026-10-10)
 Krao Cave claimed · Draupnir 1/3 · Urugugu Canyon claimed · Fire Temple claimed · Vakron 0/3 ·
