@@ -13,6 +13,7 @@ tracker itself goes in `backlog.md`.
 - [ ] *(low priority, doesn't change the build)* PvP: right after Defiance, does Salvation (Q) still work? Its tooltip blocks it for 30s only "if Invincibility stacking is blocked"; try in the 1v1 arena and open-world Abyss
 - [ ] Class icon colors: screenshot party lists / nameplates whenever new classes show up, until all 8 colors are seen (for a colored copy of `knowledge/images/class-icons.png`). Seen so far: none
 - [ ] Pantheon: can Eternal Gartua (Verteron, Eternal Isle) and Immortal Gartua (Altgard, Immortal Isle) both be placed, or do they share a slot? Decides whether Altgard field bosses are worth it. See `knowledge/endgame.md` "Artworks"
+- [ ] Abyss rank: what's your own rank and its points (season window → Abyss)? Do they rise after an arena win, or only after Abyss PvP? Does the rank tooltip show a PvP damage bonus? See `knowledge/abyss.md` "Abyss ranks"
 
 ## Done
 - [x] Abyss Command Scroll rewards checked for all grades; Epic = 75k, Unique = 150k (2026-10-20)
