@@ -40,7 +40,7 @@ Bosses: eight level-65 Hero field bosses drop Unique armor sets and refining sto
   **Epic = 75,000, Unique = 150,000** (in-game 2026-10-20).
   **Epic** (in-game 2026-10-20): e.g. "Sulfur Tree Island: Defeat Abyss Nagarant
   Brawler" (boss + surrounding forces). Basic 1,000 Abyss Points + 600 Abyssal Power Shards (red shard icon; 200 /
-  400 / 600 across grades); random rewards: 200 yellow crystals, 550 Abyss Points, a pair of Rare (green) boots, a
+  400 / 600 across grades); random rewards: 200 yellow crystals, 550 Abyss Points, a pair of Rare (green) boots,
   Fera Soul Crystals (red badge on a weapon icon, blue background; no amount shown, in-game 2026-10-20), 2,000 Enhance Stones (gold ore icon, in-game 2026-10-20). Redraw 0/10, 1,000 each.
   **Unique** (in-game 2026-10-20): e.g. "Reshanta's Root: Defeat Abyss Drakan Superior/Elite Drakan" (Elite + Superior
   Drakan + surrounding forces). Basic 1,000 Abyss Points + 800 Abyssal Power Shards; random rewards: 400 and 500
