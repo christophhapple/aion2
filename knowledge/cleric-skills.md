@@ -187,7 +187,8 @@ are in nearly every PvP loadout [347][349][351]. Beyond that, by format:
 - **Salvation** = "the escape button", emergency survival window [349][350]. Earth Punishment: good vs tanky
   classes (Templar, Gladiator) [351]; others drop it for defense.
 - Yustiel's Power: hold it for the enemy's burst, don't fire it at the pull [347].
-- Salvation Lv 15 gives the Salvation effect to the lowest-HP party member too (in-game 2026-10-20, matches [349]); Lv 20 castable while stunned/knocked down [349] (unverified).
+- Salvation Lv 15 gives the Salvation effect to the lowest-HP party member too (in-game 2026-10-20, matches [349]); ~~Lv 20 castable while stunned/knocked down [349]~~: Lv 20 "triggers [Salvation] when afflicted with Impact-type status" (in-game 2026-10-20), i.e. it fires on its own. "Impact-type" is not defined in the tooltip; likely the CC that Defiance removes (Stun, Knockdown, Airborne, …; inference). Unknown: does it fire at any HP, and does it break the CC.
+- Yustiel's Power Lv 20: +10% PvE and +5% PvP Damage Tolerance (in-game 2026-10-20).
 
 **Specialties** (changes vs the PvE picks; guides disagree a lot):
 | Skill | PvP suggestion |
