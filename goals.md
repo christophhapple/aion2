@@ -17,8 +17,8 @@ Background: `knowledge/progression.md`.
 
 ## Achievements (useful rewards)
 Picked from `knowledge/achievements.md` "Worth doing". Rewards are totals over all tiers (guides,
-unverified). Target = the next tier, "?" until read from a screenshot. All Dhamira. Weeklies aren't
-listed here: they reset, so they'd be routines.
+unverified). Target = the next tier, "?" until read from a screenshot. All Dhamira. Season 1 weeklies
+are routines (`routines.yaml`).
 
 | Achievement | Current | Next tier | Reward (all tiers) | Why |
 |---|---|---|---|---|

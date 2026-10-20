@@ -10,7 +10,7 @@ resets:
 routines:
   - id: duty
     name: Duty Missions
-    notes: Does NOT bank, lost at the daily reset (in-game 2026-10-13). Journal (J) → Duty tab. Pick by guaranteed slot-1 reward; Soul Crystal > Odyle Energy > tickets > Kina (guides). Per server or account. Details: knowledge/endgame.md.
+    notes: Does NOT bank, lost at the daily reset (in-game 2026-10-13). Journal (J) → Duty tab. Pick by guaranteed slot-1 reward; Soul Crystal > Odyle Energy > tickets > Kina (guides). Per server or account. Details - knowledge/endgame.md.
     reset: daily
     cap: 5
 
@@ -18,12 +18,12 @@ routines:
     name: Nightmare
     reset: daily
     cap: 2
-    notes: Attempt only consumed on a clear. Unused attempts bank up to 14.
+    notes: Attempt only consumed on a clear. Unused attempts bank up to 14. Season 1 weekly achievements (guides) - Friends With a Story at 5/10 boss kills a week, plus one each for a boss kill under 3 / 2 / 1 min.
 
   - id: odyle
     name: Spend Odyle Energy
     reset: daily
-    notes: Regens 15 per 3h (120/day), cap 560. Spent on reward cubes - Exploration 20–40, Conquest 40, later Transcendence 40 (see knowledge/expeditions.md). Don't let it cap. Always open the cube after a Conquest clear: leaving without it lowers the weekly "unobtained cube" count (10, at 0 no Conquest/Transcendence).
+    notes: Regens 15 per 3h (120/day), cap 560. Spent on reward cubes - Exploration 20–40, Conquest 40, later Transcendence 40 (see knowledge/expeditions.md). Don't let it cap. Always open the cube after a Conquest clear - leaving without it lowers the weekly "unobtained cube" count (10, at 0 no Conquest/Transcendence).
 
   - id: daily-dungeon
     name: Daily Dungeon
@@ -35,7 +35,7 @@ routines:
     name: Ascension Trial
     reset: weekly
     cap: 3
-    notes: Difficulties by GS - Easy 1000, Normal 1500, Hard 2000, Extreme 2500 (in-game). 3,500 Enhance Stones per clear on Normal (in-game 2026-10-15).
+    notes: Difficulties by GS - Easy 1000, Normal 1500, Hard 2000, Extreme 2500 (in-game). 3,500 Enhance Stones per clear on Normal (in-game 2026-10-15). Season 1 weekly achievement Hatched Bird at 1/2/3 clears (guides).
 
   - id: commands
     name: Command Scrolls (PvE)
@@ -45,7 +45,7 @@ routines:
 
   - id: siege
     name: Artifact Siege (Abyss)
-    notes: Mon, Thu, Sat 21:00, 30 min (Sat + Mon in-game). Countdown "Next Siege in" on the Chaotic Lower Reshanta card. Mass faction PvP at 3 Artifacts; final hit on a Dimensional Core takes it. PvP is second priority since 2026-10-19: join when online, ideally with a group, PvP preset (Batch Set 3). A won Artifact opens the corridor. Details knowledge/abyss.md.
+    notes: Mon, Thu, Sat 21:00, 30 min (Sat + Mon in-game). Countdown "Next Siege in" on the Chaotic Lower Reshanta card. Mass faction PvP at 3 Artifacts; final hit on a Dimensional Core takes it. PvP is second priority since 2026-10-19 - join when online, ideally with a group, PvP preset (Batch Set 3). A won Artifact opens the corridor. Details knowledge/abyss.md.
     reset: weekly
     cap: 3
 
@@ -82,7 +82,7 @@ routines:
   - id: supply-daily
     name: Supply Requests, Emergency tab
     reset: daily
-    notes: Esc → Supply Requests (in-game name; not Abyss content, in-game 2026-10-18). Doing all of them isn't realistic; cap 1 = "did some", log the real count. Hand in Silentium (keep it, don't sell) or matching gear. AP + Enhance Stones (in-game 2026-10-18). Details knowledge/abyss.md (amounts: guides, unverified).
+    notes: Esc → Supply Requests (in-game name; not Abyss content, in-game 2026-10-18). Doing all of them isn't realistic; cap 1 = "did some", log the real count. Hand in Silentium (keep it, don't sell) or matching gear. AP + Enhance Stones (in-game 2026-10-18). Details knowledge/abyss.md (amounts - guides, unverified).
 
   - id: supply-weekly
     name: Supply Requests, Weekly tab
@@ -92,7 +92,7 @@ routines:
   - id: halloween
     name: Halloween weekly quests (event, until 2026-11-04)
     reset: weekly
-    notes: Claim the 10 weekly event quests (235 Pumpkin Coins/week, per server). List in knowledge/events.md (in-game 2026-10-14). Spend: chest (250, once) first, then Shugo keys, Nightmare tickets, Daily Dungeon clears, Odyle Energy; weekly limits don't carry over. Remove after the event.
+    notes: Claim the 10 weekly event quests (235 Pumpkin Coins/week, per server). List in knowledge/events.md (in-game 2026-10-14). Spend - chest (250, once) first, then Shugo keys, Nightmare tickets, Daily Dungeon clears, Odyle Energy; weekly limits don't carry over. Remove after the event.
 
   - id: invasion
     name: Dimensional Invasion (use key)
@@ -102,7 +102,7 @@ routines:
   # PvP (second priority since 2026-10-19). Build: characters/dhamira-build.md "PvP preset" (Batch Set 3).
   - id: arena-solo
     name: Arena of Solitude (1v1)
-    notes: Arena window, matchmaking always open. 300 AP per match, 500 AP per win (in-game 2026-10-18). Weekly reward limit 10 participation + 30 victory, Wed reset. Cap 10 = participation rewards; log every match played here, wins additionally as arena-solo-win. Best test of the PvP preset. Details knowledge/endgame.md "Arena".
+    notes: Arena window, matchmaking always open. 300 AP per match, 500 AP per win (in-game 2026-10-18). Weekly reward limit 10 participation + 30 victory, Wed reset. Cap 10 = participation rewards; log every match played here, wins additionally as arena-solo-win. Best test of the PvP preset. Details knowledge/endgame.md "Arena". Season 1 weekly achievements (guides, probably both arenas count) - Steady Efforts 3/7/10 matches (70 Soul Crystals), Me, Beyond Myself 1/3/5 wins.
     reset: weekly
     cap: 10
 
@@ -126,6 +126,31 @@ routines:
 
   - id: abyss-time
     name: Abyss time (Lower Reshanta)
-    notes: 7h/week, runs only while inside, also while dead (in-game 2026-10-18). Log hours spent as ×n (round to whole hours). Unused hours do NOT carry over; the weekly reset refills it to 7h (in-game 2026-10-19), so use it before Wednesday. Rift Stones add +1h (guide). Use it for Abyss commands, corridor, open-world PvP.
+    notes: 7h/week, runs only while inside, also while dead (in-game 2026-10-18). Log hours spent as ×n (round to whole hours). Unused hours do NOT carry over; the weekly reset refills it to 7h (in-game 2026-10-19), so use it before Wednesday. Rift Stones add +1h (guide). Use it for Abyss commands, corridor, open-world PvP. Season 1 weekly achievements (guides) - Hometown of My Heart at 1h; Purify Reshanta at 200…2,000 Abyss monster kills (10 tiers, the biggest weekly, 5,780 Oath Coins + 10k AP total), comes with the time spent here.
     reset: weekly
     cap: 7
+
+  # Season 1 weekly achievements without a routine of their own (until 2026-12-16). Others are noted on
+  # nightmare, ascension, abyss-commands, battlefield, arena-solo, abyss-time. List: knowledge/achievements.md.
+  - id: transcendence
+    name: Transcendence clears
+    notes: Deus Research Base / Shattered Arkanis, party 2–5. Per dungeon 2/day, max 4; shares the 10 unobtained cubes/week with Conquest (in-game, knowledge/transcendence.md). Cap 10 = top tier of weekly achievement Way of the Transcended (3/6/10 clears, 5,700 Oath Coins total). Same week also - one clear without dying, one under 15 min, 10 mini-bosses, extract 10 Arcana (guides).
+    reset: weekly
+    cap: 10
+
+  - id: abyss-boss
+    name: Abyss boss kills
+    notes: Weekly achievement Daeva of Extraordinary Deeds at 1/3/5 Abyss bosses (820 Oath Coins + 6,000 AP + 3 Silver Medals), plus per-boss ones - Watcher Kaira 1/5/10, Argo 1/3, Nahma 1 (guides). Timers in knowledge/abyss.md.
+    reset: weekly
+    cap: 5
+
+  - id: abyss-odyle
+    name: Gather Odyle in the Abyss
+    notes: Weekly achievement Daeva of Enduring Deeds at 10/20/30 Odyle gathered in the Abyss (820 Oath Coins + 6,000 AP + 3 Silver Medals) (guides). Log the amount gathered as ×n.
+    reset: weekly
+    cap: 30
+
+  - id: season-claim
+    name: Claim Season 1 achievement rewards
+    notes: Rewards are claimed by hand (Collect All Rewards, in-game 2026-10-18). Check Achievements → Season 1 before the Wednesday reset so nothing finished stays unclaimed.
+    reset: weekly
