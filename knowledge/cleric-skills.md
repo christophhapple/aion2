@@ -187,7 +187,7 @@ are in nearly every PvP loadout [347][349][351]. Beyond that, by format:
 - **Salvation** = "the escape button", emergency survival window [349][350]. Earth Punishment: good vs tanky
   classes (Templar, Gladiator) [351]; others drop it for defense.
 - Yustiel's Power: hold it for the enemy's burst, don't fire it at the pull [347].
-- Salvation Lv 15 gives its immunity to the lowest-HP party member, Lv 20 castable while stunned/knocked down [349] (in-game tooltip truncated).
+- Salvation Lv 15 gives the Salvation effect to the lowest-HP party member too (in-game 2026-10-20, matches [349]); Lv 20 castable while stunned/knocked down [349] (unverified).
 
 **Specialties** (changes vs the PvE picks; guides disagree a lot):
 | Skill | PvP suggestion |

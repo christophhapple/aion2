@@ -62,7 +62,7 @@ everything else as Set 1 (Genus Insight: Crit Resist in slot 2 [guide], later, i
 | Light of Protection | 10 | 15 | in every guide's PvP set; PvP +7.5% Boost and Tolerance; toggle at the pull, as now |
 | Prayer of Amplification | 10 | 15 | stays in the macro (zero attention); +10% PvP Damage Boost, +10% more at Lv 5 |
 | Yustiel's Power | 15 | 35 | the PvP core per guides: PvP +10% Tolerance for me + party, Lv 5 shield 10% Max HP, Lv 10 +100 Block/Evasion, Lv 15 +20% Status Effect Resist (vs CC) |
-| Salvation | 15 | 35 | the escape button: 3s immune to damage and CC; Lv 5 +100% Incoming Heal, Lv 10 restores 20% Max HP at the end (in-game 2026-10-20), Lv 15 also gives its immunity to the lowest-HP party member (guide, unverified). The pool's extra 20 shards went here (user, 2026-10-20) |
+| Salvation | 15 | 35 | the escape button: 3s immune to damage and CC; Lv 5 +100% Incoming Heal, Lv 10 restores 20% Max HP at the end (in-game 2026-10-20), Lv 15 also gives the Salvation effect to the lowest-HP party member (in-game 2026-10-20). **Why 15 (user, 2026-10-20):** the pool's extra 20 shards went here so Salvation can save someone else too, not only me |
 Out: Earth Punishment (guides split; good only vs tanky classes) and Noble Aura. Group variant: see "Where it's used":
 Absolution for cleanse + party heal by default, Summon Resurrection if the group keeps losing people.
 
@@ -98,6 +98,7 @@ points, in this order (both trigger on their own, nothing to press):
 **Trigger map (on top of the macro):**
 - **An enemy player starts on me** → Yustiel's Power (E). Not at the pull: it's 10s, save it for their burst.
 - **HP low and still dropping** → Salvation (Q), then Healing Light during the 3s.
+- **In a group, someone is about to die** → Salvation (Q) too: at Lv 15 the lowest-HP party member gets the effect as well.
 - **I got CC'd** → Defiance (Space), as in PvE. Note: **Salvation and Tenacity can lock each other out for
   30s, but only "if Invincibility stacking is blocked"** (tooltip, 2026-10-20); where that applies is unknown, so right after
   Defiance, Salvation may not work. Check in-game.
