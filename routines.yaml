@@ -57,7 +57,13 @@ routines:
 
   - id: battlefield
     name: Battlefield (Arena of Tactics, 10v10)
-    notes: Own Battlefield window. Daily 11:00–14:00 and 19:00–21:00 (in-game). Cap 3 = weekly Season Mission chain, steps at 1 / 2 / 3 matches (in-game 2026-10-19). Optional extra: reward limit per week is 3 victory (3,000 AP + 2 items) + 3 participation (1,000 AP + 1 item), up to ~12k AP in 6 matches (own arithmetic). Solo queue or a full 5-party. Log matches, note wins.
+    notes: Own Battlefield window. Daily 11:00–14:00 and 19:00–21:00 (in-game). Cap 3 = weekly Season Mission chain, steps at 1 / 2 / 3 matches (in-game 2026-10-19), and the 3 participation rewards (1,000 AP + 1 item). Solo queue or a full 5-party. Log every match played here, wins additionally as battlefield-win.
+    reset: weekly
+    cap: 3
+
+  - id: battlefield-win
+    name: Battlefield wins
+    notes: Victory reward limit 3/week (3,000 AP + 2 items each). Up to ~12k AP/week with the participation rewards (own arithmetic). Log wins only; the same matches also go into battlefield.
     reset: weekly
     cap: 3
 
