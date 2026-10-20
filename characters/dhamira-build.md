@@ -39,7 +39,7 @@ levels are per preset (in-game 2026-10-17). Switch via Batch Preset Equip (`know
 - Specialties and passives: checked 2026-10-17, no reason to differ. Light of Regeneration keeps 1 + 4
   (Move Speed) in Heal too; option 2 (+20% healing ≤50% HP) was the alternative.
 
-## PvP preset (draft 2026-10-19, not set up in-game)
+## PvP preset (draft 2026-10-19, set up in-game 2026-10-20)
 Why: Abyss PvP pays well in Abyss Points (user, 2026-10-19); still second to PvE. Target: Lower Reshanta,
 alone or in a loose group, plus siege. Guide basis: `knowledge/cleric-skills.md` "PvP" (all unverified,
 guides disagree). Rules: same as PvE (mobile macro, convenience over max output), plus **survival first**:
@@ -56,17 +56,17 @@ in PvP, defensive buttons are what keep me farming; deaths cost only Abyss time 
 **Skills preset 3** = a copy of preset 1 (DPS), then these changes. Batch Preset Equip **Set 3** = Skills 3,
 everything else as Set 1 (Genus Insight: Crit Resist in slot 2 [guide], later, if it's cheap).
 
-**Stigmas** (planned for 80 shards; the pool is 100 since 2026-10-20, the extra 20 not assigned yet):
+**Stigmas** (100 shards, set in-game 2026-10-20):
 | Stigma | Lv | Shards | Why |
 |---|---|---|---|
 | Light of Protection | 10 | 15 | in every guide's PvP set; PvP +7.5% Boost and Tolerance; toggle at the pull, as now |
 | Prayer of Amplification | 10 | 15 | stays in the macro (zero attention); +10% PvP Damage Boost, +10% more at Lv 5 |
 | Yustiel's Power | 15 | 35 | the PvP core per guides: PvP +10% Tolerance for me + party, Lv 5 shield 10% Max HP, Lv 10 +100 Block/Evasion, Lv 15 +20% Status Effect Resist (vs CC) |
-| Salvation | 10 | 15 | the escape button: 3s immune to damage and CC; Lv 5 +100% Incoming Heal, Lv 10 restores 20% Max HP at the end |
+| Salvation | 15 | 35 | the escape button: 3s immune to damage and CC; Lv 5 +100% Incoming Heal, Lv 10 restores 20% Max HP at the end (in-game 2026-10-20), Lv 15 also gives its immunity to the lowest-HP party member (guide, unverified). The pool's extra 20 shards went here (user, 2026-10-20) |
 Out: Earth Punishment (guides split; good only vs tanky classes) and Noble Aura. Group variant: see "Where it's used":
 Absolution for cleanse + party heal by default, Summon Resurrection if the group keeps losing people.
 
-**Hotbar diff vs DPS:** Q = Yustiel's Power, E = Salvation, R empty (Noble Aura out), mouse thumb 2 empty
+**Hotbar diff vs DPS (in-game 2026-10-20):** Q = Salvation, E = Yustiel's Power (swapped vs the draft, user), R empty (Noble Aura out), mouse thumb 2 empty
 (Bolt out). Macro: same as DPS. Both new keys are defensive, so "Q never a heal, E never damage" still holds.
 
 **Bolt out (user, 2026-10-19):** in PvP turmoil it rarely gets cast, and when it does it hits one player.
@@ -92,18 +92,18 @@ away (now 15).
 points, in this order (both trigger on their own, nothing to press):
 1. **Prayer of Concentration 5 → 10:** at ≤50% HP a shield + Heal Boost +20% for 30s; a guide PvP pick.
 2. **Heal Block** with what's left: 7% chance on hit, target's Incoming Heal −48% for 5s; PvP only, good vs healers.
-Cost per level is unknown, so the split shows in-game (Scattershot 10 → 1 paid for three passives, 2026-10-17).
+**Result (in-game 2026-10-20):** Prayer of Concentration base 10, Heal Block base 1 → 5.
 
 **Trigger map (on top of the macro):**
-- **An enemy player starts on me** → Yustiel's Power (Q). Not at the pull: it's 10s, save it for their burst.
-- **HP low and still dropping** → Salvation (E), then Healing Light during the 3s.
+- **An enemy player starts on me** → Yustiel's Power (E). Not at the pull: it's 10s, save it for their burst.
+- **HP low and still dropping** → Salvation (Q), then Healing Light during the 3s.
 - **I got CC'd** → Defiance (Space), as in PvE. Note: **Salvation shares a 30s lockout with Tenacity**
   (tooltip), so right after Defiance, Salvation may not be usable; inference, check in-game.
 - **Debuffed / slowed** → Radiant Recovery (removes 1).
 - **Abyssal Power Shards:** toggle on when going in (they ignore some PvP Defense, `knowledge/abyss.md`).
 - Losing anyway → die or fly back to Western Root; respawn there, no penalty.
 
-**Open (in-game):** does Salvation's Lv 10 line really restore 20% Max HP; does the Tenacity lockout block
+**Open (in-game):** does the Tenacity lockout block
 Salvation after Defiance; does Chain of Torment option 4 (PvE Damage Tolerance) do anything in PvP.
 
 ## Playstyle model
