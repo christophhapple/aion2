@@ -85,7 +85,7 @@ the reset pattern is from KR official notices. Unverified unless tagged `in-game
   | **Mysterious Crystal** | 25,000 ✓ | 5 ✓ |
   | Amplify Stone Fragment (Unique) | 300 ✓ | 20 ✓ |
   | Philosopher's Stone: Revelation | 30,000 ✓ | 2 ✓ |
-  | Skins / Talisra Wings | 39,600–120,000 / 210,000 | 1 per character |
+  | Skins / Talisra Wings | 39,600–120,000 / 210,000 ✓ (stats: `gear.md` "Wing sources") | 1 per character |
 
 ## What happens at season end
 

@@ -214,7 +214,8 @@ Stats: Wisdom + Life (god stats), Constitution + Power (primary); Heal Boost (Pv
    Cave), Ancient Aullaeu (Urugugu), Forest Spirit (Vakron), Dark Veil (Ferocious Horn Den), Blue Wave
    (Draupnir) [177].
 5. **Conqueror (Epic), Nightmare (Unique):** Nightmare wing vendor; Nightmare owned PvE Damage +1% [177].
-6. **Talisra:** season shop; owned Attack 10, Accuracy 20 [177].
+6. **Talisra** (Unique): Season Shop, 210,000 Oath Coins, 1 per character. **Equipped:** Attack 60, Accuracy 35,
+   Cooldown Reduction 4%, Defense 400. **Owned:** Flight Power 200, Defense 100, Attack 10, Accuracy 20 (in-game 2026-10-20 tooltip; owned Attack/Accuracy match [177]).
 7. **Violet Butterfly, Spirit, Springflower:** Shugo Festival event shop, time-limited [177].
 8. **Radiant Love:** rare Hidden Cube drop [177].
 9. Warrior, Brawler: Abyss/Arena/Battlefield vendors (PvP) [177].
