@@ -1,0 +1,114 @@
+# Dhamira: achievements
+
+Snapshot from screenshots (in-game 2026-10-20). Only open cards are listed, as current/next tier,
+with the next tier's reward where it's useful (ES = Enhance Stones). Finished groups in one line.
+Not yet seen: **Resource** tab, Season 1 achievements. Which ones matter: `knowledge/achievements.md`,
+the tracked ones are in `goals.md`.
+
+## Progress
+**Quest** (category Level 3, 28/33)
+
+| Achievement | Progress | Next reward |
+|---|---|---|
+| Five Veiled Fates IV (missions) | 45/50 | 540 ES, 16k Kina |
+| Herald of Hope IV (commands) | 36/50 | 540 ES, 16k Kina |
+| Supply Request: Emergency | 39/50 | 430 ES, 5k Kina |
+| Supply Request: Weekly tab | 5/20 | item, 6k Kina |
+| Devoted Friend III (Rare items) | 33/50 | Kina |
+| Price of Self-Sacrifice (Epic items) | 4/5 | Kina |
+| Brought the Leftovers (Rare gear) | 1/5 | Kina |
+| Brought From Nature (gathered materials) | 103/150 | 3 green items, 8k Kina |
+
+Done: Episode 6 (10-11), 50 Verteron regional quests (10-11).
+
+**Complete** (Level 43/48)
+
+| Achievement | Progress | Next reward |
+|---|---|---|
+| Frequent Visitor (log in) | 27/50 | 430 ES |
+| Only as Good as One's Gear (GS) | 1,842/2,000 | item, 10k Kina |
+| Benediction of Justice (Nezekan nodes) | 59/60 | |
+| Benediction of Destruction (Zikel nodes) | 57/60 | |
+| Benediction of Freedom (Vaizel nodes) | 60/80 | |
+| Benediction of Death (Triniel nodes) | 67/80 | |
+| Benediction of Darkness (Azphel nodes) | 25/40 | |
+| Honed Skills IV (Rare nodes) | 36/40 | |
+| Innate Talent V (Epic nodes) | 45/60 | |
+| Unrivaled Talent IV (Unique nodes) | 17/20 | |
+
+Done: Level 45 (10-10), 100 h playtime (10-19).
+
+**Custom** (Level 2, 30/45). Pets and social; most cards pay 10 Soul Crystals.
+
+| Achievement | Progress |
+|---|---|
+| The More the Merrier (join a Legion) | **0/1** (title There's No "I" in Team) |
+| Back to Innocence II (friends) | 1/3 |
+| My Reliable Friends VI (pets) | 118/150 |
+| Pet level sets: Cogni 7 at Lv2 / 3 at Lv3 | 5/7, 1/3 |
+| Fera 7 at Lv2 / 3 at Lv3 | 5/7, 2/3 |
+| Natura 7 at Lv2 / 1 at Lv3 | 3/7, 0/1 |
+| Varian 7 at Lv2 / 3 at Lv3 | 5/7, 1/3 |
+| Insight level 7: Cogni / Fera / Natura / Varian | 5 / 6 / 5 / 5 |
+| Special Insight level 3 | 0/3 |
+| Genus Genius (all Insights Lv 10) | 0/5 |
+| Insight Analysis ×5, each genus | 1/5 each |
+| ★★★★★ III (give commendations) | 29/50 |
+| Received: Exceptional Skill / Dedicated Support / Reliable Guardian / Great Leadership / Helpful Mentor | 28/50 · 14/50 · 6/10 · 7/10 · 4/10 |
+
+## Challenge
+**Combat** (Level 3, 22/24)
+
+| Achievement | Progress | Next reward |
+|---|---|---|
+| Nothing Personal, Kid (player kills) | **258/300** | 4 scrolls, 16k Kina, title card |
+| You'll Regret This III (killed by players) | 36/50 | |
+| A Dance with Death III (killed by bosses) | 33/60 | |
+
+Done: Critical Strike VII (10-12), Stance Toward the Strong 100/100 (10-19).
+
+**Hunting** (Level 3, 24/33)
+
+| Achievement | Progress | Next reward |
+|---|---|---|
+| They Just Keep Coming (all monsters) | 11,597/30,000 | 980 ES |
+| Cogni Killer VII | 7,227/30,000 | |
+| Fera / Natura / Varian (IV) | 1,200 · 1,231 · 1,868 /2,000 | |
+| War on Crime I (Special) | 71/100 | |
+| Doing You a Favor III (Altgard) | 148/300 | |
+| Windstream to Eternity (Eternal Isle) | 121/300 | |
+| Windstream to Crimson (Crimson Isle) | 63/100 | 10 Soul Crystals |
+
+**Boss** (Level 1, 5/9): done Kernon, Neikel, Rotten Kutar, Blooming Korin, Black Tentacle Lawa. The other
+field bosses and Field Bosses (Kashapa, Lagta, Eternal Gartua, Dartan) are 0/1. Not chased.
+
+## Exploration
+**Field** (Level 4, 47/60)
+
+| Achievement | Progress |
+|---|---|
+| Who Brought the Chest? (Hidden Cubes) | 6/10 |
+| Ereshkigal's Monolith Level 20 | 16/20 |
+| Traces Left in the Abyss (Reshanta traces) | 200/300 |
+| Soaring the Skies V (Updraft) | 117/150 |
+| Riding the Winds IV (Windstream) | 65/100 |
+| Here to Swim III / Ride the Wind III (minutes) | 55/60 · 55/60 |
+| Uncertain Path III (Verteron Spacetime Rift) | 10/30 |
+| Dimension Defender (Invasions) | 11/30 (430 ES) |
+
+Done: both village sets, Verteron Monolith 30, Verteron traces 500, 5 h flying.
+**Bind** (Kibelisks): 62/75. **Shugo Festival**: Regular 52/60 (15 Soul Crystals), Centuryroot's Heart
+16,860/30,000, all 9 minigames done. **Sealed Dungeon**, **Stronghold**: all done (10-20).
+
+## Dungeon
+Speedrun tiers get faster (10 min Exploration, 7 or 20 min Conquest seen).
+
+| Dungeon | Exploration clears | Conquest clears | Open extras |
+|---|---|---|---|
+| Krao (Lv 2, 14/20) | 2/3 (280 ES) | 3/5 (390 ES) | solo ×2, I'm Pulling This 10/15 |
+| Draupnir (Lv 3, 18/23) | 3/4 (400 ES) | 10/15 (520 ES) | Conquest <7 min, solo ×2, Windstream device 4/10 |
+| Urugugu (Lv 2, 16/20) | 1/2 (250 ES) | 19/20 (520 ES) | Expl <10 min, Conq <7 min, solo ×2 |
+| Vakron (Lv 1, 7/10) | 3/4 (400 ES) | 0/1 (250 ES, title) | Conq <20 min, Conq no death, solo ×2, Pulling 6/10, Trampled Dream 0/20 (title) |
+| Fire Temple (3/8) | 1/2 (250 ES) | 0/1 (250 ES, title) | Expl <10 min, Conq <20 min, Conq no death, solo ×2, Sauna (title), small kill counts |
+| Horn Den (0/10) | 0/1 (180 ES) | 0/1 (250 ES) | all open |
+| Sanctuary / Ludra (0/7) | Clear 0/1 (340 ES) | – | all open |

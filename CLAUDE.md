@@ -11,6 +11,7 @@ database and Claude is the interface. The user talks in plain language ("did nig
 | `characters/<name>.md` | One file per character: who plays it, class, level, gear score, notes. Characters not played by the user (e.g. Hamme, a friend's) get no routine tracking | Markdown, key facts in a table |
 | `share/` | Pages published as Artifacts for other people (see "Shared pages") | HTML |
 | `characters/<name>-build.md` | That character's build: hotkeys, Stigma presets, skill points, priorities | Markdown |
+| `characters/<name>-achievements.md` | Achievement progress snapshot from screenshots (open cards only) | Markdown tables |
 | `routines.yaml` | Reset rules + the dailies/weeklies to track | YAML |
 | `log/YYYY-MM.md` | Append-only record of what was done | Markdown list, one line per entry |
 | `goals.md` | Farming/progress targets with counts | Markdown table |
