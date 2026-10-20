@@ -4,6 +4,18 @@ Researched 2026-10-15, all sections 2026-10-20. Mostly metabot.gg, which reads t
 [270]. Unverified unless tagged `in-game`. Titles from achievements: see `titles.md`.
 
 ## How they work
+- **In-game layout (in-game 2026-10-20):** tabs All · Progress (Quest, Complete, Custom) · Challenge
+  (Combat, Hunting, Boss) · Exploration (Field, Bind, Shugo Festival, Sealed Dungeon, Stronghold) ·
+  Dungeon (Krao, Draupnir, Urugugu, Vakron, Fire Temple, Horn Den, Sanctuary = Ludra) · Resource.
+  Each sub-category has its own level bar (e.g. Quest Level 3, 28/33) with a reward per level.
+  A card shows only the current tier: its threshold, progress and that tier's reward. Finished cards
+  turn grey with "Completed: date". Season 1 achievements: not seen in these tabs yet.
+- **Tier rewards are small per step** (in-game 2026-10-20): e.g. Five Veiled Fates IV at 50 = 540
+  Enhance Stones + 16k Kina, dungeon clear tiers 180–520 Enhance Stones. metabot's totals add all tiers up.
+- **Speedruns get faster per tier** (in-game 2026-10-20): Exploration "within 10 minutes", Conquest
+  "within 7 minutes" (Krao, Draupnir, Urugugu) or "within 20 minutes" (Vakron, Fire Temple, Horn Den)
+  seen as current tiers. ~~flat 20 min~~ [372]–[375] is only the first tier.
+- **Achievement GS** is called "Character Item Level" in the game's text (in-game 2026-10-20).
 - **Sections** [270]: Adventure (Kibelisk, Exploration, Sealed Dungeon, Shugo Festival, Stronghold) ·
   Challenge (Field Boss, Hunting, Combat) · Growth (Social, Milestones, Quests) · Items (Enhancement,
   Crafting, Gear Collection, Gathering, Consumables) · Dungeons (7) · Season 1 (Challenges, Abyss,
@@ -11,8 +23,8 @@ Researched 2026-10-15, all sections 2026-10-20. Mostly metabot.gg, which reads t
   ~~Titles menu~~ categories (Adventure, Quest, Challenge, Dungeon, Item, Growth) are a separate menu (`titles.md`).
 - **Tiered:** I/II/III…, each tier pays at its threshold. metabot lists only the total over all tiers.
   Thresholds don't always scale linearly (in-game 2026-10-19), so a single number is often only tier I.
-- **Not found:** whether rewards must be claimed by hand, and whether progress is per character or
-  account-wide. Check in-game.
+- Rewards are claimed by hand (in-game 2026-10-18). **Not found:** whether progress is per character
+  or account-wide.
 
 ## Duty Missions and Commands
 **Where (in-game 2026-10-18):** Achievements → Progress tab → Quest (left). Shows Five Veiled Fates and Herald of Hope
