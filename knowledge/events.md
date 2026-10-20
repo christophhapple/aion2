@@ -8,8 +8,8 @@ Researched 2026-10-11. Times: `schedule.md`. Sources [n]: `sources.md`. Unverifi
   round. **10-minute time limit; a round took about 5 min** (in-game 2026-10-11). ~~3 min~~ [102].
   Random field spots in the home regions (Verteron/Altgard) [100].
 - **Didn't show up at 15:30 on 2026-10-20** (in-game). No patch, known-issue post or timer change found that
-  day (all trackers still say every :30 [61][62][63][352]). Not in a Rift or the Abyss at the time, so cause
-  unknown. Watch whether it comes back at the next :30.
+  day (all trackers still say every :30 [61][62][63][352]). Not in a Rift or the Abyss, and checked inside the join
+  window, so cause unknown. Watch whether it comes back at the next :30.
 - **In a Spacetime Rift or the Abyss** the timer next to the minimap still shows, but greyed out: you can't join
   from there. Teleport back to Verteron within the join window and you can still join (in-game 2026-10-20;
   matches [352]).
