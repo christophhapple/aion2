@@ -97,13 +97,14 @@ points, in this order (both trigger on their own, nothing to press):
 **Trigger map (on top of the macro):**
 - **An enemy player starts on me** → Yustiel's Power (E). Not at the pull: it's 10s, save it for their burst.
 - **HP low and still dropping** → Salvation (Q), then Healing Light during the 3s.
-- **I got CC'd** → Defiance (Space), as in PvE. Note: **Salvation shares a 30s lockout with Tenacity**
-  (tooltip), so right after Defiance, Salvation may not be usable; inference, check in-game.
+- **I got CC'd** → Defiance (Space), as in PvE. Note: **Salvation and Tenacity can lock each other out for
+  30s, but only "if Invincibility stacking is blocked"** (tooltip, 2026-10-20); where that applies is unknown, so right after
+  Defiance, Salvation may not work. Check in-game.
 - **Debuffed / slowed** → Radiant Recovery (removes 1).
 - **Abyssal Power Shards:** toggle on when going in (they ignore some PvP Defense, `knowledge/abyss.md`).
 - Losing anyway → die or fly back to Western Root; respawn there, no penalty.
 
-**Open (in-game):** does the Tenacity lockout block
+**Open (in-game):** does the Tenacity lockout block (where is "Invincibility stacking" blocked: test in the 1v1 arena and open-world Abyss, Defiance then Q right away)
 Salvation after Defiance; does Chain of Torment option 4 (PvE Damage Tolerance) do anything in PvP.
 
 ## Playstyle model
