@@ -138,8 +138,9 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
   tag, e.g. "Fera") (in-game 2026-10-19). **Souls keep dropping after Lv 3** (in-game 2026-10-19). They give **no Genus Insight EXP** (in-game
   2026-10-19; ~~each soul gives Genus Insight EXP~~ [343]). The soul count stays at 105 too (in-game 2026-10-19), so **extra souls are wasted**: stop farming a pet at Lv 3. No sign they bank for a
   future level cap (KR has Lv 5).
-- Pets menu → a pet's Source tab shows which monster drops its soul [121]. Drop rate falls when the mob
-  is more than ~10 levels below you [121]. **Souls: 5 unlock a pet, +25 for Lv 2, +75 for Lv 3 = 105** [207][201]; cap Lv 3 on global (5 in KR/TW) [204]. ~~5 per pet~~ [121] was unlock only; numbers changed in a KR patch
+- Pets menu → a pet's Source tab shows which monster drops its soul [121]. Open-world monsters show
+  your level (all Lv 45 at Lv 45) and drop a soul almost every kill (in-game 2026-10-20). ~~Drop rate falls when
+  the mob is more than ~10 levels below you~~ [121] (likely KR or old: the listed spawn levels don't apply). **Souls: 5 unlock a pet, +25 for Lv 2, +75 for Lv 3 = 105** [207][201]; cap Lv 3 on global (5 in KR/TW) [204]. ~~5 per pet~~ [121] was unlock only; numbers changed in a KR patch
   (Jan 2026), global unclear.
 - Every pet owned adds small permanent stats; collection milestones at 5 pets, then every 10 [115][121].
 - **Genus Insight** (pet families): 5 boards (Cogni, Fera, Natura, Varian, Special), each with 9 stat
@@ -225,9 +226,9 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
     Faded Drana ← Faded Chunk 35 · Duduka Trebuchet Worker ← Duduka Slinger 42 · Vigilant Oculazen ← 32 · Drakana
     Kalgolem ← Crash Site Kalgolem 11 · Faded Mutant Brute ← 35 · Parasite Swarm ← Giant Ore Insectoid Adult 36 ·
     Soulless Corpse Gnat ← 33 · Slime ← Unruly Slime 29
-- Most of these mobs are Lv 10–36, so at Lv 45 the soul drop rate is reduced (>~10 levels below you [121]). The
-  Lv 40+ ones (Mumu Warrior, Varg Berserker, Tayga, Eternal Coradon, Forest Guardian / Agrint 48, Odyle Stone Spirit
-  46, Poison Blood 47, Duduka Worker/Trebuchet 41–42, Mudthorn 44) are the efficient rift targets (own inference).
+- The monster levels above are the guide's spawn data; in-game, open-world monsters scale to your level and drop a
+  soul almost every kill (in-game 2026-10-20), so all 39 are equally good rift targets. ~~Only the Lv 40+ ones are
+  efficient~~ (own inference, wrong).
 - Check per pet: Pets menu → Source tab shows where its monster spawns [121].
 
 ### Genus Insight stat lines (researched 2026-10-16, guides, unverified)
