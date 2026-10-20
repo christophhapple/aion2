@@ -28,8 +28,8 @@ for (let y = 0; y < H; y++) {
 }
 // Cells: 4 columns, 2 rows; icon boxes exclude the name labels and descriptions.
 const colors = {
-  Gladiator: null, Templar: [110, 145, 235], Assassin: null, Ranger: [60, 180, 140],
-  Sorcerer: [175, 120, 235], Spiritmaster: null, Cleric: [230, 180, 60], Chanter: null,
+  Gladiator: [120, 195, 235], Templar: [110, 145, 235], Assassin: [150, 215, 110], Ranger: [60, 180, 140],
+  Sorcerer: [175, 120, 235], Spiritmaster: null, Cleric: [230, 180, 60], Chanter: [230, 145, 60],
 };
 const order = ['Gladiator', 'Templar', 'Assassin', 'Ranger', 'Sorcerer', 'Spiritmaster', 'Cleric', 'Chanter'];
 const centers = [172, 536, 900, 1265], bands = [[15, 166], [285, 436]];
