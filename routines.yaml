@@ -102,15 +102,27 @@ routines:
   # PvP (second priority since 2026-10-19). Build: characters/dhamira-build.md "PvP preset" (Batch Set 3).
   - id: arena-solo
     name: Arena of Solitude (1v1)
-    notes: Arena window, matchmaking always open. 300 AP per match, 500 AP per win (in-game 2026-10-18). Weekly reward limit 10 participation + 30 victory, Wed reset. Cap 10 = matches played; more wins still pay, so log the real count and note wins. Best test of the PvP preset. Details knowledge/endgame.md "Arena".
+    notes: Arena window, matchmaking always open. 300 AP per match, 500 AP per win (in-game 2026-10-18). Weekly reward limit 10 participation + 30 victory, Wed reset. Cap 10 = participation rewards; log every match played here, wins additionally as arena-solo-win. Best test of the PvP preset. Details knowledge/endgame.md "Arena".
     reset: weekly
     cap: 10
 
+  - id: arena-solo-win
+    name: Arena of Solitude wins
+    notes: Victory reward limit 30/week (500 AP each) (in-game 2026-10-18). Log wins only; the same matches also go into arena-solo.
+    reset: weekly
+    cap: 30
+
   - id: arena-team
     name: Arena of Cooperation (5v5)
-    notes: Same window and rewards as arena-solo (separate limit, 10 participation + 30 victory per week) (in-game 2026-10-18). Cap 10 = matches played; log the real count and note wins.
+    notes: Same window and rewards as arena-solo, separate limit (in-game 2026-10-18). Cap 10 = participation rewards; log every match played here, wins additionally as arena-team-win.
     reset: weekly
     cap: 10
+
+  - id: arena-team-win
+    name: Arena of Cooperation wins
+    notes: Victory reward limit 30/week (500 AP each) (in-game 2026-10-18). Log wins only; the same matches also go into arena-team.
+    reset: weekly
+    cap: 30
 
   - id: abyss-time
     name: Abyss time (Lower Reshanta)
