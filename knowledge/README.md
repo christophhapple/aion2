@@ -30,7 +30,7 @@ patch notes, which beat guides. Every fact is tagged with its source and date or
 | `transcendence.md` | Transcendence dungeons (Deus, Arkanis): rules, boss mechanics, stage modifiers, rewards | 2026-10-16 |
 | `classes.md` | The 8 classes, roles, how to recognise their icons (picture in `images/`); Chanter as healer, buff conflicts with Cleric | 2026-10-17 |
 | `titles.md` | Title slots, owned bonus, which titles to equip | 2026-10-11 |
-| `achievements.md` | Achievement sections, duty/command counts, easy ones | 2026-10-15 |
+| `achievements.md` | Achievement sections, duty/command counts, easy ones, useful rewards across all sections | 2026-10-20 |
 | `sorcerer.md` | Sorcerer skills, Stigmas, specialties, rotation, stats (all guides, unverified) | 2026-10-11 |
 | `abyss.md` | Abyss: PvP rules, layers, low-risk PvE, healer advice; also Supply Requests (not Abyss content, but pay AP) | 2026-10-14 |
 | `crafting.md` | Professions, gathering, crafted gear, economy | 2026-10-10 |

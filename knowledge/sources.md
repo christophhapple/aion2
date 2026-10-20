@@ -445,3 +445,16 @@ Added 2026-10-19 (Cleric PvP).
 361. getrankd.gg, Aion 2 server transfers (news, cites NC notices), 2026-10, G: https://www.getrankd.gg/games/aion-2/news/aion-2-server-transfers
 362. game8, Elyos vs Asmodians faction guide (no faction change), undated, G: https://game8.co/games/Aion-2/archives/622434
 363. Fextralife wiki, Servers (EU Launch vs Advanced Access pairs), undated, G: https://aion2.wiki.fextralife.com/Servers
+364. metabot.gg, Sealed Dungeon achievements, undated, G: https://metabot.gg/en/aion-2/achievements/sealed-dungeons
+365. metabot.gg, Shugo Festival achievements, undated, G: https://metabot.gg/en/aion-2/achievements/shugo-festival
+366. metabot.gg, Stronghold achievements, undated, G: https://metabot.gg/en/aion-2/achievements/strongholds
+367. metabot.gg, Field Boss achievements (12 of 45 shown), undated, G: https://metabot.gg/en/aion-2/achievements/bosses
+368. metabot.gg, Combat achievements, undated, G: https://metabot.gg/en/aion-2/achievements/combat
+369. metabot.gg, Crafting achievements, undated, G: https://metabot.gg/en/aion-2/achievements/crafting
+370. metabot.gg, Gear Collection achievements, undated, G: https://metabot.gg/en/aion-2/achievements/gear-collection
+371. metabot.gg, Season 1 Abyss achievements, undated, G: https://metabot.gg/en/aion-2/achievements/season-1-abyss
+372. metabot.gg, Fire Temple achievements, undated, G: https://metabot.gg/en/aion-2/achievements/fire-temple
+373. metabot.gg, Draupnir achievements, undated, G: https://metabot.gg/en/aion-2/achievements/draupnir-cave
+374. metabot.gg, Vakron Sky Island achievements, undated, G: https://metabot.gg/en/aion-2/achievements/vakron
+375. metabot.gg, Krao Cave achievements, undated, G: https://metabot.gg/en/aion-2/achievements/krao-cave
+376. metabot.gg, Abyssal Forge: Ludra achievements, undated, G: https://metabot.gg/en/aion-2/achievements/sanctuary
