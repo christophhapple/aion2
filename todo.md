@@ -4,6 +4,10 @@ One-off things to do or check in the game. Daily/weekly routines live in `routin
 tracker itself goes in `backlog.md`.
 
 ## Open
+- [ ] Quick achievements (state 2026-10-20, `characters/dhamira-achievements.md`), then claim them:
+  join a Legion (0/1 → title There's No "I" in Team) · use 1 Transformation Candy (Sweet Tooth, 0/1) ·
+  store items 2 more times (Storage Keeper III, 48/50 → title) · buy 5 more items at the Black Cloud
+  Merchants (5/10 → title)
 - [ ] Easy achievement: next Fire Temple **Conquest** run, lie down (emote) in the boss room → title "Kromede Will Remember That" (guide, unverified; whether before or after the kill isn't stated). See `knowledge/achievements.md`
 - [ ] Verify: after 2026-10-25 (DST change), do event times stay on the local clock (Rift still at 02, 05, 08 … 23)? And is the daily reset at 08:00 or still 09:00 local? (Season/event countdowns hint 09:00; then `routines.yaml` needs 08:00 UTC)
 - [ ] Transfer: on your first real transfer, note how many Transfer Stones it took and what ends up on the kept piece (Soul Binding lines, Manastones, Theostone, Soul Fuse). The window shows no result preview
