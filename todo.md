@@ -12,6 +12,7 @@ tracker itself goes in `backlog.md`.
 - [ ] Arcana Extract: after extracting one spare card, does the window still show 11% with nothing registered (= gauge that keeps progress) or 0% (= chance)? Does a +0 Common give less than 11%?
 - [ ] Cube-hunting audio for gathering/pet runs: Master + Sound Effects 100%, Music, Ambient, Monster, Mount, own character + wing sounds low. Save it as its own audio preset (the game supports audio presets, user 2026-10-19). See `knowledge/endgame.md` "Hidden Cubes"
 - [ ] *(low priority, doesn't change the build)* PvP: right after Defiance, does Salvation (Q) still work? Its tooltip blocks it for 30s only "if Invincibility stacking is blocked"; try in the 1v1 arena and open-world Abyss
+- [ ] Class icon colors: screenshot party lists / nameplates whenever new classes show up, until all 8 colors are seen (for a colored copy of `knowledge/images/class-icons.png`). Seen so far: none
 - [ ] Pantheon: can Eternal Gartua (Verteron, Eternal Isle) and Immortal Gartua (Altgard, Immortal Isle) both be placed, or do they share a slot? Decides whether Altgard field bosses are worth it. See `knowledge/endgame.md` "Artworks"
 
 ## Done
