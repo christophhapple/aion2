@@ -440,3 +440,8 @@ Added 2026-10-19 (Cleric PvP).
 356. metabot.gg, title "Abyss [Season 1] First-Class Soldier", undated, G: https://metabot.gg/en/aion-2/titles/abyss-season-1-first-class-soldier
 357. metabot.gg, currency "Silver Medal of Merit" (uses + sources), undated, G: https://metabot.gg/en/aion-2/currencies/silver-medal-of-merit
 358. u4n.com, Medal of Merit guide (gold seller; mixes in Aion 1 info), 2026-01-22, upd. 2026-10-20: https://www.u4n.com/news/aion-2-medal-of-merit-guide-platinum-silver-gold.html
+359. NC official, "[Notice] Server Transfer Q&A", 2026-10-09, upd. 2026-10-20: https://aion2.plaync.com/en-us/board/notice/view?articleId=6ac7e128d97eae18cc40e3b7
+360. NC official, "[Notice] Server Transfer Products Info", 2026-10-09, upd. 2026-10-20: https://aion2.plaync.com/en-us/board/notice/view?articleId=6ac932a8fa34c1011d627bc9
+361. getrankd.gg, Aion 2 server transfers (news, cites NC notices), 2026-10, G: https://www.getrankd.gg/games/aion-2/news/aion-2-server-transfers
+362. game8, Elyos vs Asmodians faction guide (no faction change), undated, G: https://game8.co/games/Aion-2/archives/622434
+363. Fextralife wiki, Servers (EU Launch vs Advanced Access pairs), undated, G: https://aion2.wiki.fextralife.com/Servers

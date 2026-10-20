@@ -61,9 +61,10 @@ unobtained Odyle cubes 10 (server) [50].
 | Date | What |
 |---|---|
 | 2026-10-14 | Gift code TAKEFLIGHTAION2: its bound consumables **expire** (EU) [67] |
-| 2026-10-14 | Free same-faction server transfers open [67] |
+| 2026-10-14 | Free same-faction server transfers open (Early Access servers only) [67] |
 | 2026-10-16 | Twitch launch drops end; Ludra rework/First Clear event date to be announced [67] |
 | 2026-10-21 | Maintenance 08:30–14:00 CEST (5.5h, servers down; contents not announced yet) [353] |
+| 2026-10-21 → 10-28 | **Free server transfer window for Launch servers (incl. Nania)**, EU 12:00–16:00 + 18:00–22:00, first day from 14:00; once per account, same faction only. See `server-transfer.md` [359] |
 | 2026-10-25 | DST change: reset 09:00 → 08:00 local |
 | 2026-10-28 | Planet's Call (50-level event pass) ends at maintenance [50][65]. No tasks, only XP from normal play (in-game), so not worth planning around |
 | 2026-11-09 | Community launch events end [67] |
