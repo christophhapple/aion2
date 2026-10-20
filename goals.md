@@ -15,6 +15,35 @@ Background: `knowledge/progression.md`.
 | Genus Insight boards to Lv 10, then roll good stats | Dhamira | Cogni Insight Lv 4, 4 lines open (2026-10-13); other boards not checked | all 5 boards Lv 10, good lines locked | Genus lines are the real value of pets (slot 4 PvE Damage Boost etc.); all 5 at Lv 10 → title "Unbound by Genus" (guides). Order: save Soul Crystals, level boards with pets first, use Analyze (nothing locked) from Insight 5 to push EXP; at 10, reroll until the wanted stats show, then lock. Highest level counts for the whole server (guides). See `knowledge/endgame.md` "Pets" |
 | Shugo Festival: participate 60 times | Dhamira | 45/60 (2026-10-19) | 60 | Next tier of the participation achievement (30 tier done). Comes with buying out the Shugo shop anyway |
 
+## Achievements (useful rewards)
+Picked from `knowledge/achievements.md` "Worth doing". Rewards are totals over all tiers (guides,
+unverified). Target = the next tier, "?" until read from a screenshot. All Dhamira. Weeklies aren't
+listed here: they reset, so they'd be routines.
+
+| Achievement | Current | Next tier | Reward (all tiers) | Why |
+|---|---|---|---|---|
+| **Season 1, ends 2026-12-16** | | | | |
+| Nightmare: Gatekeeper Pinopi | ? | ? | 7,690 Oath Coins, 6,750 Enhance Stones | Biggest Enhance Stone source among achievements |
+| Nightmare: Furious Feruk | ? | ? | same | |
+| Nightmare: Fafnir's Poison Blood | ? | ? | same | |
+| Nightmare: Wraith Giselle | ? | ? | same | |
+| Nightmare: Fortress Guardian Notun | ? | ? | 10,770 Oath Coins, 45 Soul Codex | |
+| Nightmare: Mutated Gerod | ? | ? | same | |
+| Nightmare: Zikel's Apparition | ? | ? | 15,150 Oath Coins, 45 Soul Codex | |
+| Deus Research Base Stage 1–4 | ? | ? | 1,460–5,660 Oath Coins + Training Arcana per stage | Comes with Transcendence |
+| Shattered Arkanis Stage 1–4 | ? | ? | same | |
+| Tower of Trials (Ascension Trial score) | ? | ? | 12,660 Oath Coins, Training Arcana | |
+| Tribulation of Aponos (Nightmare Altar) | ? | ? | 2,940 Oath Coins, 15 Silentium | |
+| Tribulation of Duduri and Dodori (Sanctum of Loathing) | ? | ? | same | |
+| Street Fighter (Abyss player kills) | ? | ? | 16,800 Oath Coins, 33,600 AP, 10 Soul Codex | PvP, slow for a healer |
+| **Permanent** | | | | |
+| Five Veiled Fates (missions) | ? | ? | 3,710 Enhance Stones, title Protector of Atreia at 30 | Comes with dailies |
+| Herald of Hope (commands) | ? | ? | same, title Messenger of Atreia at 30 | |
+| Exploration / Conquest Clear, each expedition | ? | ? | ~1,600 + 2,480 Enhance Stones per dungeon | Comes with expeditions |
+| Rare / Legendary / One-of-a-Kind Gear | ? | ? | 1,910 / 2,450 / 3,210 Enhance Stones | Passive |
+| Stance Toward the Strong (boss crit finish) | ? | ? | 2,350 Enhance Stones | Passive |
+| Veteran Wing Collector | ? | ? | title Dominator of Dimensions at 25 wings | Best PvE defense title, long-term |
+
 ## Done
 - [x] All Altgard Sealed Dungeons + Strongholds cleared (2026-10-20)
 - [x] Ascension Bracelet: Unique +10 with a Superior Manastone (2026-10-19)
