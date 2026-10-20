@@ -4,6 +4,9 @@ One-off things to do or check in the game. Daily/weekly routines live in `routin
 tracker itself goes in `backlog.md`.
 
 ## Open
+- [ ] Screenshot the **Season Missions** window, all tabs (= metabot's Season 1 achievements: Nightmare
+  bosses, Transcendence stages, Tower of Trials, Tribulations, Abyss, Arena, weeklies). Fills the "?" in
+  `goals.md` and checks the weekly caps in `routines.yaml`
 - [ ] Quick achievements (state 2026-10-20, `characters/dhamira-achievements.md`), then claim them:
   join a Legion (0/1 → title There's No "I" in Team) · use 1 Transformation Candy (Sweet Tooth, 0/1) ·
   store items 2 more times (Storage Keeper III, 48/50 → title) · buy 5 more items at the Black Cloud
