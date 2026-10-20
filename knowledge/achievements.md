@@ -11,8 +11,7 @@ Researched 2026-10-15, all sections 2026-10-20. Mostly metabot.gg, which reads t
   (e.g. Quest Level 3, 28/33) with a reward per level. A card shows only the current tier: its
   threshold, progress and that tier's reward. Finished cards turn grey with "Completed: date".
 - **No Season tab** in the Achievements window (in-game 2026-10-20). metabot's "Season 1" achievements
-  are probably the in-game **Season Missions** (the Abyss command and Battlefield chains were seen
-  there, in-game 2026-10-18/19). Unconfirmed for the rest.
+  are the in-game **Season Missions** (user, in-game 2026-10-21).
 - **Tier rewards are small per step** (in-game 2026-10-20): e.g. Five Veiled Fates IV at 50 = 540
   Enhance Stones + 16k Kina, dungeon clear tiers 180–520 Enhance Stones. metabot's totals add all tiers up.
 - **Speedruns get faster per tier** (in-game 2026-10-20): Exploration "within 10 minutes", Conquest
