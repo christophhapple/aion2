@@ -438,3 +438,5 @@ Added 2026-10-19 (Cleric PvP).
 354. expcarry.com, Abyss rank (boost-service page; Global S1 thresholds + buffs), undated, G: https://expcarry.com/aion-2-abyss-rank
 355. aion2hub.com, Season 2 PvP rankings & rewards (fan site), KR/TW client v110, 2026-09-09: https://aion2hub.com/tools/seasons/rankings/2
 356. metabot.gg, title "Abyss [Season 1] First-Class Soldier", undated, G: https://metabot.gg/en/aion-2/titles/abyss-season-1-first-class-soldier
+357. metabot.gg, currency "Silver Medal of Merit" (uses + sources), undated, G: https://metabot.gg/en/aion-2/currencies/silver-medal-of-merit
+358. u4n.com, Medal of Merit guide (gold seller; mixes in Aion 1 info), 2026-01-22, upd. 2026-10-20: https://www.u4n.com/news/aion-2-medal-of-merit-guide-platinum-silver-gold.html

@@ -147,6 +147,14 @@ Guides mostly describe KR/TW; global details may differ. Sources [319]–[321].
   limits you can't dump a big stack in the last week, so craft as you go (e.g. each time you have enough for a Unique). It matters most where the weekly craft limit binds (Dimensional and Nahma: 2/week).
   Silver Medals are PvP gear currency (low value for a PvE player).
 
+## Silver Medal of Merit (researched 2026-10-20, guides, unverified)
+- **Currency, spent in the Arena/Abyss Trade Shop** on **Centurion skin pieces**: 7 armor pieces (incl. cloak)
+  40 each, necklace + earrings 80 each, bound, 1 per character [357]. No stats listed; cosmetic. Buying needs
+  Ninth-Class Soldier rank [354]. "Used to craft/upgrade Abyss gear" [358] reads like Aion 1 info (Blood Marks,
+  Mithril), doubtful.
+- **Sources:** ~19 Abyss PvP/hunting achievements (1–20 each) [357], Merit Chests (Argo/Dimensional/Nahma, 1–3
+  each, see above), weekly achievement "Daeva of Glorious Deeds" (3) (`achievements.md`).
+
 ## Advice for a healer at GS ~1100 (inference, not from a guide)
 - Worth it in small doses: Duty Missions, Command Scrolls and feathers **near Western Root**, then leave.
 - Go with a damage-dealing partner at minimum; a Cleric alone can't kill an attacker [85].
