@@ -41,10 +41,10 @@ Bosses: eight level-65 Hero field bosses drop Unique armor sets and refining sto
   **Epic** (in-game 2026-10-20): e.g. "Sulfur Tree Island: Defeat Abyss Nagarant
   Brawler" (boss + surrounding forces). Basic 1,000 Abyss Points + 600 Abyssal Power Shards (red shard icon; 200 /
   400 / 600 across grades); random rewards: 200 yellow crystals, 550 Abyss Points, a pair of Rare (green) boots, a
-  weapon-like item with a red badge (blue background), 2,000 of a gold ore/crystal item. Redraw 0/10, 1,000 each.
+  weapon-like item with a red badge (blue background), 2,000 Enhance Stones (gold ore icon, in-game 2026-10-20). Redraw 0/10, 1,000 each.
   **Unique** (in-game 2026-10-20): e.g. "Reshanta's Root: Defeat Abyss Drakan Superior/Elite Drakan" (Elite + Superior
-  Drakan + surrounding forces). Basic 1,000 Abyss Points + 800 Abyssal Power Shards; random rewards: 400 and 500 of
-  the gold ore/crystal item, a sword with a red badge, 1,100 Abyss Points, 200 red crystals (teal background).
+  Drakan + surrounding forces). Basic 1,000 Abyss Points + 800 Abyssal Power Shards; random rewards: 400 and 500
+  Enhance Stones, a sword with a red badge, 1,100 Abyss Points, 200 red crystals (teal background).
   Redraw 0/10, 1,000 each. **Abyssal Power Shards** work like normal Power Shards: toggle on to consume them, they buff Attack while being
   used up; the Abyssal ones also ignore some of a PvP enemy's Defense (in-game 2026-10-18).
 - **Abyss Points cap: none shown in-game** (in-game 2026-10-18). ~~Weekly cap, separate for PvE and PvP~~ [50] not seen.
