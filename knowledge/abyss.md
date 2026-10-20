@@ -37,7 +37,7 @@ Bosses: eight level-65 Hero field bosses drop Unique armor sets and refining sto
   **Green (37,500)** (in-game 2026-10-18): e.g. "Archipelago of Siel's Wings: Defeat Abyss Drakan Chief" (boss + surrounding
   forces). Basic 1,000 Abyss Points + 400 Abyssal Power Shards; random rewards: 200-stacks of green/teal crystals, a
   compass-like item, and a chance at a **Radiant Ruby** (Unique gem, crafting material) (in-game 2026-10-18). **Redraw** up to 10 times, 1,000 each (icon looks like Abyss Points).
-  Probably Epic = blue (75,000) and Unique = gold (150,000): only inferred from the 200/400/600/800 shard steps, unconfirmed.
+  **Epic = 75,000, Unique = 150,000** (in-game 2026-10-20).
   **Epic** (in-game 2026-10-20): e.g. "Sulfur Tree Island: Defeat Abyss Nagarant
   Brawler" (boss + surrounding forces). Basic 1,000 Abyss Points + 600 Abyssal Power Shards (red shard icon; 200 /
   400 / 600 across grades); random rewards: 200 yellow crystals, 550 Abyss Points, a pair of Rare (green) boots, a
