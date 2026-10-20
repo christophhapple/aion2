@@ -435,3 +435,6 @@ Added 2026-10-19 (Cleric PvP).
 351. vortexgaming.io, KR Cleric PvP stigmas/specialties (ranker stats), undated, KR: https://vortexgaming.io/postdetail/977592 · inven community: https://www.inven.co.kr/board/aion2/6452/657
 352. thegameswiki.com, Dimensional Invasion (not enterable during a Spacetime Rift), undated: https://thegameswiki.com/aion-2/wiki/dimensional-invasion
 353. Steam news, official "[Notice] Maintenance | Oct. 20 (PDT) / Oct. 21 (CEST)", 2026-10-19: https://steamcommunity.com/app/3393110/allnews/?l=english
+354. expcarry.com, Abyss rank (boost-service page; Global S1 thresholds + buffs), undated, G: https://expcarry.com/aion-2-abyss-rank
+355. aion2hub.com, Season 2 PvP rankings & rewards (fan site), KR/TW client v110, 2026-09-09: https://aion2hub.com/tools/seasons/rankings/2
+356. metabot.gg, title "Abyss [Season 1] First-Class Soldier", undated, G: https://metabot.gg/en/aion-2/titles/abyss-season-1-first-class-soldier

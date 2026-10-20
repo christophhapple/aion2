@@ -53,6 +53,31 @@ Bosses: eight level-65 Hero field bosses drop Unique armor sets and refining sto
 - **Ereshkigal Monolith** (in Western Root, max level 20): uses Reshanta feathers only; gives permanent
   **PvP** stats + Azphel Daevanion Crystals [80][89][90]. Traces needed: 200 [80] **vs** 300 [89].
 
+## Abyss ranks (researched 2026-10-20, guides, unverified)
+- **Shown above enemy players' names in the arena** ("Trainee", "Fifth-Class Soldier" …) (in-game 2026-10-20).
+- **19 ranks**, low → high: Trainee, Ninth- … First-Class Soldier (9), 1- … 5-Star Officer (5), General,
+  Marshal, Commander, Supreme Commander [354][355]. Trainee = starting rank, no reward [355].
+- **Decided by points *and* placement within your class** (per class); thresholds are minimums, the top ranks are
+  limited seats [354][355]. Which points count is unclear: [354] says separate Ranking Points from Abyss PvP and
+  objectives (not the spendable Abyss Points; PvP deaths can lose points; arena not mentioned), [355] just says
+  "Points". The season window's Abyss panel shows Class Rank + Points (in-game 2026-10-18, `seasons.md`).
+- **Thresholds disagree:**
+
+  | Rank | Global S1 [354] | KR/TW S2 [355] |
+  |---|---|---|
+  | Ninth-Class Soldier | 3,000 · class #801–1,000 | 3,000 · #1,001–10,000 |
+  | Eighth-Class Soldier | – | 10,000 · #901–1,000 |
+  | Fifth-Class Soldier | 180,000 · #401–500 | 100,000 · #601–700 |
+  | First-Class Soldier | 1,000,000 · #151–200 | 550,000 · #201–300 |
+  | 1-Star Officer | 1,500,000 · #101–150 | 726,000 · #151–200 |
+  | 5-Star Officer | 4,200,000 · #7–20 | 1,592,000 · #31–50 |
+  | Supreme Commander | 20,000,000 · #1 | 2,624,000 · #1 |
+
+- **Effects:** PvP damage +, PvP damage taken −, Abyss damage + while the rank is held: 1.2% at Ninth-Class up
+  to 5% each at Supreme Commander [354]. Ninth-Class unlocks buying the Silver Medal of Merit in the Abyss shop [354].
+- **Season end:** the final rank pays a title ("Abyss [Season 1] …", no stats [356]) + Oath Coins (KR S2: 10,000
+  at Ninth-Class up to 200,000), higher bands also cosmetics/pets/statues [355]. Season 1 ends 2026-12-16.
+
 ## Artifact Siege and timed Abyss content (researched 2026-10-18)
 
 Guides mostly describe KR/TW; global details may differ. Sources [319]–[321].
