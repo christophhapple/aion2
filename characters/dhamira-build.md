@@ -82,7 +82,8 @@ come from Arcana or gear. Freed points go to passives instead, see "Passives".
 - **Earth's Retribution 4 → 3** (+50% Multi-Hit chance): option 4 cuts Bolt's cooldown, wasted with Bolt out.
 - Why Root: it holds melee off a ranged Cleric, and **my Defiance doesn't remove Root** (tooltip list), so if other
   classes' breaks match, Root is hard to shake (inference). The PvE rule "own power over CC" doesn't apply here (2026-10-19).
-- Kept: Chain of Torment 2 (+3s DoT also keeps Condemnation's window open), Debilitating Mark 2, 4 (option 4 also
+- Kept: Chain of Torment 2, 4 (+3s DoT also keeps Condemnation's window open; option 4 also cuts PvP Damage
+  Tolerance by 5%, in-game 2026-10-20), Debilitating Mark 2, 4 (option 4 also
   cuts PvP Damage Boost). Divine Aura CC: too rare to matter. Unknown: how much players' Status Effect Resist
   and immunity windows blunt 10–20% procs, so try it and compare.
 Close by: **Defiance option 5** (+25% PvP Damage Tolerance during Tenacity) needs Lv 16, one Arcana line
@@ -105,7 +106,7 @@ points, in this order (both trigger on their own, nothing to press):
 - Losing anyway → die or fly back to Western Root; respawn there, no penalty.
 
 **Open (in-game):** does the Tenacity lockout block (where is "Invincibility stacking" blocked: test in the 1v1 arena and open-world Abyss, Defiance then Q right away)
-Salvation after Defiance; does Chain of Torment option 4 (PvE Damage Tolerance) do anything in PvP.
+Salvation after Defiance. (Answered 2026-10-20: Chain of Torment option 4 also cuts PvP Damage Tolerance by 5%.)
 
 ## Playstyle model
 - Two axes: **what a skill does** (damage/heal/buff/debuff) and **when you press it** (proactive
