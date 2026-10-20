@@ -63,6 +63,9 @@ everything else as Set 1 (Genus Insight: Crit Resist in slot 2 [guide], later, i
 | Prayer of Amplification | 10 | 15 | stays in the macro (zero attention); +10% PvP Damage Boost, +10% more at Lv 5 |
 | Yustiel's Power | 15 | 35 | the PvP core per guides: PvP +10% Tolerance for me + party, Lv 5 shield 10% Max HP, Lv 10 +100 Block/Evasion, Lv 15 +20% Status Effect Resist (vs CC) |
 | Salvation | 15 | 35 | the escape button: 3s immune to damage and CC; Lv 5 +100% Incoming Heal, Lv 10 restores 20% Max HP at the end (in-game 2026-10-20), Lv 15 also gives the Salvation effect to the lowest-HP party member (in-game 2026-10-20). **Why 15 (user, 2026-10-20):** the pool's extra 20 shards went here so Salvation can save someone else too, not only me |
+**Next +40 shards (user, 2026-10-20): Yustiel's Power 20** (+10% PvE and +5% PvP Damage Tolerance, so PvP 10% → 15%
+for me + party). Passed over: Salvation 20 (auto-triggers on Impact-type status: zero effort, but may fire at the wrong
+time and burn its 2:30 CD), Light of Protection 20 (+10% Max HP, 60 shards), Prayer of Amplification 15 (damage).
 Out: Earth Punishment (guides split; good only vs tanky classes) and Noble Aura. Group variant: see "Where it's used":
 Absolution for cleanse + party heal by default, Summon Resurrection if the group keeps losing people.
 
