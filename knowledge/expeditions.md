@@ -7,7 +7,16 @@ Guides write "item level"; the gates below are GS.
 
 Three tiers, each a pair: one drops **weapons + accessories**, the other **armor** [46][48].
 Every expedition has **exactly two modes: Exploration (easy) and Conquest (hard)**; no third/Hard mode
-(in-game 2026-10-10).
+(in-game 2026-10-10). **Changed with patch 2026-10-21:** Krao Cave and Draupnir get a Hard mode, see below.
+
+### Hard mode, Krao Cave + Draupnir (patch 2026-10-21 [377][378], not seen in-game yet)
+- Entry **GS 2600**; boss Frenzy after 4 min; 3 revives per player.
+- Rewards: chance at Philosopher's Stone: Revelation (Bound, also selectable as the guaranteed reward),
+  Ariel Fragments (Bound, type per dungeon), chance at Expedition Hero Artwork, more Kina than Normal, all
+  Unique crafting materials (Wrathful Mind / Will / Ego).
+- Substance Morph: 100 Ariel Fragments → 1 Daevanion Crystal: Ariel (Bound), 30× per character; or
+  1 Fragment → 5 Enhance Stones, no limit. Feeds a new **Ariel Daevanion board** (per-dungeon point cap).
+- New achievements: Expedition Hero Artwork Collector, Expedition (Hard) ones with Unique skins.
 
 | Tier | Expedition | Exploration (Lv / GS) | Conquest (Lv / GS) | Party | Conquest loot |
 |---|---|---|---|---|---|

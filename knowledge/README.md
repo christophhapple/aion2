@@ -1,6 +1,6 @@
 # Knowledge
 
-**Current client:** 2.0.6.0.2026100701 (in-game 2026-10-10), i.e. the 2026-10-07 patch · Region: EU / Nania
+**Current client:** patch 2026-10-21 (version string not checked; was 2.0.6.0.2026100701 = patch 2026-10-07) · Region: EU / Nania
 
 Guides and news name patches by date, not version, so tag patch-related facts as `patch 2026-10-07`.
 The client version's suffix (`20261007…`) shows the patch date, so the two can be matched.

@@ -458,3 +458,5 @@ Added 2026-10-19 (Cleric PvP).
 374. metabot.gg, Vakron Sky Island achievements, undated, G: https://metabot.gg/en/aion-2/achievements/vakron
 375. metabot.gg, Krao Cave achievements, undated, G: https://metabot.gg/en/aion-2/achievements/krao-cave
 376. metabot.gg, Abyssal Forge: Ludra achievements, undated, G: https://metabot.gg/en/aion-2/achievements/sanctuary
+377. PatchBot transcription of the official "[Notice] Patch Notes | Oct. 20 (PDT) / Oct. 21 (CEST)", 2026-10-20, official: https://patchbot.io/games/aion-2/articles/1865-notice-patch-notes-oct-20-pdt-oct-21-cest (original: https://steamcommunity.com/games/3393110/announcements/detail/670631196372241777)
+378. allthings.how, Oct 21 maintenance + patch notes summary, 2026-10-21, G: https://allthings.how/aion-2-server-downtime-and-patch-notes-for-the-maintenance/

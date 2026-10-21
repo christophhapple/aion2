@@ -63,6 +63,18 @@ Achievements (Shugo Festival window): per-minigame tiers (I = 1 run, II = 2, III
 **So:** worth doing **only with a key**, ~1 per day; ~5 min for maybe ~1,900 stones. Small next to
 the Daily Dungeon (6–7k at GS 1100–1500, in-game). Keys bank to 7, so no need to go every day.
 
+## Rise to the Challenge (2026-10-21 → maintenance 2026-12-16)
+
+Researched 2026-10-21 from the official patch notes [377][378]; not seen in-game yet.
+
+- **What:** a Kina shop for **Resurrection Spiritstones (Season 1)**, "to help with dungeon runs". No tasks.
+- **Where:** Shop → Wind Breeze Merchants.
+- **When:** from the 2026-10-21 maintenance until the maintenance on Wed 2026-12-16 (CET), same as the
+  Season 1 end.
+- **Price:** Step 1: 25,000 Kina for 30 stones; Step 2: 50,000 Kina for 30 more. Each step limited
+  **per server, per week**, so up to 60 stones for 75,000 Kina a week.
+- What a Spiritstone does exactly (self-revive on the spot?) isn't stated in the notes: check the tooltip.
+
 ## Halloween event (2026-10-14 → 2026-11-04)
 
 Source: mein-mmo news [210], 2026-10-14 (AI-translated from German); **confirmed in-game 2026-10-14** at the event
