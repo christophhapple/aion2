@@ -83,7 +83,6 @@ td strong { font-weight: 700; }
 .timers .t-bar { grid-column: 1 / -1; position: relative; height: 6px; margin-top: 0.3rem; border-radius: 3px;
   background: var(--line); overflow: hidden; }
 .timers .t-bar::after { content: ""; position: absolute; inset: 0; background: var(--ticks, none); }
-.timers li.live .t-bar::after { display: none; }
 .timers li.scale { padding-block: 0.4rem 0.2rem; }
 .timers .t-scale { grid-column: 1 / -1; position: relative; height: 1.1rem; font-family: var(--font-mono);
   font-size: 0.72rem; color: var(--muted); }
@@ -119,7 +118,7 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
 
   <section aria-labelledby="timers">
     <h2 id="timers">Up next</h2>
-    <p>Everything on the clock, soonest first, in your local time. The bars show the time left on one shared scale, so a shorter bar means sooner. The scale is logarithmic (marks at 10 min, 1 hour, 6 hours, 1 day, 1 week, 2 months) so that minutes and weeks both fit. A bar turns gold in the last 10 minutes. Running events are on top in green, and their bar shows how much of the event is left. Running maintenance is pinned above everything in red.</p>
+    <p>Everything on the clock, soonest first, in your local time. The bars show the time left on one shared scale, so a shorter bar means sooner. The scale is logarithmic (marks at 10 min, 1 hour, 6 hours, 1 day, 1 week, 2 months) so that minutes and weeks both fit. A bar turns gold in the last 10 minutes. Running events are on top in green, their bar showing the time until they end on the same scale. Running maintenance is pinned above everything in red.</p>
     <p class="dim">The bell next to an event plays three beeps 2 minutes before it starts. Alarms are saved in this browser only, and the page has to stay open (a background tab is fine, but the beep can then come up to a minute late).</p>
     <p class="sound-hint" id="sound-hint" hidden>You have alarms on. Tap or click anywhere on the page once so it's allowed to play sound.</p>
     <div class="table-wrap"><ol class="timers" id="timer-list" aria-live="off"><li><span class="t-name">Loading timers…</span></li></ol></div>
@@ -350,7 +349,7 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
       const count = live ? o.end - now : o.start - now;
       list.push({ name, note: o.ev.note, tag: o.tag, live, soon: !live && count <= SOON, key: live ? o.end - DAY : o.start,
         detail: live ? `until ${timeFmt.format(o.end)}` : `${when(o.start, now)}–${timeFmt.format(o.end)}`,
-        count, frac: live ? count / (o.end - o.start) : logFrac(count) });
+        count, frac: logFrac(count) });
     }
     for (const r of RESETS) {
       const t = nextReset(r, now);
@@ -370,7 +369,7 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
       list.push({ name: "Maintenance", note: "servers down", tag: mt.tag, live, down: true, soon: !live && count <= SOON,
         key: live ? 0 : mt.start,
         detail: live ? `until ${timeFmt.format(mt.end)}` : `${when(mt.start, now)}–${timeFmt.format(mt.end)}`,
-        count, frac: live ? count / (mt.end - mt.start) : logFrac(count) });
+        count, frac: logFrac(count) });
     }
     return list.sort((a, b) => a.key - b.key);
   }
