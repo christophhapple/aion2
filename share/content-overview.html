@@ -105,6 +105,9 @@ td strong { font-weight: 700; }
 .timers li.compact .t-count { grid-column: 2; grid-row: 1; font-size: 0.85rem; }
 .timers li.compact .t-bar { grid-column: 3; grid-row: 1; height: 3px; margin-top: 0; }
 .timers li.compact .t-when { grid-column: 4; grid-row: 1; white-space: nowrap; font-size: 0.85rem; }
+@media (max-width: 600px) {
+  .timers li.compact .t-bar { grid-column: 1 / -1; grid-row: 2; margin-top: 0.15rem; }
+}
 .timers li.compact .t-state { display: none; } /* green background says it already; keeps one line on phones */
 .timers li.minor .t-name { font-weight: 400; color: var(--muted); }
 .timers li.minor:not(.soon):not(.live) .t-count { color: var(--muted); }
