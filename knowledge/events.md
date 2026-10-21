@@ -73,7 +73,9 @@ Researched 2026-10-21 from the official patch notes [377][378]; not seen in-game
   Season 1 end.
 - **Price:** Step 1: 25,000 Kina for 30 stones; Step 2: 50,000 Kina for 30 more. Each step limited
   **per server, per week**, so up to 60 stones for 75,000 Kina a week.
-- What a Spiritstone does exactly (self-revive on the spot?) isn't stated in the notes: check the tooltip.
+- **What it does:** resurrects you on the spot (user, in-game 2026-10-21). The "Resurrection Spiritstone
+  (Bound)" tooltip: Common, "Contains the power to resurrect a fallen Daeva", Duration 5 min, Cooldown 1 s,
+  sells for 1,000 Kina each (in-game 2026-10-21). Whether the event's "(Season 1)" stone is a separate item: not checked.
 
 ## Halloween event (2026-10-14 → 2026-11-04)
 
