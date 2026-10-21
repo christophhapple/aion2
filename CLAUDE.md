@@ -73,7 +73,7 @@ with patches. Therefore:
 | File | Artifact | For |
 |---|---|---|
 | `share/progression.html` | https://claude.ai/artifact/F3iG6ZURLga2drR3yxQqRx | Hamme (friend): progression map, schedule |
-| `share/content-overview.html` | https://claude.ai/artifact/TCzeBcfAYj7hUkbRHTNXHj | The user (private for now): Content Atlas with live timers ("Up next", rules in its script), all activities, progress sources, currencies |
+| `share/content-overview.html` | https://claude.ai/artifact/TCzeBcfAYj7hUkbRHTNXHj | The user (public, anyone with the link): Content Atlas with live timers ("Up next", rules in its script), all activities, progress sources, currencies |
 
 - Generated from `knowledge/` (mainly `progression.md`, `expeditions.md`, `gear.md`, `schedule.md`). Character-neutral,
   no personal data. Each fact shows an "In-game" or "Guides" tag, except on the Content Atlas (user, 2026-10-19): no tags there, only a small grey "(unverified)" where a fact is guide-only. No exact Enhance Stone amounts there (user: irrelevant).
