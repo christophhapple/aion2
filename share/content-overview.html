@@ -107,7 +107,7 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
     <div class="eyebrow">Aion 2 · Europe · Level 45 · free to play</div>
     <h1>Content Atlas</h1>
     <p>Every repeatable activity at level 45, what it costs, and what it feeds. Use it to answer "where do I get X?" and "what is this activity good for?".</p>
-    <div class="meta"><span>Updated 19 Oct 2026</span><span>Daily reset 09:00 local, weekly Wednesday 09:00 (after the 25 Oct clock change: not yet confirmed)</span></div>
+    <div class="meta"><span>Updated 21 Oct 2026</span><span>Daily reset 09:00 local, weekly Wednesday 09:00 (after the 25 Oct clock change: not yet confirmed)</span></div>
   </header>
 
   <section aria-labelledby="timers">
@@ -116,7 +116,7 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
     <p class="dim">The bell next to an event plays three beeps 2 minutes before it starts. Alarms are saved in this browser only, and the page has to stay open (a background tab is fine, but the beep can then come up to a minute late).</p>
     <p class="sound-hint" id="sound-hint" hidden>You have alarms on. Tap or click anywhere on the page once so it's allowed to play sound.</p>
     <div class="table-wrap"><ol class="timers" id="timer-list" aria-live="off"><li><span class="t-name">Loading timers…</span></li></ol></div>
-    <p class="dim">Event times follow the server clock, which matches Central European time (checked in-game in October). Whether events stay on that clock after the 25 Oct clock change is not confirmed yet. Resets are fixed in UTC (in-game). Argo, the Spirit King has no fixed time: it seems to return about 12h after it dies.</p>
+    <p class="dim">Event times follow the server clock, which matches Central European time (checked in-game in October). Whether events stay on that clock after the 25 Oct clock change is not confirmed yet. Resets are fixed in UTC (in-game). Argo, the Spirit King has no fixed time: it seems to return about 12h after it dies. Maintenance shows only once it's officially announced, with the announced end; it can finish earlier.</p>
   </section>
 
   <section aria-labelledby="content">
@@ -241,6 +241,10 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
     { name: "Halloween event ends", at: Date.UTC(2026, 10, 4, 8), tag: GAME },
     { name: "Season 1 ends", note: "spend Oath Coins", at: Date.UTC(2026, 11, 16, 8), tag: GAME },
   ];
+  // Announced maintenance windows (official notices), in UTC. Servers are down for the whole window.
+  const MAINTENANCE = [
+    { start: Date.UTC(2026, 9, 21, 6, 30), end: Date.UTC(2026, 9, 21, 12), tag: GAME },
+  ];
 
   function range(a, b) { const r = []; for (let i = a; i <= b; i++) r.push(i); return r; }
 
@@ -350,6 +354,15 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
       if (dl.at <= now) continue;
       list.push({ name: dl.name, note: dl.note, tag: dl.tag, reset: true, key: dl.at, detail: when(dl.at, now),
         count: dl.at - now, frac: logFrac(dl.at - now) });
+    }
+    const mt = MAINTENANCE.find(m => m.end > now);
+    if (mt) {
+      const live = mt.start <= now;
+      const count = live ? mt.end - now : mt.start - now;
+      list.push({ name: "Maintenance", note: "servers down", tag: mt.tag, live, soon: !live && count <= SOON,
+        key: live ? mt.end - DAY : mt.start,
+        detail: live ? `until ${timeFmt.format(mt.end)}` : `${when(mt.start, now)}–${timeFmt.format(mt.end)}`,
+        count, frac: live ? count / (mt.end - mt.start) : logFrac(count) });
     }
     return list.sort((a, b) => a.key - b.key);
   }
