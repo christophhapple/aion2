@@ -48,10 +48,10 @@ Bosses: eight level-65 Hero field bosses drop Unique armor sets and refining sto
   Redraw 0/10, 1,000 each. **Abyssal Power Shards** work like normal Power Shards: toggle on to consume them, they buff Attack while being
   used up; the Abyssal ones also ignore some of a PvP enemy's Defense (in-game 2026-10-18).
 - **Abyss Points cap: none shown in-game** (in-game 2026-10-18). ~~Weekly cap, separate for PvE and PvP~~ [50] not seen.
-- **Shop:** Stigma Shards (up to 200 per character, **4 steps of 50: 10k → 15k → 20k → 25k Abyss Points per shard**, in-game 2026-10-13, reconfirmed 2026-10-21; next step unlocks once the previous 50 are bought; [128]; purchases count per character, "x/50" per step) and Azphel crystals (10,000 each) [80]. Stigma details: `endgame.md`.
+- **Shop:** Stigma Shards (up to 200 per character, **4 steps of 50: 10k → 15k → 20k → 25k Abyss Points per shard**, in-game 2026-10-13, reconfirmed 2026-10-21; next step unlocks once the previous 50 are bought; [128]; purchases count per character, "x/50" per step) and Azphel Daevanion Crystals (**10,000 AP each**, in-game 2026-10-21) [80]. Stigma details: `endgame.md`.
 - **Spend Abyss Points on Stigma Shards** (player's verdict 2026-10-11). Shards per Stigma level rise with the level (in-game 2026-10-11); exact numbers not recorded.
 - **Ereshkigal Monolith** (in Western Root, max level 20): uses Reshanta feathers only; gives permanent
-  **PvP** stats + Azphel Daevanion Crystals [80][89][90]. Traces needed: 200 [80] **vs** 300 [89].
+  **PvP** stats + Azphel Daevanion Crystals (crystals confirmed in-game 2026-10-21) [80][89][90]. Traces needed: 200 [80] **vs** 300 [89].
 
 ## Abyss ranks (researched 2026-10-20, guides, unverified)
 - **Shown above enemy players' names in the arena** ("Trainee", "Fifth-Class Soldier" …) (in-game 2026-10-20).

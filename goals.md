@@ -57,6 +57,7 @@ snapshot: `characters/dhamira-achievements.md`. Season 1 weeklies are routines (
 - [x] First Nightmare clear (by 2026-10-11)
 - [x] Gear score 1400 reached (now 1500): Conquest ★2 Urugugu + Vakron open (2026-10-12)
 - [x] First visit to the Abyss: PvP with mixed gear scores, low priority for now; Abyss Points still matter for Stigma shards (2026-10-12)
+- [x] Lower Reshanta: all feathers, all Monolith Azphel crystals (2026-10-21)
 - [x] One-time content in Verteron: all regional quests (incl. rift), Sealed Dungeons, Strongholds, feathers (feathers: no completion menu, map scanned) (2026-10-12)
 - [x] Enemy map rift quests 7/7, each gave a skill point (2026-10-11)
 - [x] Clash Runes to +1: both slots at +1 (only 2 slots exist, per guides) (2026-10-10)

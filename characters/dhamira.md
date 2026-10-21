@@ -23,6 +23,7 @@ Conquest pity: tracked in-game only, not here (user choice, 2026-10-18).
 ## One-time content (2026-10-12)
 Verteron done: all regional (green) quests incl. Spacetime Rift, Sealed Dungeons, Strongholds, feathers
 (feathers: no completion menu; map scanned, confident).
+Lower Reshanta done: all feathers collected, all Azphel Daevanion Crystals from its Monolith taken (2026-10-21).
 
 ## Professions (2026-10-10)
 - Gathering (Essence Extraction): **Professional 50**, promotion done. Gathers whatever comes along.
