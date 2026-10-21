@@ -16,6 +16,8 @@
   --gold-soft: #f6ead3;
   --ok: #2f7a4f;
   --ok-soft: #e1f1e7;
+  --down: #b03a2e;
+  --down-soft: #f8e1de;
   --font-display: "Marcellus", "Palatino Linotype", Georgia, serif;
   --font-body: "Source Sans 3", "Segoe UI", system-ui, sans-serif;
   --font-mono: "IBM Plex Mono", ui-monospace, Consolas, monospace;
@@ -24,12 +26,14 @@
   :root:not([data-theme="light"]) {
     --bg: #11151d; --surface: #181e29; --fg: #e4e8f0; --muted: #9aa4b8; --line: #2a3242;
     --sky: #86b4e2; --gold: #e2ad4c; --gold-soft: #33280f; --ok: #6cc795; --ok-soft: #173326;
+    --down: #f08a7e; --down-soft: #3a1a17;
     color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
   --bg: #11151d; --surface: #181e29; --fg: #e4e8f0; --muted: #9aa4b8; --line: #2a3242;
   --sky: #86b4e2; --gold: #e2ad4c; --gold-soft: #33280f; --ok: #6cc795; --ok-soft: #173326;
+  --down: #f08a7e; --down-soft: #3a1a17;
   color-scheme: dark;
 }
 * { box-sizing: border-box; }
@@ -91,6 +95,9 @@ td strong { font-weight: 700; }
 .timers li.live { background: var(--ok-soft); }
 .timers li.live .t-fill { background: var(--ok); }
 .timers li.live .t-count, .timers li.live .t-state { color: var(--ok); }
+.timers li.live.down { background: var(--down-soft); }
+.timers li.live.down .t-fill { background: var(--down); }
+.timers li.live.down .t-name, .timers li.live.down .t-count, .timers li.live.down .t-state { color: var(--down); }
 .timers li.reset .t-name { color: var(--gold); }
 .timers .t-alarm { display: inline-flex; align-items: center; justify-content: center; vertical-align: -0.2em;
   width: 1.9rem; height: 1.9rem; margin: -0.4rem 0 -0.4rem 0.2rem; padding: 0; border: 0; border-radius: 50%;
@@ -112,7 +119,7 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
 
   <section aria-labelledby="timers">
     <h2 id="timers">Up next</h2>
-    <p>Everything on the clock, soonest first, in your local time. The bars show the time left on one shared scale, so a shorter bar means sooner. The scale is logarithmic (marks at 10 min, 1 hour, 6 hours, 1 day, 1 week, 2 months) so that minutes and weeks both fit. A bar turns gold in the last 10 minutes. Running events are on top in green, and their bar shows how much of the event is left.</p>
+    <p>Everything on the clock, soonest first, in your local time. The bars show the time left on one shared scale, so a shorter bar means sooner. The scale is logarithmic (marks at 10 min, 1 hour, 6 hours, 1 day, 1 week, 2 months) so that minutes and weeks both fit. A bar turns gold in the last 10 minutes. Running events are on top in green, and their bar shows how much of the event is left. Running maintenance is pinned above everything in red.</p>
     <p class="dim">The bell next to an event plays three beeps 2 minutes before it starts. Alarms are saved in this browser only, and the page has to stay open (a background tab is fine, but the beep can then come up to a minute late).</p>
     <p class="sound-hint" id="sound-hint" hidden>You have alarms on. Tap or click anywhere on the page once so it's allowed to play sound.</p>
     <div class="table-wrap"><ol class="timers" id="timer-list" aria-live="off"><li><span class="t-name">Loading timers…</span></li></ol></div>
@@ -359,8 +366,9 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
     if (mt) {
       const live = mt.start <= now;
       const count = live ? mt.end - now : mt.start - now;
-      list.push({ name: "Maintenance", note: "servers down", tag: mt.tag, live, soon: !live && count <= SOON,
-        key: live ? mt.end - DAY : mt.start,
+      // While it runs it stays pinned on top: nothing else happens with the servers down.
+      list.push({ name: "Maintenance", note: "servers down", tag: mt.tag, live, down: true, soon: !live && count <= SOON,
+        key: live ? 0 : mt.start,
         detail: live ? `until ${timeFmt.format(mt.end)}` : `${when(mt.start, now)}–${timeFmt.format(mt.end)}`,
         count, frac: live ? count / (mt.end - mt.start) : logFrac(count) });
     }
@@ -446,7 +454,7 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
       el.innerHTML = scaleRow + list.map(r => {
         const on = alarms.has(r.name);
         return `
-      <li class="${r.live ? "live" : ""}${r.soon ? " soon" : ""}${r.reset ? " reset" : ""}">
+      <li class="${r.live ? "live" : ""}${r.down ? " down" : ""}${r.soon ? " soon" : ""}${r.reset ? " reset" : ""}">
         <span class="t-name">${r.name}${r.tag === GUIDE ? ` <span class="unverified">(unverified)</span>` : ""}
           <button type="button" class="t-alarm" data-name="${r.name}" aria-pressed="${on}"
             aria-label="${on ? "Turn off" : "Turn on"} the alarm 2 minutes before ${r.name}" title="Alarm 2 minutes before">${BELL}</button></span>
