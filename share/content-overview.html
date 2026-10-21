@@ -98,6 +98,16 @@ td strong { font-weight: 700; }
 .timers li.live.down .t-fill { background: var(--down); }
 .timers li.live.down .t-name, .timers li.live.down .t-count, .timers li.live.down .t-state { color: var(--down); }
 .timers li.reset .t-name { color: var(--gold); }
+/* Compact rows: hourly staples (minor) and resets (sep) on one line with a thin bar. */
+.timers li.compact { grid-template-columns: minmax(0, 1fr) auto auto; padding-block: 0.3rem; font-size: 0.92rem; }
+.timers li.compact .t-count { grid-column: 2; grid-row: 1; font-size: 0.85rem; }
+.timers li.compact .t-when { grid-column: 3; grid-row: 1; white-space: nowrap; font-size: 0.85rem; }
+.timers li.compact .t-bar { height: 3px; margin-top: 0.15rem; }
+.timers li.compact .t-state { display: none; } /* green background says it already; keeps one line on phones */
+.timers li.minor .t-name { font-weight: 400; color: var(--muted); }
+.timers li.minor:not(.soon):not(.live) .t-count { color: var(--muted); }
+.timers li.minor:not(.soon):not(.live) .t-fill { background: var(--muted); opacity: 0.6; }
+.timers li.sep { background: var(--gold-soft); }
 .timers .t-alarm { display: inline-flex; align-items: center; justify-content: center; vertical-align: -0.2em;
   width: 1.9rem; height: 1.9rem; margin: -0.4rem 0 -0.4rem 0.2rem; padding: 0; border: 0; border-radius: 50%;
   background: transparent; color: var(--muted); opacity: 0.45; cursor: pointer; }
@@ -118,7 +128,7 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
 
   <section aria-labelledby="timers">
     <h2 id="timers">Up next</h2>
-    <p>Everything on the clock, soonest first, in your local time. The bars show the time left on one shared scale, so a shorter bar means sooner. The scale is logarithmic (marks at 10 min, 1 hour, 6 hours, 1 day, 1 week, 2 months) so that minutes and weeks both fit. A bar turns gold in the last 10 minutes. Running events are on top in green, their bar showing the time until they end on the same scale. Running maintenance is pinned above everything in red.</p>
+    <p>Everything on the clock, soonest first, in your local time. The bars show the time left on one shared scale, so a shorter bar means sooner. The scale is logarithmic (marks at 10 min, 1 hour, 6 hours, 1 day, 1 week, 2 months) so that minutes and weeks both fit. A bar turns gold in the last 10 minutes. Running events are on top in green, their bar showing the time until they end on the same scale. Running maintenance is pinned above everything in red. The hourly Shugo Festival and Invasion get slim grey rows, and the resets are slim bands between the events.</p>
     <p class="dim">The bell next to an event plays three beeps 2 minutes before it starts. Alarms are saved in this browser only, and the page has to stay open (a background tab is fine, but the beep can then come up to a minute late).</p>
     <p class="sound-hint" id="sound-hint" hidden>You have alarms on. Tap or click anywhere on the page once so it's allowed to play sound.</p>
     <div class="table-wrap"><ol class="timers" id="timer-list" aria-live="off"><li><span class="t-name">Loading timers…</span></li></ol></div>
@@ -229,8 +239,8 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
 
   // Times in server time. days: 0 = Sun … 6 = Sat; omitted = every day. tag may depend on the weekday.
   const EVENTS = [
-    { name: "Shugo Festival", hours: range(0, 23), minute: 0, dur: 10, tag: GAME },
-    { name: "Dimensional Invasion", note: "needs a key", hours: range(0, 23), minute: 30, dur: 5, tag: GAME },
+    { name: "Shugo Festival", hours: range(0, 23), minute: 0, dur: 10, tag: GAME, minor: true },
+    { name: "Dimensional Invasion", note: "needs a key", hours: range(0, 23), minute: 30, dur: 5, tag: GAME, minor: true },
     { name: "Spacetime Rift", note: "portals open 10 min", hours: [2, 5, 8, 11, 14, 17, 20, 23], minute: 0, dur: 10, tag: GAME },
     { name: "Watcher Kaira", note: "Abyss boss", hours: [1, 4, 7, 10, 13, 16, 19, 22], minute: 0, dur: 30, tag: GAME },
     { name: "Battlefield", note: "10v10 queue", windows: [[11, 14], [19, 21]], tag: GAME },
@@ -347,13 +357,15 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
       seen.add(name);
       const live = o.start <= now;
       const count = live ? o.end - now : o.start - now;
-      list.push({ name, note: o.ev.note, tag: o.tag, live, soon: !live && count <= SOON, key: live ? o.end - DAY : o.start,
-        detail: live ? `until ${timeFmt.format(o.end)}` : `${when(o.start, now)}–${timeFmt.format(o.end)}`,
+      // Hourly staples (minor) get a compact, muted row with just the start time.
+      list.push({ name, note: o.ev.minor ? "" : o.ev.note, tag: o.tag, live, minor: o.ev.minor, soon: !live && count <= SOON,
+        key: live ? o.end - DAY : o.start,
+        detail: live ? `until ${timeFmt.format(o.end)}` : o.ev.minor ? when(o.start, now) : `${when(o.start, now)}–${timeFmt.format(o.end)}`,
         count, frac: logFrac(count) });
     }
     for (const r of RESETS) {
       const t = nextReset(r, now);
-      list.push({ name: r.name, tag: r.tag, reset: true, soon: t - now <= SOON, key: t, detail: when(t, now),
+      list.push({ name: r.name, tag: r.tag, reset: true, sep: true, soon: t - now <= SOON, key: t, detail: when(t, now),
         count: t - now, frac: logFrac(t - now) });
     }
     for (const dl of DEADLINES) {
@@ -453,7 +465,8 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
       el.innerHTML = scaleRow + list.map(r => {
         const on = alarms.has(r.name);
         return `
-      <li class="${r.live ? "live" : ""}${r.down ? " down" : ""}${r.soon ? " soon" : ""}${r.reset ? " reset" : ""}">
+      <li class="${r.live ? "live" : ""}${r.down ? " down" : ""}${r.soon ? " soon" : ""}${r.reset ? " reset" : ""}${
+        r.minor ? " compact minor" : ""}${r.sep ? " compact sep" : ""}">
         <span class="t-name">${r.name}${r.tag === GUIDE ? ` <span class="unverified">(unverified)</span>` : ""}
           <button type="button" class="t-alarm" data-name="${r.name}" aria-pressed="${on}"
             aria-label="${on ? "Turn off" : "Turn on"} the alarm 2 minutes before ${r.name}" title="Alarm 2 minutes before">${BELL}</button></span>
