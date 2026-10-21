@@ -17,6 +17,10 @@ Researched 2026-10-15, all sections 2026-10-20. Mostly metabot.gg, which reads t
 - **Speedruns get faster per tier** (in-game 2026-10-20): Exploration "within 10 minutes", Conquest
   "within 7 minutes" (Krao, Draupnir, Urugugu) or "within 20 minutes" (Vakron, Fire Temple, Horn Den)
   seen as current tiers. ~~flat 20 min~~ [372]–[375] is only the first tier.
+- **Daevanion board achievements** are under Progress → Complete, named "Benediction of …" per board:
+  Justice = Nezekan, Destruction = Zikel, Freedom = Vaizel, Death = Triniel, Darkness = Azphel; counted in
+  nodes. Same list: node rarity ones, Honed Skills (Rare), Innate Talent (Epic), Unrivaled Talent (Unique)
+  (in-game 2026-10-20).
 - **Achievement GS** is called "Character Item Level" in the game's text (in-game 2026-10-20).
 - **Sections** [270]: Adventure (Kibelisk, Exploration, Sealed Dungeon, Shugo Festival, Stronghold) ·
   Challenge (Field Boss, Hunting, Combat) · Growth (Social, Milestones, Quests) · Items (Enhancement,
