@@ -98,11 +98,13 @@ td strong { font-weight: 700; }
 .timers li.live.down .t-fill { background: var(--down); }
 .timers li.live.down .t-name, .timers li.live.down .t-count, .timers li.live.down .t-state { color: var(--down); }
 .timers li.reset .t-name { color: var(--gold); }
-/* Compact rows: hourly staples (minor) and resets (sep) on one line with a thin bar. */
-.timers li.compact { grid-template-columns: minmax(0, 1fr) auto auto; padding-block: 0.3rem; font-size: 0.92rem; }
+/* Compact rows: hourly staples (minor) and resets (sep) on one line: name, countdown, thin bar, time. */
+.timers li.compact { grid-template-columns: auto auto minmax(2rem, 1fr) auto; gap: 0 0.6rem;
+  padding-block: 0.3rem; font-size: 0.92rem; }
+.timers li.compact .t-name { white-space: nowrap; }
 .timers li.compact .t-count { grid-column: 2; grid-row: 1; font-size: 0.85rem; }
-.timers li.compact .t-when { grid-column: 3; grid-row: 1; white-space: nowrap; font-size: 0.85rem; }
-.timers li.compact .t-bar { height: 3px; margin-top: 0.15rem; }
+.timers li.compact .t-bar { grid-column: 3; grid-row: 1; height: 3px; margin-top: 0; }
+.timers li.compact .t-when { grid-column: 4; grid-row: 1; white-space: nowrap; font-size: 0.85rem; }
 .timers li.compact .t-state { display: none; } /* green background says it already; keeps one line on phones */
 .timers li.minor .t-name { font-weight: 400; color: var(--muted); }
 .timers li.minor:not(.soon):not(.live) .t-count { color: var(--muted); }
