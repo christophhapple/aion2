@@ -18,7 +18,12 @@ routines:
     name: Nightmare
     reset: daily
     cap: 2
-    notes: Attempt only consumed on a clear. Unused attempts bank up to 14. Season 1 weekly achievements (guides) - Friends With a Story at 5/10 boss kills a week, plus one each for a boss kill under 3 / 2 / 1 min.
+    notes: Attempt only consumed on a clear. Unused attempts bank up to 14. Season 1 weekly achievements (guides) - Friends With a Story at 5/10 boss kills a week, plus one each for a boss kill under 3 / 2 / 1 min. The 1-min kill has its own routine, nightmare-1min.
+
+  - id: nightmare-1min
+    name: Nightmare boss kill under 1 min (Season Mission)
+    reset: weekly
+    notes: Weekly Season Mission, Nightmare tab (in-game 2026-10-21). Lower the difficulty for one ticket so the kill is fast; that clear also counts as a normal nightmare run, log both.
 
   - id: odyle
     name: Spend Odyle Energy
