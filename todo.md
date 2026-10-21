@@ -4,6 +4,10 @@ One-off things to do or check in the game. Daily/weekly routines live in `routin
 tracker itself goes in `backlog.md`.
 
 ## Open
+- [ ] Spend the **14 unspent Daevanion points** on nodes that finish achievement tiers (Progress → Complete,
+  state 2026-10-20): Nezekan 59/60 (1 node) · Zikel 57/60 (3) · Unique nodes 17/20 (3) · Rare nodes 36/40 (4) ·
+  Triniel 67/80 (13). Where you have a choice, pick nodes that fit the build (`characters/dhamira-build.md`).
+  Then claim the rewards and tell me the new GS (+1 per point)
 - [ ] Screenshot the **Season Missions** window, all tabs (= metabot's Season 1 achievements: Nightmare
   bosses, Transcendence stages, Tower of Trials, Tribulations, Abyss, Arena, weeklies). Fills the "?" in
   `goals.md` and checks the weekly caps in `routines.yaml`
