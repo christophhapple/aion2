@@ -80,6 +80,8 @@ with patches. Therefore:
 - **Update only on request** (user, 2026-10-18): don't edit or republish these pages automatically when
   knowledge changes; the user says when. Then update the HTML and republish with the Artifact tool,
   passing the URL above as `url`, so the link stays the same.
+  Exception (user, 2026-10-21): the scheduled task `aion2-maintenance-watch` adds officially announced
+  maintenance windows to the Content Atlas (`MAINTENANCE` in its script) and republishes it on its own.
 
 ## Computing status
 
