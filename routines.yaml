@@ -56,7 +56,7 @@ routines:
 
   - id: corridor
     name: Abyss Corridor run
-    notes: Only while Elyos hold an Artifact (map panel "Artifact Siege"; map icon + teleport). Arena with endless spawns, AP per kill, ~10k AP per run (in-game 2026-10-18). One allowance per siege (02:10 seen), used up in one go. Entrance can be camped by Asmodians. Cap 3 = one per siege; likely one corridor per held Artifact (unconfirmed), so log the real count. A lost siege means no corridor, that's fine.
+    notes: Only while Elyos hold an Artifact (map panel "Artifact Siege"; map icon + teleport). Arena with endless spawns, AP per kill, ~10k AP per run (in-game 2026-10-18). Allowance used up in one go. Entrance can be camped by Asmodians. One corridor per held Artifact, 02:10 each (in-game 2026-10-22), so after a 2-Artifact win there are two runs; log the real count. A lost siege means no corridor, that's fine.
     reset: weekly
     cap: 3
 

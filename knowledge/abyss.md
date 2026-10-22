@@ -99,7 +99,9 @@ Guides mostly describe KR/TW; global details may differ. Sources [319]–[321].
   spend inside the corridor, counting down only in there: inference), enemy-held ones "Unavailable". In the Abyss the
   **Asmodians are called "Eastern Camp", Elyos "Western Camp"** (in-game 2026-10-18).
   Snapshot 2026-10-18: Asmodians held Root + Siel's Wings, Elyos Sulfur Tree Island. Same result after the Mon
-  2026-10-19 siege (1 : 2).
+  2026-10-19 siege (1 : 2). Thu 2026-10-22 siege: Elyos won 2 : 1, holding Sulfur Tree Island + Siel's Wings;
+  **each held Artifact shows its own Corridor Usage Time of 02:10** (in-game 2026-10-22), so one corridor per
+  held Artifact.
 - **Holding Artifacts:** whole faction gets +2.5% / +5% / +7.5% Abyss Point gain for 1 / 2 / 3 held [319].
 - **Abyss Corridor entrance: map icon, you can teleport to it**, and it was open well after the siege (Sun
   afternoon after Sat's siege). It can be camped: enemy players guarded it and killed anyone entering (in-game 2026-10-18).
