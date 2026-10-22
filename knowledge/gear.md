@@ -32,7 +32,7 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
 - **+1 to +10: always succeeds** (in-game 2026-10-22) [21][22].
 - +11 → +15: **65%** (+10 → +11, in-game 2026-10-22) / 50 / 35 / 25 / 20%, +5% to the next attempt after each failure [21].
 - Above +15: Amplify Stones, 66% → 20%, 600k–3M Kina per try [21].
-- Failure never breaks or downgrades the item; only materials are lost [22].
+- Failure never breaks or downgrades the item; only materials are lost (in-game 2026-10-22) [22]. Rates after +11 not checked in-game.
 - **Extraction** (gear inventory menu) returns **100% of the Enhance Stones** invested (in-game test
   2026-10-10; the window doesn't show the amount beforehand) and **destroys the item** (in-game 2026-10-19). Kina spent is lost [31][32][22]. Unclear
   for stones spent above +10. So enhancing gear you'll replace soon costs only Kina.
