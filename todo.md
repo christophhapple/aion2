@@ -28,8 +28,8 @@ tracker itself goes in `backlog.md`.
 - [ ] Market **28-day price history** (real sale prices, not asking prices): it only shows in the **sell
   window** (Market → sell an item you own: lowest / highest / average / last trading price, current lowest
   listing). Whenever you have a tradeable Manastone (Lesser, Intermediate, Superior, Abyssal), potion,
-  serum, ingot or ore/gem, open its sell window and screenshot it, then cancel. Also check: is there any
-  sales history in the browse list or for your own past sales?
+  serum, ingot or ore/gem, open its sell window and screenshot it, then cancel. (The browse list has no history,
+  2026-10-22.) Also check: is there a record of your own past sales anywhere?
 - [ ] Cube-hunting audio for gathering/pet runs: Master + Sound Effects 100%, Music, Ambient, Monster, Mount, own character + wing sounds low. Save it as its own audio preset (the game supports audio presets, user 2026-10-19). See `knowledge/endgame.md` "Hidden Cubes"
 - [ ] *(low priority, doesn't change the build)* PvP: right after Defiance, does Salvation (Q) still work? Its tooltip blocks it for 30s only "if Invincibility stacking is blocked"; try in the 1v1 arena and open-world Abyss
 - [ ] Pantheon: can Eternal Gartua (Verteron, Eternal Isle) and Immortal Gartua (Altgard, Immortal Isle) both be placed, or do they share a slot? Decides whether Altgard field bosses are worth it. See `knowledge/endgame.md` "Artworks"

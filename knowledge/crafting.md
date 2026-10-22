@@ -114,7 +114,8 @@ Guides 2026-10, unverified unless tagged. Levels 6–10 (common) and specialty a
   4 × 19,949 = 79,796). **Paid in either Kina; Bound Kina is used first if you have it** (in-game 2026-10-22).
 - **Sell window** (in-game 2026-10-22) shows "Market Price, last 28 days": lowest, highest, average and last
   trading unit price, plus the current lowest listing; the price per item defaults to the current lowest.
-  No sales tax shown in this window.
+  No sales tax shown in this window. **The browse list has no price history**, only current listings
+  (count + lowest price) (in-game 2026-10-22), so past sale prices are only visible for items you own.
 - **Sales tax: 10%** (in-game 2026-10-22) [393][395]. So a sale nets ~88% of the listed price (−2% fee, −10% tax). The current
   "Market Tax" is shown top right on the Market screen [391]: check in-game. Buyer pays the fee [397, KR, Kina seller].
 - **Slots, listing duration, price floors/caps:** not found.
