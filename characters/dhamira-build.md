@@ -335,7 +335,7 @@ evenly). Further levels come from **Daevanion** (11–14) and **Arcana** (15–2
 - **Where the wanted skills sit** (pools: `knowledge/cleric-skills.md` "Skill levels"): Condemnation, Radiant
   Recovery, Bolt on **Parchment**; Healing Light, Defiance on **Compass**; any of them on **Chalice**. Bell and
   Mirror only carry passives, so for option 5 they don't matter.
-- **Sets, proposed 2026-10-22 (research, not decided):** target **Vigor on Chalice, Parchment, Compass, Mirror +
+- **Sets, decided 2026-10-22 (user):** target **Vigor on Chalice, Parchment, Compass, Mirror +
   Bell of Magic** (4-piece +150 PvE Attack). Why: MP isn't short (2026-10-17), so Magic Armor's MP refill is the
   weaker bonus; top Clerics mostly run a Vigor core with Bell of Magic (Destruction = Attack). Until 4 Vigor cards
   exist, 2 + 2 is fine. Earlier rule: keep both 2-piece bonuses (2 Magic + 2 Vigor).
