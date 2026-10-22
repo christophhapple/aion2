@@ -140,7 +140,10 @@ so passives likely also cap at Lv 10 from skill points, like actives (inference)
 - **Arcana sets, top Clerics (guides, 2026-10-17/21, unverified):** mostly a Vigor core. Chalice of Vigor 86%, Bell of
   Magic 49% of the top 100 [379]. Common layouts [381]: 3 Vigor + 2 Magic (Bell and Compass, or Bell and
   Mirror, Magic) for both 2-piece bonuses; 4 Vigor + Bell of Magic ("no real MP problems" without Judgment Thunder
-  spam); all Vigor. Set bonuses are PvE-only.
+  spam); all Vigor. Set bonuses are PvE-only. Odealo [389] (2026-10-14): Cleric default 4 Vigor + Bell of Magic,
+  more Magic only under MP pressure; healer targets Healing Light, Light of Regeneration, Radiant Recovery, Warm
+  Benediction, Healing Enhancement; transmute focus Healing Light + Light of Regeneration (group PvE) or Earth's
+  Retribution + Judgment Thunder (solo). No Cleric PvP advice.
 - The skill window's tooltip shows Daevanion levels as a bonus: "Earth's Retribution (+4)" at Lv 14
   (in-game 2026-10-11).
 - **Specialties (active skills):** **3 slots**, unlocking at skill Lv 8, 12 and 20 (in-game 2026-10-11;

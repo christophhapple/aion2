@@ -172,6 +172,15 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
   only 4 in 22 and Chalices drop least (Chalice drop rate also lower in-game 2026-10-19, `transcendence.md`). Then the
   Parchment or Compass carrying your main actives, in the set you're missing [383]. Transmutation "resets or changes" each season; nothing says cards or crystals reset [158]. See `seasons.md`.
 - Sources: Transcendence (GS 1600+, Unique from tier 3) [158], battle pass, coin shop, attendance [158].
+- **Best Arcana grade per Transcendence stage** [389]: stage 1 (GS 1600) Parchment/Compass/Bell/Mirror up to Rare,
+  Chalice Common · stage 2 (1900) up to Epic, Chalice Rare · stage 3 (2200) Unique, Chalice Epic · stage 4 (2500)
+  Unique Chalice. So a Unique Chalice only drops from 2500 GS: the reason to transmute it.
+- **Transmute order** [389]: 1. Unique Chalice · 2. a piece blocking your 4-piece set (a plain 5-crystal Unique can be
+  worth it) · 3. Parchment or Compass · 4. Bell/Mirror last. Its cost table (1 chosen line = 15 crystals + 5M) is
+  **contradicted in-game** (2026-10-19: first chosen line free, see above).
+- **Card priorities** [389]: grade first, skill roll second, enhancement third. Don't keep a weak Common just to hold a
+  4-piece bonus when a Unique adds lots of GS and skill levels. Enhanced cards keep their EXP as material, so
+  enhancing a card you'll later replace isn't wasted.
 - Guide advice: fill every slot at 45, pick Vigor or Magic early for the 2-piece bonus, upgrade only
   cards you keep; a set-completing card can beat a higher-rarity one [158][160].
   Season 1 KR/Asia suggestion: Vigor on Chalice + Parchment, Magic on Compass, Bell, Mirror [160, KR-era].
