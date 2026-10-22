@@ -126,7 +126,7 @@ Guides mostly describe KR/TW; global details may differ. Sources [319]–[321].
   bosses' rewards; Proof of Hero: Lower Reshanta from the monsters after the Artifact Siege [329][330]. Not received after a siege boss kill, but only while away respawning at the kill, so inconclusive (in-game 2026-10-19). Special grade,
   bound, stacks to 1,000, can't be sold [329][331]. **Expire when the season ends** (in-game 2026-10-19; Season 1 ends 2026-12-16 09:00 local, `seasons.md`).
 - **Use:** Substance Morph (Medal tab) → that boss's Merit Chest, 100% success, no Kina [332][333]. Limits are
-  **per character per week** and given per recipe; whether grades share one limit: not stated.
+  **per character per week** and given per recipe; **each grade has its own limit** (in-game 2026-10-22).
 
 | Chest | Base | Rare | Epic | Unique | Limit/week |
 |---|---|---|---|---|---|
@@ -142,8 +142,8 @@ Guides mostly describe KR/TW; global details may differ. Sources [319]–[321].
 - **Cheap vs expensive chests** (community advice via the user 2026-10-22, unverified): craft the cheapest grade as
   long as its weekly limit allows. Fits Argo's numbers: 1-proof chest 1,000 AP + 1 Medal per proof vs Unique 900 AP
   + 0.6 Medal per proof (own arithmetic from [331][334]); Unique keeps a better gear chance. For Dimensional/Nahma the
-  cheap chests' contents are unknown, so not checkable. Only works if each grade has its **own** weekly limit (then:
-  cheapest to its limit, overflow into the next grade); if grades share one limit, Unique gives more per chest.
+  cheap chests' contents are unknown, so not checkable. **Each grade has its own weekly limit** (in-game 2026-10-22),
+  so: cheapest grade to its limit, overflow into the next grade.
 - **Grades compared (in-game 2026-10-19):** **AP per proof is the same for every grade**; higher grades have
   slightly better odds on the random items. So a Unique = the same AP as the equivalent Rares, a little better luck,
   and fewer of the weekly crafts used.

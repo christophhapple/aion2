@@ -4,9 +4,8 @@ One-off things to do or check in the game. Daily/weekly routines live in `routin
 tracker itself goes in `backlog.md`.
 
 ## Open
-- [ ] Merit Chests (Substance Morph → Medal tab): does crafting a Rare chest lower the Unique chest's weekly limit
-  (shared limit) or not (own limit per grade)? And what's in Kaira's / Dimensional / Nahma's cheap chests? Decides
-  whether "craft cheap chests" is right. See `knowledge/abyss.md` "Proof of Hero"
+- [ ] Merit Chests: what's in Kaira's / Dimensional / Nahma's cheap chests (AP, Medals)? Shows whether "cheap first"
+  pays off there too, as it does for Argo. See `knowledge/abyss.md` "Proof of Hero"
 - [ ] Unseal the **Sealed Ancient Aullea Wings** via Substance Morph: needs 10 Radiant Odyle, have 8/10
   (2026-10-22). Afterwards tell me the new Flight Power / wing count
 - [ ] Spend the **14 unspent Daevanion points** on nodes that finish achievement tiers (Progress → Complete,
