@@ -82,7 +82,7 @@ routines:
     name: Shugo Festival (use keys)
     reset: daily
     cap: 3
-    notes: Every hour at :00. +3 keys/day, banks to 12 (per account + server), so no rush until near 12. What matters is spending the keys, not the run count (user, 2026-10-19) - log the keys left when given, don't reconcile runs or flag missing ones.
+    notes: Every hour at :00. +3 keys/day, banks to 12, 21 with membership (since 2026-10-22) (per account + server), so no rush until near the cap. What matters is spending the keys, not the run count (user, 2026-10-19) - log the keys left when given, don't reconcile runs or flag missing ones.
 
   - id: supply-daily
     name: Supply Requests, Emergency tab
