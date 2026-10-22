@@ -272,7 +272,7 @@ passives partly 11–13.
 Condemnation, Judgment Thunder, Light of Regeneration, Warm Benediction, Empyrean Lord's Grace, Immortal Veil,
 Radiant Benediction 15 · Prayer of Concentration 9 · Scattershot 3 · Empyrean Lord's Benediction 2 · the rest 14
 (incl. Radiant Recovery, Debilitating Mark, Defiance, Divine Aura, Earth's Grace, Survival Willpower).
-**Option 5 now selectable on Healing Light (−2s CD) and Bolt (guaranteed Crit)**: not yet picked, see
+**Option 5 now selectable on Healing Light (−2s CD) and Bolt (guaranteed Crit)**: both picked 2026-10-22, see
 "Specialties". Wasted lines: Scattershot (1, unused skill), Empyrean Lord's Benediction (1, no points).
 ~~Before (2026-10-19): Chalice + Parchment Magic, Compass + Mirror Vigor, no Bell; Healing Enhancement the only 16.~~
 
