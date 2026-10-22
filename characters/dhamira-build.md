@@ -5,7 +5,9 @@ truth. Skill effects: `knowledge/cleric-skills.md`. Hotbar/macro mechanics: `kno
 Fully re-checked against the game on 2026-10-17: presets, hotbar, macro, Stigmas, skill levels (base,
 Daevanion, gear, Arcana), Daevanion boards, specialties.
 
-Target content: mostly group PvE; Abyss PvP second (2026-10-19, see "PvP preset").
+Target content: mostly group PvE; Abyss PvP second (2026-10-19, see "PvP preset"). **Since 2026-10-22 (user):
+healing in groups more** (Expeditions, Transcendence = where progression is), so long-term choices (Arcana) favour
+the Heal preset.
 
 ## Presets (decided and set up in-game 2026-10-17)
 Mastery (levels, specialties, hotbar, macro) and Stigma are separate tabs but **one linked "Skills"
@@ -330,8 +332,12 @@ evenly). Further levels come from **Daevanion** (11–14) and **Arcana** (15–2
 - Corners: Nezekan all 4; Zikel, Vaizel, Triniel: what's taken matches what's wanted (2026-10-17).
 
 **Arcana (15–20): 4 Common cards, maxed** (see "Skill levels"). Lv 16 unlocks option 5, Lv 20 the 3rd slot.
-- **Goal (2026-10-17): get option 5 on Condemnation (Multi-Hit) first**, then Healing Light (−2s CD), Radiant
-  Recovery (+5% HP restored), Bolt (guaranteed Crit). Which comes first depends on the cards that drop.
+- **Goal (2026-10-22): healer who still brings damage.** Joint first: **Healing Light** (15 → 16: option 5 −2s CD)
+  and **Condemnation** (14 → 16: Multi-Hit). Then **Radiant Recovery** (15 → 16: +5% HP restored), **Light of
+  Regeneration** (14 → 16: +5% PvE Damage Tolerance for the party), Bolt. Which comes first in practice depends on
+  the cards that drop. ~~Condemnation first~~ (2026-10-17, damage-leaning).
+- **Reaching Lv 20** (3rd specialty slot) needs +6 over the Daevanion 14, so the skill must sit on **both** the Chalice
+  and its own slot's card (plus gear lines). The Chalice's chosen line therefore decides which skill can go to 20.
 - **Where the wanted skills sit** (pools: `knowledge/cleric-skills.md` "Skill levels"): Condemnation, Radiant
   Recovery, Bolt on **Parchment**; Healing Light, Defiance on **Compass**; any of them on **Chalice**. Bell and
   Mirror only carry passives, so for option 5 they don't matter.
@@ -339,9 +345,13 @@ evenly). Further levels come from **Daevanion** (11–14) and **Arcana** (15–2
   Bell of Magic** (4-piece +150 PvE Attack). Why: MP isn't short (2026-10-17), so Magic Armor's MP refill is the
   weaker bonus; top Clerics mostly run a Vigor core with Bell of Magic (Destruction = Attack). Until 4 Vigor cards
   exist, 2 + 2 is fine. Earlier rule: keep both 2-piece bonuses (2 Magic + 2 Vigor).
-- **First Transmutation: Chalice of Vigor, chosen line Condemnation** (the free first pick). Chalice because a
-  chosen skill rolls there only 4 in 22 and Chalices drop least; Parchments bring Condemnation 4 in 6 from
-  Arkanis anyway. Condemnation because no current card has it and it's priority 1 for option 5. The other 3 lines
+- **First Transmutation: Chalice of Vigor**; chosen line (the free first pick) decided **when you transmute**
+  (2026-10-22): whichever of **Healing Light / Condemnation** is further from 16 by then; if both reached 16 via
+  Compass/Parchment drops, **Healing Light** (the heal to push to 20). Healing Light only needs +1 and comes on 4 in 6
+  Compasses (Deus); Condemnation needs +2 and comes on 4 in 6 Parchments (Arkanis). Both lines at once: +10 crystals
+  + 3M Kina (15 crystals total), only if crystals are spare. Odealo's Cleric pick: Healing Light + Light of
+  Regeneration. Chalice because a chosen skill rolls there only 4 in 22 and a Unique Chalice only drops from stage 4
+  (2500 GS). The other 3 lines
   are random from 21; only Scattershot, Empyrean Lord's Benediction, Heal Block would be wasted. Costs 5 Mysterious
   Crystals + 2M Kina. Replaces the Common Chalice (Magic), so the Magic 2-piece drops until a Magic Bell comes.
 - Replace cards with Scattershot or Empyrean Lord's Benediction lines first (Compass, Mirror): their levels are wasted.
