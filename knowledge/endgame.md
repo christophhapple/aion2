@@ -287,7 +287,7 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
 **In theory roughly yes, but only after buying out every shop: a long grind** (guides, 2026-10).
 - **Cap 20 on global** (client data); KR went to 25 with Advanced/Superior Stigma Shards [128].
 - **Shards per level:** 1–5: 1 each · 6–10: 2 · 11–15: 4 · 16–20: 8. Totals: Lv5 = 5, Lv10 = 15,
-  Lv15 = 35, **Lv20 = 75**; four Stigmas at 20 = **300** [128]. Shards per level rise (in-game 2026-10-11).
+  Lv15 = 35, **Lv20 = 75**; four Stigmas at 20 = **300** [128]. Shards per level rise (in-game 2026-10-11); the full table confirmed (in-game 2026-10-22).
 - **Sources (per character)** [128]: character levels ~30 (23–39: 1 each, 40–45: 2 each) + 1 Ascension
   reward · **Abyss shop: up to 200**, 4 steps of 50 at 10k / 15k / 20k / 25k Abyss Points each (in-game 2026-10-13) (cheapest
   source) · **Nightmare shop: 35** at 1,500 Phantasmal Fragments each (in-game 2026-10-13: "Per Character x/35" counts purchases, **lifetime, no reset**) · **Shugo Festival shop: 35** at
