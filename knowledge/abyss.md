@@ -141,9 +141,9 @@ Guides mostly describe KR/TW; global details may differ. Sources [319]–[321].
   (Unique) (one older page lists a different Nahma chest: 6 Platinum Medals + 10,000 AP). Rare/Epic contents: not found.
 - **Cheap vs expensive chests** (community advice via the user 2026-10-22, unverified): craft the cheapest grade as
   long as its weekly limit allows. Fits Argo's numbers: 1-proof chest 1,000 AP + 1 Medal per proof vs Unique 900 AP
-  + 0.6 Medal per proof (own arithmetic from [331][334]); Unique keeps a better gear chance. **Kaira's: same pattern,
-  cheap chests give more per proof** (in-game 2026-10-22, exact amounts not recorded). For Dimensional/Nahma the
-  cheap chests' contents are unknown, so not checkable. **Each grade has its own weekly limit** (in-game 2026-10-22),
+  + 0.6 Medal per proof (own arithmetic from [331][334]); Unique keeps a better gear chance. **Kaira's and Dimensional:
+  same pattern, cheap chests give more per proof** (in-game 2026-10-22, exact amounts not recorded). Nahma's cheap
+  chests: contents unknown, so not checked. **Each grade has its own weekly limit** (in-game 2026-10-22),
   so: cheapest grade to its limit, overflow into the next grade.
 - **Grades compared (in-game 2026-10-19):** **AP per proof is the same for every grade**; higher grades have
   slightly better odds on the random items. So a Unique = the same AP as the equivalent Rares, a little better luck,
