@@ -80,8 +80,9 @@ no specialties, unused). Its Stagger damage doesn't matter: players have no Stag
 The points can't go to Defiance: it's already at the skill-point cap (base 10); its Lv 16 for option 5 has to
 come from Arcana or gear. Freed points go to passives instead, see "Passives".
 
-**Specialties:** the PvE picks, with four swaps. All are random procs, so none adds anything to press or watch:
-- **Healing Light 2 → 3** (50% cleanse on my own heal; two guides agree).
+**Specialties:** the PvE picks, with three swaps. All are random procs, so none adds anything to press or watch:
+- **Healing Light: 1 + 5** (−2s cooldown, since 2026-10-22, Lv 16), same as PvE. ~~2 → 3 (50% cleanse on my own
+  heal; two guides agree)~~: cleanse dropped for option 5.
 - **Judgment Thunder 1 → 4** (10% Root 2s): almost free, since MP isn't short; Thunder fires constantly from the macro.
 - **Condemnation 2 → 3** (20% Root 3s): costs some single-target damage, but it's the most-hit skill.
 - **Earth's Retribution 4 → 3** (+50% Multi-Hit chance): option 4 cuts Bolt's cooldown, wasted with Bolt out.
