@@ -21,7 +21,6 @@ tracker itself goes in `backlog.md`.
 - [ ] Verify: after 2026-10-25 (DST change), do event times stay on the local clock (Rift still at 02, 05, 08 … 23)? And is the daily reset at 08:00 or still 09:00 local? (Season/event countdowns hint 09:00; then `routines.yaml` needs 08:00 UTC)
 - [ ] Transfer: on your first real transfer, note how many Transfer Stones it took and what ends up on the kept piece (Soul Binding lines, Manastones, Theostone, Soul Fuse). The window shows no result preview
 - [ ] Legion (if you join one): does the Legion menu show missions or Legion Coin? What does the Legion Merchant sell?
-- [ ] Arcana Extract: after extracting one spare card, does the window still show 11% with nothing registered (= gauge that keeps progress) or 0% (= chance)? Does a +0 Common give less than 11%?
 - [ ] Cube-hunting audio for gathering/pet runs: Master + Sound Effects 100%, Music, Ambient, Monster, Mount, own character + wing sounds low. Save it as its own audio preset (the game supports audio presets, user 2026-10-19). See `knowledge/endgame.md` "Hidden Cubes"
 - [ ] *(low priority, doesn't change the build)* PvP: right after Defiance, does Salvation (Q) still work? Its tooltip blocks it for 30s only "if Invincibility stacking is blocked"; try in the 1v1 arena and open-world Abyss
 - [ ] Pantheon: can Eternal Gartua (Verteron, Eternal Isle) and Immortal Gartua (Altgard, Immortal Isle) both be placed, or do they share a slot? Decides whether Altgard field bosses are worth it. See `knowledge/endgame.md` "Artworks"
@@ -29,6 +28,7 @@ tracker itself goes in `backlog.md`.
 - [ ] *(low priority)* Silver Medal of Merit, in the Trade Shop: what costs Silver Medals (only Centurion skins at 40/80, or gear too)? Do the pieces have stats? Is a rank (Ninth-Class Soldier) required to buy? How many medals do you have? See `knowledge/abyss.md` "Silver Medal of Merit"
 
 ## Done
+- [x] Arcana Extract is a gauge that keeps progress, not a chance (2026-10-22)
 - [x] Merit Chests checked: own weekly limit per grade; Argo, Kaira, Dimensional cheap chests give more per proof; Nahma's Rare chest has no gear (2026-10-22)
 - [x] Class icon colors: all 8 seen (Spiritmaster pink/magenta from the Expedition room list), colored image done (2026-10-20)
 - [x] Abyss Command Scroll rewards checked for all grades; Epic = 75k, Unique = 150k (2026-10-20)
