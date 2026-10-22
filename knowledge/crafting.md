@@ -115,7 +115,7 @@ Guides 2026-10, unverified unless tagged. Levels 6–10 (common) and specialty a
 - **Sell window** (in-game 2026-10-22) shows "Market Price, last 28 days": lowest, highest, average and last
   trading unit price, plus the current lowest listing; the price per item defaults to the current lowest.
   No sales tax shown in this window.
-- **Fees (guides):** listing fee + **~10% of the sale** [393][395]. The current
+- **Sales tax: 10%** (in-game 2026-10-22) [393][395]. So a sale nets ~88% of the listed price (−2% fee, −10% tax). The current
   "Market Tax" is shown top right on the Market screen [391]: check in-game. Buyer pays the fee [397, KR, Kina seller].
 - **Slots, listing duration, price floors/caps:** not found.
 - **Only "Tradable" items** can be listed [391]. Crafted gear stays tradeable until equipped / Soul-Bound
