@@ -79,7 +79,7 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
 
 ## Belt and Revelation amulet (shared rules)
 - Path: Rare +0→+10 → transmute → Epic +0→+10 → transmute → Unique +0→+10. **Cap on global: Unique +10**
-  [35][38][41].
+  [35][38][41]. Path and Unique +10 cap confirmed (in-game 2026-10-22).
 - Each +1: **1 scroll** + Enhance Stones + a little Kina, always succeeds (in-game 2026-10-10 up to Epic
   +9; guides agree for all tiers [35][38]).
 - **Start:** both items start at **Rare +0** (IL 13). Belt: reward of the level-13 main quest "Visions
