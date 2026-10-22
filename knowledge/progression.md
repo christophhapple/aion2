@@ -50,7 +50,7 @@ Exploration mode (easy) of most expeditions opens much earlier: Krao 200, Urugug
 ## Watch out
 - Clash Runes above +1: failure **destroys** the rune (in-game). Only try with a spare.
 - Above +10 on normal gear: 65% for +11 (in-game 2026-10-22) → 20% at +15 [21]; failures cost materials only [21][22].
-- Unique tier of belt/amulet: ~201k stones + 5M Kina for +0→+10 [38]. Plan for it.
+- Unique tier of belt/amulet: ~201k stones + 5M Kina for +0→+10 [38], confirmed (in-game 2026-10-22). Plan for it.
 - Spare Empyrean Traces: keep them. A stones conversion exists in KR but isn't on global yet [39][40].
 
 ## Often missed (quick wins)
