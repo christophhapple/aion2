@@ -5,7 +5,7 @@ Overview: `progression.md`.
 
 ## What raises GS
 Gear, enhancement, Manastones/Theostones, belt, amulet, Ascension bracelets, Clash Runes, Arcana
-[1][2][15]. Daevanion points raise **GS 1:1** (in-game 2026-10-13); Pantheon raises Combat Power, not GS (in-game 2026-10-19).
+[1][2][15]. Daevanion points raise **GS 1:1** (in-game 2026-10-13); Pantheon raises Combat Power, not GS (in-game 2026-10-19, reconfirmed 2026-10-22).
 Arcana per card: **Common 20, Unique 80** (in-game 2026-10-19: Common cards show 20, the Transmutation preview
 shows a Unique card at 80), **+1 GS per upgrade level** (Common +2 = 22, in-game 2026-10-19). Rare 40, Epic 60 per
 guides [2][14][17], consistent with the in-game values but not seen yet.

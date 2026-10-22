@@ -8,7 +8,7 @@ One-page overview for a level-45 character, written for free-to-play. Details an
 
 - **Gear score (GS)** gates content. It comes from gear, enhancement (+1 GS per level, in-game), belt,
   amulet, Clash Runes, Manastones and Arcana.
-- **Combat Power (CP)** is how strong you are. Daevanion points raise GS 1:1 (in-game 2026-10-13; ~~CP only~~ [14]); Pantheon: CP, not GS (in-game 2026-10-19).
+- **Combat Power (CP)** is how strong you are. Daevanion points raise GS 1:1 (in-game 2026-10-13; ~~CP only~~ [14]); Pantheon: CP, not GS (in-game 2026-10-19, reconfirmed 2026-10-22).
 - **Enhance Stones are the bottleneck** (in-game). Enhancing +1 → +10 always succeeds (in-game 2026-10-22), so stones turn
   directly into GS.
 
