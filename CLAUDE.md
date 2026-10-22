@@ -38,8 +38,8 @@ database and Claude is the interface. The user talks in plain language ("did nig
 - **Auto-commit** after every change to tracked data, one commit per logical update, short message
   in the form `log: Dhamira nightmare ×2` / `char: Dhamira GS 1050` / `goals: …` / `routines: …`.
   No need to ask first.
-- **Respect `account.md`:** the player is currently free to play. Don't base advice on paid content
-  (Daeva Pass, membership) unless asked, and note when a guide's numbers assume a subscription.
+- **Respect `account.md`:** the player has the membership subscription (since 2026-10-22), not the paid
+  Daeva Pass. Base advice on membership benefits; don't count paid Daeva Pass rewards unless asked.
 - **Todos:** something the user must do or check in the game goes in `todo.md`; a change to this repo
   (files, skills, structure) goes in `backlog.md`. Finished items move to "Done" with the date; dropped items are deleted.
 - **Terminology:** write "gear score" / "GS", never "item level" / "IL" (same thing; guides use IL).
