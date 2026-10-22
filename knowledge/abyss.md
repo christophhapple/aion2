@@ -139,6 +139,11 @@ Guides mostly describe KR/TW; global details may differ. Sources [319]–[321].
   **Argo Unique: 4,500 AP + 3 Silver Medals** + Argo gear ~0.1% each · **Dimensional Unique: 7,500 AP + 3 Silver
   Medals** + Argo/Kaira gear · **Nahma Unique: 20,000 AP + 3 Silver Medals** + Nahma gear, 7% Potential Stone: Abyss
   (Unique) (one older page lists a different Nahma chest: 6 Platinum Medals + 10,000 AP). Rare/Epic contents: not found.
+- **Cheap vs expensive chests** (community advice via the user 2026-10-22, unverified): craft the cheapest grade as
+  long as its weekly limit allows. Fits Argo's numbers: 1-proof chest 1,000 AP + 1 Medal per proof vs Unique 900 AP
+  + 0.6 Medal per proof (own arithmetic from [331][334]); Unique keeps a better gear chance. For Dimensional/Nahma the
+  cheap chests' contents are unknown, so not checkable. Only works if each grade has its **own** weekly limit (then:
+  cheapest to its limit, overflow into the next grade); if grades share one limit, Unique gives more per chest.
 - **Grades compared (in-game 2026-10-19):** **AP per proof is the same for every grade**; higher grades have
   slightly better odds on the random items. So a Unique = the same AP as the equivalent Rares, a little better luck,
   and fewer of the weekly crafts used.
