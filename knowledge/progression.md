@@ -9,7 +9,7 @@ One-page overview for a level-45 character, written for free-to-play. Details an
 - **Gear score (GS)** gates content. It comes from gear, enhancement (+1 GS per level, in-game), belt,
   amulet, Clash Runes, Manastones and Arcana.
 - **Combat Power (CP)** is how strong you are. Daevanion points raise GS 1:1 (in-game 2026-10-13; ~~CP only~~ [14]); Pantheon: CP, not GS (in-game 2026-10-19).
-- **Enhance Stones are the bottleneck** (in-game). Enhancing +1 → +10 always succeeds, so stones turn
+- **Enhance Stones are the bottleneck** (in-game). Enhancing +1 → +10 always succeeds (in-game 2026-10-22), so stones turn
   directly into GS.
 
 The loop: run content → Enhance Stones + gear → enhance → higher GS → next content tier.
@@ -49,7 +49,7 @@ Exploration mode (easy) of most expeditions opens much earlier: Krao 200, Urugug
 
 ## Watch out
 - Clash Runes above +1: failure **destroys** the rune (in-game). Only try with a spare.
-- Above +10 on normal gear: 65% → 20% success; failures cost materials only [21][22].
+- Above +10 on normal gear: 65% for +11 (in-game 2026-10-22) → 20% at +15 [21]; failures cost materials only [21][22].
 - Unique tier of belt/amulet: ~201k stones + 5M Kina for +0→+10 [38]. Plan for it.
 - Spare Empyrean Traces: keep them. A stones conversion exists in KR but isn't on global yet [39][40].
 

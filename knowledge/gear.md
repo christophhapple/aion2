@@ -29,9 +29,8 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
 | Special (consumables, runes) | teal (in-game 2026-10-13, Clash Rune) |
 
 ## Enhancement (normal gear)
-- **+1 to +10: always succeeds** [21][22] (earlier: "always" [12] **vs** chance-based only from +10 [12];
-  now confirmed by two fetched sources).
-- +11 → +15: 65 / 50 / 35 / 25 / 20%, +5% to the next attempt after each failure [21].
+- **+1 to +10: always succeeds** (in-game 2026-10-22) [21][22].
+- +11 → +15: **65%** (+10 → +11, in-game 2026-10-22) / 50 / 35 / 25 / 20%, +5% to the next attempt after each failure [21].
 - Above +15: Amplify Stones, 66% → 20%, 600k–3M Kina per try [21].
 - Failure never breaks or downgrades the item; only materials are lost [22].
 - **Extraction** (gear inventory menu) returns **100% of the Enhance Stones** invested (in-game test
