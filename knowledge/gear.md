@@ -152,7 +152,7 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
   in-game for Common (20, +1 per upgrade level) and Unique (80), see "What raises GS" (2026-10-19).
   A card's grade can't be raised: a Common stays Common, better grades are new cards (user's impression
   in-game 2026-10-19, nothing in-game suggests otherwise).
-- **Upgrade:** no Enhance Stones, no failure; feed Training Arcana (200–5,000 EXP each) or spare cards.
+- **Upgrade:** no Enhance Stones, no failure; feed Training Arcana or spare cards (in-game 2026-10-22). Training Arcana give 200–5,000 EXP each (guides). **Every filled slot is free GS, even with a Common card** (in-game 2026-10-22).
   Unique to +5 = 93,000 EXP. EXP carries over when an upgraded card is used as material [158] **vs**
   "not 1:1, you lose some" [160].
 - Spare duplicates → extract into Mysterious Crystals → Transmutation makes a Unique card for a chosen
