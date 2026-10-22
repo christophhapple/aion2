@@ -255,21 +255,25 @@ passives partly 11–13.
 
 **On top (equipped, 2026-10-17, told by the user):**
 - Gear: Scattershot +1, Healing Light +1, Healing Enhancement +1.
-- Arcana (4 of 5 slots, no Bell yet): all **Common, fully upgraded** (Common max +2, so 3 lines at +1 each), 22 GS each (in-game 2026-10-19). No room left: better levels need new cards.
+- Arcana (**reworked 2026-10-22**, in-game "Equipped Effect" screenshot): all 5 slots, **4 Vigor + Bell of Magic**
+  (the target layout), Primal Vigor 4-piece active (+150 PvE Attack at ≥70% HP). Every card's stat is 10 and the
+  lines add up to 15 levels = 5 × 3, so all **Common +2** (inference; 22 GS each).
 
-| Card | Set | Skill lines |
+| Card | Set (stat 10) | Skill lines |
 |---|---|---|
-| Chalice | Magic | Earth's Grace +1, Immortal Veil +1, Prayer of Concentration +1 |
-| Parchment | Magic | Radiant Recovery +1, Debilitating Mark +1, Earth's Retribution +1 |
-| Compass | Vigor | Judgment Thunder +1, Defiance +1, Scattershot +1 |
-| Mirror | Vigor | Healing Enhancement +1, Radiant Benediction +1, Empyrean Lord's Benediction +1 |
+| Parchment + Chalice | Vigor (Life, Time) | together: Earth's Retribution +1, Chain of Torment +1, Condemnation +1, Bolt +2, plus one Compass-pool line from the list below (which card has which: not recorded) |
+| Compass + Chalice | Vigor (Freedom) | together: Judgment Thunder +1, Light of Regeneration +1, Healing Light +1, Scattershot +1 |
+| Bell | **Magic** (Destruction) | Warm Benediction +1, Empyrean Lord's Grace +1, Immortal Veil +1 |
+| Mirror | Vigor (Illusion) | Healing Enhancement +1, Radiant Benediction +1, Empyrean Lord's Benediction +1 (same lines as the old Mirror) |
 
-Both 2-piece sets are active (Magic Armor + Primal Vigor, `knowledge/gear.md`).
-**Totals:** Healing Enhancement 16 · Healing Light, Radiant Recovery, Debilitating Mark, Earth's
-Retribution, Judgment Thunder, Defiance, Earth's Grace, Immortal Veil, Radiant Benediction 15 ·
-Prayer of Concentration 10 (2026-10-18, in-game) · Scattershot 3 · Empyrean Lord's Benediction 2 · the rest 14.
-No active is at 16 yet, so no option 5 is unlocked. Wasted lines: Scattershot (2, unused skill),
-Empyrean Lord's Benediction (1, no points).
+Chalice = 3 of the 9 Parchment/Compass-pool levels above (pools: `knowledge/cleric-skills.md`).
+**Totals:** **Healing Light 16, Bolt 16, Healing Enhancement 16** · Earth's Retribution, Chain of Torment,
+Condemnation, Judgment Thunder, Light of Regeneration, Warm Benediction, Empyrean Lord's Grace, Immortal Veil,
+Radiant Benediction 15 · Prayer of Concentration 9 · Scattershot 3 · Empyrean Lord's Benediction 2 · the rest 14
+(incl. Radiant Recovery, Debilitating Mark, Defiance, Divine Aura, Earth's Grace, Survival Willpower).
+**Option 5 now selectable on Healing Light (−2s CD) and Bolt (guaranteed Crit)**: not yet picked, see
+"Specialties". Wasted lines: Scattershot (1, unused skill), Empyrean Lord's Benediction (1, no points).
+~~Before (2026-10-19): Chalice + Parchment Magic, Compass + Mirror Vigor, no Bell; Healing Enhancement the only 16.~~
 
 **Passive plan (2026-10-13):** Empyrean Lord's Grace, Earth's Grace, Healing Enhancement are at base 10
 (the skill-point cap; header bonuses +3/+2/+1), so done. Spare points: **Immortal Veil** (+14% Defense),
