@@ -499,3 +499,15 @@ Added 2026-10-22 (crafting for Kina, Market rules).
 407. expcarry, Professions Guide, 2026-10-05, G, boosting seller: https://expcarry.com/aion2-professions-guide
 408. Skycoach, Kina Farming Guide, 2026-10-03?, G with TW prices, Kina seller: https://skycoach.gg/blog/aion-2/articles/kina-farming-guide
 409. Mein-MMO, currency change because of farmbots, 2026-03-19, KR/TW: https://mein-mmo.de/en/aion-2-must-completely-change-its-currency-because-farmbots-have-worked-too-hard,1557313/
+
+Added 2026-10-22 (skins, Closet, Skin Combine).
+410. metabot.gg, Costumes & Skins: Sources, Combine Odds & Collection Bonus, 2026-10-15, G: https://metabot.gg/en/aion-2/guides/costumes-skins-guide
+411. gamewith.ai, Skin Synthesis, 2026-09-30, KR (probability disclosure; global pool differs): https://gamewith.ai/aion2/en/skin-synthesis
+412. Fextralife wiki, Armor Skins, 2026-10-09, G?: https://aion2.wiki.fextralife.com/Armor_Skins
+413. aion2.blog, Skins: Closet Collection Bonus, 2026-10-10, G: https://aion2.blog/skins/
+414. aion2turkiye.com, Empty Closet title: 700 skins fast, 2026-10-21, G, summary of a player video: https://aion2turkiye.com/en/blog/aion-2-empty-closet-title-how-to-get-700-skins/
+415. GameRant, change character & gear appearance, 2026-10-06, G: https://gamerant.com/aion-2-how-to-change-character-appearance/
+416. dtgre.com, Closet collection stats: which skins count, 2026-10-06, G: https://www.dtgre.com/2026/10/aion-2-closet-collection-stats-skins.html
+417. allthings.how, Closet dye guide, 2026-10-08, G (Closet UI only): https://allthings.how/?p=244763
+418. mmoexp.com, unlock rare skins with Closet and Combine, 2026-09-28, pre-launch, Kinah seller: https://www.mmoexp.com/News/how-to-unlock-rare-skins-in-aion-2-for-free-using-the-closet-and-combine-system.html
+419. xboxplay.games, how to get more skins, 2026-10-04, G: https://xboxplay.games/aion-2/how-to-get-more-skins-aion-2-76416

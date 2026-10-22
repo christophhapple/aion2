@@ -25,7 +25,7 @@ Through Hell and Back (cooldowns) suits a Cleric better than the Core title (mov
 - Attack: **Unbound by Genus** (PvE Damage Boost +4.5%, Attack +34, Crit +68): all Genus Insight to
   level 10. Metaroad prefers **Playing God** (Double Chance, PvE Damage Boost) for Clerics [111].
 - Defense: **Dominator of Dimensions** (PvE Damage Tolerance +4.5%, HP +1,000, Defense +340): 25 wings.
-- Other: **Empty Closet** (Combat Speed +3.5%, Cooldown Reduction +3.5%; some say 5%): 700+ skins.
+- Other: **Empty Closet** (Combat Speed +3.5%, Cooldown Reduction +3.5%; some say 5%): 700+ skins. Skins and Skin Combine: `skins.md`.
 - PvP: Treading on Black/White Wings (attack), Click (defense) [109].
 
 ## Easy extras for owned bonuses [109]
