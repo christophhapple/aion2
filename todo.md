@@ -29,6 +29,7 @@ tracker itself goes in `backlog.md`.
 - [ ] *(low priority)* Silver Medal of Merit, in the Trade Shop: what costs Silver Medals (only Centurion skins at 40/80, or gear too)? Do the pieces have stats? Is a rank (Ninth-Class Soldier) required to buy? How many medals do you have? See `knowledge/abyss.md` "Silver Medal of Merit"
 
 ## Done
+- [x] Merit Chests checked: own weekly limit per grade; Argo, Kaira, Dimensional cheap chests give more per proof; Nahma's Rare chest has no gear (2026-10-22)
 - [x] Class icon colors: all 8 seen (Spiritmaster pink/magenta from the Expedition room list), colored image done (2026-10-20)
 - [x] Abyss Command Scroll rewards checked for all grades; Epic = 75k, Unique = 150k (2026-10-20)
 - [x] PvP preset set up in-game: Skills 3 + Batch Set 3; Salvation 15, Heal Block 5, Q/E swapped; Salvation Lv 10 restores 20% HP; Chain of Torment option 4 also −5% PvP Damage Tolerance (2026-10-20)
