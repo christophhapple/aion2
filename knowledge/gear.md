@@ -226,7 +226,7 @@ Stats: Wisdom + Life (god stats), Constitution + Power (primary); Heal Boost (Pv
 - **Wing enhancement does not exist on global** (in-game 2026-10-13) [185][183][182]. ~~Live on global, +10 Flight Power per level, ~3.5–16.7M Kina to +10~~ [178] is KR/TW data.
 - **Titles give Flight Speed only:** Eagle Eye 2.5% (+ move speed), ★★★ Chef 2.3%, Mysterious Racer
   1.8%, Professional Extractor 1.4% [180].
-- **Mid-flight refill:** Wind Serum (Alchemy, mastery 10; Aria + Targena + Glass Bottle or Azpha +
+- **Mid-flight refill:** Wind Serum (refills Flight Power in the air, in-game 2026-10-22) (Alchemy, mastery 10; Aria + Targena + Glass Bottle or Azpha +
   Calendula + Glass Bottle) [180]; recovery rings, wind paths, updrafts [180][181].
 - Nothing found for flight from Daevanion, gear stats, buffs.
 
