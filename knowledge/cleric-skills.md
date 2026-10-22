@@ -124,6 +124,23 @@ so passives likely also cap at Lv 10 from skill points, like actives (inference)
   (in-game 2026-10-17); **Daevanion levels still apply on top** of a lowered
   base (in-game 2026-10-17). **Daevanion boards can be reset** (in-game 2026-10-17). Skill-point cost
   per level: not known yet.
+- **Arcana skill pools per slot** (guides [379][380], 2026-10-20/21; the 4 Common cards seen in-game 2026-10-17
+  all fit them). Vigor and Magic versions carry the same pools [380]; a card never repeats a skill [380]:
+  - **Parchment** (actives, Shattered Arkanis): Earth's Retribution, Debilitating Mark, Chain of Torment,
+    Condemnation, Radiant Recovery, Bolt
+  - **Compass** (actives, Deus Research Base): Judgment Thunder, Divine Aura, Light of Regeneration, Healing
+    Light, Lightning Strike Scattershot, Defiance
+  - **Bell** (passives, Deus): Warm Benediction, Empyrean Lord's Grace, Immortal Veil, Prayer of
+    Concentration, Survival Willpower
+  - **Mirror** (passives, Arkanis): Empyrean Lord's Benediction, Healing Enhancement, Heal Block, Radiant
+    Benediction, Earth's Grace
+  - **Chalice** (both dungeons): any of the 22 skills
+  - So a Unique card (4 lines) has a given skill on 4 in 6 Parchments/Compasses, 4 in 5 Bells/Mirrors, but only
+    4 in 22 Chalices [380].
+- **Arcana sets, top Clerics (guides, 2026-10-17/21, unverified):** mostly a Vigor core. Chalice of Vigor 86%, Bell of
+  Magic 49% of the top 100 [379]. Common layouts [381]: 3 Vigor + 2 Magic (Bell and Compass, or Bell and
+  Mirror, Magic) for both 2-piece bonuses; 4 Vigor + Bell of Magic ("no real MP problems" without Judgment Thunder
+  spam); all Vigor. Set bonuses are PvE-only.
 - The skill window's tooltip shows Daevanion levels as a bonus: "Earth's Retribution (+4)" at Lv 14
   (in-game 2026-10-11).
 - **Specialties (active skills):** **3 slots**, unlocking at skill Lv 8, 12 and 20 (in-game 2026-10-11;

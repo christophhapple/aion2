@@ -460,3 +460,10 @@ Added 2026-10-19 (Cleric PvP).
 376. metabot.gg, Abyssal Forge: Ludra achievements, undated, G: https://metabot.gg/en/aion-2/achievements/sanctuary
 377. PatchBot transcription of the official "[Notice] Patch Notes | Oct. 20 (PDT) / Oct. 21 (CEST)", 2026-10-20, official: https://patchbot.io/games/aion-2/articles/1865-notice-patch-notes-oct-20-pdt-oct-21-cest (original: https://steamcommunity.com/games/3393110/announcements/detail/670631196372241777)
 378. allthings.how, Oct 21 maintenance + patch notes summary, 2026-10-21, G: https://allthings.how/aion-2-server-downtime-and-patch-notes-for-the-maintenance/
+
+Added 2026-10-22 (Arcana layout + Transmutation order).
+379. aion2tierlist.com, Arcana guide, 2026-10-21, G (top-100 usage stats, client descriptions): https://aion2tierlist.com/guides/aion-2-arcana-guide
+380. raidrelay.com, Arcana guide, 2026-10-20, G: https://raidrelay.com/aion-2-arcana-guide
+381. aion2vault.com, Cleric gear guide (creator builds), 2026-10-17, G: https://aion2vault.com/builds/cleric/gear/
+382. Search summary of deity-stat pages (thegameswiki Pantheon, aion2hub stat calculator), 2026, ?: https://thegameswiki.com/aion-2/wiki/pantheon · https://aion2hub.com/tools/stat-calculator
+383. Search summary of Arcana transmute guides (allthings.how Gold Chalice, ggwtb, expcarry), 2026, G/?: https://allthings.how/how-to-craft-the-gold-chalice-of-vigor-arcana-in-aion-2-80-gear-score/ · https://ggwtb.com/blog/aion-2-gold-arcana-guide-5-crystal-chalice-route--crafting-costs-sets · https://expcarry.com/aion-2-arcana-transcendence-cards-tiers-crafting

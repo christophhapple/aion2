@@ -135,6 +135,14 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
 - Each slot has a **Vigor** and a **Magic** version. Sets [158]:
   - Primal Vigor: 2 pieces +60 PvE Attack above 70% HP, 4 pieces +150.
   - Magic Armor: 2 pieces restore 1,500 MP at ≤20% MP (30 s cooldown); 4 pieces +1,000 PvE Defense at ≥50% MP.
+- **Slot stat (guides [379][382], unverified):** each card also carries one Empyrean Lord stat, Vigor / Magic:
+  Chalice Time (Combat Speed, Double Resist) / Space (Move Speed, Block) · Parchment Life (HP, Regeneration) /
+  Destiny (MP, Endurance) · Compass Freedom (Accuracy, Evasion) / Death (Crit, Regeneration Penetration) · Bell
+  Justice (Defense, Perfect) / Destruction (Attack, Perfect Resist) · Mirror Illusion (cooldowns, Endurance
+  Penetration) / Wisdom (MP cost, Double). Amount per grade 8 / 12 / 16 / 20 [379]; one calculator says +0.1% per
+  point on each effect [382], so a Unique card ≈ +2%: small next to the set bonus and skill lines (inference).
+- Skill pools per slot: actives on Parchment + Compass, passives on Bell + Mirror, anything on Chalice [379][380].
+  Cleric pools: `cleric-skills.md` "Skill levels".
 - Per grade [158]: Common GS 20, 1 skill level, max +2 · Rare GS 40, 2 skill levels, max +3 ·
   Epic GS 60, 3 skill levels, max +4 · Unique GS 80, 4 skill levels, max +5. Skill levels go to skills
   listed on the card; each upgrade adds +1 to a random skill line already on it [160]. GS confirmed
@@ -156,7 +164,11 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
   is likely (inference, matches the guides); if so, ~9–10 Common +2 cards per crystal · **Ascension Trial** season score
   milestones (1,000 / 3,000 / 4,000 / 5,000 named) [324][325] · Season Pass rewards [325] · possibly boss drops
   morphed via Substance Morph, contradicted by a source saying Transcendence gives other crystals [325]. One guide
-  claims a 7-day Transmutation cooldown [325]. Transmutation "resets or changes" each season; nothing says cards or crystals reset [158]. See `seasons.md`.
+  claims a 7-day Transmutation cooldown [325] **vs** "about a day" [379] **vs** cooldown removed (KR patch
+  2026-02-25, per [383]); unverified.
+- **Which slot to transmute first (guides [379][380][383], agree):** the **Chalice**, because a chosen skill rolls there
+  only 4 in 22 and Chalices drop least (Chalice drop rate also lower in-game 2026-10-19, `transcendence.md`). Then the
+  Parchment or Compass carrying your main actives, in the set you're missing [383]. Transmutation "resets or changes" each season; nothing says cards or crystals reset [158]. See `seasons.md`.
 - Sources: Transcendence (GS 1600+, Unique from tier 3) [158], battle pass, coin shop, attendance [158].
 - Guide advice: fill every slot at 45, pick Vigor or Magic early for the 2-piece bonus, upgrade only
   cards you keep; a set-completing card can beat a higher-rarity one [158][160].
