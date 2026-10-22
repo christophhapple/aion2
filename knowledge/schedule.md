@@ -29,7 +29,7 @@ reading the global client [61][62][63]; unverified unless tagged `in-game`. Sour
 | Guardian Lord **Nahma** (+ Enraged) | **Fri, Sun 21:00** (Sun in-game) | 30 min | 45 | Abyss [61][62]. **Sun 21:00 confirmed**; with the whole map uncovered the timer lists **three** Nahma entries (in-game 2026-10-18) |
 | Arena of Solitude (1v1) / Cooperation (5v5) | **always available**, every day (in-game 2026-10-18: "Matchmaking Time" tooltip) | – | 45 | In-game 2026-10-18; details `endgame.md` "Arena" |
 | **Battlefield** (Arena of Tactics, 10v10) | **daily 11:00–14:00, 19:00–21:00** (in-game 2026-10-18) | 10 min matches [322] | 45 | Own Battlefield window; details `endgame.md` "Battlefield" |
-| Field bosses (Verteron etc.) | no fixed time: respawn timer on the map, starts when the boss dies [385]. **Eternal / Immortal Gartua: 12h after the kill** [384][386] **vs** 24h [385]; aion2atlas: ~12h global average from kill reports, 24h on KR [387]. Unverified: watch the map timer after one kill | – | ~45 | Kina, gear, Manastones, stones [61]. Live per-server status: Exploration → Field Boss list (Spawned / Time Left) [388] |
+| Field bosses (Verteron etc.) | no fixed time: respawn timer on the map, starts when the boss dies [385]. **Gartua: 12h after the kill** (in-game 2026-10-22: respawn timer shows 12h; guides [384][386] agree). ~~24h~~ [385] is KR [387] | – | ~45 | Kina, gear, Manastones, stones [61]. Live per-server status: Exploration → Field Boss list (Spawned / Time Left) [388] |
 
 **Field boss loot:** the map tooltip lists Unique, Epic and Rare possible loot, but a looted chest showed
 only Rare items in its pool (in-game 2026-10-12). Guides: a guaranteed boss chest plus separately rolled
