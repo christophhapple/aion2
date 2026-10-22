@@ -467,3 +467,10 @@ Added 2026-10-22 (Arcana layout + Transmutation order).
 381. aion2vault.com, Cleric gear guide (creator builds), 2026-10-17, G: https://aion2vault.com/builds/cleric/gear/
 382. Search summary of deity-stat pages (thegameswiki Pantheon, aion2hub stat calculator), 2026, ?: https://thegameswiki.com/aion-2/wiki/pantheon · https://aion2hub.com/tools/stat-calculator
 383. Search summary of Arcana transmute guides (allthings.how Gold Chalice, ggwtb, expcarry), 2026, G/?: https://allthings.how/how-to-craft-the-gold-chalice-of-vigor-arcana-in-aion-2-80-gear-score/ · https://ggwtb.com/blog/aion-2-gold-arcana-guide-5-crystal-chalice-route--crafting-costs-sets · https://expcarry.com/aion-2-arcana-transcendence-cards-tiers-crafting
+
+Added 2026-10-22 (Gartua respawn).
+384. game8.co, Eternal Gartua + world boss timers, 2026, G: https://game8.co/games/Aion-2/archives/628574 · https://game8.co/games/Aion-2/archives/631054
+385. aion2timers.com, world boss timer, 2026, G: https://www.aion2timers.com/world-boss-timer/
+386. mmoexp, Eternal Gartua guide, 2026, ? (gold seller): https://www.mmoexp.com/News/aion-2-eternal-gartua-guide-location-boss-mechanics-and-rewards.html
+387. aion2atlas.app, boss timer, 2026-10, G + KR notice comparison: https://aion2atlas.app/boss-timer/
+388. allthings.how, world boss timers, 2026, G: https://allthings.how/aion-2-world-boss-timers-every-field-and-abyss-boss-spawn-schedule/
