@@ -111,7 +111,7 @@ Guides 2026-10, unverified unless tagged. Levels 6–10 (common) and specialty a
   sell~~ [176][391]. Without membership you craft for self-use only. Buying also needs membership [390][391].
   Market from **level 45** [390][391].
 - **Registration Fee = 2% of the total sale price**, paid when listing (in-game 2026-10-22: 1,595 for
-  4 × 19,949 = 79,796). Its coin icon differs from the price coins, probably Bound Kina (unconfirmed).
+  4 × 19,949 = 79,796). **Paid in either Kina; Bound Kina is used first if you have it** (in-game 2026-10-22).
 - **Sell window** (in-game 2026-10-22) shows "Market Price, last 28 days": lowest, highest, average and last
   trading unit price, plus the current lowest listing; the price per item defaults to the current lowest.
   No sales tax shown in this window.

@@ -17,8 +17,7 @@ tracker itself goes in `backlog.md`.
 - [ ] Verify: after 2026-10-25 (DST change), do event times stay on the local clock (Rift still at 02, 05, 08 … 23)? And is the daily reset at 08:00 or still 09:00 local? (Season/event countdowns hint 09:00; then `routines.yaml` needs 08:00 UTC)
 - [ ] Transfer: on your first real transfer, note how many Transfer Stones it took and what ends up on the kept piece (Soul Binding lines, Manastones, Theostone, Soul Fuse). The window shows no result preview
 - [ ] Legion (if you join one): does the Legion menu show missions or Legion Coin? What does the Legion Merchant sell?
-- [ ] Market rules (now with membership; fee 2% and tax 10% known): Is the fee paid in Bound Kina (hover
-  its coin icon)? How many listing slots, and how long does a listing run? Do sales pay normal Kina?
+- [ ] Market rules (now with membership; fee 2%, Bound Kina first, and tax 10% known): How many listing slots, and how long does a listing run? Do sales pay normal Kina?
   See `knowledge/crafting.md` "Market"
 - [ ] Alchemy recipes for **Intermediate**, **Superior** and **Intermediate Abyssal Manastone**: screenshot
   each recipe (materials + amounts, Kina cost, mastery needed, success rate). Manastone prices are known
