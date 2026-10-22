@@ -6,10 +6,6 @@ tracker itself goes in `backlog.md`.
 ## Open
 - [ ] Unseal the **Sealed Ancient Aullea Wings** via Substance Morph: needs 10 Radiant Odyle, have 9/10
   (2026-10-22). Afterwards tell me the new Flight Power / wing count
-- [ ] Spend the **14 unspent Daevanion points** on nodes that finish achievement tiers (Progress → Complete,
-  state 2026-10-20): Nezekan 59/60 (1 node) · Zikel 57/60 (3) · Unique nodes 17/20 (3) · Rare nodes 36/40 (4) ·
-  Triniel 67/80 (13). Where you have a choice, pick nodes that fit the build (`characters/dhamira-build.md`).
-  Then claim the rewards and tell me the new GS (+1 per point)
 - [ ] Screenshot the **Season Missions** window, all tabs (= metabot's Season 1 achievements: Nightmare
   bosses, Transcendence stages, Tower of Trials, Tribulations, Abyss, Arena, weeklies). Fills the "?" in
   `goals.md` and checks the weekly caps in `routines.yaml`
@@ -28,6 +24,7 @@ tracker itself goes in `backlog.md`.
 - [ ] *(low priority)* Silver Medal of Merit, in the Trade Shop: what costs Silver Medals (only Centurion skins at 40/80, or gear too)? Do the pieces have stats? Is a rank (Ninth-Class Soldier) required to buy? How many medals do you have? See `knowledge/abyss.md` "Silver Medal of Merit"
 
 ## Done
+- [x] 14 Daevanion points spent (part of GS 1842 → 1900) (2026-10-22)
 - [x] Arcana Extract is a gauge that keeps progress, not a chance (2026-10-22)
 - [x] Merit Chests checked: own weekly limit per grade; Argo, Kaira, Dimensional cheap chests give more per proof; Nahma's Rare chest has no gear (2026-10-22)
 - [x] Class icon colors: all 8 seen (Spiritmaster pink/magenta from the Expedition room list), colored image done (2026-10-20)
