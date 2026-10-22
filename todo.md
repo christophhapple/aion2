@@ -4,7 +4,7 @@ One-off things to do or check in the game. Daily/weekly routines live in `routin
 tracker itself goes in `backlog.md`.
 
 ## Open
-- [ ] Unseal the **Sealed Ancient Aullea Wings** via Substance Morph: needs 10 Radiant Odyle, have 8/10
+- [ ] Unseal the **Sealed Ancient Aullea Wings** via Substance Morph: needs 10 Radiant Odyle, have 9/10
   (2026-10-22). Afterwards tell me the new Flight Power / wing count
 - [ ] Spend the **14 unspent Daevanion points** on nodes that finish achievement tiers (Progress → Complete,
   state 2026-10-20): Nezekan 59/60 (1 node) · Zikel 57/60 (3) · Unique nodes 17/20 (3) · Rare nodes 36/40 (4) ·
