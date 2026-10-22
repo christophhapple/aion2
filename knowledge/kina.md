@@ -17,6 +17,8 @@ Researched 2026-10-14. No official global page; guides 2026-09 → 10, several w
 - **For F2P (inference):** Market buying and the Kina ↔ Quna exchange are membership-only [263][264][266]
   [268], and selling needs membership (in-game 2026-10-13, `crafting.md`). So Bound or not hardly
   matters: Kina is only for your own progression.
+- **With membership:** Market sales pay normal Kina (minus ~10% tax) [390][393]. Crafting for Kina:
+  `crafting.md` → "Crafting for Kina".
 
 ## Income (F2P, level 45)
 

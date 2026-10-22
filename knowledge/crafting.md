@@ -107,9 +107,48 @@ Guides 2026-10, unverified unless tagged. Levels 6–10 (common) and specialty a
 - **Substance Morph** (Alt+H) turns Odyle into **any gathering material: Ore, Gems, Logs, Herbs, Cooking Ingredients** (in-game 2026-10-13). ~~Only Ore, Gems, Logs~~ [167][169]. Same exchange rate for every target material (in-game 2026-10-13); exact rate and whether grade carries over not recorded. So Odyle is the flexible material for any craft.
 
 ### Market (decides whether crafting can earn Kina)
-- **Selling on the Market needs membership** (in-game 2026-10-13) [174][175]. ~~F2P can list and
-  sell~~ [176]. So F2P crafts for self-use only, and the craft-vs-buy prices above don't apply.
-  Buying without membership: no [174] / unconfirmed [175]; not checked in-game.
+- **Selling on the Market needs membership** (in-game 2026-10-13) [174][175][392][394]. ~~F2P can list and
+  sell~~ [176][391]. Without membership you craft for self-use only. Buying also needs membership [390][391].
+  Market from **level 45** [390][391].
+- **Fees:** listing fee (Kina, maybe Bound; amount not found) + **~10% of the sale** [393][395]. The current
+  "Market Tax" is shown top right on the Market screen [391]: check in-game. Buyer pays the fee [397, KR, Kina seller].
+- **Slots, listing duration, price floors/caps:** not found.
+- **Only "Tradable" items** can be listed [391]. Crafted gear stays tradeable until equipped / Soul-Bound
+  [398][399]. Higher Balaur materials are often Bound [399]. **Odyle and everything made by Substance Morph
+  is Bound** [395]: it can't be sold raw, only turned into a craft whose result is tradeable (unverified).
+- **Proceeds are normal Kina** (after fees); Bound Kina can't be spent on the Market [390][400]. No
+  player-to-player trade on global, the Market is the only way [390][394].
+
+## Crafting for Kina (researched 2026-10-22, guides, unverified)
+Thin data: no official fee table, no Reddit threads, **no Kina/hour figure for global**. Several sources sell
+Kina or boosting. Prices go stale within days; check the Market before crafting.
+
+- **Which craft (guides):** **Alchemy** most often named for Kina: consumables and Manastones always sell, and
+  Spiritstone Powder drops from mobs [403][405]. **Handicrafting** "most important profession right now",
+  crafted items expensive in the launch window [406]; bows sell because Ranger is the most common class [403].
+  **Armorsmithing** widest demand (7 slots, all classes) [405]. **Cooking** least profitable [403][70].
+- **Price examples (region not stated unless G):**
+  - **Superior Life Serum** (Alchemy, mastery 55): listed 6,499–15,000 each; inputs Life Serum ~1,000 + Fresh
+    Aria ~2,000 (can be morphed from Fine Odyle) + Glass Bottle 1,200 (NPC) ≈ **4,200** (the guide's 3,200 is
+    a miscount); 72.9% success, 25% combo [395] (2026-10-17). Thin margin after 10% tax at market input
+    prices; better if the Aria is morphed from your own Odyle.
+  - **Splendid True Dragon Lord Ring:** materials ~14–15M, comparable listing ~27–28M [401, Kina seller].
+  - **Artisan's Orichalcum gear:** cheapest listings ~90k (dagger) to ~699k (gloves) [402, G, undated].
+    Artisan's and above: "tens of millions" [398].
+  - Splendent Orichalcum Longsword: craft ~223k vs buy 100k [70]: a loss, so not every craft pays.
+  - Manastones, potions, Orichalcum Ingots: named as steady sellers, no prices [403]. Raw ore/gem/Odyle,
+    Manastone and food prices on global: not found.
+- **Cost to level a craft to the profitable tier** (Kina, materials, time): not found anywhere. Advice
+  only: level on cheap Common recipes (ingots), use Bound materials you already have (lowers real cost)
+  [408], don't burn rare materials for mastery EXP or speculate big [407].
+- **Raw materials vs crafting:** "sell raw while early-global prices are high; a fast 20k material beats a slow
+  rare one" [408, Kina seller, TW prices] vs "refine into ingots/powders rather than sell raw" [407]. No numbers.
+- **Pitfalls:** failure eats all materials, never 100%, no pity, no restores [398][399]; a 300M craft that sold
+  for 280M [408]; Soul Binding makes gear unsellable; keep Splendent intermediates for the next tier
+  [398][407]; overproduced items drop fast [404, low quality]. Bots inflating prices: KR/TW only [409].
+- **Inference:** with membership the low-risk start is Alchemy consumables/Manastones (cheap inputs, mob drops,
+  steady demand), checked against current Market prices; gear crafting for sale only once mastery 55+ and
+  Market prices show a margin after the ~10% tax.
 
 ## Korean-only
 - "Succession crafting" (KR Season 3, 2026-04-08) [78]: moves a Unique item's enhancement onto a Heroic

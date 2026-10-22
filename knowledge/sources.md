@@ -477,3 +477,25 @@ Added 2026-10-22 (Gartua respawn).
 
 Added 2026-10-22 (Arcana, from the user's screenshot).
 389. odealo.com, best Arcana for every class, 2026-10-14, G + top-100 stats, ? (gold seller), read in full 2026-10-22: https://odealo.com/articles/best-arcana-for-every-class-aion-2-guide
+
+Added 2026-10-22 (crafting for Kina, Market rules).
+390. games.gg, Aion 2 Market Guide, 2026-10-08, G: https://games.gg/aion-2/guides/aion-2-market-guide/
+391. GamesFuze, AION 2: Beginner's Guide to Trading, 2026-10-02, G: https://gamesfuze.com/guides/aion-2-beginners-guide-to-trading/
+392. Gladiatorboost, trading guide, undated, G, boosting seller, search snippet only: https://gladiatorboost.com/news/aion-2-trading-guide-how-to-use-the-auction-house-and-market/
+393. Playnews, how the economy works, undated, G, search snippet only, cites MMORPG.com: https://www.playnews.gg/en/guides/aion-2-how-the-economy-works-kina-quna-marketplace-and-15-subscription
+394. GuildOrder, Trading, the Market and Membership, 2026-09-05, G, pre-launch: https://guildorder.com/games/aion2/wiki/trading-the-market-and-membership
+395. AllThingsHow, turn Odyle into gatherable materials for profit, 2026-10-17, G?, cost total miscounted: https://allthings.how/?p=283826
+396. gorod.it.com, farming Kinah, undated, ?, low-quality SEO page (not used): https://gorod.it.com/?p=19111
+397. U4N, Kinah listing (KR page), undated, KR, Kina seller: https://www.u4n.com/ko/aion-2/kinah-europe-elyos-siel/301632887695945
+398. GamersTogether, Crafting: Splendent & Transfer, checked 2026-10-16, G: https://gamerstogether.cz/en/aion-2-crafting-guide/
+399. Timesaver.gg, Crafting Guide, 2026-10-11, G, services storefront: https://timesaver.gg/blog/aion-2-crafting-guide
+400. Timesaver.gg, Kina Farming Guide, 2026-10-06, G, services storefront: https://timesaver.gg/blog/aion-2-kina-farming-guide
+401. MMOEXP, Crafting Guide: BIS gear, 2026-10-12, ?, Kina seller: https://www.mmoexp.com/News/aion-2-crafting-guide-how-to-craft-bis-gear-and-save-millions-of-kina.html
+402. Daewa, Market prices, undated, G, fan tracker (offline when checked; snippet prices): https://daewa.eu/market
+403. Game8, Best Professions, 2026-10-09, region not stated: https://game8.co/games/Aion-2/archives/614343
+404. hashtag123 forum, profit-first crafting chains, undated, ?, spam for a Kina seller: https://hashtag123.freeflarum.com/d/5091-profit-first-crafting-chains-in-aion-2
+405. ExitLag, Professions Guide, undated, ?, search snippet only: https://www.exitlag.com/blog/aion-2-professions-guide/
+406. aion2codex.wiki, Crafting, 2026-10-16, G, community-reported: https://aion2codex.wiki/crafting
+407. expcarry, Professions Guide, 2026-10-05, G, boosting seller: https://expcarry.com/aion2-professions-guide
+408. Skycoach, Kina Farming Guide, 2026-10-03?, G with TW prices, Kina seller: https://skycoach.gg/blog/aion-2/articles/kina-farming-guide
+409. Mein-MMO, currency change because of farmbots, 2026-03-19, KR/TW: https://mein-mmo.de/en/aion-2-must-completely-change-its-currency-because-farmbots-have-worked-too-hard,1557313/
