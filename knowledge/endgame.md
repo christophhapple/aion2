@@ -353,7 +353,8 @@ Subjugation 3 tickets/week (see below) · Abyss sieges Mon/Thu/Sat 21:00 server 
 ## Legions (guilds)
 Researched 2026-10-13; guides only, thin sources. [196][197] read client data and mostly agree.
 - **Unlock:** faction story quest ("Renewed Resolve" Elyos / "Buried Atrocities" Asmodians), from Lv 10
-  [196][197][198]. One faction, one server; up to 128 members, 4 officers [196][197]. Joining is free;
+  [196][197][198]. One faction, one server (Legion search shows no server for its results, in-game 2026-10-22;
+  fits single-server, not proof); up to 128 members, 4 officers [196][197]. Joining is free;
   Legion menu → search/apply or accept an invite [197][198]. Leave → 24h before joining another [198, single source].
 - **Join reward:** achievement "The More the Merrier": 3,000 Kina + title "There's No 'I' in Team"
   (equipped HP +270, owned PvE Attack +2) [196].
