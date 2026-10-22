@@ -7,8 +7,8 @@ Overview: `progression.md`.
 Gear, enhancement, Manastones/Theostones, belt, amulet, Ascension bracelets, Clash Runes, Arcana
 [1][2][15]. Daevanion points raise **GS 1:1** (in-game 2026-10-13); Pantheon raises Combat Power, not GS (in-game 2026-10-19, reconfirmed 2026-10-22).
 Arcana per card: **Common 20, Unique 80** (in-game 2026-10-19: Common cards show 20, the Transmutation preview
-shows a Unique card at 80), **+1 GS per upgrade level** (Common +2 = 22, in-game 2026-10-19). Rare 40, Epic 60 per
-guides [2][14][17], consistent with the in-game values but not seen yet.
+shows a Unique card at 80), **+1 GS per upgrade level** (Common +2 = 22, in-game 2026-10-19). **+20 GS per grade:
+Rare 40, Epic 60** (in-game 2026-10-22, user; matches guides [2][14][17]).
 
 **+1 enhancement level = +1 GS** (in-game 2026-10-10, one test; assumed linear and the same for all
 rarities, unconfirmed). **Enhance Stones are the bottleneck** for enhancing (in-game experience 2026-10-10).
@@ -148,8 +148,9 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
   Cleric pools: `cleric-skills.md` "Skill levels".
 - Per grade [158]: Common GS 20, 1 skill level, max +2 · Rare GS 40, 2 skill levels, max +3 ·
   Epic GS 60, 3 skill levels, max +4 · Unique GS 80, 4 skill levels, max +5. Skill levels go to skills
-  listed on the card; each upgrade adds +1 to a random skill line already on it [160]. GS confirmed
-  in-game for Common (20, +1 per upgrade level) and Unique (80), see "What raises GS" (2026-10-19).
+  listed on the card; each upgrade adds +1 to a random skill line already on it [160]. **GS (20 per grade)
+  and max upgrade (Common +2, one more per grade) confirmed in-game** (2026-10-22, user), so maxed cards are
+  Common 22 · Rare 43 · Epic 64 · Unique 85.
   A card's grade can't be raised: a Common stays Common, better grades are new cards (user's impression
   in-game 2026-10-19, nothing in-game suggests otherwise).
 - **Upgrade:** no Enhance Stones, no failure; feed Training Arcana or spare cards (in-game 2026-10-22). Training Arcana give 200–5,000 EXP each (guides). **Every filled slot is free GS, even with a Common card** (in-game 2026-10-22).
