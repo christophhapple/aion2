@@ -132,6 +132,16 @@ Kina or boosting. Prices go stale within days; check the Market before crafting.
   Spiritstone Powder drops from mobs [403][405]. **Handicrafting** "most important profession right now",
   crafted items expensive in the launch window [406]; bows sell because Ranger is the most common class [403].
   **Armorsmithing** widest demand (7 slots, all classes) [405]. **Cooking** least profitable [403][70].
+- **Manastone listings, EU / Nania** (in-game 2026-10-22, lowest listing price, number of listings):
+  | Manastone | Lowest listing | Listings |
+  |---|---|---|
+  | Lesser | 124,990 | 18 |
+  | Intermediate | 160,000 | 49 |
+  | Superior | 788,887 | 18 |
+  | Intermediate Abyssal | 749,998 | 4 |
+  | Lesser Abyssal, Superior Abyssal | none listed | 0 |
+  Asking prices, not sales. Material cost per Manastone not recorded yet, so the margin is unknown.
+- **Life Crystal** (potion) (in-game 2026-10-22, 28 days): average 17,750, range 100–70,000, lowest listing 19,949.
 - **Price examples (region not stated unless G):**
   - **Superior Life Serum** (Alchemy, mastery 55): listed 6,499–15,000 each; inputs Life Serum ~1,000 + Fresh
     Aria ~2,000 (can be morphed from Fine Odyle) + Glass Bottle 1,200 (NPC) ≈ **4,200** (the guide's 3,200 is

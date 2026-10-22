@@ -20,8 +20,11 @@ tracker itself goes in `backlog.md`.
 - [ ] Market rules (now with membership; fee 2% and tax 10% known): Is the fee paid in Bound Kina (hover
   its coin icon)? How many listing slots, and how long does a listing run? Do sales pay normal Kina?
   See `knowledge/crafting.md` "Market"
-- [ ] Market prices, to see if crafting pays: screenshot current prices for **Manastones**, **Superior Life
-  Serum**, other potions/serums, **Orichalcum Ingots**, Pure/Radiant ores and gems. Also: are Odyle and
+- [ ] Alchemy recipes for **Intermediate**, **Superior** and **Intermediate Abyssal Manastone**: screenshot
+  each recipe (materials + amounts, Kina cost, mastery needed, success rate). Manastone prices are known
+  (2026-10-22); this gives the cost side. Also hover a Manastone listing: random stat, or fixed per listing?
+- [ ] Market prices, to see if crafting pays: screenshot current prices for **Superior Life
+  Serum**, other potions/serums, Spiritstone Powder, **Orichalcum Ingots**, Pure/Radiant ores and gems. Also: are Odyle and
   materials from Substance Morph really Bound (not listable)? See `knowledge/crafting.md` "Crafting for Kina"
 - [ ] Cube-hunting audio for gathering/pet runs: Master + Sound Effects 100%, Music, Ambient, Monster, Mount, own character + wing sounds low. Save it as its own audio preset (the game supports audio presets, user 2026-10-19). See `knowledge/endgame.md` "Hidden Cubes"
 - [ ] *(low priority, doesn't change the build)* PvP: right after Defiance, does Salvation (Q) still work? Its tooltip blocks it for 30s only "if Invincibility stacking is blocked"; try in the 1v1 arena and open-world Abyss
