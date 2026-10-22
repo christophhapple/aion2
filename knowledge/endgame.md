@@ -122,8 +122,9 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
 - **Rewards:** each shows up to 5 rewards; slot 1 is guaranteed, slots 2–5 are chances [106].
   Types: Soul Crystals (Genus Insight, CP), Odyle Energy, Nightmare/Ascension Trial tickets, Kina,
   Abyss Points, materials [106][108]. Older figure: 50,000 Kinah + 1,000 Abyss Points each [50].
-- **Pick by slot 1:** Soul Crystal > Odyle Energy > Nightmare/Ascension tickets > Kina [106]. Odyle
-  Energy means more cubes, so it's stones for F2P.
+- **Pick by slot 1:** the user's order: **Nightmare/Ascension tickets first**, then Soul Crystal, Odyle Energy,
+  Kina (user 2026-10-22). ~~Soul Crystal > Odyle Energy > tickets > Kina~~ [106]. Journal (J) → Duty → Missions,
+  5 accepted at a time, slot 1 guaranteed (in-game 2026-10-22).
 - **Eternal Isle** (Verteron, Elyos): duty location ("Eternal Isle: Protect the Daeva", "…: Scary
   Spirits", 10 kills → 1,000 Abyss Points) with Lv ~51 mobs. Route: teleport to **Aullaeu Village Sky
   Island** (~1.7–1.9 km away [161]), then a **wind stream** carries you to the island, so flight gauge

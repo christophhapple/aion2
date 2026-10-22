@@ -10,7 +10,7 @@ resets:
 routines:
   - id: duty
     name: Duty Missions
-    notes: Does NOT bank, lost at the daily reset (in-game 2026-10-13). Journal (J) → Duty tab. Pick by guaranteed slot-1 reward; Soul Crystal > Odyle Energy > tickets > Kina (guides). Per server or account. Details - knowledge/endgame.md.
+    notes: Does NOT bank, lost at the daily reset (in-game 2026-10-13). Journal (J) → Duty tab. Pick by guaranteed slot-1 reward: tickets > Soul Crystal > Odyle Energy > Kina (user 2026-10-22). Per server or account. Details - knowledge/endgame.md.
     reset: daily
     cap: 5
 
