@@ -89,7 +89,7 @@ the reset pattern is from KR official notices. Unverified unless tagged `in-game
 
 ## What happens at season end
 
-Global: guides only. **Oath Coins don't carry over** [235]. Season reward claim window: "until
+Global: guides only, except: **Oath Coins don't carry over, and season tickets and keys should be used rather than hoarded** (in-game 2026-10-22) [235]. Season reward claim window: "until
 2027-03-10 07:00 UTC" [222] vs "through 2027-02-28" [223]; what it covers is unclear.
 
 KR pattern (official notice S3 → Chapter 1 [229]; S1 → S2 [228]; S2 → S3 [230], AI-written post):
