@@ -73,7 +73,7 @@ Researched 2026-10-13; guides unless tagged. 1 Wisdom Stone (Bound) = 1 skill po
   Outpost in Verteron, Lv 16–22, e.g. Searching for an Escaped Fossa, Creion Experiment, Questionable Methods) [285, global item DB].
   Own inference, unverified: level-ups and Sealed Dungeon clears grant points directly, not as stones; stones sit in the bag
   until used (needs Lv 4), so unused ones likely don't count toward the total.
-- **One-time (F2P):** level-ups to 45 = 203 SP [186]; regional (green) quests 1 each, ~59 open-world
+- **One-time (F2P):** level-ups to 45 = 203 SP [186]; regional (green) quests: one-time, many give a skill point (in-game 2026-10-22); 1 each, ~59 open-world
   [186] (24 per a datamine [188]); Spacetime Rift quests 1 each (in-game 2026-10-11); home-region Sealed
   Dungeons 2 per first clear [18]. **Enemy-region Sealed Dungeons give none** (in-game 2026-10-11), so
   the guide pool of 384 SP (203 + 122 + 59) [186] overstates one faction. Strongholds: unclear [192].
