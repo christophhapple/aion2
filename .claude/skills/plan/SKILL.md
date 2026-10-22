@@ -4,7 +4,7 @@ description: Plan an Aion 2 play session around fixed-time events, open routines
 ---
 
 Input: a time window (args: `2h`, `90m`, `until 23:00`, or nothing → ask "How long do you have?").
-Optionally a focus ("stones", "with Hamme", "no PvP").
+Optionally a focus ("stones", "in a group", "no PvP").
 
 1. Get the time: `date "+%Y-%m-%dT%H:%M%:z (%a)"`. Compute the window in local time.
 2. Read `knowledge/schedule.md`, `routines.yaml`, the current log, `goals.md`, the user's character

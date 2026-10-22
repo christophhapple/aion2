@@ -8,7 +8,7 @@ database and Claude is the interface. The user talks in plain language ("did nig
 
 | Path | Holds | Format |
 |---|---|---|
-| `characters/<name>.md` | One file per character: who plays it, class, level, gear score, notes. Characters not played by the user (e.g. Hamme, a friend's) get no routine tracking | Markdown, key facts in a table |
+| `characters/<name>.md` | One file per character: who plays it, class, level, gear score, notes. | Markdown, key facts in a table |
 | `share/` | Pages published as Artifacts for other people (see "Shared pages") | HTML |
 | `characters/<name>-build.md` | That character's build: hotkeys, Stigma presets, skill points, priorities | Markdown |
 | `characters/<name>-achievements.md` | Achievement progress snapshot from screenshots (open cards only) | Markdown tables |
@@ -72,7 +72,7 @@ with patches. Therefore:
 
 | File | Artifact | For |
 |---|---|---|
-| `share/progression.html` | https://claude.ai/artifact/F3iG6ZURLga2drR3yxQqRx | Hamme (friend): progression map, schedule |
+| `share/progression.html` | https://claude.ai/artifact/F3iG6ZURLga2drR3yxQqRx | Anyone (character-neutral): progression map, routines, schedule |
 | `share/content-overview.html` | https://claude.ai/artifact/TCzeBcfAYj7hUkbRHTNXHj | The user (public, anyone with the link): Content Atlas with live timers ("Up next", rules in its script), all activities, progress sources, currencies |
 
 - Generated from `knowledge/` (mainly `progression.md`, `expeditions.md`, `gear.md`, `schedule.md`). Character-neutral,
