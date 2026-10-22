@@ -6,7 +6,7 @@ Background: `knowledge/progression.md`.
 | Goal | Character | Current | Target | Why |
 |---|---|---|---|---|
 | Gear score 1900 → 2200 | Dhamira | 1900 (2026-10-22) | 2200 | Third Transcendence stage (stages 1600/1900/2200/2500, in-game 2026-10-16): Unique Arcana for every slot but the Chalice (guide). Main levers: Epic Arcana from stage 2, belt/amulet +6 → +10, Unique gear, Daevanion points |
-| Bell Arcana: fill the empty slot | Dhamira | 4 of 5 slots, all Common +2 (22 GS each), no Bell (2026-10-19) | any Bell card | Free GS: Common +20 … Unique +80 (in-game: Common 20, Unique 80). Bell drops in Deus Research Base (Transcendence); Epic Arcana ~17% per slot from its final boss (guides). Then replace Commons as Epic/Unique drops come (+38 / +58 each) |
+| Rare Arcana from Transcendence stage 2 | Dhamira | all 5 slots Common +2 (22 GS each), 4 Vigor + Bell of Magic (2026-10-22) | Rare (or better) in every slot | Stage 2 (GS 1900) drops up to Epic, Chalice up to Rare (guide, unverified). Deus → Bell + Compass, Arkanis → Mirror + Parchment, both → Chalice (in-game). Replace Chalice and Mirror first (wasted lines, see build "Arcana") |
 | *(later)* Unique Arcana via Transmutation | Dhamira | not started (2026-10-19) | **Chalice of Vigor, Healing Light or Condemnation** (whichever is further from Lv 16 then) (Unique, 80 GS); see build "Arcana" | Costs 5 Mysterious Crystals + 2M Kina for one chosen line (in-game). Crystals: Season Shop (25k Oath Coins, limit 5), extracting spare Arcana, Ascension Trial score milestones (guides). Chalice first: hardest slot to get a chosen skill on (guides 2026-10-22) |
 | All gear Unique +10 | Dhamira | 11 of 18 pieces Unique; everything +10 except belt and amulet (+6); Epic (all +10): helmet, cloak, shoes, earring, necklace, ring, bracelet (2026-10-19, see characters/dhamira.md) | every slot Unique +10 | Long-term. Step 1: everything to +10 (always succeeds, risk-free GS). Extraction refunds 100% of stones (in-game), so enhancing gear you'll replace isn't wasted. Above +10 risky (65% → 20%) |
 | Upgrade belt | Dhamira | Unique +6 (2026-10-19) | Unique +10 | Never replaced; scrolls from Strongholds. Unique +0→+10 ≈ 201k stones + 5M Kina (in-game 2026-10-22) |
@@ -45,6 +45,7 @@ snapshot: `characters/dhamira-achievements.md`. Season 1 weeklies are routines (
 | Rare / Legendary / One-of-a-Kind Gear | 246 / 243 / 30 (2026-10-20) | 300 / 300 / 50: 370 / 410 / 530 ES | 1,910 / 2,450 / 3,210 Enhance Stones | Passive |
 | Veteran Wing Collector | 7 wings (2026-10-20) | 12: title card | title Dominator of Dimensions at 25 wings | Best PvE defense title, long-term |
 ## Done
+- [x] Bell Arcana: all 5 slots filled, 4 Vigor + Bell of Magic (2026-10-22)
 - [x] Gear score 1900 reached: Transcendence stage 2 open, Epic Arcana can drop (2026-10-22)
 - [x] Achievement Stance Toward the Strong: 100 bosses finished with a crit (2026-10-19)
 - [x] All Altgard Sealed Dungeons + Strongholds cleared (2026-10-20)
