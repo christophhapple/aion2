@@ -110,7 +110,12 @@ Guides 2026-10, unverified unless tagged. Levels 6–10 (common) and specialty a
 - **Selling on the Market needs membership** (in-game 2026-10-13) [174][175][392][394]. ~~F2P can list and
   sell~~ [176][391]. Without membership you craft for self-use only. Buying also needs membership [390][391].
   Market from **level 45** [390][391].
-- **Fees:** listing fee (Kina, maybe Bound; amount not found) + **~10% of the sale** [393][395]. The current
+- **Registration Fee = 2% of the total sale price**, paid when listing (in-game 2026-10-22: 1,595 for
+  4 × 19,949 = 79,796). Its coin icon differs from the price coins, probably Bound Kina (unconfirmed).
+- **Sell window** (in-game 2026-10-22) shows "Market Price, last 28 days": lowest, highest, average and last
+  trading unit price, plus the current lowest listing; the price per item defaults to the current lowest.
+  No sales tax shown in this window.
+- **Fees (guides):** listing fee + **~10% of the sale** [393][395]. The current
   "Market Tax" is shown top right on the Market screen [391]: check in-game. Buyer pays the fee [397, KR, Kina seller].
 - **Slots, listing duration, price floors/caps:** not found.
 - **Only "Tradable" items** can be listed [391]. Crafted gear stays tradeable until equipped / Soul-Bound
