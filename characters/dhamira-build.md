@@ -256,17 +256,18 @@ passives partly 11–13.
 **On top (equipped, 2026-10-17, told by the user):**
 - Gear: Scattershot +1, Healing Light +1, Healing Enhancement +1.
 - Arcana (**reworked 2026-10-22**, in-game "Equipped Effect" screenshot): all 5 slots, **4 Vigor + Bell of Magic**
-  (the target layout), Primal Vigor 4-piece active (+150 PvE Attack at ≥70% HP). Every card's stat is 10 and the
-  lines add up to 15 levels = 5 × 3, so all **Common +2** (inference; 22 GS each).
+  (the target layout), Primal Vigor 4-piece active (+150 PvE Attack at ≥70% HP). All **Common +2** (MAX), item
+  level 20 (+2) = 22 GS each (in-game card tooltips 2026-10-22).
 
 | Card | Set (stat 10) | Skill lines |
 |---|---|---|
-| Parchment + Chalice | Vigor (Life, Time) | together: Earth's Retribution +1, Chain of Torment +1, Condemnation +1, Bolt +2, plus one Compass-pool line from the list below (which card has which: not recorded) |
-| Compass + Chalice | Vigor (Freedom) | together: Judgment Thunder +1, Light of Regeneration +1, Healing Light +1, Scattershot +1 |
-| Bell | **Magic** (Destruction) | Warm Benediction +1, Empyrean Lord's Grace +1, Immortal Veil +1 |
-| Mirror | Vigor (Illusion) | Healing Enhancement +1, Radiant Benediction +1, Empyrean Lord's Benediction +1 (same lines as the old Mirror) |
+| Chalice | Vigor (Time) | Earth's Retribution +1, Bolt +1, Scattershot +1 |
+| Parchment | Vigor (Life) | Condemnation +1, Bolt +1, Chain of Torment +1 |
+| Compass | Vigor (Freedom) | Healing Light +1, Light of Regeneration +1, Judgment Thunder +1 |
+| Bell | **Magic** (Destruction) | Empyrean Lord's Grace +1, Immortal Veil +1, Warm Benediction +1 |
+| Mirror | Vigor (Illusion) | Healing Enhancement +1, Radiant Benediction +1, Empyrean Lord's Benediction +1 (same card as before) |
 
-Chalice = 3 of the 9 Parchment/Compass-pool levels above (pools: `knowledge/cleric-skills.md`).
+**Replace first:** Chalice (Scattershot line wasted) and Mirror (Empyrean Lord's Benediction wasted).
 **Totals:** **Healing Light 16, Bolt 16, Healing Enhancement 16** · Earth's Retribution, Chain of Torment,
 Condemnation, Judgment Thunder, Light of Regeneration, Warm Benediction, Empyrean Lord's Grace, Immortal Veil,
 Radiant Benediction 15 · Prayer of Concentration 9 · Scattershot 3 · Empyrean Lord's Benediction 2 · the rest 14

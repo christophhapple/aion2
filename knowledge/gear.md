@@ -133,7 +133,9 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
   Mirror [158]; ~~4 in season 1~~ [159]). Each card fits exactly one slot [159].
 - **Training Arcana** can drop before you own any card (in-game 2026-10-12); they're upgrade fodder only.
 - Each slot has a **Vigor** and a **Magic** version. Sets [158]:
-  - Primal Vigor: 2 pieces +60 PvE Attack above 70% HP, 4 pieces +150.
+  - Primal Vigor: 2 pieces +60 PvE Attack above 70% HP, 4 pieces +150. With 4 equipped, the tooltip shows
+    **both** tiers lit (in-game 2026-10-22); a lone Magic card shows both Magic tiers greyed out. Whether that
+    means +210 in total or +150: not shown.
   - Magic Armor: 2 pieces restore 1,500 MP at ≤20% MP (30 s cooldown); 4 pieces +1,000 PvE Defense at ≥50% MP.
 - **Slot stat (guides [379][382], unverified):** each card also carries one Empyrean Lord stat, Vigor / Magic:
   Chalice Time (Combat Speed, Double Resist) / Space (Move Speed, Block) · Parchment Life (HP, Regeneration) /
