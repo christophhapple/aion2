@@ -175,7 +175,8 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
   only 4 in 22 and Chalices drop least (Chalice drop rate also lower in-game 2026-10-19, `transcendence.md`). Then the
   Parchment or Compass carrying your main actives, in the set you're missing [383]. Transmutation "resets or changes" each season; nothing says cards or crystals reset [158]. See `seasons.md`.
 - Sources: Transcendence (GS 1600+, Unique from tier 3) [158], battle pass, coin shop, attendance [158].
-- **Best Arcana grade per Transcendence stage** [389]: stage 1 (GS 1600) Parchment/Compass/Bell/Mirror up to Rare,
+- **Each Transcendence dungeon drops Arcana for its own slots, and higher stages drop better grades** (in-game
+  2026-10-22). **Best Arcana grade per Transcendence stage** [389] (exact grades unverified): stage 1 (GS 1600) Parchment/Compass/Bell/Mirror up to Rare,
   Chalice Common · stage 2 (1900) up to Epic, Chalice Rare · stage 3 (2200) Unique, Chalice Epic · stage 4 (2500)
   Unique Chalice. So a Unique Chalice only drops from 2500 GS: the reason to transmute it.
 - **Transmute order** [389]: 1. Unique Chalice · 2. a piece blocking your 4-piece set (a plain 5-crystal Unique can be
