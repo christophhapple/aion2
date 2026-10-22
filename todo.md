@@ -17,6 +17,12 @@ tracker itself goes in `backlog.md`.
 - [ ] Verify: after 2026-10-25 (DST change), do event times stay on the local clock (Rift still at 02, 05, 08 … 23)? And is the daily reset at 08:00 or still 09:00 local? (Season/event countdowns hint 09:00; then `routines.yaml` needs 08:00 UTC)
 - [ ] Transfer: on your first real transfer, note how many Transfer Stones it took and what ends up on the kept piece (Soul Binding lines, Manastones, Theostone, Soul Fuse). The window shows no result preview
 - [ ] Legion (if you join one): does the Legion menu show missions or Legion Coin? What does the Legion Merchant sell?
+- [ ] Market rules (now with membership): what's the **Market Tax** (top right of the Market screen) and the
+  listing fee? Is the fee paid in Bound Kina? How many listing slots, and how long does a listing run?
+  Do sales pay normal Kina? See `knowledge/crafting.md` "Market"
+- [ ] Market prices, to see if crafting pays: screenshot current prices for **Manastones**, **Superior Life
+  Serum**, other potions/serums, **Orichalcum Ingots**, Pure/Radiant ores and gems. Also: are Odyle and
+  materials from Substance Morph really Bound (not listable)? See `knowledge/crafting.md` "Crafting for Kina"
 - [ ] Cube-hunting audio for gathering/pet runs: Master + Sound Effects 100%, Music, Ambient, Monster, Mount, own character + wing sounds low. Save it as its own audio preset (the game supports audio presets, user 2026-10-19). See `knowledge/endgame.md` "Hidden Cubes"
 - [ ] *(low priority, doesn't change the build)* PvP: right after Defiance, does Salvation (Q) still work? Its tooltip blocks it for 30s only "if Invincibility stacking is blocked"; try in the 1v1 arena and open-world Abyss
 - [ ] Pantheon: can Eternal Gartua (Verteron, Eternal Isle) and Immortal Gartua (Altgard, Immortal Isle) both be placed, or do they share a slot? Decides whether Altgard field bosses are worth it. See `knowledge/endgame.md` "Artworks"
