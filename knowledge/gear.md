@@ -95,13 +95,13 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
 - Belt and amulet are never replaced and can't be exchanged once maxed [14][42].
 
 ## Belt (Noble Belt)
-- Scrolls: **Stronghold (a.k.a. Garrison) first clears**. 15 home-region × 2 = 30 [38][41] **vs** 15 home
+- Scrolls: **Stronghold (a.k.a. Garrison) first clears** (source confirmed in-game 2026-10-22). 15 home-region × 2 = 30 [38][41] **vs** 15 home
   + 15 enemy-region (via rifts after 45) = 30, i.e. 1 each [35][60][59]; [59] says both "2 each" and "30
   Strongholds = 30", which can't both be true. Enemy-region Strongholds give no scrolls [41]. Green
   quests and "?" map markers may also drop belt scrolls [59, single source].
 
 ## Revelation amulet
-- Scrolls: **Monolith only** [34]: 1 per level for levels 2–29, 2 at level 30 = 30 total [36][38]. No
+- Scrolls: **Monolith only** (in-game 2026-10-22) [34]: 1 per level for levels 2–29, 2 at level 30 = 30 total [36][38]. No
   other source after level 30 [34]. Monolith levels cost Empyrean Traces (feathers) of your own faction's
   regions (Verteron for Elyos) [37].
 - **Power Shards:** consumable, toggle on to use; buff Attack while being consumed (in-game 2026-10-18).
