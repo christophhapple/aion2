@@ -215,8 +215,8 @@ Stats: Wisdom + Life (god stats), Constitution + Power (primary); Heal Boost (Pv
 
 ### Flight Power (researched 2026-10-13, guides, unverified)
 - **Flight Power = flight gauge.** It's an **owned** effect: every pair owned adds to it, equipped or
-  not; no wing has a flight stat when equipped [177][180]. No formula to seconds [182]. Gliding costs
-  none [181]; drains at half rate in the Abyss [180]. Flight Speed is a separate stat (titles) [180].
+  not; no wing has a flight stat when equipped [177][180]. No formula to seconds [182]. **Gliding uses the
+  flight gauge too** (in-game 2026-10-22; ~~gliding costs none~~ [181]); drains at half rate in the Abyss [180]. Flight Speed is a separate stat (titles) [180].
 - Per pair: **Daeva quest wings** Lesser 2,500, Intermediate / Superior / Ultimate 1,000 each (after a
   +500 buff, patch 2026-10-09 [183][184], no official note found); other wings ~200 each [183];
   Founder's Pack wings 0 [180][181]. **Fits in-game 2026-10-13:** Ultimate Daeva tooltip shows owned
