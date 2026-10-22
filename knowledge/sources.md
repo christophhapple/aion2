@@ -474,3 +474,6 @@ Added 2026-10-22 (Gartua respawn).
 386. mmoexp, Eternal Gartua guide, 2026, ? (gold seller): https://www.mmoexp.com/News/aion-2-eternal-gartua-guide-location-boss-mechanics-and-rewards.html
 387. aion2atlas.app, boss timer, 2026-10, G + KR notice comparison: https://aion2atlas.app/boss-timer/
 388. allthings.how, world boss timers, 2026, G: https://allthings.how/aion-2-world-boss-timers-every-field-and-abyss-boss-spawn-schedule/
+
+Added 2026-10-22 (Arcana, from the user's screenshot).
+389. odealo.com, best Arcana for every class, 2026, ? (gold seller), read via user screenshot: https://odealo.com/articles/best-arcana-for-every-class-aion-2-guide

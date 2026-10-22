@@ -142,6 +142,8 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
   Penetration) / Wisdom (MP cost, Double). Amount per grade 8 / 12 / 16 / 20 [379]; one calculator says +0.1% per
   point on each effect [382], so a Unique card ≈ +2%: small next to the set bonus and skill lines (inference).
 - Skill pools per slot: actives on Parchment + Compass, passives on Bell + Mirror, anything on Chalice [379][380].
+  **Stigma skills never roll on Arcana** [389]. A Unique card at +5 = **85 GS** [389] (fits +1 GS per upgrade level,
+  in-game for Common), so five maxed Uniques = 425 GS; vs Common +2 (22) that's +63 per slot.
   Cleric pools: `cleric-skills.md` "Skill levels".
 - Per grade [158]: Common GS 20, 1 skill level, max +2 · Rare GS 40, 2 skill levels, max +3 ·
   Epic GS 60, 3 skill levels, max +4 · Unique GS 80, 4 skill levels, max +5. Skill levels go to skills
