@@ -58,4 +58,5 @@ Lower Reshanta done: all feathers collected, all Azphel Daevanion Crystals from 
 - Pets: 77/200 owned, collection rewards all claimed (2026-10-13).
 
 ## Notes
+- **Bottleneck (2026-10-23): Kina, not Enhance Stones.** Plan to run more Expeditions/Transcendence for Kina.
 - Titles (2026-10-13): Guardian of Verteron (Attack), Saint of Verteron (Defense), Through Hell and Back owned (Other slot). Hello There, Mysterious Racer, Standing on My Own Two Feet owned (2026-10-13). Catch Me If You Can owned (2026-10-14). Lady of the Lake owned (2026-10-15).
