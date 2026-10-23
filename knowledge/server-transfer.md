@@ -34,6 +34,10 @@ so the rules below are official unless tagged otherwise. Not tried in-game.
   number of characters in that one go. **Can't be cancelled or undone** [360]. Each server has an
   in/out capacity, updated every hour on the hour; a full server can't be left or joined [359].
 - **Same region** only (EU → EU) [360]. NC says it may sell transfers again later [360].
+- **Creation lock ≠ transfer lock:** Nania showed **"creation restricted"** for new characters (in-game
+  2026-10-23). Guides name transfer as the workaround: create on an open same-faction server, then transfer
+  in [425] (guide, unverified). Whether a creation-locked server still accepts transfers depends on its
+  inbound capacity in the transfer window (not checked).
 
 ### Requirements per character [360]
 - Level 10+, standing in a **village** (not Abyss, Spacetime Rift or a dungeon).
@@ -67,4 +71,4 @@ so the rules below are official unless tagged otherwise. Not tried in-game.
 - During the transfer: kicked to the title screen, account can't log in, takes ≥1 minute [360].
 
 ## Sources
-See `sources.md` [359]–[363].
+See `sources.md` [359]–[363], [425].

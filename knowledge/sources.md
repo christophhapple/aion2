@@ -516,3 +516,4 @@ Added 2026-10-22 (skins, Closet, Skin Combine).
 422. gamerblurb, What Is Combat Speed, undated: https://gamerblurb.com/guides/aion-2-what-is-combat-speed-explained
 423. u4n.com, how to increase attack speed (cap tests), undated, Kina seller: https://www.u4n.com/news/how-to-increase-attack-speed-in-aion-2.html
 424. vortexgaming.io, Combat Speed patch note (Dec 17 patch, likely KR), undated: https://vortexgaming.io/en/postdetail/620705
+425. gamerblurb, Character Creation Restricted fix, 2026, G: https://gamerblurb.com/guides/aion-2-character-creation-restricted-fix-2026
