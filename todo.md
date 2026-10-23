@@ -38,6 +38,11 @@ tracker itself goes in `backlog.md`.
 - [ ] Pantheon: can Eternal Gartua (Verteron, Eternal Isle) and Immortal Gartua (Altgard, Immortal Isle) both be placed, or do they share a slot? Decides whether Altgard field bosses are worth it. See `knowledge/endgame.md` "Artworks"
 - [ ] Abyss rank: what's your own rank and its points (season window → Abyss)? Do they rise after an arena win, or only after Abyss PvP? Do you lose points when you die in Abyss PvP? Does the rank tooltip show a PvP damage bonus? See `knowledge/abyss.md` "Abyss ranks"
 - [ ] *(low priority)* Silver Medal of Merit, in the Trade Shop: what costs Silver Medals (only Centurion skins at 40/80, or gear too)? Do the pieces have stats? Is a rank (Ninth-Class Soldier) required to buy? How many medals do you have? See `knowledge/abyss.md` "Silver Medal of Merit"
+- [ ] Soul Binding pools per slot: screenshot the Soul Binding tab (Enhance window) for one weapon, one armor piece
+  per slot (helmet, shoulders, chest, legs, gloves, shoes, cloak) and one each of ring, earring, necklace. If a
+  tooltip or the Reset/Sync view lists the possible lines, screenshot that too. Checks: skill line active on
+  weapon/guard/rings vs passive on armor/earrings/necklace, and one signature stat per armor piece. See
+  `knowledge/gear.md` "Which lines on which slot"
 
 ## Done
 - [x] Ancient Aullea Wings unsealed (10/10 Radiant Odyle) and equipped (2026-10-23)
