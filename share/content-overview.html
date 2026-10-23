@@ -276,7 +276,8 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
   // { at, kind: "spawn" (read off the map) | "kill" (killed at), observedAt }. Guessed cycles assume a kill
   // about killDelay after each spawn; tune respawn and killDelay as observations come in.
   const BOSSES = [
-    { id: "argo", name: "Argo, the Spirit King", note: "Abyss boss", respawn: 12 * HOUR, respawnKnown: false, killDelay: 10 * MIN, up: 15 * MIN },
+    // Dead about 5 min after spawning (in-game 2026-10-23, one kill).
+    { id: "argo", name: "Argo, the Spirit King", note: "Abyss boss", respawn: 12 * HOUR, respawnKnown: false, killDelay: 5 * MIN, up: 10 * MIN },
     // Popular and quick to kill: dead within about a minute (in-game 2026-10-23).
     { id: "gartua-eternal", name: "Eternal Gartua", note: "field boss, Verteron", respawn: 12 * HOUR, respawnKnown: true, killDelay: 1 * MIN, up: 5 * MIN },
     { id: "gartua-immortal", name: "Immortal Gartua", note: "field boss, Altgard", respawn: 12 * HOUR, respawnKnown: true, killDelay: 10 * MIN, up: 15 * MIN },
@@ -286,7 +287,7 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
   // Copy of the store as of the last publish, for viewers without the store (signed out). Per boss,
   // whichever entry was observed later wins.
   const RESPAWN_SNAPSHOT = {
-    "argo": { at: 1792760610000, kind: "spawn", observedAt: 1792755037951 },
+    "argo": { at: 1792760920209, kind: "kill", observedAt: 1792760920209 },
     "gartua-eternal": { at: 1792757334779, kind: "kill", observedAt: 1792757334779 },
   };
   let respawns = { ...RESPAWN_SNAPSHOT };
