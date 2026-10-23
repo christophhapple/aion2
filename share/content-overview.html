@@ -155,7 +155,7 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
       <span class="status" id="rb-status" role="status"></span>
     </form>
     <p class="dim">Event times follow the server clock, which matches Central European time (checked in-game in October). Whether events stay on that clock after the 25 Oct clock change is not confirmed yet. Resets are fixed in UTC (in-game). Maintenance shows only once it's officially announced, with the announced end; it can finish earlier.</p>
-    <p class="dim">Argo, the Spirit King and the two Gartua field bosses have no fixed time: they come back about 12h after they die (Gartua checked in-game, Argo likely). Their rows start from the last time read off the map on the Nania server (signed-in viewers see new times right away; signed-out viewers see them once the page is next updated). After that the page guesses ahead, assuming the boss dies about 10 minutes after it appears; guessed times carry a ~ and "(unverified)", and after two guessed cycles the row just says to check the map.</p>
+    <p class="dim">Argo, the Spirit King and the two Gartua field bosses have no fixed time: they come back about 12h after they die (Gartua checked in-game, Argo likely). Their rows start from the last time read off the map on the Nania server (signed-in viewers see new times right away; signed-out viewers see them once the page is next updated). After that the page guesses ahead, assuming the boss dies about 10 minutes after it appears (Eternal Gartua: about 1 minute, it's popular and quick to kill); guessed times carry a ~ and "(unverified)", and after two guessed cycles the row just says to check the map.</p>
   </section>
 
   <section aria-labelledby="content">
@@ -277,7 +277,8 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
   // about killDelay after each spawn; tune respawn and killDelay as observations come in.
   const BOSSES = [
     { id: "argo", name: "Argo, the Spirit King", note: "Abyss boss", respawn: 12 * HOUR, respawnKnown: false, killDelay: 10 * MIN, up: 15 * MIN },
-    { id: "gartua-eternal", name: "Eternal Gartua", note: "field boss, Verteron", respawn: 12 * HOUR, respawnKnown: true, killDelay: 10 * MIN, up: 15 * MIN },
+    // Popular and quick to kill: dead within about a minute (in-game 2026-10-23).
+    { id: "gartua-eternal", name: "Eternal Gartua", note: "field boss, Verteron", respawn: 12 * HOUR, respawnKnown: true, killDelay: 1 * MIN, up: 5 * MIN },
     { id: "gartua-immortal", name: "Immortal Gartua", note: "field boss, Altgard", respawn: 12 * HOUR, respawnKnown: true, killDelay: 10 * MIN, up: 15 * MIN },
   ];
   const MAX_GUESSES = 2;
