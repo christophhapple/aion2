@@ -155,7 +155,7 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
       <span class="status" id="rb-status" role="status"></span>
     </form>
     <p class="dim">Event times follow the server clock, which matches Central European time (checked in-game in October). Whether events stay on that clock after the 25 Oct clock change is not confirmed yet. Resets are fixed in UTC (in-game). Maintenance shows only once it's officially announced, with the announced end; it can finish earlier.</p>
-    <p class="dim">Argo, the Spirit King and the two Gartua field bosses have no fixed time: they come back about 12h after they die (Gartua checked in-game, Argo likely). Their rows start from the last time read off the map on the Nania server. After that the page guesses ahead, assuming the boss dies about 10 minutes after it appears; guessed times carry a ~ and "(unverified)", and after two guessed cycles the row just says to check the map.</p>
+    <p class="dim">Argo, the Spirit King and the two Gartua field bosses have no fixed time: they come back about 12h after they die (Gartua checked in-game, Argo likely). Their rows start from the last time read off the map on the Nania server (signed-in viewers see new times right away; signed-out viewers see them once the page is next updated). After that the page guesses ahead, assuming the boss dies about 10 minutes after it appears; guessed times carry a ~ and "(unverified)", and after two guessed cycles the row just says to check the map.</p>
   </section>
 
   <section aria-labelledby="content">
@@ -282,7 +282,13 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
   ];
   const MAX_GUESSES = 2;
   const FAR = 1e15; // sort key for rows without a time
-  let respawns = {};
+  // Copy of the store as of the last publish, for viewers without the store (signed out). Per boss,
+  // whichever entry was observed later wins.
+  const RESPAWN_SNAPSHOT = {
+    "argo": { at: 1792760610000, kind: "spawn", observedAt: 1792755037951 },
+    "gartua-eternal": { at: 1792757325000, kind: "spawn", observedAt: 1792755037951 },
+  };
+  let respawns = { ...RESPAWN_SNAPSHOT };
   // Fixed in UTC.
   const RESETS = [
     { name: "Daily reset", utcHour: 7, tag: GAME },
@@ -573,8 +579,11 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
     const db = await claude.use("db");
     if (!db) return;
     db.collection("respawns").onSnapshot(snap => {
-      const next = {};
-      for (const d of snap.docs) next[d.id] = d.data();
+      const next = { ...RESPAWN_SNAPSHOT };
+      for (const d of snap.docs) {
+        const s = d.data(), old = next[d.id];
+        if (!old || (s.observedAt || 0) >= (old.observedAt || 0)) next[d.id] = s;
+      }
       respawns = next;
       sig = "";
       render();

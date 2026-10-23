@@ -85,7 +85,10 @@ with patches. Therefore:
 - **Respawn timers** (user, 2026-10-23): the Content Atlas shows Argo, Eternal Gartua and Immortal Gartua from its
   shared database (collection `respawns`, one doc per boss id: `{at, kind: "spawn"|"kill", observedAt}`, UTC ms;
   history in `respawn-log`, owner-only). When the user sends a boss timer screenshot, write both with
-  `ArtifactData` (no republish needed). Tuning (`respawn`, `killDelay` per boss in `BOSSES`) is a page edit.
+  `ArtifactData`, then copy the `respawns` docs into `RESPAWN_SNAPSHOT` in the page and republish: signed-out
+  viewers get no database and see only that snapshot (user, 2026-10-23). Before republishing, read the
+  `respawns` collection so entries the user saved through the page's form also land in the snapshot.
+  Tuning (`respawn`, `killDelay` per boss in `BOSSES`) is a page edit.
 
 ## Computing status
 
