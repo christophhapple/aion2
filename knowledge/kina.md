@@ -72,5 +72,5 @@ Researched 2026-10-14. No official global page; guides 2026-09 → 10, several w
 - Different types stack [420]. **Scrolls can be set to auto-consume** (in-game 2026-10-23).
 - Cost (own arithmetic): ~12k Kina per hour per 1,000-Kina scroll, ~50k/h for four. Cheap for boss/dungeon
   time, wasteful when kept up while idle or travelling. Superior Courage (+15%) is an Alchemy craft, tradeable [420].
-- Whether Combat Speed also shortens cast times (matters for healers): unknown. A later patch reportedly moves it
-  to charge speed (probably KR, unverified).
+- Combat Speed does speed up casting ("Attack Speed and Spell Action Speed", in-game 2026-10-23); details
+  `cleric-skills.md` "Stats".

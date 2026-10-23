@@ -513,3 +513,6 @@ Added 2026-10-22 (skins, Closet, Skin Combine).
 419. xboxplay.games, how to get more skins, 2026-10-04, G: https://xboxplay.games/aion-2/how-to-get-more-skins-aion-2-76416
 420. allthings.how, Courage Scroll guide, upd. 2026-10-12, G: https://allthings.how/?p=246689
 421. patchcrazy, how to get and use scroll buffs, 2026-10-08, region not stated: https://patchcrazy.co.uk/how-to-get-and-use-scroll-buffs-aion-2/
+422. gamerblurb, What Is Combat Speed, undated: https://gamerblurb.com/guides/aion-2-what-is-combat-speed-explained
+423. u4n.com, how to increase attack speed (cap tests), undated, Kina seller: https://www.u4n.com/news/how-to-increase-attack-speed-in-aion-2.html
+424. vortexgaming.io, Combat Speed patch note (Dec 17 patch, likely KR), undated: https://vortexgaming.io/en/postdetail/620705

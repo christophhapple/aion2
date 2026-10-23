@@ -182,6 +182,12 @@ Guides disagree; most agree on the first point.
   Heal Boost (rate not shown in-game) [111]. Another guide puts Healing Power first, then Attack [113].
 - Then **Critical Hit** (feeds Condemnation resets; capped at 50%; matters less while Earth Punishment is up, since Condemnation crits anyway), **Cooldown Reduction** and
   **Combat Speed**, Double Chance [111][112]. A Cleric is "always short on crit" [112].
+- **Combat Speed:** stat tooltip "Increases Attack Speed and Spell Action Speed" (in-game 2026-10-23), so it
+  speeds up casts and skill animations. **Doesn't shorten cooldowns** (that's Cooldown Reduction) [422]. No hard
+  cap found; community tests saw diminishing returns and "dead zones" at high values [423]. A later patch
+  (Dec 17, likely KR) reportedly makes it speed up charging instead [424]. For a Cleric (own reasoning): it
+  helps the filler between cooldowns (Bolt, Earth Punishment) and cast-time heals; the big heals and Condemnation
+  resets hinge on cooldowns and crit, so it ranks after Attack/Crit, alongside Cooldown Reduction.
 - Survival-first lists (Constitution, Willpower, HP, defenses) exist [114], but read like generic advice.
 - Manastones: weapon → Weapon Damage Boost, Crit Damage Boost, Damage Boost, Attack; armor → one Crit
   Damage Boost, rest Attack; skip Front Attack [111].
