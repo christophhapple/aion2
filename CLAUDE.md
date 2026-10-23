@@ -82,6 +82,10 @@ with patches. Therefore:
   passing the URL above as `url`, so the link stays the same.
   Exception (user, 2026-10-21): the scheduled task `aion2-maintenance-watch` adds officially announced
   maintenance windows to the Content Atlas (`MAINTENANCE` in its script) and republishes it on its own.
+- **Respawn timers** (user, 2026-10-23): the Content Atlas shows Argo, Eternal Gartua and Immortal Gartua from its
+  shared database (collection `respawns`, one doc per boss id: `{at, kind: "spawn"|"kill", observedAt}`, UTC ms;
+  history in `respawn-log`, owner-only). When the user sends a boss timer screenshot, write both with
+  `ArtifactData` (no republish needed). Tuning (`respawn`, `killDelay` per boss in `BOSSES`) is a page edit.
 
 ## Computing status
 

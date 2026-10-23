@@ -119,6 +119,15 @@ td strong { font-weight: 700; }
 .timers .t-alarm:hover { opacity: 0.8; }
 .timers .t-alarm[aria-pressed="true"] { color: var(--gold); opacity: 1; }
 .timers .t-alarm:focus-visible { outline: 2px solid var(--gold); outline-offset: 1px; }
+.respawn-form { display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center; }
+.respawn-form label { font-weight: 600; width: 100%; }
+.respawn-form select, .respawn-form input, .respawn-form button { font: inherit; font-size: 0.95rem; min-height: 2.5rem;
+  padding: 0.3rem 0.7rem; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); color: var(--fg); }
+.respawn-form input { width: 9rem; font-family: var(--font-mono); }
+.respawn-form button { cursor: pointer; font-weight: 600; }
+.respawn-form button.primary { background: var(--sky); border-color: var(--sky); color: var(--surface); }
+.respawn-form :focus-visible { outline: 2px solid var(--gold); outline-offset: 1px; }
+.respawn-form .status { color: var(--muted); font-size: 0.9rem; width: 100%; }
 .sound-hint { padding: 0.5rem 0.8rem; border-radius: 6px; background: var(--gold-soft); color: var(--gold); font-weight: 600; }
 footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; border-top: 1px solid var(--line); padding-top: 1.25rem; }
 </style>
@@ -128,7 +137,7 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
     <div class="eyebrow">Aion 2 · Europe · Level 45 · free to play</div>
     <h1>Content Atlas</h1>
     <p>Every repeatable activity at level 45, what it costs, and what it feeds. Use it to answer "where do I get X?" and "what is this activity good for?".</p>
-    <div class="meta"><span>Updated 21 Oct 2026</span><span>Daily reset 09:00 local, weekly Wednesday 09:00 (after the 25 Oct clock change: not yet confirmed)</span></div>
+    <div class="meta"><span>Updated 23 Oct 2026</span><span>Daily reset 09:00 local, weekly Wednesday 09:00 (after the 25 Oct clock change: not yet confirmed)</span></div>
   </header>
 
   <section aria-labelledby="timers">
@@ -137,7 +146,16 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
     <p class="dim">The bell next to an event plays three beeps 2 minutes before it starts. Alarms are saved in this browser only, and the page has to stay open (a background tab is fine, but the beep can then come up to a minute late).</p>
     <p class="sound-hint" id="sound-hint" hidden>You have alarms on. Tap or click anywhere on the page once so it's allowed to play sound.</p>
     <div class="table-wrap"><ol class="timers" id="timer-list" aria-live="off"><li><span class="t-name">Loading timers…</span></li></ol></div>
-    <p class="dim">Event times follow the server clock, which matches Central European time (checked in-game in October). Whether events stay on that clock after the 25 Oct clock change is not confirmed yet. Resets are fixed in UTC (in-game). Argo, the Spirit King has no fixed time: it seems to return about 12h after it dies. Maintenance shows only once it's officially announced, with the announced end; it can finish earlier.</p>
+    <form class="respawn-form" id="respawn-form" hidden>
+      <label for="rb-left">Update a respawn timer from the map</label>
+      <select id="rb-boss" aria-label="Boss"></select>
+      <input id="rb-left" placeholder="1h 39m 56s" aria-label="Time left as shown on the map" autocomplete="off">
+      <button type="submit" class="primary">Save time left</button>
+      <button type="button" id="rb-killed">Killed just now</button>
+      <span class="status" id="rb-status" role="status"></span>
+    </form>
+    <p class="dim">Event times follow the server clock, which matches Central European time (checked in-game in October). Whether events stay on that clock after the 25 Oct clock change is not confirmed yet. Resets are fixed in UTC (in-game). Maintenance shows only once it's officially announced, with the announced end; it can finish earlier.</p>
+    <p class="dim">Argo, the Spirit King and the two Gartua field bosses have no fixed time: they come back about 12h after they die (Gartua checked in-game, Argo likely). Their rows start from the last time read off the map on the Nania server. After that the page guesses ahead, assuming the boss dies about 10 minutes after it appears; guessed times carry a ~ and "(unverified)", and after two guessed cycles the row just says to check the map.</p>
   </section>
 
   <section aria-labelledby="content">
@@ -168,9 +186,9 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
           <tr><td><strong>Halloween event</strong> <span class="dim">(until 4 Nov, 09:00)</span></td><td>10 quests a week</td><td>Pumpkin Coins</td></tr>
           <tr class="group"><td colspan="3">Abyss and PvP</td></tr>
           <tr><td><strong>Abyss</strong> <span class="dim">(Lower Reshanta, PvP zone)</span></td><td>7h a week; the time keeps running while you're dead. Death has no penalty</td><td>Abyss Points (no cap shown), Abyss bosses, weekly season missions</td></tr>
-          <tr><td><strong>Artifact Siege</strong> <span class="dim">(faction vs faction)</span></td><td>Mon, Thu, Sat 21:00, 30 min <span class="unverified">(Thu unverified)</span></td><td>Abyss Points by contribution; the faction holding an Artifact gets an Abyss Corridor</td></tr>
+          <tr><td><strong>Artifact Siege</strong> <span class="dim">(faction vs faction)</span></td><td>Mon, Thu, Sat 21:00, 30 min</td><td>Abyss Points by contribution; the faction holding an Artifact gets an Abyss Corridor</td></tr>
           <tr><td><strong>Abyss Corridor</strong> <span class="dim">(only while your faction holds an Artifact)</span></td><td>One time allowance per siege (2:10 seen), used up in one run; the entrance can be camped</td><td>Arena with endless monsters, <strong>~10,000 Abyss Points per run</strong></td></tr>
-          <tr><td><strong>Abyss bosses</strong></td><td>Watcher Kaira every 3h (01, 04 … 22) · siege bosses Mon/Thu/Sat 21:30 · Nahma Fri/Sun 21:00 <span class="unverified">(Thu/Sat siege bosses and Fri Nahma unverified)</span></td><td>Needed for weekly season missions</td></tr>
+          <tr><td><strong>Abyss bosses</strong></td><td>Watcher Kaira every 3h (01, 04 … 22) · siege bosses Mon/Thu/Sat 21:30 · Nahma Fri/Sun 21:00, three at once · Argo, the Spirit King about 12h after it dies <span class="unverified">(Thu siege bosses and Argo's 12h unverified)</span></td><td>Needed for weekly season missions</td></tr>
           <tr><td><strong>Battlefield</strong> <span class="dim">(10v10)</span></td><td>Daily 11:00–14:00 and 19:00–21:00; solo queue or a full 5-party</td><td>Win 3,000 AP + 2 items, take part 1,000 AP + 1 item; 3 of each a week, up to 12,000 AP</td></tr>
           <tr><td><strong>Arena</strong> <span class="dim">(1v1 Solitude, 5v5 Cooperation)</span></td><td>Always open</td><td>Win 500 AP, take part 300 AP; weekly max 30 wins + 10 participations per arena</td></tr>
         </tbody>
@@ -250,10 +268,21 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
     { name: "Spacetime Rift", note: "portals open 10 min", hours: [2, 5, 8, 11, 14, 17, 20, 23], minute: 0, dur: 10, tag: GAME },
     { name: "Watcher Kaira", note: "Abyss boss", hours: [1, 4, 7, 10, 13, 16, 19, 22], minute: 0, dur: 30, tag: GAME },
     { name: "Battlefield", note: "10v10 queue", windows: [[11, 14], [19, 21]], tag: GAME },
-    { name: "Artifact Siege", note: "Abyss", days: [1, 4, 6], hours: [21], minute: 0, dur: 30, tag: d => d === 4 ? GUIDE : GAME },
-    { name: "Siege bosses", note: "Tamasa, Argo, Kaira …", days: [1, 4, 6], hours: [21], minute: 30, dur: 30, tag: d => d === 1 ? GAME : GUIDE },
-    { name: "Guardian Lord Nahma", note: "Abyss", days: [0, 5], hours: [21], minute: 0, dur: 30, tag: d => d === 0 ? GAME : GUIDE },
+    { name: "Artifact Siege", note: "Abyss", days: [1, 4, 6], hours: [21], minute: 0, dur: 30, tag: GAME },
+    { name: "Siege bosses", note: "Tamasa, Argo, Kaira …", days: [1, 4, 6], hours: [21], minute: 30, dur: 30, tag: d => d === 4 ? GUIDE : GAME },
+    { name: "Guardian Lord Nahma", note: "Abyss, three at once", days: [0, 5], hours: [21], minute: 0, dur: 30, tag: GAME },
   ];
+  // Bosses that respawn a while after they die. Times come from the shared "respawns" store (Nania server):
+  // { at, kind: "spawn" (read off the map) | "kill" (killed at), observedAt }. Guessed cycles assume a kill
+  // about killDelay after each spawn; tune respawn and killDelay as observations come in.
+  const BOSSES = [
+    { id: "argo", name: "Argo, the Spirit King", note: "Abyss boss", respawn: 12 * HOUR, respawnKnown: false, killDelay: 10 * MIN, up: 15 * MIN },
+    { id: "gartua-eternal", name: "Eternal Gartua", note: "field boss, Verteron", respawn: 12 * HOUR, respawnKnown: true, killDelay: 10 * MIN, up: 15 * MIN },
+    { id: "gartua-immortal", name: "Immortal Gartua", note: "field boss, Altgard", respawn: 12 * HOUR, respawnKnown: true, killDelay: 10 * MIN, up: 15 * MIN },
+  ];
+  const MAX_GUESSES = 2;
+  const FAR = 1e15; // sort key for rows without a time
+  let respawns = {};
   // Fixed in UTC.
   const RESETS = [
     { name: "Daily reset", utcHour: 7, tag: GAME },
@@ -354,6 +383,31 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
   }
 
   const SOON = 10 * MIN;
+  // Next spawn of a respawning boss: the stored time first (exact when read off the map), then up to
+  // MAX_GUESSES guessed cycles of respawn + killDelay; past that, no time.
+  function bossRow(b, s, now) {
+    const row = { name: b.name, note: b.note, tag: GAME, count: null, frac: 0, key: FAR };
+    if (!s || typeof s.at !== "number") return { ...row, detail: "no time yet · check the map" };
+    const base = s.kind === "kill" ? s.at + b.respawn : s.at;
+    const baseExact = s.kind !== "kill" || b.respawnKnown;
+    for (let n = 0; n <= MAX_GUESSES; n++) {
+      const t = base + n * (b.respawn + b.killDelay);
+      const approx = n > 0 || !baseExact;
+      const pre = approx ? "~" : "";
+      const note = approx ? `guessed · ${b.note}` : b.note;
+      if (now < t) {
+        const count = t - now;
+        return { ...row, note, tag: approx ? GUIDE : GAME, approx, soon: count <= SOON, key: t,
+          detail: pre + when(t, now), count, frac: logFrac(count) };
+      }
+      if (now < t + b.up) {
+        const count = t + b.up - now;
+        return { ...row, note, tag: approx ? GUIDE : GAME, approx, live: true, stateText: "Up, likely dead in",
+          key: t + b.up - DAY, detail: `up since ${pre}${timeFmt.format(t)}`, count, frac: logFrac(count) };
+      }
+    }
+    return { ...row, detail: "check the map" };
+  }
   function rows(now) {
     const list = [];
     const seen = new Set();
@@ -379,6 +433,7 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
       list.push({ name: dl.name, note: dl.note, tag: dl.tag, reset: true, key: dl.at, detail: when(dl.at, now),
         count: dl.at - now, frac: logFrac(dl.at - now) });
     }
+    for (const b of BOSSES) list.push(bossRow(b, respawns[b.id], now));
     const mt = MAINTENANCE.find(m => m.end > now);
     if (mt) {
       const live = mt.start <= now;
@@ -476,7 +531,7 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
         <span class="t-name">${r.name}${r.tag === GUIDE ? ` <span class="unverified">(unverified)</span>` : ""}
           <button type="button" class="t-alarm" data-name="${r.name}" aria-pressed="${on}"
             aria-label="${on ? "Turn off" : "Turn on"} the alarm 2 minutes before ${r.name}" title="Alarm 2 minutes before">${BELL}</button></span>
-        <span class="t-count">${r.live ? `<span class="t-state">Live, ends in</span>` : ""}<span class="t-num"></span></span>
+        <span class="t-count">${r.live ? `<span class="t-state">${r.stateText || "Live, ends in"}</span>` : ""}<span class="t-num"></span></span>
         <span class="t-when">${r.detail}${r.note ? `<br>${r.note}` : ""}</span>
         <span class="t-bar" aria-hidden="true"><span class="t-fill"></span></span>
       </li>`;
@@ -485,10 +540,10 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
     const items = el.querySelectorAll("li:not(.scale)");
     list.forEach((r, i) => {
       const li = items[i];
-      li.querySelector(".t-num").textContent = countdown(r.count);
+      li.querySelector(".t-num").textContent = r.count == null ? "–" : (r.approx ? "~" : "") + countdown(r.count);
       li.querySelector(".t-fill").style.width = `${(Math.min(1, Math.max(0, r.frac)) * 100).toFixed(2)}%`;
       const id = `${r.name}@${r.key}`;
-      if (alarms.has(r.name) && !r.live && r.count <= ALARM_LEAD && !fired.has(id)) {
+      if (alarms.has(r.name) && !r.live && r.count != null && r.count <= ALARM_LEAD && !fired.has(id)) {
         fired.add(id);
         beep(3);
       }
@@ -497,5 +552,65 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
   updateHint();
   render();
   setInterval(render, 1000);
+
+  // Respawn times: everyone signed in reads them live; only the page owner sees the form and writes.
+  // "1h 39min 56s", "45m13s", "45:13" or "3:52:50" → ms; null if unreadable.
+  function parseLeft(text) {
+    const s = text.trim().toLowerCase();
+    if (/^\d+(:\d{1,2}){1,2}$/.test(s)) {
+      const p = s.split(":").map(Number);
+      return (p.length === 3 ? p[0] * HOUR + p[1] * MIN + p[2] * 1000 : p[0] * MIN + p[1] * 1000);
+    }
+    const units = { d: DAY, h: HOUR, m: MIN, s: 1000 };
+    let ms = 0, hit = false;
+    for (const [, n, u] of s.matchAll(/(\d+)\s*(d|h|m|s)[a-z]*/g)) { ms += +n * units[u]; hit = true; }
+    return hit ? ms : null;
+  }
+
+  (async () => {
+    const claude = window.claude;
+    if (!claude || !claude.use) return;
+    const db = await claude.use("db");
+    if (!db) return;
+    db.collection("respawns").onSnapshot(snap => {
+      const next = {};
+      for (const d of snap.docs) next[d.id] = d.data();
+      respawns = next;
+      sig = "";
+      render();
+    }, () => {});
+
+    const user = await claude.use("user");
+    if (!user || !(await user.isOwner())) return;
+    const form = document.getElementById("respawn-form");
+    const pick = document.getElementById("rb-boss"), left = document.getElementById("rb-left");
+    const status = document.getElementById("rb-status");
+    pick.innerHTML = BOSSES.map(b => `<option value="${b.id}">${b.name}</option>`).join("");
+    form.hidden = false;
+    let busy = false;
+    async function save(kind, at) {
+      if (busy) return;
+      busy = true;
+      const b = BOSSES.find(x => x.id === pick.value);
+      const entry = { at, kind, observedAt: Date.now() };
+      try {
+        await db.collection("respawns").doc(b.id).set(entry);
+        await db.collection("respawn-log").add({ boss: b.id, ...entry });
+        status.textContent = kind === "kill" ? `Saved: ${b.name} killed at ${timeFmt.format(at)}.`
+          : `Saved: ${b.name} spawns at ${timeFmt.format(at)}.`;
+        left.value = "";
+      } catch (e) {
+        status.textContent = "Couldn't save, try again in a moment.";
+      }
+      busy = false;
+    }
+    form.addEventListener("submit", e => {
+      e.preventDefault();
+      const ms = parseLeft(left.value);
+      if (ms == null) { status.textContent = "Type the time left as on the map, e.g. 1h 39m 56s."; return; }
+      save("spawn", Date.now() + ms);
+    });
+    document.getElementById("rb-killed").addEventListener("click", () => save("kill", Date.now()));
+  })();
 })();
 </script>
