@@ -151,7 +151,7 @@ routines:
 
   - id: abyss-odyle
     name: Gather Odyle in the Abyss
-    notes: Weekly achievement Daeva of Enduring Deeds at 10/20/30 Odyle gathered in the Abyss (820 Oath Coins + 6,000 AP + 3 Silver Medals) (guides). Log the amount gathered as ×n.
+    notes: Weekly Season Mission, Challenge tab - gather Odyle in the Abyss, chain 10/20/30 (in-game 2026-10-23). Rewards per guides (Daeva of Enduring Deeds) - 820 Oath Coins + 6,000 AP + 3 Silver Medals. Log the amount gathered as ×n.
     reset: weekly
     cap: 30
 
