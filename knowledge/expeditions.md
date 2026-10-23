@@ -90,7 +90,7 @@ third mode" [46]~~. KR added Hard in Dec 2025 [52][53, KR]. **Vakron Conquest re
 
 | Source | Stones | Limit |
 |---|---|---|
-| **Daily Dungeon** (Daeva Bio-Research Base; **solo**, score-based reward) | **6,000–7,000** per clear on average at GS 1100–1500 (in-game 2026-10-12); **max 10,000** (entry window "Max Rewards", in-game 2026-10-23; the guides' 10k is the max, not the average). The window lists only Enhance Stones, no Kina (in-game 2026-10-23) | 14/week per server ("Unknown Fissure" pool) [3][4][97] |
+| **Daily Dungeon** (Daeva Bio-Research Base; **solo**, score-based reward) | **6,000–7,000** per clear on average at GS 1100–1500 (in-game 2026-10-12), **7,500–8,000** at GS ~1900 (in-game 2026-10-23); **max 10,000** (entry window "Max Rewards", in-game 2026-10-23; the guides' 10k is the max, not the average). The window lists only Enhance Stones, no Kina (in-game 2026-10-23) | 14/week per server ("Unknown Fissure" pool) [3][4][97] |
 | Ascension Trial | 3,500 per clear on Normal (in-game 2026-10-15; matches guides, which give no difficulty) | 3/week; Easy GS 1000, Normal 1500, Hard 2000, Extreme 2500 (in-game 2026-10-11) |
 | First Conquest Normal clear (achievement, one-time per dungeon) | 2,480 | once |
 | Conquest final boss | 2,000 | Odyle + cube count |

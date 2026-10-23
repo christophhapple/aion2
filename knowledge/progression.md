@@ -19,7 +19,7 @@ The loop: run content → Enhance Stones + gear → enhance → higher GS → ne
 | GS | Unlocks | Main reward |
 |---|---|---|
 | any | Sealed Dungeons, Strongholds (one-time) | Skill points, Daevanion, stones; **belt scrolls** (Strongholds only) |
-| any | **Daily Dungeon** (14/week per server) | **6–7k stones per clear** (in-game, GS 1100–1500; guides say 10k), the biggest stone source |
+| any | **Daily Dungeon** (14/week per server) | **6–7k stones per clear** at GS 1100–1500, **7.5–8k** at GS ~1900 (in-game; max 10k per clear), the biggest stone source |
 | 45 | Nightmare (solo boss) | Phantasmal Fragments → Clash Rune chests, Pantheon pieces |
 | 700 | Conquest ★1: **Krao Cave** (weapons/accessories), **Draupnir** (armor) | 2,000 stones per boss, IL 54 set |
 | 1000 | Abyss (PvP zone) | Abyss Points; worth it from ~1600 |
@@ -34,7 +34,7 @@ Exploration mode (easy) of most expeditions opens much earlier: Krao 200, Urugug
 ## What to do around GS 1000 → 1400 (F2P)
 
 **Every week:**
-1. **Daily Dungeon, all 14 runs.** ~90k stones/week (in-game average; guides say 140k), with no Odyle cost. Nothing else comes close.
+1. **Daily Dungeon, all 14 runs.** ~90k stones/week at GS 1100–1500, ~105–110k at GS ~1900 (in-game averages; max 140k), with no Odyle cost. Nothing else comes close.
 2. **Spend Odyle Energy before it caps** (560): Krao + Draupnir Conquest (40 per cube, 2,000 stones,
    gear toward the IL 54 set), or Krao/Urugugu Exploration (20 per cube, 1,000–1,500 stones).
    Conquest allows 10 clears per week *without* opening the cube; at 0 you can't enter (in-game).
