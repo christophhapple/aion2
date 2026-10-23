@@ -3,6 +3,7 @@
 Ideas and tasks for building this tracker. In-game tasks go in `todo.md`.
 
 ## Open
+- [ ] Content Atlas respawn timers: once a few map readings are in `respawn-log`, check how well 12h + 10 min holds per boss; if it holds, raise `MAX_GUESSES` so the projection covers ~2 days (2026-10-23)
 
 ## Done
 - [x] PvP routines in `routines.yaml`: arena-solo, arena-team, abyss-time added, siege note updated (2026-10-19)
