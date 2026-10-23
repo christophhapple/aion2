@@ -155,7 +155,7 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
       <span class="status" id="rb-status" role="status"></span>
     </form>
     <p class="dim">Event times follow the server clock, which matches Central European time (checked in-game in October). Whether events stay on that clock after the 25 Oct clock change is not confirmed yet. Resets are fixed in UTC (in-game). Maintenance shows only once it's officially announced, with the announced end; it can finish earlier.</p>
-    <p class="dim">Argo, the Spirit King and the two Gartua field bosses have no fixed time: they come back about 12h after they die (Gartua checked in-game, Argo likely). Their rows start from the last time read off the map on the Nania server (signed-in viewers see new times right away; signed-out viewers see them once the page is next updated). After that the page guesses ahead, assuming the boss dies a few minutes after it appears (Argo: about 5 minutes; Eternal Gartua: about 1 minute, it's popular and quick to kill; Immortal Gartua: about 10 minutes); guessed times carry a ~ and "(unverified)", and after two guessed cycles the row just says to check the map.</p>
+    <p class="dim">Argo, the Spirit King and the two Gartua field bosses have no fixed time: they come back about 12h after they die (checked in-game for all three). Their rows start from the last time read off the map on the Nania server (signed-in viewers see new times right away; signed-out viewers see them once the page is next updated). After that the page guesses ahead, assuming the boss dies a few minutes after it appears (Argo: about 5 minutes; Eternal Gartua: about 1 minute, it's popular and quick to kill; Immortal Gartua: about 10 minutes); guessed times carry a ~ and "(unverified)", and after two guessed cycles the row just says to check the map.</p>
   </section>
 
   <section aria-labelledby="content">
@@ -188,7 +188,7 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
           <tr><td><strong>Abyss</strong> <span class="dim">(Lower Reshanta, PvP zone)</span></td><td>7h a week; the time keeps running while you're dead. Death has no penalty</td><td>Abyss Points (no cap shown), Abyss bosses, weekly season missions</td></tr>
           <tr><td><strong>Artifact Siege</strong> <span class="dim">(faction vs faction)</span></td><td>Mon, Thu, Sat 21:00, 30 min</td><td>Abyss Points by contribution; the faction holding an Artifact gets an Abyss Corridor</td></tr>
           <tr><td><strong>Abyss Corridor</strong> <span class="dim">(only while your faction holds an Artifact)</span></td><td>One time allowance per siege (2:10 seen), used up in one run; the entrance can be camped</td><td>Arena with endless monsters, <strong>~10,000 Abyss Points per run</strong></td></tr>
-          <tr><td><strong>Abyss bosses</strong></td><td>Watcher Kaira every 3h (01, 04 … 22) · siege bosses Mon/Thu/Sat 21:30 · Nahma Fri/Sun 21:00, three at once · Argo, the Spirit King about 12h after it dies <span class="unverified">(Thu siege bosses and Argo's 12h unverified)</span></td><td>Needed for weekly season missions</td></tr>
+          <tr><td><strong>Abyss bosses</strong></td><td>Watcher Kaira every 3h (01, 04 … 22) · siege bosses Mon/Thu/Sat 21:30 · Nahma Fri/Sun 21:00, three at once · Argo, the Spirit King 12h after it dies <span class="unverified">(Thu siege bosses unverified)</span></td><td>Needed for weekly season missions</td></tr>
           <tr><td><strong>Battlefield</strong> <span class="dim">(10v10)</span></td><td>Daily 11:00–14:00 and 19:00–21:00; solo queue or a full 5-party</td><td>Win 3,000 AP + 2 items, take part 1,000 AP + 1 item; 3 of each a week, up to 12,000 AP</td></tr>
           <tr><td><strong>Arena</strong> <span class="dim">(1v1 Solitude, 5v5 Cooperation)</span></td><td>Always open</td><td>Win 500 AP, take part 300 AP; weekly max 30 wins + 10 participations per arena</td></tr>
         </tbody>
@@ -276,8 +276,8 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
   // { at, kind: "spawn" (read off the map) | "kill" (killed at), observedAt }. Guessed cycles assume a kill
   // about killDelay after each spawn; tune respawn and killDelay as observations come in.
   const BOSSES = [
-    // Dead about 5 min after spawning (in-game 2026-10-23, one kill).
-    { id: "argo", name: "Argo, the Spirit King", note: "Abyss boss", respawn: 12 * HOUR, respawnKnown: false, killDelay: 5 * MIN, up: 10 * MIN },
+    // Respawns 12h after the kill (map timer, in-game 2026-10-23); dead about 5 min after spawning (one kill).
+    { id: "argo", name: "Argo, the Spirit King", note: "Abyss boss", respawn: 12 * HOUR, respawnKnown: true, killDelay: 5 * MIN, up: 10 * MIN },
     // Popular and quick to kill: dead within about a minute (in-game 2026-10-23).
     { id: "gartua-eternal", name: "Eternal Gartua", note: "field boss, Verteron", respawn: 12 * HOUR, respawnKnown: true, killDelay: 1 * MIN, up: 5 * MIN },
     { id: "gartua-immortal", name: "Immortal Gartua", note: "field boss, Altgard", respawn: 12 * HOUR, respawnKnown: true, killDelay: 10 * MIN, up: 15 * MIN },
@@ -287,7 +287,7 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
   // Copy of the store as of the last publish, for viewers without the store (signed out). Per boss,
   // whichever entry was observed later wins.
   const RESPAWN_SNAPSHOT = {
-    "argo": { at: 1792760920209, kind: "kill", observedAt: 1792760920209 },
+    "argo": { at: 1792804136625, kind: "spawn", observedAt: 1792761099625 },
     "gartua-eternal": { at: 1792757334779, kind: "kill", observedAt: 1792757334779 },
   };
   let respawns = { ...RESPAWN_SNAPSHOT };
