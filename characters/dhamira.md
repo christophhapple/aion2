@@ -59,4 +59,6 @@ Lower Reshanta done: all feathers collected, all Azphel Daevanion Crystals from 
 
 ## Notes
 - **Bottleneck (2026-10-23): Kina, not Enhance Stones.** Plan to run more Expeditions/Transcendence for Kina.
+  Odyle isn't limiting either: 50 Odyle Energy (Bound) items (40 each = 2,000 Odyle) that expire 2026-12-16,
+  plus 60 (+300) / 840 Odyle Energy (in-game 2026-10-23).
 - Titles (2026-10-13): Guardian of Verteron (Attack), Saint of Verteron (Defense), Through Hell and Back owned (Other slot). Hello There, Mysterious Racer, Standing on My Own Two Feet owned (2026-10-13). Catch Me If You Can owned (2026-10-14). Lady of the Lake owned (2026-10-15).
