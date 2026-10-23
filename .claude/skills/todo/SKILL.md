@@ -3,7 +3,7 @@ name: todo
 description: Show or add to the in-game todo list (todo.md). Use for "/todo", "/todo <task>", "remind me to … in game", "what's on my todo".
 ---
 
-`todo.md` holds one-off things to do or check in the game. Recurring dailies/weeklies belong in
+`P/todo.md` holds one-off things to do or check in the game. Recurring dailies/weeklies belong in
 `routines.yaml`; work on the tracker repo belongs in `backlog.md` (`/backlog`). If an item clearly
 belongs elsewhere, say so and put it there instead.
 

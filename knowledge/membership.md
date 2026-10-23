@@ -1,6 +1,6 @@
 # Special Quai Membership (subscription)
 
-Researched 2026-10-19. Account status: see `account.md`.
+Researched 2026-10-19. Account status: per player, `players/<player>/account.md`.
 
 ## Basics
 - **Price CHF 11.99 per 30 days** (in-game 2026-10-19; USD 15 [344][345]). **Applied per server**: all characters on

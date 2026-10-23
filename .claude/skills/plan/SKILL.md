@@ -7,7 +7,7 @@ Input: a time window (args: `2h`, `90m`, `until 23:00`, or nothing → ask "How 
 Optionally a focus ("stones", "in a group", "no PvP").
 
 1. Get the time: `date "+%Y-%m-%dT%H:%M%:z (%a)"`. Compute the window in local time.
-2. Read `knowledge/schedule.md`, `routines.yaml`, the current log, `goals.md`, the user's character
+2. Read `knowledge/schedule.md`, `routines.yaml`, the current log, `P/goals.md`, the user's character
    files, and `knowledge/progression.md` / `expeditions.md` for priorities.
 3. Collect:
    - **Anchors:** fixed-time events in the window (schedule A), only ones the character qualifies for

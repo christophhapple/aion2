@@ -6,7 +6,7 @@ description: Weekly Aion 2 progress review — what got done, what was missed, h
 Default period: the last completed weekly reset period (Wednesday to Wednesday, see `routines.yaml`).
 The user may ask for a different range ("this month", "since level 45").
 
-1. Read the log entries in range, plus `git log -p` on `characters/` and `goals.md` for stat/goal changes.
+1. Read the log entries in range, plus `git log -p` on `P/characters/` and `P/goals.md` for stat/goal changes.
 2. Report briefly:
    - Routine completion per character: done/possible per routine, highlight missed weeklies.
    - Stat changes (level, gear score) start → end.

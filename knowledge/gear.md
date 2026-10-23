@@ -197,7 +197,7 @@ shop) · Shugo Festival keys, Stigma Shards, Potential Stones [1][2][3][20].
 
 ## Cleric (healer) [10, version unstated]
 Stats: Wisdom + Life (god stats), Constitution + Power (primary); Heal Boost (PvE), Status Effect Resist
-(PvP). Attack also raises healing. Player builds live in `characters/`.
+(PvP). Attack also raises healing. Player builds live in `players/<player>/characters/`.
 
 ## Ascension bracelets
 - **Ascension Bracelet exists; can be Unique grade** (in-game 2026-10-11: seen at Unique). Single source [115]: the story gives it and it stays useful for months; enhance it

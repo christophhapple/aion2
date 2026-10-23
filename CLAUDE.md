@@ -1,23 +1,33 @@
 # Aion 2 tracker
 
-Personal progress tracker for Aion 2 (region: Europe, server: Nania). There is no app: this repo is the
-database and Claude is the interface. The user talks in plain language ("did nightmare twice", "GS is
-1080 now"), Claude reads and edits the files below and commits.
+Progress tracker for Aion 2 (knowledge is for Europe). There is no app: this repo is the database and
+Claude is the interface. The user talks in plain language ("did nightmare twice", "GS is 1080 now"),
+Claude reads and edits the files below and commits. Humans start with `README.md`.
+
+## Players
+
+Each player has a folder `players/<player>/` with their own data; shared files (knowledge, routines,
+skills) are at the top level. **The active player** (= "the user" everywhere below) is named in
+`CLAUDE.local.md` (gitignored, one line `Active player: <player>`): read it if it isn't already in context.
+If it's missing, run `/setup` before anything that reads or writes player data.
+Never edit another player's folder. `players/_template/` is the starting point for `/setup`.
 
 ## Files
 
+`P/` = `players/<active player>/`. Paths inside a player's files are relative to that folder.
+
 | Path | Holds | Format |
 |---|---|---|
-| `characters/<name>.md` | One file per character: who plays it, class, level, gear score, notes. | Markdown, key facts in a table |
+| `P/account.md` | Account-wide facts: region, server, F2P/subscription status, routines skipped | Markdown table |
+| `P/characters/<name>.md` | One file per character: who plays it, class, level, gear score, notes. | Markdown, key facts in a table |
+| `P/characters/<name>-build.md` | That character's build: hotkeys, Stigma presets, skill points, priorities | Markdown |
+| `P/characters/<name>-achievements.md` | Achievement progress snapshot from screenshots (open cards only) | Markdown tables |
+| `P/log/YYYY-MM.md` | Append-only record of what was done | Markdown list, one line per entry |
+| `P/goals.md` | Farming/progress targets with counts | Markdown table |
+| `P/todo.md` | One-off **in-game** tasks and reminders, `- [ ]` checkboxes | Markdown |
+| `routines.yaml` | Reset rules + the dailies/weeklies to track (shared; a player skips some via `account.md`) | YAML |
+| `knowledge/` | Game info (researched or told by a player), with provenance, see below | Markdown |
 | `share/` | Pages published as Artifacts for other people (see "Shared pages") | HTML |
-| `characters/<name>-build.md` | That character's build: hotkeys, Stigma presets, skill points, priorities | Markdown |
-| `characters/<name>-achievements.md` | Achievement progress snapshot from screenshots (open cards only) | Markdown tables |
-| `routines.yaml` | Reset rules + the dailies/weeklies to track | YAML |
-| `log/YYYY-MM.md` | Append-only record of what was done | Markdown list, one line per entry |
-| `goals.md` | Farming/progress targets with counts | Markdown table |
-| `knowledge/` | Game info (researched or told by the user), with provenance, see below | Markdown |
-| `account.md` | Account-wide facts: region, server, F2P/subscription status | Markdown table |
-| `todo.md` | One-off **in-game** tasks and reminders, `- [ ]` checkboxes | Markdown |
 | `backlog.md` | Tasks and ideas for **building this tracker** | Markdown |
 
 ## Rules
@@ -38,9 +48,9 @@ database and Claude is the interface. The user talks in plain language ("did nig
 - **Auto-commit** after every change to tracked data, one commit per logical update, short message
   in the form `log: Dhamira nightmare ×2` / `char: Dhamira GS 1050` / `goals: …` / `routines: …`.
   No need to ask first.
-- **Respect `account.md`:** the player has the membership subscription (since 2026-10-22), not the paid
-  Daeva Pass. Base advice on membership benefits; don't count paid Daeva Pass rewards unless asked.
-- **Todos:** something the user must do or check in the game goes in `todo.md`; a change to this repo
+- **Respect `P/account.md`:** base advice on the player's membership / Daeva Pass status there; don't count
+  paid rewards they don't have unless asked. Leave out routines it lists as skipped.
+- **Todos:** something the user must do or check in the game goes in `P/todo.md`; a change to this repo
   (files, skills, structure) goes in `backlog.md`. Finished items move to "Done" with the date; dropped items are deleted.
 - **Terminology:** write "gear score" / "GS", never "item level" / "IL" (same thing; guides use IL).
   When reading guides, translate IL → GS. Glossary: `knowledge/README.md`.
@@ -65,10 +75,15 @@ with patches. Therefore:
 - When answering game questions, say how confident the answer is if it rests on unverified sources.
 
 - **Keep `knowledge/` character-neutral**: game facts only, reusable for alts and other players. A
-  character's state (levels, GS, gear, progress %) goes in `characters/` and `goals.md`. Facts the
+  character's state (levels, GS, gear, progress %) goes in `P/characters/` and `P/goals.md`. Facts the
   user observed in-game still go into knowledge (tagged `in-game`), just without "my X is at Y".
 
 ## Shared pages
+
+**Owner: player `chris`.** The rules in this section (and "the user" in it) apply only when chris is the
+active player. Other players can open the links but can't republish them, and the respawn database
+belongs to chris: never write to it for someone else. Another player who wants their own copy publishes
+`share/*.html` as a new Artifact and lists its URL in their `P/account.md`.
 
 | File | Artifact | For |
 |---|---|---|
@@ -101,4 +116,5 @@ Show times to the user in local time (system timezone, currently CET/CEST — ch
 
 `/today` open routines + next resets · `/log` record a play session · `/review` weekly summary ·
 `/todo` in-game todos · `/backlog` tracker backlog (both: no args = show, args = add) ·
-`/verify` re-check knowledge, generate in-game checks · `/plan 2h` plan a session around events and timers.
+`/verify` re-check knowledge, generate in-game checks · `/plan 2h` plan a session around events and timers ·
+`/setup` first-time setup for a new player (or a new clone).

@@ -1,6 +1,6 @@
 # Backlog (tracker project)
 
-Ideas and tasks for building this tracker. In-game tasks go in `todo.md`.
+Ideas and tasks for building this tracker. In-game tasks go in the player's `todo.md` (`players/<player>/`).
 
 ## Open
 - [ ] Content Atlas respawn timers: once a few map readings are in `respawn-log`, check how well 12h + 10 min holds per boss; if it holds, raise `MAX_GUESSES` so the projection covers ~2 days (2026-10-23)
