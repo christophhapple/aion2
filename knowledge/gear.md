@@ -222,6 +222,8 @@ Stats: Wisdom + Life (god stats), Constitution + Power (primary); Heal Boost (Pv
   +500 buff, patch 2026-10-09 [183][184], no official note found); other wings ~200 each [183];
   Founder's Pack wings 0 [180][181]. **Fits in-game 2026-10-13:** Ultimate Daeva tooltip shows owned
   Flight Power 1,000, and the 4 Daeva wings + Aullaeu + Glorious total exactly 5,900 (no base value).
+  Ancient Aullea (expedition wings, unsealed) also +200 (in-game 2026-10-23).
+- **Wings don't add gear score**, neither owned nor equipped (in-game 2026-10-23).
 - Ultimate Daeva Wings owned effect also: Penetration 100, Accuracy 20, Attack 10; equipped as in the
   list below (in-game 2026-10-13). The Wings info panel tabs "1 2 3" are **presets** (in-game 2026-10-13).
 - **Wing enhancement does not exist on global** (in-game 2026-10-13) [185][183][182]. ~~Live on global, +10 Flight Power per level, ~3.5–16.7M Kina to +10~~ [178] is KR/TW data.
