@@ -1,12 +1,13 @@
 ---
 name: setup
-description: First-time setup of this Aion 2 tracker for a player — on a fresh fork/clone, for a new player, or when CLAUDE.local.md is missing. Use for "/setup", "set me up", "I'm new here", "how do I start".
+description: First-time setup of this Aion 2 tracker for a player — on a fresh clone, for a new player, or when CLAUDE.local.md is missing. Use for "/setup", "set me up", "I'm new here", "how do I start".
 ---
 
 Goal: the player ends up with their own folder `players/<player>/`, a `CLAUDE.local.md` naming them as
 the active player, and knows the three or four things to say day to day. Talk like a person, not a form.
 
 ## 1. Who is this?
+- First `git pull --rebase --autostash -q`, so the list of players is current.
 - If `CLAUDE.local.md` exists and its player folder exists: say who is set up and offer to add another
   character instead (create it from `players/_template/characters/_character.md`, commit `char: add <Name>`). Stop.
 - List the folders in `players/` (not `_template`). Ask whether the user is one of them (e.g. the same
@@ -15,7 +16,7 @@ the active player, and knows the three or four things to say day to day. Talk li
 
 ## 2. New player: ask in one message
 Skip anything the args already answer.
-- A short player id for the folder (lowercase, no spaces, e.g. a nickname).
+- A short player id for the folder (lowercase, no spaces, e.g. a nickname; must not exist yet).
 - Main character: name, class, faction, level, gear score.
 - Region and server. Knowledge, reset times and schedules here are for **Europe**; for another region,
   say that reset times and event times may differ and need checking in-game.
@@ -30,18 +31,22 @@ Unanswered optional details: leave a `?` rather than guessing.
 2. Create `players/<player>/log/YYYY-MM.md` with the header `# Log — <Month YYYY>` and a first line
    `- <now> · <Name> · tracker started · level <n>, gear score <n>` (time: `date "+%Y-%m-%dT%H:%M%:z"`).
 3. Write `CLAUDE.local.md`: `Active player: <player>`.
-4. Commit `setup: player <player>` (CLAUDE.local.md is gitignored, so it isn't part of it).
+4. Commit `setup: player <player>` (CLAUDE.local.md is gitignored, so it isn't part of it), then
+   `git push` (see "Sync" in CLAUDE.md).
 
-## 4. Check git (say what you find, change nothing without a yes)
+## 4. Check git (say what you find, change nothing else without a yes)
 - `git config user.name` empty → show the two `git config` commands to set name and email.
-- `git remote -v`: if `origin` isn't `christophhapple/aion2` and there's no `upstream`, suggest
-  `git remote add upstream https://github.com/christophhapple/aion2.git` so they can pull knowledge and
-  skill updates later (`git pull upstream main`). Don't push anything.
+- `git remote -v`: `origin` should be `christophhapple/aion2`. If it's a fork, explain that this tracker
+  works as one shared repo: ask the owner to add them as a collaborator, then clone the original.
+- Push rejected with a permission error → they aren't a collaborator yet: tell them to ask the owner for
+  an invite and accept it, then say "push" again. Everything works locally meanwhile.
 
 ## 5. Tour (short)
 Tell them, in a few lines:
 - Just say what you did: "did nightmare twice", "GS is 1650 now", or paste a screenshot. That gets logged.
 - `/today` what's open · `/plan 2h` plan a session · `/todo` in-game reminders · `/review` weekly summary.
+- Co-op: `/today with <player>` or `/plan 2h with <player>` (name the other players in `players/`) shows
+  both of you and what to run together. Everyone's data is readable by everyone in the repo.
 - Game facts go into `knowledge/` with sources and are shared with everyone using this repo. What you see
   in-game beats guides, so correct things freely.
 - The shared pages in CLAUDE.md belong to their owner: open the links, but ask for your own copy if you

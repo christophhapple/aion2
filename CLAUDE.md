@@ -10,7 +10,8 @@ Each player has a folder `players/<player>/` with their own data; shared files (
 skills) are at the top level. **The active player** (= "the user" everywhere below) is named in
 `CLAUDE.local.md` (gitignored, one line `Active player: <player>`): read it if it isn't already in context.
 If it's missing, run `/setup` before anything that reads or writes player data.
-Never edit another player's folder. `players/_template/` is the starting point for `/setup`.
+Reading other players' folders is fine (co-op planning); never edit them. `players/_template/` is the
+starting point for `/setup`. Everyone works in this one repo as a GitHub collaborator, no forks.
 
 ## Files
 
@@ -48,6 +49,12 @@ Never edit another player's folder. `players/_template/` is the starting point f
 - **Auto-commit** after every change to tracked data, one commit per logical update, short message
   in the form `log: Dhamira nightmare ×2` / `char: Dhamira GS 1050` / `goals: …` / `routines: …`.
   No need to ask first.
+- **Sync (shared repo, several players push to it):** at the start of a session and before showing
+  status or planning, `git pull --rebase --autostash -q`. After each commit, `git push`; if it's rejected,
+  pull with rebase and push again. On a conflict, keep both sides' content (two players' edits to
+  `knowledge/` usually both belong) and never resolve it by dropping the other player's changes; if
+  unsure, stop and ask. If pull or push fails for another reason (offline, no access), say so in one
+  line and carry on locally.
 - **Respect `P/account.md`:** base advice on the player's membership / Daeva Pass status there; don't count
   paid rewards they don't have unless asked. Leave out routines it lists as skipped.
 - **Todos:** something the user must do or check in the game goes in `P/todo.md`; a change to this repo
