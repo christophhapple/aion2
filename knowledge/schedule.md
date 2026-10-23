@@ -13,6 +13,9 @@ reading the global client [61][62][63]; unverified unless tagged `in-game`. Sour
   moves 09:00 → 08:00. Whether event times stay on the local clock or on UTC is **unknown**: verify.
   **Hint (in-game 2026-10-18):** the Season and the Halloween event end at 09:00 CET (08:00 UTC) per their countdowns,
   i.e. at the usual local reset time. So the reset may stay at 09:00 local after the change (unverified).
+  **Counter-hint (in-game 2026-10-23):** at Fri 12:07 CEST the weekly recharge countdowns (Daily Dungeon,
+  Ascension Trial) showed 4d 20h 52–53min, i.e. Wed 28 Oct 07:00 UTC = **08:00 CET**. So the weekly reset
+  looks like it stays on UTC and moves to 08:00 local.
 - KR/TW schedules differ (e.g. Abyss sieges Wed/Sat in KR). Don't use KR timers such as aion2hub's [61].
 
 ## A. Fixed times
@@ -43,14 +46,22 @@ the map at the kill, ranked [155].
 
 | Counter | Refill | Cap | Per |
 |---|---|---|---|
-| Odyle Energy | +15 / 3h (120/day; in-game 2026-10-15, F2P), from Lv22 | 560 (840 paid); full after ~4d16h | character [50][63][68] |
+| Odyle Energy | +15 / 3h (120/day; in-game 2026-10-15, F2P), from Lv22 | 560 (840 paid); full after ~4d16h | character [50][63][68]. Items add to a separate **Charged Odyle** pool, see below |
 | ~~Conquest reward count~~ | **doesn't exist on global** (in-game 2026-10-18): only the Odyle cube cost and the 10 unobtained cubes/week limit | – | – |
-| Nightmare attempts | +2 / day (in-game 2026-10-18) | 14 (in-game 2026-10-18) | character |
-| **Shugo Festival keys** | +3 / day at reset | 12 (21 paid) | **per server, not per character** (in-game 2026-10-10). ~~7/week~~ is KR [69] |
+| Nightmare attempts | +2 / day (in-game 2026-10-18, 2026-10-23); deducted only on a clear | 14 (in-game) | character |
+| **Shugo Festival keys** | +3 / day at reset | 12 (21 with membership, in-game 2026-10-23) | **per server, not per character** (in-game 2026-10-10, tooltip 2026-10-23). Deducted when a reward is taken. ~~7/week~~ is KR [69] |
+| Ascension Trial entries | +3 / week; deducted on entrance | 3 | (in-game 2026-10-23) |
+| Daily Dungeon (Unknown Fissure) entries | +14 / week; deducted on entrance | 14 | per server (in-game 2026-10-23) |
 | **Invasion keys** | +1 / day (in-game 2026-10-15) | 7 (in-game 2026-10-15: shown as x/7) | account per server (some say account-wide) |
 | Duty Missions | 5 / day | **doesn't bank** (in-game 2026-10-13; ~~20 held~~ is wrong) | account per server |
 | Abyss time | 7h per layer (Lower, Middle) / week; no carry-over | – | character |
 | Growth dungeons (Silent Graveyard, Fafnite Amphitheater) | 7h each / week | – | character [50]. **Not seen on global** (in-game 2026-10-18), possibly KR only |
+
+**Two pools per counter** (in-game 2026-10-23, tooltips of Shugo keys, Nightmare, Ascension Trial, Daily
+Dungeon): the **Default Count** refills on its daily/weekly cycle up to the cap above; tickets and keys
+from items go into a separate **Recharge Count**, **cap 30** for all four. The default count is spent
+first, so regen keeps running while recharged entries wait. Shown as e.g. `4(+6)/21` = 4 default + 6
+recharged. Odyle Energy works the same way, there called **Charged Odyle** (`expeditions.md`).
 
 Weekly (Wed 07:00 UTC), no banking: ~~Exploration 7 per dungeon~~ (no clear limit, in-game 2026-10-19) · Conquest final boss 35 · Transcendence
 final boss 28 · raid attempts 4 · Ascension Trial 3 · Subjugation 3 (not seen on global, see `endgame.md`) · Unknown Fissure 14 (server) = the **Daily Dungeon** (user 2026-10-19) ·

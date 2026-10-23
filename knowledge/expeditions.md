@@ -59,7 +59,7 @@ third mode" [46]~~. KR added Hard in Dec 2025 [52][53, KR]. **Vakron Conquest re
   and wing feathers outside the cube, and this stops farming those without spending Odyle.
 - Odyle Energy: +15 per 3h = 120/day (= 3 cubes at 40, or 6 at 20). Cap 560 (840 is membership, paid);
   overflow is lost [47][49][51].
-- **Recharge items** (e.g. Odyle Energy (Bound), +40 each) fill a **separate charged pool**, shown as
+- **Recharge items** (e.g. Odyle Energy (Bound), +40 each) fill a **separate pool, Charged Odyle**, shown as
   "60 (+300) / 840". Cubes spend the normal pool first, the charged pool after, so normal regen keeps running
   while charged Odyle is held (in-game 2026-10-23). Season-bound items expire, see `seasons.md`.
 - Every Conquest drops ≥1 feather for that boss's wing (Substance Morph) [45]. Sealed wings convert to

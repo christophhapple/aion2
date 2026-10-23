@@ -18,7 +18,7 @@ tracker itself goes in `backlog.md`.
   store items 2 more times (Storage Keeper III, 48/50 → title) · buy 5 more items at the Black Cloud
   Merchants (5/10 → title)
 - [ ] Easy achievement: next Fire Temple **Conquest** run, lie down (emote) in the boss room → title "Kromede Will Remember That" (guide, unverified; whether before or after the kill isn't stated). See `knowledge/achievements.md`
-- [ ] Verify: after 2026-10-25 (DST change), do event times stay on the local clock (Rift still at 02, 05, 08 … 23)? And is the daily reset at 08:00 or still 09:00 local? (Season/event countdowns hint 09:00; then `routines.yaml` needs 08:00 UTC)
+- [ ] Verify: after 2026-10-25 (DST change), do event times stay on the local clock (Rift still at 02, 05, 08 … 23)? And is the daily reset at 08:00 or still 09:00 local? (Season/event countdowns hint 09:00; then `routines.yaml` needs 08:00 UTC. But the weekly recharge countdowns on 2026-10-23 pointed to Wed 07:00 UTC = 08:00 CET)
 - [ ] Transfer: on your first real transfer, note how many Transfer Stones it took and what ends up on the kept piece (Soul Binding lines, Manastones, Theostone, Soul Fuse). The window shows no result preview
 - [ ] Legion (if you join one): does the Legion menu show missions or Legion Coin? What does the Legion Merchant sell?
 - [ ] Market rules (now with membership; fee 2%, Bound Kina first, and tax 10% known): How many listing slots, and how long does a listing run? Do sales pay normal Kina?
