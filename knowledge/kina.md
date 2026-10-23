@@ -55,10 +55,16 @@ Researched 2026-10-14. No official global page; guides 2026-09 → 10, several w
 
 ## Buff scrolls (General Goods Merchant)
 
-- 5-min buff scrolls in the merchant's Scroll tab: **Courage** (+10% Combat Speed, 1,000 Kina, 1s cooldown) [420],
-  **Speed** (move speed, 1,000 Kina), **Benediction** (max HP/MP), **Battle Enhance** (+10% Damage Boost and
-  +10% Damage Tolerance; one guide lists it only from pass/shop/attendance), **Absorption** (shield, 1 min)
-  [421]. Different types stack [420]. Unverified except: **scrolls can be set to auto-consume** (in-game 2026-10-23).
+- **Sold by the General Goods Merchant** (in-game 2026-10-23), all Bound, Common, 5 min, 1s cooldown, 1,000 Kina,
+  sell back for 10:
+  - **Courage Scroll:** +10% Combat Speed.
+  - **Speed Scroll:** +10% Move Speed.
+  - **Benediction Scroll:** +10% Max HP and +100 Max MP.
+  - Also teleports (prices not seen): **Return Scroll** (to the nearest activated Kibelisk, 3s cooldown) and
+    **Hall Return Scroll** (to the Legion Hall).
+- **Not seen at the merchant** (in-game 2026-10-23): Battle Enhance (+10% Damage Boost and +10% Damage Tolerance;
+  one guide lists it only from pass/shop/attendance [421]) and Absorption (shield, 1 min [421]).
+- Different types stack [420]. **Scrolls can be set to auto-consume** (in-game 2026-10-23).
 - Cost (own arithmetic): ~12k Kina per hour per 1,000-Kina scroll, ~50k/h for four. Cheap for boss/dungeon
   time, wasteful when kept up while idle or travelling. Superior Courage (+15%) is an Alchemy craft, tradeable [420].
 - Whether Combat Speed also shortens cast times (matters for healers): unknown. A later patch reportedly moves it
