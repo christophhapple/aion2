@@ -62,8 +62,11 @@ Researched 2026-10-14. No official global page; guides 2026-09 → 10, several w
   - **Benediction Scroll:** +10% Max HP and +100 Max MP.
   - Also teleports (prices not seen): **Return Scroll** (to the nearest activated Kibelisk, 3s cooldown) and
     **Hall Return Scroll** (to the Legion Hall).
-- **Not seen at the merchant** (in-game 2026-10-23): Battle Enhance (+10% Damage Boost and +10% Damage Tolerance;
-  one guide lists it only from pass/shop/attendance [421]) and Absorption (shield, 1 min [421]).
+- **Not sold by the merchant** (in-game 2026-10-23): Battle Enhance and Absorption (shield, 1 min [421]).
+- **Battle Enhance Scroll (Bound):** +10% Damage Boost and +10% Damage Tolerance, 5 min, 1s cooldown. Premium
+  shop: a stack of 10 for 4,000 of the paid currency (~20 USD worth, user 2026-10-23), limit 3/day per character
+  (in-game 2026-10-23). Not worth real money; take it when it comes from pass, attendance or events
+  (sources per guide [421], unverified).
 - Different types stack [420]. **Scrolls can be set to auto-consume** (in-game 2026-10-23).
 - Cost (own arithmetic): ~12k Kina per hour per 1,000-Kina scroll, ~50k/h for four. Cheap for boss/dungeon
   time, wasteful when kept up while idle or travelling. Superior Courage (+15%) is an Alchemy craft, tradeable [420].
