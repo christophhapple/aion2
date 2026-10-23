@@ -7,7 +7,7 @@ description: Show which Aion 2 dailies/weeklies are still open per character, wh
 2. Read `routines.yaml` (minus routines `P/account.md` lists as skipped), the character files in `P/characters/` (only those "Played by: the user"; skip
    friends' characters and `*-build.md`), the current (and, right after a month change, previous)
    `P/log/YYYY-MM.md`, and `knowledge/schedule.md`.
-3. For each character and routine, compute done/cap in the current reset period (see "Computing status" in CLAUDE.md).
+3. Leave out routines a character can't do yet (a level or GS requirement in the routine's notes). For each character and remaining routine, compute done/cap in the current reset period (see "Computing status" in CLAUDE.md).
 4. Output compactly:
    - Per character: open routines first (`nightmare 0/2`), then a one-line "done: …".
    - Weekly routines: also show remaining count and days left until the weekly reset. Flag ones at risk of being lost.
