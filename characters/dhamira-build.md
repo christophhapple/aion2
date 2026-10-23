@@ -61,11 +61,12 @@ everything else as Set 1 (Genus Insight: Crit Resist in slot 2 [guide], later, i
 **Stigmas** (100 shards, set in-game 2026-10-20):
 | Stigma | Lv | Shards | Why |
 |---|---|---|---|
-| Light of Protection | 10 | 15 | in every guide's PvP set; PvP +7.5% Boost and Tolerance; toggle at the pull, as now |
+| Light of Protection | **20** (2026-10-23) | 75 | in every guide's PvP set; PvP +10% Boost and Tolerance at Lv 20 (+0.5%/level, inference); Lv 15 +100 Accuracy, Lv 20 +10% Max HP (me + party); toggle at the pull, as now |
 | Prayer of Amplification | 10 | 15 | stays in the macro (zero attention); +10% PvP Damage Boost, +10% more at Lv 5 |
 | Yustiel's Power | 15 | 35 | the PvP core per guides: PvP +10% Tolerance for me + party, Lv 5 shield 10% Max HP, Lv 10 +100 Block/Evasion, Lv 15 +20% Status Effect Resist (vs CC) |
 | Salvation | 15 | 35 | the escape button: 3s immune to damage and CC; Lv 5 +100% Incoming Heal, Lv 10 restores 20% Max HP at the end (in-game 2026-10-20), Lv 15 also gives the Salvation effect to the lowest-HP party member (in-game 2026-10-20). **Why 15 (user, 2026-10-20):** the pool's extra 20 shards went here so Salvation can save someone else too, not only me |
-**Next +40 shards (user, 2026-10-20): Yustiel's Power 20** (+10% PvE and +5% PvP Damage Tolerance, so PvP 10% → 15%
+**2026-10-23:** the +60 went to **Light of Protection 10 → 20** instead (160 total).
+**Next +40: Yustiel's Power 20** (planned 2026-10-20) (+10% PvE and +5% PvP Damage Tolerance, so PvP 10% → 15%
 for me + party). Passed over: Salvation 20 (auto-triggers on Impact-type status: zero effort, but may fire at the wrong
 time and burn its 2:30 CD), Light of Protection 20 (+10% Max HP, 60 shards), Prayer of Amplification 15 (damage).
 Out: Earth Punishment (guides split; good only vs tanky classes) and Noble Aura. Group variant: see "Where it's used":
@@ -202,7 +203,7 @@ Which Stigmas go in which preset: see "Presets" above. Stigma 1 = DPS (the old "
 Heal (the old "Group" from 2026-10-16, with Absolution in place of Prayer of Amplification).
 Levels: DPS / Heal (per preset, see the splits below).
 - Light of Protection (Lv 10 / 15, 2026-10-20): always-on party damage + defense
-- Earth Punishment (Lv 15 / 15, 2026-10-19): **the damage engine**: Condemnation always crits on its target, and every crit resets Condemnation. 30s CD, 10s DoT; Lv 20 adds +10s
+- Earth Punishment (Lv **20 / 20**, 2026-10-23): **the damage engine**: Condemnation always crits on its target, and every crit resets Condemnation. 30s CD, 10s DoT; Lv 20 adds +10s
 - Prayer of Amplification (Lv 15, DPS, 2026-10-20): self only (not party): +20% Attack, +20% PvE Damage Boost for 13s, 1 min CD
 - **Noble Aura (DPS, 2026-10-17, Lv 9, replaces Voice of Doom):**
   Aura follows me 5 min and hits my target every 2s; mobile; 1 min CD.
@@ -212,23 +213,25 @@ Levels: DPS / Heal (per preset, see the splits below).
 
 **Shard rule (2026-10-17): spend to breakpoints** (5/10/15/20). Levels in between only raise base
 values a little: Light of Protection Lv 10 → 12 was +1% (15% → 16%) for 8 shards (in-game 2026-10-17).
-Shards reset free per Stigma, levels are per preset, and each preset gets the whole pool (**100 shards**
-(2026-10-20, +20; 80 on 2026-10-19, 60 on 2026-10-18), both presets 0 unspent (assumed: 100 = exactly the splits below)).
+Shards reset free per Stigma, levels are per preset, and each preset gets the whole pool (**160 shards**
+(2026-10-23, +60, inferred: preset 3 = 75 + 15 + 35 + 35); 100 on 2026-10-20, 80 on 2026-10-19, 60 on 2026-10-18).
+**Presets 1 and 2 spend 140, so 20 are presumably unspent there** (not confirmed in-game).
 
-**DPS split (2026-10-20):** Light of Protection **10** · Earth Punishment **15** (+10% Double Chance, party +5%;
-+10% Attack and Defense, party +5%) · Prayer of Amplification **15** (×1.5 Empyrean Lord's Grace while active;
-Lv 15: ×1.5 Earth's Grace = Crit Damage Boost 16% → 24% while Prayer is up) ·
-Noble Aura **10** (2026-10-18; was Voice of Doom 5) = 15 + 35 + 35 + 15 = 100.
-Next: **+40 → Earth Punishment 20** (+10s: Earth Punishment and Earth's Blessing last 20s on a
-30s CD, so the always-crit Condemnation window goes from 1/3 to 2/3 of the time). Light of Protection 15 (+100
-Accuracy) and Noble Aura 15 (+30% vs Incapacitated) are weak for PvE.
+**DPS split (2026-10-23):** Light of Protection **10** · Earth Punishment **20** (+10% Double Chance, party +5%;
++10% Attack and Defense, party +5%; Lv 20: +10s, so Earth Punishment and Earth's Blessing last 20s on a 30s CD
+and the always-crit Condemnation window is 2/3 of the time) · Prayer of Amplification **15** (×1.5 Empyrean Lord's
+Grace while active; Lv 15: ×1.5 Earth's Grace = Crit Damage Boost 16% → 24% while Prayer is up) ·
+Noble Aura **10** (2026-10-18; was Voice of Doom 5) = 15 + 75 + 35 + 15 = 140.
+Next: **+20 (presumably spare now) → Light of Protection 15** (+100 Accuracy, also for the party; Noble Aura 15,
++30% vs Incapacitated, is weaker). Then **+40 → Prayer of Amplification 20** (+15% additional Attack, already
+in the macro, zero effort).
 
 **Heal split (2026-10-20):** Light of Protection **15** (+100 Accuracy, also for the party; parked there, no
 good Lv 15 elsewhere) · Absolution **10** (−30s CD, removes all debuffs) ·
-Summon Resurrection **10** (3s invincibility after the res) · Earth Punishment **15** = 35 + 15 + 15 + 35 = 100.
-Next: at +40 more, Earth Punishment 20 in this preset too (Earth's Blessing 20s for the
-party), Light of Protection stays at 15 (35 + 15 + 15 + 75 = 140). Reset is free, so parking costs nothing. Other Lv 15 options are weak: Light of Protection +100 Accuracy (its +10% Max HP is Lv 20,
-40 more shards), Absolution +5% HP restored, Summon Resurrection 20% HP on res.
+Summon Resurrection **10** (3s invincibility after the res) · Earth Punishment **20** (2026-10-23; Earth's Blessing
+20s for the party) = 35 + 15 + 15 + 75 = 140.
+Next: **+20 (presumably spare now) → Absolution 15** (+5% HP restored; alternative Summon Resurrection 15, 20% HP
+on res, only matters when people die). Then **+40 → Light of Protection 20** (+10% Max HP for me + party, always on).
 
 History: until 2026-10-17 one shared set (Light of Protection 12, Earth Punishment 9, Prayer 7,
 Power Burst 5); briefly a Heal split "A" with Light of Protection 12 before the breakpoint rule.
