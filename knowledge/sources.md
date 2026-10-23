@@ -511,3 +511,5 @@ Added 2026-10-22 (skins, Closet, Skin Combine).
 417. allthings.how, Closet dye guide, 2026-10-08, G (Closet UI only): https://allthings.how/?p=244763
 418. mmoexp.com, unlock rare skins with Closet and Combine, 2026-09-28, pre-launch, Kinah seller: https://www.mmoexp.com/News/how-to-unlock-rare-skins-in-aion-2-for-free-using-the-closet-and-combine-system.html
 419. xboxplay.games, how to get more skins, 2026-10-04, G: https://xboxplay.games/aion-2/how-to-get-more-skins-aion-2-76416
+420. allthings.how, Courage Scroll guide, upd. 2026-10-12, G: https://allthings.how/?p=246689
+421. patchcrazy, how to get and use scroll buffs, 2026-10-08, region not stated: https://patchcrazy.co.uk/how-to-get-and-use-scroll-buffs-aion-2/

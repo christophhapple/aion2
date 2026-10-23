@@ -52,3 +52,14 @@ Researched 2026-10-14. No official global page; guides 2026-09 → 10, several w
 - Upgrade the belt and amulet first; stop at +10 early (failed tries above +10 lose the Kina) [260][269].
 - Enhance only gear you'll keep; keep a reserve for fees [257]. Don't let Odyle sit at the cap [257][258].
 - Don't buy Kina from third-party sellers: ban risk [257][259][263].
+
+## Buff scrolls (General Goods Merchant)
+
+- 5-min buff scrolls in the merchant's Scroll tab: **Courage** (+10% Combat Speed, 1,000 Kina, 1s cooldown) [420],
+  **Speed** (move speed, 1,000 Kina), **Benediction** (max HP/MP), **Battle Enhance** (+10% Damage Boost and
+  +10% Damage Tolerance; one guide lists it only from pass/shop/attendance), **Absorption** (shield, 1 min)
+  [421]. Different types stack [420]. Unverified except: **scrolls can be set to auto-consume** (in-game 2026-10-23).
+- Cost (own arithmetic): ~12k Kina per hour per 1,000-Kina scroll, ~50k/h for four. Cheap for boss/dungeon
+  time, wasteful when kept up while idle or travelling. Superior Courage (+15%) is an Alchemy craft, tradeable [420].
+- Whether Combat Speed also shortens cast times (matters for healers): unknown. A later patch reportedly moves it
+  to charge speed (probably KR, unverified).
