@@ -62,7 +62,9 @@ Researched 2026-10-14. No official global page; guides 2026-09 → 10, several w
   - **Benediction Scroll:** +10% Max HP and +100 Max MP.
   - Also teleports (prices not seen): **Return Scroll** (to the nearest activated Kibelisk, 3s cooldown) and
     **Hall Return Scroll** (to the Legion Hall).
-- **Not sold by the merchant** (in-game 2026-10-23): Battle Enhance and Absorption (shield, 1 min [421]).
+- **Not sold by the merchant** (in-game 2026-10-23): Battle Enhance and Absorption.
+- **Absorption Scroll** (shield, 1 min [421]): not found in any shop, merchant or premium (in-game 2026-10-23).
+  Possibly KR-only or drop-only (unverified).
 - **Battle Enhance Scroll (Bound):** +10% Damage Boost and +10% Damage Tolerance, 5 min, 1s cooldown. Premium
   shop: a stack of 10 for 4,000 of the paid currency (~20 USD worth, user 2026-10-23), limit 3/day per character
   (in-game 2026-10-23). Not worth real money; take it when it comes from pass, attendance or events
