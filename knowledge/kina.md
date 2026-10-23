@@ -25,7 +25,7 @@ Researched 2026-10-14. No official global page; guides 2026-09 → 10, several w
 | Source | Amount | Notes |
 |---|---|---|
 | Duty Missions | ~50,000 each (50–150k [259]), 5/day | Bound [259] |
-| Daily Dungeon | ~~up to 300,000 per clear, by coins collected~~ [257] | **Probably no Kina:** the entry window's "Max Rewards" lists only Enhance Stones (in-game 2026-10-23). Not yet checked by Kina before/after a run |
+| Daily Dungeon | ~~up to 300,000 per clear, by coins collected~~ [257] | **No Kina** (in-game 2026-10-23: reward window lists only Enhance Stones, and a run gave none) |
 | Expedition cubes | Krao 70k; Urugugu, Vakron 100k; Fire Temple more [257] | Draupnir 72k [259] |
 | Conquest runs | Krao ~200k, Horn Den ~400k [259] | |
 | Transcendence (GS 1600) | 100k per clear [261] | |

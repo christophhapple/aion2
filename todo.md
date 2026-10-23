@@ -6,8 +6,6 @@ tracker itself goes in `backlog.md`.
 ## Open
 - [ ] **By 2026-12-16 08:00:** use up the 50 Odyle Energy (Bound) items (2,000 Odyle), they expire with Season 1.
   About one extra cube (40) per day on top of the normal regen
-- [ ] *(quick)* Daily Dungeon Kina: the reward window lists only Enhance Stones, so probably none. To be sure, note
-  Kina before and after one run (guide claimed up to 300k, `knowledge/kina.md`)
 - [ ] Unseal the **Sealed Ancient Aullea Wings** via Substance Morph: needs 10 Radiant Odyle, have 9/10
   (2026-10-22). Afterwards tell me the new Flight Power / wing count
 - [ ] Screenshot the **Season Missions** window, all tabs (= metabot's Season 1 achievements: Nightmare
@@ -44,6 +42,7 @@ tracker itself goes in `backlog.md`.
 - [ ] *(low priority)* Silver Medal of Merit, in the Trade Shop: what costs Silver Medals (only Centurion skins at 40/80, or gear too)? Do the pieces have stats? Is a rank (Ninth-Class Soldier) required to buy? How many medals do you have? See `knowledge/abyss.md` "Silver Medal of Merit"
 
 ## Done
+- [x] Daily Dungeon gives no Kina, only Enhance Stones (2026-10-23)
 - [x] 14 Daevanion points spent (part of GS 1842 → 1900) (2026-10-22)
 - [x] Arcana Extract is a gauge that keeps progress, not a chance (2026-10-22)
 - [x] Merit Chests checked: own weekly limit per grade; Argo, Kaira, Dimensional cheap chests give more per proof; Nahma's Rare chest has no gear (2026-10-22)
