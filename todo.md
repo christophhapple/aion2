@@ -6,6 +6,8 @@ tracker itself goes in `backlog.md`.
 ## Open
 - [ ] **By 2026-12-16 08:00:** use up the 50 Odyle Energy (Bound) items (2,000 Odyle), they expire with Season 1.
   About one extra cube (40) per day on top of the normal regen
+- [ ] Verify: does a **Daily Dungeon** clear give Kina, and how much? Note Kina before and after one run
+  (guide claims up to 300k by coins collected, `knowledge/kina.md`)
 - [ ] Unseal the **Sealed Ancient Aullea Wings** via Substance Morph: needs 10 Radiant Odyle, have 9/10
   (2026-10-22). Afterwards tell me the new Flight Power / wing count
 - [ ] Screenshot the **Season Missions** window, all tabs (= metabot's Season 1 achievements: Nightmare
