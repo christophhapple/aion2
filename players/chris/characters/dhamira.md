@@ -11,7 +11,7 @@
 | Combat Power | 99.68K |
 | Skill points | 383 total (in-game 2026-10-15) |
 | Server | Nania (EU) |
-| Updated | 2026-10-22 |
+| Updated | 2026-10-23 |
 
 Build: [dhamira-build.md](dhamira-build.md) · Achievements: [dhamira-achievements.md](dhamira-achievements.md)
 
@@ -38,11 +38,11 @@ Lower Reshanta done: all feathers collected, all Azphel Daevanion Crystals from 
 |---|---|---|---|---|
 | Mace | Unique +10 | | Guard | Unique +10 |
 | Helmet | Epic +10 | | Pauldrons | Unique +10 |
-| Top | Unique +10 | | Belt | Unique +6 |
+| Top | Unique +10 | | Belt | Unique +10 (2026-10-23) |
 | Legs | Unique +10 | | Gloves | Unique +10 |
 | Cloak | Epic +10 | | Shoes | Epic +10 |
 | Earring | Unique +10 | | Earring | Epic +10 |
-| Necklace | Epic +10 | | Revelation amulet | Unique +6 |
+| Necklace | Epic +10 | | Revelation amulet | Unique +10 (2026-10-23) |
 | Ring | Unique +10 | | Ring | Epic +10 |
 | Bracelet | Unique +10 | | Bracelet | Epic +10 |
 | Clash Rune | +2 | | Clash Rune | +2 |
