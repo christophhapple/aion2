@@ -517,3 +517,5 @@ Added 2026-10-22 (skins, Closet, Skin Combine).
 423. u4n.com, how to increase attack speed (cap tests), undated, Kina seller: https://www.u4n.com/news/how-to-increase-attack-speed-in-aion-2.html
 424. vortexgaming.io, Combat Speed patch note (Dec 17 patch, likely KR), undated: https://vortexgaming.io/en/postdetail/620705
 425. gamerblurb, Character Creation Restricted fix, 2026, G: https://gamerblurb.com/guides/aion-2-character-creation-restricted-fix-2026
+426. games.gg, Aion 2 Soul Binding guide, 2026-10-08, G: https://games.gg/aion-2/guides/aion-2-soul-binding-guide/
+427. Inven (KR), Fighter gear Soul Binding option priority per slot (Roah), 2026-07-08, KR: https://m.inven.co.kr/board/aion2/6544/607

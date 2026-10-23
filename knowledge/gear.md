@@ -283,6 +283,20 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
 - **Lines per grade: one per rarity step, Unique = 4 lines** (in-game 2026-10-19), so presumably Common 1, Rare 2,
   Epic 3 (user). Plus one class skill line counted among them (e.g. "Lightning Strike Scattershot Lv. +1").
   ~~Unique 3–5, Heroic 4–6~~ [242] and ~~all gear 4~~ [246] were both off for Unique; Heroic not seen yet.
+- **Which lines on which slot (researched 2026-10-23, guides, unverified):**
+  - **Class skill line:** weapon, guard and rings roll **active** skills (weapon: only that weapon's class);
+    armor, earrings and necklace roll **passive** skills; ~1 in 5 lines is a skill line [426]. KR guide [427] fits:
+    rings list active skills, armor and necklace/earrings passives. In-game fit: the Mace rolled Lightning Strike
+    Scattershot +1, an active skill (2026-10-19).
+  - **One signature stat per armor piece** (KR 2026-07, Fighter-class guide [427]): helmet Increased Healing Received,
+    shoulders Crit Damage Boost, chest Damage Boost, legs Damage Tolerance, gloves Combat Speed, shoes Movement Speed.
+    Weapon/guard top lines: Damage Boost, Weapon Damage Boost, Combat Speed, Power, then Accuracy, Multi-Hit Accuracy.
+    Necklace/earrings: Attack, Crit, Accuracy besides skill lines.
+  - **No clean offense/defense split by slot type**: every pool mixes both (e.g. Attack on armor, Block/HP on
+    weapons) [426][427]. The clean split exists only for Potential (below).
+  - **Contradiction:** [426]'s stat tables (weapon: Accuracy, Attack, Crit, HP, MP, Block, Damage Boost) don't
+    contain the Mace's own lines Status Effect Chance, Back Attack, Precision (in-game 2026-10-19), so they're incomplete.
+    The full pool per piece: not found; check in the Soul Binding tab.
 - **Transfer:** base lines carry over [242][243][244] (matches the KR wiki in "Enhancement" above);
   the Soul Fuse line does not.
 - **Soul Codex sources (in-game 2026-10-19):** Transcendence, expeditions (Exploration and Conquest), Sanctuary,
