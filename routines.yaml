@@ -139,7 +139,7 @@ routines:
   # nightmare, ascension, abyss-commands, battlefield, arena-solo, abyss-time. List: knowledge/achievements.md.
   - id: transcendence
     name: Transcendence clears
-    notes: Deus Research Base / Shattered Arkanis, party 2–5. Per dungeon 2/day, max 4; shares the 10 unobtained cubes/week with Conquest (in-game, knowledge/transcendence.md). Cap 10 = top tier of weekly achievement Way of the Transcended (3/6/10 clears, 5,700 Oath Coins total). Same week also - one clear without dying, one under 15 min, 10 mini-bosses, extract 10 Arcana (guides).
+    notes: Deus Research Base / Shattered Arkanis, party 2–5. No daily entry limit (in-game 2026-10-23); shares the 10 unobtained cubes/week with Conquest (in-game, knowledge/transcendence.md). Cap 10 = top tier of weekly achievement Way of the Transcended (3/6/10 clears, 5,700 Oath Coins total). Same week also - one clear without dying, one under 15 min, 10 mini-bosses, extract 10 Arcana (guides).
     reset: weekly
     cap: 10
 
