@@ -40,7 +40,7 @@ Lower Reshanta done: all feathers collected, all Azphel Daevanion Crystals from 
 | Helmet | Unique +10 (Vakron Helm, GS 70(+15), transferred 2026-10-24, Manastones slotted) | | Pauldrons | Unique +10 |
 | Top | Unique +10 (Vakron Breastplate, GS 70(+17), 2026-10-24) | | Belt | Unique +10 (2026-10-23) |
 | Legs | Unique +10 | | Gloves | Unique +10 (Vakron, lines from a Transfer 2026-10-24) |
-| Cloak | Unique (Vakron Cloak, GS 70, 2026-10-24; enhance level not given) | | Shoes | Unique +10 (Vakron Boots, GS 70(+15), 2026-10-24) |
+| Cloak | Unique +10 (Vakron Cloak, GS 70, 2026-10-24) | | Shoes | Unique +10 (Vakron Boots, GS 70(+15), 2026-10-24) |
 | Earring | Unique +10 | | Earring | Epic +10 |
 | Necklace | Unique +10 (Aulamus Necklace, seen 2026-10-24) | | Revelation amulet | Unique +10 (2026-10-23) |
 | Ring | Unique +10 (Berk Ring, GS 54(+15)) | | Ring | Unique +10 (Gartua Ring, GS 70(+16), 2026-10-24) |
