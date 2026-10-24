@@ -36,7 +36,7 @@ Lower Reshanta done: all feathers collected, all Azphel Daevanion Crystals from 
 ## Gear (in-game 2026-10-19, screenshot)
 | Slot | Grade +level | | Slot | Grade +level |
 |---|---|---|---|---|
-| Mace | Unique **+0** (Transfer 2026-10-24, re-enhance) | | Guard | Unique +10 |
+| Mace | Unique +10 (Aulamus, GS 70(+23), lines from a Transfer 2026-10-24) | | Guard | Unique +10 |
 | Helmet | Unique +10 (Vakron Helm, GS 70(+15), transferred 2026-10-24, Manastones slotted) | | Pauldrons | Unique +10 |
 | Top | Unique +10 (Vakron Breastplate, GS 70(+17), 2026-10-24) | | Belt | Unique +10 (2026-10-23) |
 | Legs | Unique +10 | | Gloves | Unique +10 (Vakron, lines from a Transfer 2026-10-24) |
@@ -52,7 +52,7 @@ Lower Reshanta done: all feathers collected, all Azphel Daevanion Crystals from 
 - Manastones: reworked 2026-10-19. Good one only on the Ascension Bracelet; other good stones saved for later gear.
 - Wings (in-game 2026-10-13): own 6 — Lesser, Intermediate, Superior, Ultimate Daeva, Aullaeu, Glorious (crafted 2026-10-11). Sealing Wings crafted 2026-10-15 (7th pair). Ancient Aullea Wings unsealed 2026-10-23 (8th pair). Equipped: **Ancient Aullea** (since 2026-10-23; before: Ultimate Daeva). **Flight Power 6,300** (2026-10-23, +200 from Ancient Aullea; was 6,100 after Sealing Wings, 5,900 before).
 - Clash Runes: both at +2 (2026-10-13); 2 spares destroyed trying for +3, none left.
-- Mace (Aulamus, GS 70): **+0 since a Transfer 2026-10-24** (Holy Spirit Mace's lines onto it), needs +10 again. Soul Binding 27.7%: Status Effect Chance 19.2%, Critical Attack 72, Back Attack 72, Healing Light +1. Manastones and Theostone Zikel's Vestige kept. ~~Before: 57.9%, Status Effect Chance, Back Attack, Precision 29, Scattershot +1~~.
+- Mace (Aulamus, GS 70): lines from a Transfer 2026-10-24 (Holy Spirit Mace), re-enhanced to +10 the same day. Soul Binding 27.7%: Status Effect Chance 19.2%, Critical Attack 72, Back Attack 72, Healing Light +1. Manastones and Theostone Zikel's Vestige kept. ~~Before: 57.9%, Status Effect Chance, Back Attack, Precision 29, Scattershot +1~~.
 - Soul Codex: 188 (2026-10-19), saved for better gear.
 - Pantheon (2026-10-19): optimized with the few pieces owned, incl. Transcendent Bakarma (statue); only one preset used.
 - Pets: 77/200 owned, collection rewards all claimed (2026-10-13).
