@@ -382,7 +382,7 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
     | Skill Lv. +1: Warm Benediction, Empyrean Lord's Grace, Immortal Veil, Prayer of Concentration, Survival Willpower, Empyrean Lords' Benediction, Healing Enhancement, Heal Block, Radiant Benediction, Earth's Grace | 2% each | Lv. +1 |
 
     **Two skill lines on one piece happen:** this helm has Critical Hit Resist 33, Defense 184, Earth's Grace +1,
-    Immortal Veil +1 (plus a Soul Fuse line). The % stats all sit at 0.96–2.4%, the rare tier.
+    Immortal Veil +1 (plus the empty Soul Fuse slot). The % stats all sit at 0.96–2.4%, the rare tier.
   - **Shoulders (in-game 2026-10-24, Unique +10 Gartua Pauldrons, GS 70(+20)):** same layout as the helmet: same
     10 passives at 2%, the same 17 common stats at the same chances, Status Effect Resist 2.4%, and its own top lines.
     Signature **Critical Damage Boost 2.4%, 9.6–11.1%** (fits [427]). Rare 0.96% lines: Regeneration 1.4–1.7%,
@@ -485,7 +485,12 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
   Shop (20,000, limit 5); Twitch drop ×2, 5–16 Oct (G) [250].
 - **Philosopher's Stone → Soul Fuse:** 2 stones add one extra random line to a **Unique or Heroic
   item at 100%**; always succeeds [242][244][247]. Kina: 1,000,000 [242] vs not mentioned [247, KR].
-  Two kinds: **Revelation** (~4/5 of items) and **Power**; the item says which it needs [242]. Not
+  Two kinds: **Revelation** (~4/5 of items) and **Power**; the item says which it needs [242].
+  **In-game 2026-10-24:** the tooltip shows "ⓘ Soul Fuse Philosopher's Stone: Reve…" on pieces far below 100%
+  (17.8%, 23.1%…), so it's the empty Fuse slot naming the stone it needs, not a filled line (inference). Shown on
+  every Unique piece seen at GS 54 or 70 (Required Level 45); missing on Unique GS 41 pieces (Required Level 35), the
+  Epic shoes and the GS 51 Ascension Bracelet ("usable at all levels", even at 100%). So Fuse looks tied to the item
+  tier, not to grade alone (user's idea: GS). Not
   related to the Revelation amulet. Drops from Conquest (KR: 3–6%) [242][254]. Season Shop: 2 for
   30,000 Oath Coins each = exactly one Fuse.
 - **So (inference):** bind only Unique pieces you'll keep or transfer; fix bad lines (Sync/Reset)
