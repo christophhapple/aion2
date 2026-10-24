@@ -38,6 +38,9 @@ tracker itself goes in `backlog.md`.
 - [ ] Pantheon: can Eternal Gartua (Verteron, Eternal Isle) and Immortal Gartua (Altgard, Immortal Isle) both be placed, or do they share a slot? Decides whether Altgard field bosses are worth it. See `knowledge/endgame.md` "Artworks"
 - [ ] Abyss rank: what's your own rank and its points (season window → Abyss)? Do they rise after an arena win, or only after Abyss PvP? Do you lose points when you die in Abyss PvP? Does the rank tooltip show a PvP damage bonus? See `knowledge/abyss.md` "Abyss ranks"
 - [ ] *(low priority)* Silver Medal of Merit, in the Trade Shop: what costs Silver Medals (only Centurion skins at 40/80, or gear too)? Do the pieces have stats? Is a rank (Ninth-Class Soldier) required to buy? How many medals do you have? See `knowledge/abyss.md` "Silver Medal of Merit"
+- [ ] Soul Binding Sync: in the Sync view, is the selected line the one that's **kept** or the one that
+  **rerolls**? Check the button/tooltip text, or the result of one Sync on spare gear. Decides whether two good
+  lines can be kept. See `knowledge/gear.md` "Sync"
 - [ ] Soul Binding pools per slot (Mace done 2026-10-24, the Reset view lists the pool with chances): screenshot it for the guard, one armor piece
   per slot (helmet, shoulders, chest, legs, gloves, shoes, cloak) and one each of ring, earring, necklace. Checks: skill line active on
   weapon/guard/rings vs passive on armor/earrings/necklace, one signature stat per armor piece, and on
