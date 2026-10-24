@@ -73,6 +73,10 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
     their fill**: Critical Hit Resist 33/44 (15%) → 36/48 (8%), Defense 184/215 (11%) → 200/237 (3%); the preview
     showed 36 and 200. Skill lines carry as they are (+1, 100%). Rate 56.7% → 52.5%, again the average of the fills.
     So the values land near the bottom of the new range, still higher than before here because the ranges are higher.
+    **Rule (in-game 2026-10-24, 3 Transfers):** a line **keeps its raw value, raised to the new range's minimum if
+    it's below it**; fill % is then recomputed on the new range. Gloves preview: Dexterity 14 (new range 11–20) stayed
+    14, MP 46 (new 53–68) became 53. Helmet: 33 → 36, 184 → 200; mace: 15.72% → 19.2%, 61 → 72 (all below the new
+    minimum). So a high-filled line from a low-GS piece can keep part of its value; a low one just lands at the minimum.
   - **Manastones don't carry:** the new helm's 4 slots are empty, the source's stones are gone with it. The target's
     **Soul Fuse slot stays**. The bracket after GS dropped (+15 → +10) and went back to +15 once 4 Manastones were
     slotted: **the bracket counts Manastones on top of enhancement** (in-game 2026-10-24).
