@@ -462,6 +462,9 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
     | Earring, necklace | 10 passives | one % line 1.6% (earring Move Speed, necklace Combat Speed, both small) |
     **Belt and amulet have no Soul Binding** (in-game 2026-10-24). **Bracelets do** (both of the user's are at 100%),
     but their pool isn't known: pieces at 100% don't show in the Soul Binding menu, so it needs a spare bracelet.
+    Seen on a Unique +10 Ascension Bracelet at 100% (GS 51(+21)): Critical Hit 9, Evasion 12, MP 26, Natural MP Regen 9,
+    no skill line, no Soul Fuse line. At 100% these are the range tops, and they're far below other slots (a GS 54
+    ring: Critical Hit up to 33, MP up to 86), so bracelet lines are small.
   - **Sync pool (in-game 2026-10-24, same Mace, Status Effect Chance selected):** the pool drops **all four lines the
     piece already has** (Status Effect Chance, Back Attack, Precision, Lightning Strike Scattershot), not just the
     selected one: no duplicate lines. The rest is rescaled **within each group**: stats still add up to 80%, skills to 20%.
