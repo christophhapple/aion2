@@ -315,7 +315,8 @@ so a passive +1 is a small step, about the size of one flat stat line: Warm Bene
 ~130 HP at ~13k, less than an HP Soul Binding line (169–201 on GS 70 legs). It never beats a rare % line like a slot's
 signature stat (e.g. keep Damage Tolerance 8.9% on the legs over two passive +1s, 2026-10-24). Empyrean Lord's
 Grace +1 = +5 Critical Hit, +0.2% Double Chance, ~2% more extra damage (in-game): also small (a Critical Hit line on
-gloves is 17–27). Other passives' per-level values: not checked yet.
+gloves is 17–27). Radiant Benediction +1 = ~3% more party heal, ~30 HP per proc every 5s (in-game). Other
+passives' per-level values: not checked yet.
 Skill lines: actives Healing Light, Light of Regeneration, Radiant Recovery, Condemnation; passives Healing
 Enhancement, Earth's Grace, Warm Benediction, Prayer of Concentration (only Lv 9, so +1 counts most).
 Stats: damage first (Damage Boost, Critical Damage Boost, Combat Speed, Weapon Damage Boost; Attack, since
