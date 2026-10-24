@@ -460,7 +460,8 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
     | Armor (7) | 10 passives | one signature line 2.4% (helmet Incoming Heal, shoulders Critical Damage Boost, chest Damage Boost, legs Damage Tolerance, gloves Combat Speed, shoes Move Speed, cloak Critical Damage Tolerance) + 5 rare % lines 0.96% |
     | Ring | 12 actives | none: flat stats only, the skill line is the prize |
     | Earring, necklace | 10 passives | one % line 1.6% (earring Move Speed, necklace Combat Speed, both small) |
-    Bracelet, belt, amulet: whether they have Soul Binding at all, not checked.
+    **Belt and amulet have no Soul Binding** (in-game 2026-10-24). **Bracelets do** (both of the user's are at 100%),
+    but their pool isn't known: pieces at 100% don't show in the Soul Binding menu, so it needs a spare bracelet.
   - **Sync pool (in-game 2026-10-24, same Mace, Status Effect Chance selected):** the pool drops **all four lines the
     piece already has** (Status Effect Chance, Back Attack, Precision, Lightning Strike Scattershot), not just the
     selected one: no duplicate lines. The rest is rescaled **within each group**: stats still add up to 80%, skills to 20%.
