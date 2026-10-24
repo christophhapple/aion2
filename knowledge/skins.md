@@ -8,7 +8,7 @@ found. Sources [n]: `sources.md`. Skin sources (shops, events, achievements): `e
 - **Closet** window: Alt+O or the main menu [417]. Skins only count once you **right-click to register** them
   [414].
 - **Collection counter** (in-game 2026-10-24): top left of the Closet, a book icon with % and owned/total for
-  the open tab (Armor showed 17%, 132/766). Tabs Armor / Weapons / Decoration, slot filters on the right edge
+  the open tab (Armor showed 17%, 132/766). Tabs Armor / Weapons / Decoration (= the Accessories group in the Collection Effect window; same count, in-game 2026-10-24), slot filters on the right edge
   (SET, ALL, per slot). Duplicates show a number badge on the icon and **seem not to count** towards owned
   (player's impression, not tested; matches "duplicates give nothing" below).
 - **Collection Effect window** (in-game 2026-10-24): opened from the counter. Three groups with % and owned/total:
@@ -22,7 +22,7 @@ found. Sources [n]: `sources.md`. Skin sources (shops, events, achievements): `e
   gives Common 1 / Rare 2 / Epic 3 / Unique 4 points (Heroic 5 [416]); **duplicates give nothing** [413][416].
 - Weapon tracks only boost the matching weapon type; other classes' weapon skins give no points [410][416].
   They **do count for Fashionista**: it showed 223 while the Collection Effect window added up to 217 with other
-  classes' weapon skins, 175 without (in-game 2026-10-24; the remaining 6 maybe Decoration, unchecked) [414].
+  classes' weapon skins, 175 without (in-game 2026-10-24; the remaining 6 are unexplained, not Decoration: that tab is the Accessories group, same 25) [414].
 - **Fashionista tiers** (in-game 2026-10-24): 10 / 50 / 100 / 200 / 300 / 500 skins (Lv 1–6; higher tiers
   not seen). Rewards include Kina, 4k at Lv 1 rising to 13k at Lv 6.
 - Launch shop (Atelier/premium) skins give no points [416][413].
