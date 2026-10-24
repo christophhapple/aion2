@@ -87,7 +87,7 @@ actives). Names cut off in the header marked "…".
 | **Earth's Grace** | **Critical Damage Boost +16%**, Accuracy +100. Prayer of Amplification Lv 15: ×1.5 for its duration |
 | **Healing Enhancement** | Heal Boost +26.4% of Attack (why Attack is the healer's main stat) |
 | **Radiant Benediction** | Heals caster + party within 40m for 711–854 when an attack lands (5s CD) |
-| **Warm Benediction** | Max HP +13%, Max MP +21 |
+| **Warm Benediction** | Max HP +13%, Max MP +21 (lower level). **Per level: +1% Max HP, +2 Max MP, linear** (in-game 2026-10-24: (+4) 19% / 33, (+5) 20% / 35) |
 | **Immortal Veil** | Defense +14%, Critical Hit Resist +160 |
 | **Prayer of Concentration** | At HP ≤ 50%: Protective Shield 1451 + Heal Boost +20% for 30s (1 min CD) |
 | **Empyrean Lord's Benediction** | Block +200; heals 233–280 on Block (3s CD) |
