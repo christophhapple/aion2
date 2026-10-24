@@ -296,7 +296,33 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
     weapons) [426][427]. The clean split exists only for Potential (below).
   - **Contradiction:** [426]'s stat tables (weapon: Accuracy, Attack, Crit, HP, MP, Block, Damage Boost) don't
     contain the Mace's own lines Status Effect Chance, Back Attack, Precision (in-game 2026-10-19), so they're incomplete.
-    The full pool per piece: not found; check in the Soul Binding tab.
+  - **Full pool, Unique Mace (Cleric) (in-game 2026-10-24, Reset view):** chance per line, value range.
+    The chances add up to 100%: stats 80%, skills 20% (fits [426]'s "~1 in 5").
+    | Line | Chance | Range |
+    |---|---|---|
+    | Combat Speed | 3.2% | 9.7–11.2% |
+    | Damage Boost | 1.6% | 5.4–6.3% |
+    | Multi-hit Chance | 4.8% | 7.2–8.4% |
+    | Weapon Damage Boost | 3.2% | 7.2–8.4% |
+    | Status Effect Chance | 3.2% | 19.2–22.2% |
+    | Might | 4.8% | 19–29 |
+    | Precision | 5.6% | 19–29 |
+    | Attack | 5.6% | 33–45 |
+    | Critical Hit | 5.6% | 51–66 |
+    | Critical Attack | 6.4% | 72–90 |
+    | Back Attack | 5.6% | 72–90 |
+    | Front Attack | 5.6% | 72–90 |
+    | Accuracy | 6.4% | 68–85 |
+    | Block | 5.6% | 41–54 |
+    | MP | 6.4% | 153–183 |
+    | HP | 6.4% | 308–361 |
+    | Skill Lv. +1, 12 Cleric actives, ~1.67% each | 20% | Lv. +1 |
+
+    Skills: Earth's Retribution, Debilitating Mark, Chain of Torment, Condemnation, Radiant Recovery, Bolt,
+    Judgment Thunder, Divine Aura, Light of Regeneration, Healing Light, Lightning Strike Scattershot, Defiance.
+    The best lines (Damage Boost, Combat Speed, Weapon Damage Boost) are also the rarest. The range is probably
+    the line's max at 100% rate (inference: the 19.35%/22.15% example above fits Status Effect Chance's 19.2–22.2%).
+    Other slots: not read yet (todo).
 - **Transfer:** base lines carry over [242][243][244] (matches the KR wiki in "Enhancement" above);
   the Soul Fuse line does not.
 - **Soul Codex sources (in-game 2026-10-19):** Transcendence, expeditions (Exploration and Conquest), Sanctuary,
