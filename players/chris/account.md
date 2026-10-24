@@ -4,7 +4,7 @@
 |---|---|
 | Region / server | Europe / Nania |
 | Monetization | **Special Quai Membership** (subscription, bought 2026-10-22, 30 days, applies to all characters on Nania). No paid Daeva Pass |
-| Routines skipped | arena-solo-win, arena-team-win (user 2026-10-24: arena wins aren't logged) |
+| Routines skipped | arena-solo-win, arena-team-win, battlefield-win (user 2026-10-24: wins aren't logged) |
 | Tools | RATmeter DPS meter (installed 2026-10-17, local only, see `knowledge/dps-meters.md`) |
 | Updated | 2026-10-24 |
 
