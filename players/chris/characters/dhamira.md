@@ -7,7 +7,7 @@
 | Faction | Elyos (home region: Verteron) |
 | Level | 45 (max) |
 | Campaign | Main story done |
-| Gear score | 2022 |
+| Gear score | 2100 |
 | Combat Power | 111.1K |
 | Skill points | 383 total (in-game 2026-10-15) |
 | Server | Nania (EU) |
@@ -40,7 +40,7 @@ Lower Reshanta done: all feathers collected, all Azphel Daevanion Crystals from 
 | Helmet | Unique +10 (Vakron Helm, GS 70(+15), transferred 2026-10-24, Manastones slotted) | | Pauldrons | Unique +10 |
 | Top | Unique +10 (Vakron Breastplate, GS 70(+17), 2026-10-24) | | Belt | Unique +10 (2026-10-23) |
 | Legs | Unique +10 | | Gloves | Unique +10 (Vakron, lines from a Transfer 2026-10-24) |
-| Cloak | Unique +10 (Courage Cloak, seen 2026-10-24) | | Shoes | Unique +10 (Vakron Boots, GS 70(+15), 2026-10-24) |
+| Cloak | Unique (Vakron Cloak, GS 70, 2026-10-24; enhance level not given) | | Shoes | Unique +10 (Vakron Boots, GS 70(+15), 2026-10-24) |
 | Earring | Unique +10 | | Earring | Epic +10 |
 | Necklace | Unique +10 (Aulamus Necklace, seen 2026-10-24) | | Revelation amulet | Unique +10 (2026-10-23) |
 | Ring | Unique +10 (Berk Ring, GS 54(+15)) | | Ring | Unique +10 (Gartua Ring, GS 70(+16), 2026-10-24) |
@@ -54,6 +54,7 @@ Lower Reshanta done: all feathers collected, all Azphel Daevanion Crystals from 
 - Clash Runes: both at +2 (2026-10-13); 2 spares destroyed trying for +3, none left.
 - Mace (Aulamus, GS 70): lines from a Transfer 2026-10-24 (Holy Spirit Mace), re-enhanced to +10 the same day. Soul Binding 27.7%: Status Effect Chance 19.2%, Critical Attack 72, Back Attack 72, Healing Light +1. Manastones and Theostone Zikel's Vestige kept. ~~Before: 57.9%, Status Effect Chance, Back Attack, Precision 29, Scattershot +1~~.
 - Rings (2026-10-24): **Gartua Ring** replaced the Epic +10 ring, own lines kept (no Transfer), enhanced +0→+10 for ~650k Kina. Soul Binding 77.0%: Critical Hit 25, Divine Aura +1, Condemnation +1, Light of Regeneration +1; Manastones slotted (2 green). **Berk Ring** stays: 47.6%, Natural MP Regen 16, Critical Hit 30, Natural HP Regen 32, Healing Light +1.
+- Cloak (Vakron, GS 70, 2026-10-24): own lines kept (no Transfer), Soul Binding 51.0%: Back Defense 190, MP 61, Weapon Damage Tolerance 7.4%, Prayer of Concentration +1; Soul Fuse Philosopher's Stone: Revelation. Replaced the +10 Courage Cloak.
 - Soul Codex: 188 (2026-10-19), saved for better gear.
 - Pantheon (2026-10-19): optimized with the few pieces owned, incl. Transcendent Bakarma (statue); only one preset used.
 - Pets: 77/200 owned, collection rewards all claimed (2026-10-13).
