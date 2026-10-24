@@ -519,3 +519,4 @@ Added 2026-10-22 (skins, Closet, Skin Combine).
 425. gamerblurb, Character Creation Restricted fix, 2026, G: https://gamerblurb.com/guides/aion-2-character-creation-restricted-fix-2026
 426. games.gg, Aion 2 Soul Binding guide, 2026-10-08, G: https://games.gg/aion-2/guides/aion-2-soul-binding-guide/
 427. Inven (KR), Fighter gear Soul Binding option priority per slot (Roah), 2026-07-08, KR: https://m.inven.co.kr/board/aion2/6544/607
+428. Steam news, official "[Notice] Temporary Maintenance (EU) | Oct 24 PDT / Oct 25 CEST", 2026-10-24: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114038363
