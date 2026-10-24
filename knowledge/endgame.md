@@ -192,6 +192,18 @@ Researched 2026-10-11. Guides only, unverified unless tagged `in-game`.
   home region, 39 only in the enemy region (rift), 5 in the Abyss, 43 boss/chest pets (Black Cloud
   Merchant ~100k Kina each) [201]. Camps near Lv 45 (Elyos): Garden of the Illusion God (Lv 44–45),
   Eternal Isle (Lv 49), 4–7 pets within 50 m each [201]. Time per pet: not found (chance drops).
+- **Abyss-only soul drops** (researched 2026-10-24, guides, unverified): souls drop from no monster on either faction's
+  regional map, only in **Chaotic Lower Reshanta** [201]:
+  - **Naga Elite Priest** (Cogni): Abyss Naga Dark Mage
+  - **Nagarant Guardian Warrior** (Cogni): Abyss Nagarant Brawler / Warrior (Sulfur Tree Island, Lv 48 Elite, a soul on
+    every kill per [429])
+  - **Spider** (Fera): Abyss Odyle Mutated Insectoid
+  - **Spirit King's Bodyguard Warrior** (Natura): Old Tree Spirit Warrior
+  - **Silver Blade Rotan** (Varian): Abyss Old Blade Rotan, Abyss Rusty Rotan; also in the Fire Temple (dungeon), so not strictly Abyss-only
+  - Not exclusive in the strict sense: pet chests (Mysterious Pet Chest, Pet Chest: Cogni 2.44%), the Black Cloud
+    Merchant and Ascension Trial rewards can also give them [429], so these are the pets you can only *farm* in the
+    Abyss. Chaotic Middle Reshanta pets are not on global yet [201]. A third guide counts 25 pets with soul
+    monsters in Lower Reshanta [430], most of them Abyss versions of regional mobs (e.g. Modified Karnif).
 - **In-game 2026-10-13 (Cogni board, Insight Lv 4, 4 lines open):** lines rolled "Cogni Accuracy 15",
   "Cogni Critical Hit 13" (green = Rare), "Cogni Critical Hit Resist 7", "HP 10". **Analyze cost shown: 16
   Soul Crystals + 4,000 Kina**, i.e. **4 crystals + 1,000 Kina per open line; one press rolls all unlocked lines; a locked line costs double (8 + 2,000)** (in-game 2026-10-13; crystal cost re-confirmed in-game 2026-10-17: 4 per unlocked line, +4 extra per locked line). ~~4 + 1,000 flat~~ [157]. Genus-prefixed

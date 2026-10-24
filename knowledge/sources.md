@@ -520,3 +520,5 @@ Added 2026-10-22 (skins, Closet, Skin Combine).
 426. games.gg, Aion 2 Soul Binding guide, 2026-10-08, G: https://games.gg/aion-2/guides/aion-2-soul-binding-guide/
 427. Inven (KR), Fighter gear Soul Binding option priority per slot (Roah), 2026-07-08, KR: https://m.inven.co.kr/board/aion2/6544/607
 428. Steam news, official "[Notice] Temporary Maintenance (EU) | Oct 24 PDT / Oct 25 CEST", 2026-10-24: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114038363
+429. gamingpromax, Nagarant Guardian Warrior (Cogni) pet guide, 2026-10-08: https://gamingpromax.com/aion-2-nagarant-guardian-warrior-cogni-pet-guide/
+430. expcarry, pet locations, updated 2026-10-18: https://expcarry.com/aion-2-pet-locations
