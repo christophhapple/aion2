@@ -16,6 +16,8 @@ snippets. Sources [n]: `sources.md`. Schedule (sieges, bosses): `schedule.md`.
 - **Abyss time: 7h per week** (in-game 2026-10-18; per layer, F2P [80][50]), runs only while you're inside. **Unused hours don't carry over; the weekly reset refills it** (in-game 2026-10-19). Shown in the
   Abyss screen and next to the minimap while inside (in-game 2026-10-18).
   **It keeps running whether you're alive or dead** (in-game 2026-10-18). Rift Stones add +1h (lesser +30 min) [50].
+- **The Abyss has a player cap:** entry is refused when it's full (in-game 2026-10-24, Sat just before the
+  21:00 siege). So arrive early for sieges; whether there's a queue, or whether the cap is per faction: unknown.
 
 ## Layers
 | Layer | Entry | Notes |
