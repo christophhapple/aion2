@@ -105,15 +105,13 @@ points, in this order (both trigger on their own, nothing to press):
 - **An enemy player starts on me** → Yustiel's Power (Q). Not at the pull: it's 10s, save it for their burst.
 - **HP low and still dropping** → Salvation (E), then Healing Light during the 3s.
 - **In a group, someone is about to die** → Salvation (E) too: at Lv 15 the lowest-HP party member gets the effect as well.
-- **I got CC'd** → Defiance (Space), as in PvE. Note: **Salvation and Tenacity can lock each other out for
-  30s, but only "if Invincibility stacking is blocked"** (tooltip, 2026-10-20); where that applies is unknown, so right after
-  Defiance, Salvation may not work. Check in-game.
+- **I got CC'd** → Defiance (Space), as in PvE. Salvation right after it still works, and the other way
+  around (in-game 2026-10-24), so both can be chained when it gets bad.
 - **Debuffed / slowed** → Radiant Recovery (removes 1).
 - **Abyssal Power Shards:** toggle on when going in (they ignore some PvP Defense, `knowledge/abyss.md`).
 - Losing anyway → die or fly back to Western Root; respawn there, no penalty.
 
-**Open (in-game):** does the Tenacity lockout block (where is "Invincibility stacking" blocked: test in the 1v1 arena and open-world Abyss, Defiance then Q right away)
-Salvation after Defiance. (Answered 2026-10-20: Chain of Torment option 4 also cuts PvP Damage Tolerance by 5%.)
+Answered: Salvation and Defiance don't lock each other out in PvP (in-game 2026-10-24); Chain of Torment option 4 also cuts PvP Damage Tolerance by 5% (2026-10-20).
 
 ## Playstyle model
 - Two axes: **what a skill does** (damage/heal/buff/debuff) and **when you press it** (proactive

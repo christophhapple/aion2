@@ -33,7 +33,6 @@ tracker itself goes in `backlog.md`.
   600 Kina), check the count again. Does it drop? Also: fee and upgrade chance shown, Lucky Aura slot, can
   dyed/equipped skins go in? See `knowledge/skins.md`
 - [ ] Cube-hunting audio for gathering/pet runs: Master + Sound Effects 100%, Music, Ambient, Monster, Mount, own character + wing sounds low. Save it as its own audio preset (the game supports audio presets, user 2026-10-19). See `knowledge/endgame.md` "Hidden Cubes"
-- [ ] *(low priority, doesn't change the build)* PvP: right after Defiance, does Salvation (Q) still work? Its tooltip blocks it for 30s only "if Invincibility stacking is blocked"; try in the 1v1 arena and open-world Abyss
 - [ ] Pantheon: can Eternal Gartua (Verteron, Eternal Isle) and Immortal Gartua (Altgard, Immortal Isle) both be placed, or do they share a slot? Decides whether Altgard field bosses are worth it. See `knowledge/endgame.md` "Artworks"
 - [ ] Abyss rank: what's your own rank and its points (season window → Abyss)? Do they rise after an arena win, or only after Abyss PvP? Do you lose points when you die in Abyss PvP? Does the rank tooltip show a PvP damage bonus? See `knowledge/abyss.md` "Abyss ranks"
 - [ ] *(low priority)* Silver Medal of Merit, in the Trade Shop: what costs Silver Medals (only Centurion skins at 40/80, or gear too)? Do the pieces have stats? Is a rank (Ninth-Class Soldier) required to buy? How many medals do you have? See `knowledge/abyss.md` "Silver Medal of Merit"
@@ -43,6 +42,7 @@ tracker itself goes in `backlog.md`.
   Does a higher-GS material give a fuller new line (or a better chance)? See `knowledge/gear.md` "Sync"
 
 ## Done
+- [x] PvP: Salvation works right after Defiance and the other way around (2026-10-24)
 - [x] Mace (Aulamus) enhanced back to +10 after the Transfer (2026-10-24)
 - [x] Chest (Vakron Breastplate) enhanced back to +10 after the Transfer test (2026-10-24)
 - [x] First Transfer: Bakarma Helm → Vakron Helm +10; 1 Transfer Stone, no Kina; preview exists; lines carry with fill loss, Manastones lost (2026-10-24)
