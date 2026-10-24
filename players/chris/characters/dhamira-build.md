@@ -310,6 +310,9 @@ carries the lines to a same-slot, higher-grade piece. Line priorities are from g
 **Priority (user, 2026-10-24): skill lines for the key skills first, stats second** — getting the important
 skills to Lv 20 matters more than stat lines. Also a skill line is the harder one to Sync later (~1.8% for one
 skill vs ~3.2–3.9% for Weapon Damage Boost), so take skill lines as the sure thing and Sync for stats.
+This is mainly for **actives** (Lv 20 opens their third specialty slot). **Passives** have no such breakpoint known,
+so a passive +1 is a small step: it beats flat common stats (Constitution 13, Accuracy 37), but not a rare % line
+like a slot's signature stat (e.g. keep Damage Tolerance 8.9% on the legs over two passive +1s, 2026-10-24).
 Skill lines: actives Healing Light, Light of Regeneration, Radiant Recovery, Condemnation; passives Healing
 Enhancement, Earth's Grace, Warm Benediction, Prayer of Concentration (only Lv 9, so +1 counts most).
 Stats: damage first (Damage Boost, Critical Damage Boost, Combat Speed, Weapon Damage Boost; Attack, since
