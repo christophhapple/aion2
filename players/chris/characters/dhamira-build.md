@@ -307,16 +307,19 @@ skill lines. Sync rerolls one chosen line and eats any Unique piece (any slot), 
 carries the lines to a same-slot, higher-grade piece. Line priorities are from guides (`knowledge/cleric-skills.md`
 "Stats"), not tested.
 
-**Wanted:** damage first (Damage Boost, Critical Damage Boost, Combat Speed, Weapon Damage Boost; Attack, since
-Healing Enhancement turns it into healing), then Critical Hit; for PvP Damage Tolerance and Status Effect Resist.
+**Priority (user, 2026-10-24): skill lines for the key skills first, stats second** — getting the important
+skills to Lv 20 matters more than stat lines. Also a skill line is the harder one to Sync later (~1.8% for one
+skill vs ~3.2–3.9% for Weapon Damage Boost), so take skill lines as the sure thing and Sync for stats.
 Skill lines: actives Healing Light, Light of Regeneration, Radiant Recovery, Condemnation; passives Healing
 Enhancement, Earth's Grace, Warm Benediction, Prayer of Concentration (only Lv 9, so +1 counts most).
+Stats: damage first (Damage Boost, Critical Damage Boost, Combat Speed, Weapon Damage Boost; Attack, since
+Healing Enhancement turns it into healing), then Critical Hit; for PvP Damage Tolerance and Status Effect Resist.
 **Weak:** Lightning Strike Scattershot (unused), Heal Block, Empyrean Lord's Benediction, Front/Back Attack.
 Might, Precision, Intelligence, Dexterity, Willpower, Constitution: unrated (what they do isn't known yet).
 
 | Slot | Target line | Current lines (2026-10-24) | Verdict |
 |---|---|---|---|
-| Mace | Damage Boost, Combat Speed, Weapon Damage Boost | Status Effect Chance, Back Attack, Precision, Scattershot (57.9%) | Weakest for its value: first Sync target |
+| Mace | Healing Light (or another key active), then Damage Boost, Combat Speed, Weapon Damage Boost | Status Effect Chance, Back Attack, Precision, Scattershot (57.9%) | Plan (2026-10-24): Transfer the spare Holy Spirit Mace (Healing Light +1) onto it, then Sync the stat lines using the two spare Wisdom Maces |
 | Guard | same as the weapon, smaller | 100%, locked | Done |
 | Helmet | Incoming Heal | Vakron Helm: Critical Hit Resist, Defense, Earth's Grace, Immortal Veil (52.5%) | Keep Earth's Grace |
 | Shoulders | Critical Damage Boost | HP, Dexterity, Defense, Empyrean Lord's Grace (32.5%) | Sync candidate |
