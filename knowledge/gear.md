@@ -291,7 +291,10 @@ Stats: Wisdom + Life (god stats), Constitution + Power (primary); Heal Boost (Pv
   "Item Level 70(+17)" bracket = enhancement level + these. Fits every piece seen, e.g. chest 3 green + 1 white = +7
   (+10 enhancement → +17), helmet 1 green + 3 white = +5 (+15), Ascension Bracelet gold HP+160 + 2 green + 1 blue =
   +11 (+21), pauldrons 2 blue + 2 green = +10 (+20). The mace's 2 blue + 2 green = +10 leaves +3 for its Theostone
-  (Zikel's Vestige) (inference). So swapping a white stone for a green one is +1 GS, regardless of the stat.
+  (Zikel's Vestige) (inference). Each grade step is +1 GS, regardless of the stat.
+- **One Manastone rolls all 4 lines at once** (user, in-game 2026-10-24; fits [122]'s "one stone fills all sockets").
+  Lines can't be upgraded one by one, only the whole set rerolled with another stone. So the grade mix is random per
+  roll; a better stone tier gives better odds [122] (unverified).
 
 ## Soul Binding, Soul Codex, Philosopher's Stone (researched 2026-10-14)
 
