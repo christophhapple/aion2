@@ -123,6 +123,8 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
   listed; once per character per step [35][38].
 - Stones and Kina per tier, +0→+10 [38]: Rare 9,280 stones / 232k · Epic 63,060 / 1.58M ·
   **Unique 200,980 / 5.03M**. So Unique is the expensive part, and stones are the limit.
+  **Kina is far lower on global:** Unique ring (GS 70) +0→+10 cost **~650k Kina** (in-game 2026-10-24, user's estimate).
+  Armor not measured yet; the user's impression is that a ring costs more than an armor piece (unverified).
 - Belt and amulet are never replaced and can't be exchanged once maxed [14][42].
 
 ## Belt (Noble Belt)

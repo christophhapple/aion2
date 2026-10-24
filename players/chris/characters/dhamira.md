@@ -43,7 +43,7 @@ Lower Reshanta done: all feathers collected, all Azphel Daevanion Crystals from 
 | Cloak | Unique +10 (Courage Cloak, seen 2026-10-24) | | Shoes | Unique +10 (Vakron Boots, GS 70(+15), 2026-10-24) |
 | Earring | Unique +10 | | Earring | Epic +10 |
 | Necklace | Unique +10 (Aulamus Necklace, seen 2026-10-24) | | Revelation amulet | Unique +10 (2026-10-23) |
-| Ring | Unique +10 | | Ring | Epic +10 |
+| Ring | Unique +10 (Berk Ring, GS 54(+15)) | | Ring | Unique +10 (Gartua Ring, GS 70(+16), 2026-10-24) |
 | Bracelet | Unique +10 | | Bracelet | Epic +10 |
 | Clash Rune | +2 | | Clash Rune | +2 |
 
@@ -53,7 +53,7 @@ Lower Reshanta done: all feathers collected, all Azphel Daevanion Crystals from 
 - Wings (in-game 2026-10-13): own 6 — Lesser, Intermediate, Superior, Ultimate Daeva, Aullaeu, Glorious (crafted 2026-10-11). Sealing Wings crafted 2026-10-15 (7th pair). Ancient Aullea Wings unsealed 2026-10-23 (8th pair). Equipped: **Ancient Aullea** (since 2026-10-23; before: Ultimate Daeva). **Flight Power 6,300** (2026-10-23, +200 from Ancient Aullea; was 6,100 after Sealing Wings, 5,900 before).
 - Clash Runes: both at +2 (2026-10-13); 2 spares destroyed trying for +3, none left.
 - Mace (Aulamus, GS 70): lines from a Transfer 2026-10-24 (Holy Spirit Mace), re-enhanced to +10 the same day. Soul Binding 27.7%: Status Effect Chance 19.2%, Critical Attack 72, Back Attack 72, Healing Light +1. Manastones and Theostone Zikel's Vestige kept. ~~Before: 57.9%, Status Effect Chance, Back Attack, Precision 29, Scattershot +1~~.
-- Gartua Ring (got 2026-10-24, not equipped yet): Unique, GS 70, +0, Soul Binding 77.0%: Critical Hit 25, Divine Aura +1, Condemnation +1, Light of Regeneration +1; 4 empty Manastone slots. Equipped Unique ring = +10 Berk Ring, GS 54(+15), 47.6%: Natural MP Regen 16, Critical Hit 30, Natural HP Regen 32, Healing Light +1; Manastones Critical Hit+5, Accuracy, Critical Hit (green), Attack+1.
+- Rings (2026-10-24): **Gartua Ring** replaced the Epic +10 ring, own lines kept (no Transfer), enhanced +0→+10 for ~650k Kina. Soul Binding 77.0%: Critical Hit 25, Divine Aura +1, Condemnation +1, Light of Regeneration +1; Manastones slotted (2 green). **Berk Ring** stays: 47.6%, Natural MP Regen 16, Critical Hit 30, Natural HP Regen 32, Healing Light +1.
 - Soul Codex: 188 (2026-10-19), saved for better gear.
 - Pantheon (2026-10-19): optimized with the few pieces owned, incl. Transcendent Bakarma (statue); only one preset used.
 - Pets: 77/200 owned, collection rewards all claimed (2026-10-13).
