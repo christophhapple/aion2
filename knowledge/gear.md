@@ -291,8 +291,8 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
   unverified):** the new line's fill, and so the rate, depends on the material's GS. Alternative: the fill is random.
   Test: Sync with a higher-GS piece and compare the new line's fill. Pool: see "Sync pool" under "Which lines on which slot".
 - **Reset:** reroll all lines, rate back to 0; costs Soul Codex: Reset + Kina (amount unknown) [242][243].
-- **Lines per grade: one per rarity step, Unique = 4 lines** (in-game 2026-10-19), so presumably Common 1, Rare 2,
-  Epic 3 (user). A class skill line is often one of them (e.g. "Lightning Strike Scattershot Lv. +1"), but not always:
+- **Lines per grade: one per rarity step, Unique = 4 lines** (in-game 2026-10-19), **Epic = 3** (in-game 2026-10-24),
+  so presumably Common 1, Rare 2 (user). A class skill line is often one of them (e.g. "Lightning Strike Scattershot Lv. +1"), but not always:
   a Unique Guard had four stat lines and no skill (in-game 2026-10-24); each line is a skill ~20% of the time.
   ~~Unique 3–5, Heroic 4–6~~ [242] and ~~all gear 4~~ [246] were both off for Unique; Heroic not seen yet.
 - **Which lines on which slot (researched 2026-10-23, guides, unverified):**
@@ -407,7 +407,15 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
     Dexterity, Constitution, Willpower and Attack all 11–20, Critical Hit 17–27, Accuracy 24–35, Defense 140–168,
     Evasion 14–23, Critical Damage / Back / Front Defense 143–171, Critical Hit Resist 25–36, Block 14–23, MP 53–68,
     HP 108–131, Natural MP Regen 12–21, Natural HP Regen 25–36. Same 10 passives.
-  - **Armor pattern so far (helmet, shoulders, chest, legs, gloves):** 1 signature line 2.4%, Status Effect Resist 2.4%, 5 rare %
+  - **Shoes (in-game 2026-10-24, **Epic** +10 Divine Canyon Boots, GS 42(+15)):** same layout and the same chances as
+    the Unique pieces; Epic only changes the line count (3) and the ranges come out lower (but this piece is also
+    much lower GS, so grade vs GS can't be told apart yet). No Soul Fuse line (Unique/Heroic only, see below).
+    Signature **Move Speed 2.4%, 5.4–6.3%** (fits [427]). Rare 0.96% lines: Perfect Chance 2.3–2.7%, Regeneration
+    1.1–1.4%, Defense increase 1.5–1.8%, Perfect Resist 1.9–2.3%, Endurance Penetration 1.1–1.4%. Status Effect Resist
+    3.2–3.8%. Common stats: Dexterity 12–21, Constitution 7–15, Willpower 9–17, Attack 10–19, Critical Hit 16–25,
+    Accuracy 21–31, Defense 126–152, Evasion 12–21, Critical Damage / Back / Front Defense 130–157, Critical Hit
+    Resist 23–33, Block 12–21, MP 48–62, HP 97–119, Natural MP Regen 11–20, Natural HP Regen 23–33. Same 10 passives.
+  - **Armor pattern so far (helmet, shoulders, chest, legs, gloves, shoes):** all six signature stats match [427]. 1 signature line 2.4%, Status Effect Resist 2.4%, 5 rare %
     lines at 0.96% (a mix from Double Chance/Resist, Perfect Chance/Resist, Regeneration, Defense increase, Endurance,
     Endurance Penetration, Attack increase, Weapon Damage Tolerance, Multi-hit Resist; differs per slot), 17 common stats (3.2–4.8%),
     10 passives at 2%.
@@ -415,7 +423,7 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
     shoulders (Defense 240–283 vs 160–191; the GS 54 helmet sits between, 181–215), and the main stats swap:
     helmet Constitution 13–22, Dexterity/Willpower 8–16; shoulders Willpower 17–27, Dexterity 13–22, Constitution 8–16;
     chest Constitution 17–27, Dexterity 10–19, Willpower 8–16; legs Constitution 13–22, Willpower 10–19, Dexterity 8–16;
-    gloves all four 11–20.
+    gloves all four 11–20; shoes (Epic, GS 42) Dexterity 12–21, Willpower 9–17, Constitution 7–15.
     Size order at GS 70 (Defense): chest 240–283 > legs 220–260 > shoulders 160–191 > gloves 140–168.
     Other slots: not read yet (todo).
   - **Sync pool (in-game 2026-10-24, same Mace, Status Effect Chance selected):** the pool drops **all four lines the
