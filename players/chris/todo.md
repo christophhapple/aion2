@@ -29,8 +29,6 @@ tracker itself goes in `backlog.md`.
   listing). Whenever you have a tradeable Manastone (Lesser, Intermediate, Superior, Abyssal), potion,
   serum, ingot or ore/gem, open its sell window and screenshot it, then cancel. (The browse list has no history,
   2026-10-22.) Also check: is there a record of your own past sales anywhere?
-- [ ] After the first Skin Combine (2026-10-24, 4 Common helms → Netherworld Explorer breastplate): check Closet
-  Armor (was 132/766) and Fashionista (was 223/300). Did either drop or rise? Was the breastplate new? See `knowledge/skins.md`
 - [ ] Cube-hunting audio for gathering/pet runs: Master + Sound Effects 100%, Music, Ambient, Monster, Mount, own character + wing sounds low. Save it as its own audio preset (the game supports audio presets, user 2026-10-19). See `knowledge/endgame.md` "Hidden Cubes"
 - [ ] Pantheon: can Eternal Gartua (Verteron, Eternal Isle) and Immortal Gartua (Altgard, Immortal Isle) both be placed, or do they share a slot? Decides whether Altgard field bosses are worth it. See `knowledge/endgame.md` "Artworks"
 - [ ] Abyss rank: what's your own rank and its points (season window → Abyss)? Do they rise after an arena win, or only after Abyss PvP? Do you lose points when you die in Abyss PvP? Does the rank tooltip show a PvP damage bonus? See `knowledge/abyss.md` "Abyss ranks"
@@ -41,6 +39,7 @@ tracker itself goes in `backlog.md`.
   Does a higher-GS material give a fuller new line (or a better chance)? See `knowledge/gear.md` "Sync"
 
 ## Done
+- [x] Skin Combine tested: spares only, counts unchanged, result can be a duplicate (2026-10-24)
 - [x] PvP: Salvation works right after Defiance and the other way around (2026-10-24)
 - [x] Mace (Aulamus) enhanced back to +10 after the Transfer (2026-10-24)
 - [x] Chest (Vakron Breastplate) enhanced back to +10 after the Transfer test (2026-10-24)
