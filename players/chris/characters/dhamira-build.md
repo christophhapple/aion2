@@ -314,7 +314,7 @@ Might, Precision, Intelligence, Dexterity, Willpower, Constitution: unrated (wha
 |---|---|---|---|
 | Mace | Damage Boost, Combat Speed, Weapon Damage Boost | Status Effect Chance, Back Attack, Precision, Scattershot (57.9%) | Weakest for its value: first Sync target |
 | Guard | same as the weapon, smaller | 100%, locked | Done |
-| Helmet | Incoming Heal | Critical Hit Resist, Defense, Earth's Grace, Immortal Veil (56.7%) | Keep Earth's Grace |
+| Helmet | Incoming Heal | Vakron Helm: Critical Hit Resist, Defense, Earth's Grace, Immortal Veil (52.5%) | Keep Earth's Grace |
 | Shoulders | Critical Damage Boost | HP, Dexterity, Defense, Empyrean Lord's Grace (32.5%) | Sync candidate |
 | Chest | Damage Boost | Critical Damage Defense, Constitution, Critical Hit, Defense (30.5%) | Sync candidate (keep Critical Hit) |
 | Legs | Damage Tolerance | Constitution, Natural MP Regen, Damage Tolerance 8.9%, Accuracy (23.1%) | Keep Damage Tolerance |

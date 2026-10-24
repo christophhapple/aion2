@@ -45,8 +45,9 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
     Transfer"**, the other **"Superior Transfer"**. Tooltip: "Transfers gear to a higher grade. Higher grade gear
     cannot be transferred to lower grade gear. When transferring to a higher grade, Soul Binding stats are applied
     at the enhance level of the transferred gear."
-  - **No preview of the result**: only the two pieces' own tooltips, nothing on what carries over (Manastones,
-    Theostone, Soul Fuse). So the "Carries / Does not carry" list below is still unverified.
+  - ~~No preview of the result~~: the window itself shows none, but **clicking Transfer opens a confirmation
+    window with the result** (enhancement, base stats, Soul Binding lines and values) and "The Source Item … will be
+    consumed", plus an "I have reviewed the contents above" checkbox (in-game 2026-10-24).
   - Needs a **Gear Transfer Material**: **Transfer Stone (Unique) (Bound)**, "Can be used on Unique gear". Made via
     **Substance Morph from spare Unique gear** (pick several pieces; "Include Enhanced" checkbox), 100% success; the
     recipe says "Quantity to Receive: 10" (in-game 2026-10-19; whether that's per morph or a limit: unclear). How many
@@ -64,7 +65,18 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
     transfer it.
   - **Same slot only:** after picking the target, only pieces of the same type are offered as source (weapon →
     weapon, gloves → gloves) (in-game 2026-10-19; matches the KR wiki [33]).
-- **What Transfer carries (researched 2026-10-16, guides, unverified):**
+- **First real Transfer (in-game 2026-10-24):** +10 Bakarma Helm (GS 54, Soul Binding 56.7%) → +0 Vakron Helm
+  (GS 70, 38.6%). Cost **1 Transfer Stone (Unique), no Kina**. Result: **+10 Vakron Helm**, source consumed.
+  - **Enhancement carries** (+0 → +10).
+  - **Soul Binding: the source's lines replace the target's** (the Vakron's own Prayer of Concentration +1, HP,
+    Willpower and Critical Hit Resist 39 are gone). Stat lines move onto the new GS 70 ranges but **lose most of
+    their fill**: Critical Hit Resist 33/44 (15%) → 36/48 (8%), Defense 184/215 (11%) → 200/237 (3%); the preview
+    showed 36 and 200. Skill lines carry as they are (+1, 100%). Rate 56.7% → 52.5%, again the average of the fills.
+    So the values land near the bottom of the new range, still higher than before here because the ranges are higher.
+  - **Manastones don't carry:** the new helm's 4 slots are empty, the source's stones are gone with it. The target's
+    **Soul Fuse slot stays**. The bracket after GS dropped (+15 → +10): it seems to count Manastones etc. on top of
+    enhancement (inference).
+- **What Transfer carries (researched 2026-10-16, guides, unverified; see the in-game test above):**
   - **Carries:** enhancement level, breakthrough, **Soul Binding base lines at their reached values**
     [33, KR][242][243][244][296][297].
   - **Does not carry:** **Manastones**, **Theostones** and "Potential" stats stay on the old piece and are lost with it [296][298]
@@ -73,8 +85,8 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
   - Source piece is described as "sacrificial", so probably consumed; not stated outright [299]. Kina cost
     not found on global; same-slot rule confirmed in-game (above). KR (2026-06-10): Bound gear only [299, KR].
   - **So (inference):** enhancement and Soul Binding (below 100%, see above) are safe on gear you'll replace;
-    Manastones, Theostones and Soul Fuse only on keepers. The window has no result preview (in-game 2026-10-19),
-    so the first real transfer will tell.
+    Manastones, Theostones and Soul Fuse only on keepers. Confirmed for enhancement, Soul Binding (with the fill
+    loss) and Manastones by the first Transfer (2026-10-24).
 - Wing → enhancement stone conversion capped at 20/week per server (patch 2026-10-07) [7].
 
 ## Belt and Revelation amulet (shared rules)
