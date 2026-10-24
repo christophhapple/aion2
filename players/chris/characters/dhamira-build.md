@@ -261,7 +261,7 @@ Effects + icons: `knowledge/cleric-skills.md` "Passive". Before the 2026-10-17 r
 passives partly 11–13.
 
 **On top (equipped):**
-- Gear skill lines (Soul Binding tooltips 2026-10-24): Mace Scattershot +1 · Ring (Berk) Healing Light +1 · Helmet
+- Gear skill lines (Soul Binding tooltips 2026-10-24): Mace Healing Light +1 (since 2026-10-24, was Scattershot) · Ring (Berk) Healing Light +1 · Helmet
   (Vakron) Earth's Grace +1, Immortal Veil +1 · Shoulders Empyrean Lord's Grace +1 · Shoes (Vakron) Immortal Veil +1 ·
   Chest (Vakron) Healing Enhancement +1, Radiant Benediction +1 · Necklace Survival Willpower +1. Not seen: guard, Epic ring, Epic earring. ~~Healing Enhancement +1~~ went with the
   Epic shoes (2026-10-24).
@@ -279,9 +279,9 @@ passives partly 11–13.
 
 **Replace first:** Chalice (Scattershot line wasted) and Mirror (Empyrean Lord's Benediction wasted).
 **Totals (computed 2026-10-24 from Arcana + the gear lines above, not read in-game):** **Immortal Veil 17** ·
-**Healing Light 16, Bolt 16, Empyrean Lord's Grace 16, Healing Enhancement 16, Radiant Benediction 16** · Earth's
+**Healing Light 17** · **Bolt 16, Empyrean Lord's Grace 16, Healing Enhancement 16, Radiant Benediction 16** · Earth's
 Retribution, Chain of Torment, Condemnation, Judgment Thunder, Light of Regeneration, Warm Benediction, Earth's Grace,
-Survival Willpower 15 · Prayer of Concentration 9 · Scattershot 3 · Empyrean Lord's Benediction 2 · the rest 14 (incl. Radiant
+Survival Willpower 15 · Prayer of Concentration 9 · Scattershot 2 · Empyrean Lord's Benediction 2 · the rest 14 (incl. Radiant
 Recovery, Debilitating Mark, Defiance, Divine Aura). 
 **Option 5 now selectable on Healing Light (−2s CD) and Bolt (guaranteed Crit)**: both picked 2026-10-22, see
 "Specialties". Wasted lines: Scattershot (1, unused skill), Empyrean Lord's Benediction (1, no points).
@@ -319,7 +319,7 @@ Might, Precision, Intelligence, Dexterity, Willpower, Constitution: unrated (wha
 
 | Slot | Target line | Current lines (2026-10-24) | Verdict |
 |---|---|---|---|
-| Mace | Healing Light (or another key active), then Damage Boost, Combat Speed, Weapon Damage Boost | Status Effect Chance, Back Attack, Precision, Scattershot (57.9%) | Plan (2026-10-24): Transfer the spare Holy Spirit Mace (Healing Light +1) onto it, Sync the stat lines later, when Sync is affordable (user: expensive and random for now) |
+| Mace | Healing Light (or another key active), then Damage Boost, Combat Speed, Weapon Damage Boost | Status Effect Chance, Critical Attack, Back Attack, Healing Light (27.7%, Transfer 2026-10-24) | Keep Healing Light; Sync the stat lines later, when Sync is affordable (user: expensive and random for now) |
 | Guard | same as the weapon, smaller | 100%, locked | Done |
 | Helmet | Incoming Heal | Vakron Helm: Critical Hit Resist, Defense, Earth's Grace, Immortal Veil (52.5%) | Keep Earth's Grace |
 | Shoulders | Critical Damage Boost | HP, Dexterity, Defense, Empyrean Lord's Grace (32.5%) | Sync candidate |
