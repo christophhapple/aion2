@@ -263,9 +263,17 @@ passives partly 11–13.
   (Vakron) Earth's Grace +1, Immortal Veil +1 · Shoulders Empyrean Lord's Grace +1 · Gloves (Vakron) Radiant Benediction +1, Empyrean Lord's Grace +1 · Shoes (Vakron) Immortal Veil +1 ·
   Chest (Vakron) Healing Enhancement +1, Radiant Benediction +1 · Necklace Survival Willpower +1. Not seen: guard, Epic ring, Epic earring. ~~Healing Enhancement +1~~ went with the
   Epic shoes (2026-10-24).
-- Arcana (**reworked 2026-10-22**, in-game "Equipped Effect" screenshot): all 5 slots, **4 Vigor + Bell of Magic**
+- Arcana (**new Parchment 2026-10-24**, in-game "Equipped Effect" screenshot): set stats Time 10, **Life 19**,
+  Freedom 10, Destruction 10, Illusion 10. Lines (18): Earth's Retribution +3, Chain of Torment +2, Bolt +2,
+  Debilitating Mark +1, Judgment Thunder +1, Light of Regeneration +1, Healing Light +1, Scattershot +1, Warm
+  Benediction +1, Empyrean Lord's Grace +1, Immortal Veil +1, Empyrean Lord's Benediction +1, Healing Enhancement +1,
+  Radiant Benediction +1. **Only the Parchment changed** (inference: Life 10 → 19, all other lines as before):
+  Condemnation +1 gone; Earth's Retribution +2, Debilitating Mark +1, Chain of Torment +1 new. Earth's Retribution +3
+  with only Chalice and Parchment able to carry it (guide pools) means one line gives +2 (inference). Not checked yet:
+  the new Parchment's grade and set (is the Vigor 4-piece still active?).
+- Before (**reworked 2026-10-22**, in-game "Equipped Effect" screenshot): all 5 slots, **4 Vigor + Bell of Magic**
   (the target layout), Primal Vigor 4-piece active (+150 PvE Attack at ≥70% HP). All **Common +2** (MAX), item
-  level 20 (+2) = 22 GS each (in-game card tooltips 2026-10-22).
+  level 20 (+2) = 22 GS each (in-game card tooltips 2026-10-22). Table below = that state, Parchment since replaced.
 
 | Card | Set (stat 10) | Skill lines |
 |---|---|---|
@@ -276,11 +284,11 @@ passives partly 11–13.
 | Mirror | Vigor (Illusion) | Healing Enhancement +1, Radiant Benediction +1, Empyrean Lord's Benediction +1 (same card as before) |
 
 **Replace first:** Chalice (Scattershot line wasted) and Mirror (Empyrean Lord's Benediction wasted).
-**Totals (computed 2026-10-24 from Arcana + the gear lines above, not read in-game):** **Immortal Veil 17** ·
-**Healing Light 17, Empyrean Lord's Grace 17, Radiant Benediction 17** · **Bolt 16, Healing Enhancement 16** · Earth's
-Retribution, Chain of Torment, Condemnation, Judgment Thunder, Light of Regeneration, Warm Benediction, Earth's Grace,
-Survival Willpower 15 · Prayer of Concentration 9 · Scattershot 2 · Empyrean Lord's Benediction 2 · the rest 14 (incl. Radiant
-Recovery, Debilitating Mark, Defiance, Divine Aura). 
+**Totals (computed 2026-10-24 after the new Parchment and the Gartua Ring, not read in-game):** **Earth's Retribution 17,
+Immortal Veil 17, Healing Light 17, Empyrean Lord's Grace 17, Radiant Benediction 17** · **Bolt 16, Chain of Torment 16,
+Light of Regeneration 16, Healing Enhancement 16** · Condemnation, Debilitating Mark, Divine Aura, Judgment Thunder, Warm
+Benediction, Earth's Grace, Survival Willpower 15 · Prayer of Concentration 9 · Scattershot 2 · Empyrean Lord's
+Benediction 2 · the rest 14 (incl. Radiant Recovery, Defiance). 
 **Option 5 now selectable on Healing Light (−2s CD) and Bolt (guaranteed Crit)**: both picked 2026-10-22, see
 "Specialties". Wasted lines: Scattershot (1, unused skill), Empyrean Lord's Benediction (1, no points).
 ~~Before (2026-10-19): Chalice + Parchment Magic, Compass + Mirror Vigor, no Bell; Healing Enhancement the only 16.~~
