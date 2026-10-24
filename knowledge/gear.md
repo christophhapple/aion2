@@ -442,6 +442,12 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
     Defense 4.8%, 181–215; Evasion 4.8%, 18–28; Critical Hit Resist, Block, MP, HP 7.6% each: 32–44, 18–28, 69–86,
     139–167; Natural MP Regen, Natural HP Regen 8% each: 16–25, 32–44. The shared ranges equal the GS 54 helmet's
     (Defense 181–215, Critical Hit 23–33, Accuracy 31–43). So on a ring the skill line is the valuable part.
+  - **Earring (in-game 2026-10-24, Unique +10 Berk Earrings, GS 54(+15)):** the ring's layout plus one % line, and
+    **passives** instead of actives (10 at 2%, the armor list; fits [426]). Chance, range: **Move Speed 1.6%, 4.4–5.1%**
+    (the only % line); Might, Precision 1.6% each, 6–14; Intelligence 1.6%, 10–19; Flight Power 4.8%, 209–240; Attack
+    4.8%, 18–28; Critical Hit 4.8%, 27–38; Accuracy 4.8%, 37–50; Defense 4.8%, 217–257; Evasion 4.8%, 21–31; Critical
+    Hit Resist, Block, MP, HP 7.2% each: 39–52, 22–32, 83–102, 167–199; Natural MP Regen, Natural HP Regen 8% each:
+    20–30, 39–52. Ranges about 1.2× the ring's at the same GS 54.
     Other slots: not read yet (todo).
   - **Sync pool (in-game 2026-10-24, same Mace, Status Effect Chance selected):** the pool drops **all four lines the
     piece already has** (Status Effect Chance, Back Attack, Precision, Lightning Strike Scattershot), not just the
