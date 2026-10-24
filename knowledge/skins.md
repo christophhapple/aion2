@@ -33,13 +33,16 @@ found. Sources [n]: `sources.md`. Skin sources (shops, events, achievements): `e
   regen, +50 HP [413, community figures].
 
 ## Skin Combine
-- **Where:** Combine button in the Closet [414]; GameRant describes a window with 4 slots and a middle slot for
-  a Lucky Aura [415].
+- **Where:** Combine button in the Closet [414]. **Window** (in-game 2026-10-24): 4 input slots around a centre
+  circle that shows the upgrade chance; grade filter ALL / C / R / E / U on the right; **Auto Register** fills the
+  slots; below the centre a "Top Grade Item Probability" slot with a −/+ counter (Lucky Auras, presumably);
+  "Probability to Acquire…" info at the bottom left. Matches [415].
 - **Input:** 4 skins of the **same grade** [413][414] ("4 or more" [418, Kinah seller]). **Inputs are consumed**
   [413][415]; a sacrificed skin can be re-obtained by extracting that item again [415].
 - **Output:** 1 random skin of the same grade, or with a fixed chance one grade higher [410][412][413]. Every skin
   in a grade equally likely, no pity [411, KR]. Weapon results match your own class's weapon type [413].
-- **Fee and upgrade chance** (global client data) [410][412]:
+  **The result's slot is random too:** 4 Common helms gave a breastplate (Netherworld Explorer) (in-game 2026-10-24).
+- **Fee and upgrade chance** (global client data) [410][412]; **Common confirmed in-game 2026-10-24: 600 Kina, 25%**:
 
   | Input grade | Fee | Upgrade chance |
   |---|---|---|
@@ -53,7 +56,8 @@ found. Sources [n]: `sources.md`. Skin sources (shops, events, achievements): `e
 - **Lucky Aura:** +10 points of upgrade chance (Common/Rare/Epic), +5 (Unique; effect on global unconfirmed)
   [410][411]. Season Shop 2,550 / 10,100 / 40,200 Oath Coins, 5 / 3 / 1 per account per server [410]; also
   from achievements and hidden cubes [410].
-- **Can't combine:** customized (dyed) skins until the dye is removed [414]; equipped skins (unverified).
+- **Can't combine:** customized (dyed) skins until the dye is removed [414] (the window says "You must remove
+  customization from a customize…", in-game 2026-10-24); equipped skins (unverified).
   Bound vs tradeable: not found. Duplicates-only rule: not confirmed (guides speak of spare/duplicate or
   registered skins [413][414][419]).
 - **Does combining lower the Closet / Fashionista count?** Not found. One guide recommends combining cheap
