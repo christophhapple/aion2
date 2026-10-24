@@ -59,9 +59,9 @@ routines:
   - id: siege
     group: yes
     name: Artifact Siege (Abyss)
-    notes: Cap 2 = Season Mission Land Grabs (participate 2 times, in-game 2026-10-24), though there are 3 sieges a week. Mon, Thu, Sat 21:00, 30 min (all three in-game); with the siege bosses after, ~1h of Abyss time (in-game 2026-10-22). Countdown "Next Siege in" on the Chaotic Lower Reshanta card. Mass faction PvP at 3 Artifacts; final hit on a Dimensional Core takes it. PvP is second priority since 2026-10-19 - join when online, ideally with a group, PvP preset (Batch Set 3). A won Artifact opens the corridor. Details knowledge/abyss.md.
+    notes: Cap 3 = every siege of the week (user, 2026-10-24); the Season Mission Land Grabs needs only 2 (in-game 2026-10-24). Mon, Thu, Sat 21:00, 30 min (all three in-game); with the siege bosses after, ~1h of Abyss time (in-game 2026-10-22). Countdown "Next Siege in" on the Chaotic Lower Reshanta card. Mass faction PvP at 3 Artifacts; final hit on a Dimensional Core takes it. PvP is second priority since 2026-10-19 - join when online, ideally with a group, PvP preset (Batch Set 3). A won Artifact opens the corridor. Details knowledge/abyss.md.
     reset: weekly
-    cap: 2
+    cap: 3
 
   - id: siege-win
     group: yes
@@ -155,7 +155,8 @@ routines:
     cap: 7
 
   # Weekly Season Missions (= Season 1 weekly achievements, until 2026-12-16), checked in-game 2026-10-24.
-  # Caps = the last step. Missions that match an existing routine are noted there instead. List: knowledge/seasons.md.
+  # Caps = the last step, unless more is possible in a week: then the weekly max (user, 2026-10-24; siege, Nahma).
+  # Missions that match an existing routine are noted there instead. List: knowledge/seasons.md.
   - id: transcendence
     group: yes
     name: Transcendence clears
@@ -183,9 +184,9 @@ routines:
   - id: abyss-nahma
     group: yes
     name: Guardian Lord Nahma kills
-    notes: Fri and Sun 21:00, three at once (in-game). Cap 1 = Season Mission Guardian Lord Nahma (in-game 2026-10-24); ~~cap 2~~ set earlier the same day.
+    notes: Fri and Sun 21:00, three at once (in-game). Cap 2 = one kill per spawn day, the weekly max (user, 2026-10-24); the Season Mission needs only 1 (in-game 2026-10-24).
     reset: weekly
-    cap: 1
+    cap: 2
 
   - id: abyss-odyle
     name: Gather Odyle in the Abyss
