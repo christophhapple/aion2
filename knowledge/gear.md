@@ -346,7 +346,7 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
     so 1.666 × 20/18.33 = 1.818% (shown). Every shown value fits this. So a rerolled line is a stat 80% / a skill 20% of the
     time, whatever the piece has; whether that allows two skill lines on one piece: not seen. Removing common lines
     lifts the rare ones a little (Damage Boost 1.6 → 1.95%) (all inference from the numbers).
-    **Consequence:** Sync replaces one bad line at a time and the good lines stay safe, so a piece can collect good
+    **Consequence:** Sync replaces one bad line at a time (any line can be picked for each Sync, user) and the good lines stay safe, so a piece can collect good
     lines one by one. Each Sync costs material and a little Soul Binding Rate (−1.9 points in the one test).
 - **Transfer:** base lines carry over [242][243][244] (matches the KR wiki in "Enhancement" above);
   the Soul Fuse line does not.
