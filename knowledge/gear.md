@@ -76,6 +76,12 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
   - **Manastones don't carry:** the new helm's 4 slots are empty, the source's stones are gone with it. The target's
     **Soul Fuse slot stays**. The bracket after GS dropped (+15 → +10) and went back to +15 once 4 Manastones were
     slotted: **the bracket counts Manastones on top of enhancement** (in-game 2026-10-24).
+- **Preview, +0 source onto a +10 target (in-game 2026-10-24, two Vakron Breastplates, both GS 70, not confirmed):**
+  the result was "Vakron Breastplate" **+0** (Defense 517 without the +200) with the source's lines at their exact
+  values (Critical Hit 30, Natural MP Regen 22, two skill lines). So **the result takes the source's enhancement
+  and Soul Binding; the target only gives the base item**, and the target's +10 would be lost (no stone refund).
+  Same-GS Transfer is allowed. At the same GS the values carry unchanged (the fill loss above comes from the range
+  change). **Rule:** the source must be the piece with the enhancement you want to keep.
 - **What Transfer carries (researched 2026-10-16, guides, unverified; see the in-game test above):**
   - **Carries:** enhancement level, breakthrough, **Soul Binding base lines at their reached values**
     [33, KR][242][243][244][296][297].
