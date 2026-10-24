@@ -11,7 +11,7 @@ Background: `knowledge/progression.md`.
 | All gear Unique +10 | Dhamira | 16 of 18 pieces Unique; **everything +10** (mace, chest, gloves re-enhanced after Transfers 2026-10-24; belt and amulet since 2026-10-23, Unique helmet (Vakron), Courage Cloak, Aulamus Necklace, Vakron Boots, Gartua Ring, all 2026-10-24); Epic (all +10): earring, bracelet (see characters/dhamira.md) | every slot Unique +10 | Long-term. Step 1: everything to +10 (always succeeds, risk-free GS). Extraction refunds 100% of stones (in-game), so enhancing gear you'll replace isn't wasted. Above +10 risky (65% → 20%) |
 | *(low priority)* Clash Runes to +10 | Dhamira | both +2, no spare (2026-10-13) | both +10 | Only +1 GS per level (rune itself 40) plus a slightly better stat line; failure destroys the rune (in-game), success +3 66% … +10 10% (guides). Only try with a spare: Nightmare shop, 500 Phantasmal Fragments per chest. Fragments go to Daevanion points first |
 | Genus Insight boards to Lv 10, then roll good stats | Dhamira | Insight Lv Cogni 5, Fera 6, Natura 5, Varian 5, Special 0 (2026-10-20, from achievements) | all 5 boards Lv 10, good lines locked | Genus lines are the real value of pets (slot 4 PvE Damage Boost etc.); all 5 at Lv 10 → title "Unbound by Genus" (guides). Order: save Soul Crystals, level boards with pets first, use Analyze (nothing locked) from Insight 5 to push EXP; at 10, reroll until the wanted stats show, then lock. Highest level counts for the whole server (guides). See `knowledge/endgame.md` "Pets" |
-| Shugo Festival: participate 60 times | Dhamira | 52/60 (2026-10-20) | 60 | Next tier of the participation achievement (30 tier done). Comes with buying out the Shugo shop anyway |
+| Shugo Festival: participate 100 times | Dhamira | 72/100 (2026-10-24) | 100 | Next tier of the participation achievement (30 and 60 tiers reached). Comes with buying out the Shugo shop anyway |
 
 ## Achievements (useful rewards)
 Picked from `knowledge/achievements.md` "Worth doing". Rewards are totals over all tiers (guides,
@@ -43,6 +43,7 @@ snapshot: `characters/dhamira-achievements.md`. Season 1 weeklies are routines (
 | Rare / Legendary / One-of-a-Kind Gear | 246 / 243 / 30 (2026-10-20) | 300 / 300 / 50: 370 / 410 / 530 ES | 1,910 / 2,450 / 3,210 Enhance Stones | Passive |
 | Veteran Wing Collector | 7 wings (2026-10-20) | 12: title card | title Dominator of Dimensions at 25 wings | Best PvE defense title, long-term |
 ## Done
+- [x] Shugo Festival 60 participations reached (72 on 2026-10-24); next tier 100
 - [x] Belt and Revelation amulet Unique +6 → +10: all gear now +10 (2026-10-23)
 - [x] Bell Arcana: all 5 slots filled, 4 Vigor + Bell of Magic (2026-10-22)
 - [x] Gear score 1900 reached: Transcendence stage 2 open, Epic Arcana can drop (2026-10-22)

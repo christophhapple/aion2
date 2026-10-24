@@ -97,7 +97,7 @@ field bosses and Field Bosses (Kashapa, Lagta, Eternal Gartua, Dartan) are 0/1. 
 | Dimension Defender (Invasions) | 11/30 (430 ES) |
 
 Done: both village sets, Verteron Monolith 30, Verteron traces 500, 5 h flying.
-**Bind** (Kibelisks): 62/75. **Shugo Festival**: Regular 52/60 (15 Soul Crystals), Centuryroot's Heart
+**Bind** (Kibelisks): 62/75. **Shugo Festival**: Regular 72/100 (2026-10-24; 60 tier reached), Centuryroot's Heart
 16,860/30,000, all 9 minigames done. **Sealed Dungeon**, **Stronghold**: all done (10-20).
 
 ## Dungeon
