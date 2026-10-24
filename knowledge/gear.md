@@ -351,13 +351,44 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
     4.7–5.4%, Status Effect Chance 12.5–14.4%, Might and Precision 12–21, Attack 21–31, Critical Hit 33–45,
     Critical / Back / Front Attack 46–60, Accuracy 44–58, Block 27–38, MP 99–121, HP 200–237.
     Fits [426]: guard rolls active skills. A guard at 100% rate no longer shows in the Soul Binding menu.
+  - **Helmet (in-game 2026-10-24, Unique +10 Bakarma Helm, GS 54(+15)):** a different pool from weapon/guard, 24 stats
+    (80%) + 10 Cleric **passives** at 2% each (20%), fits [426] (armor rolls passives). Signature stat **Incoming Heal**
+    (= Increased Healing Received, fits [427]). Chance, range:
+    | Line | Chance | Range |
+    |---|---|---|
+    | Incoming Heal | 2.4% | 13–15.1% |
+    | Double Chance | 0.96% | 1.4–1.7% |
+    | Endurance | 0.96% | 2.2–2.6% |
+    | Attack increase | 0.96% | 1.4–1.7% |
+    | Perfect Resist | 0.96% | 2.7–3.2% |
+    | Status Effect Resist | 2.4% | 4.7–5.4% |
+    | Weapon Damage Tolerance | 0.96% | 5.2–6.1% |
+    | Dexterity, Willpower | 3.2% each | 8–16 |
+    | Constitution | 3.2% | 13–22 |
+    | Attack | 3.2% | 15–24 |
+    | Critical Hit | 4.0% | 23–33 |
+    | Accuracy | 4.0% | 31–43 |
+    | Defense | 4.0% | 181–215 |
+    | Evasion | 4.0% | 18–28 |
+    | Critical Damage Defense | 4.8% | 186–221 |
+    | Back Defense, Front Defense | 4.0% each | 186–221 |
+    | Critical Hit Resist | 4.8% | 32–44 |
+    | Block | 4.8% | 18–28 |
+    | MP | 4.8% | 69–86 |
+    | HP | 4.8% | 139–167 |
+    | Natural MP Regen | 4.8% | 16–25 |
+    | Natural HP Regen | 4.8% | 32–44 |
+    | Skill Lv. +1: Warm Benediction, Empyrean Lord's Grace, Immortal Veil, Prayer of Concentration, Survival Willpower, Empyrean Lords' Benediction, Healing Enhancement, Heal Block, Radiant Benediction, Earth's Grace | 2% each | Lv. +1 |
+
+    **Two skill lines on one piece happen:** this helm has Critical Hit Resist 33, Defense 184, Earth's Grace +1,
+    Immortal Veil +1 (plus a Soul Fuse line). The % stats all sit at 0.96–2.4%, the rare tier.
     Other slots: not read yet (todo).
   - **Sync pool (in-game 2026-10-24, same Mace, Status Effect Chance selected):** the pool drops **all four lines the
     piece already has** (Status Effect Chance, Back Attack, Precision, Lightning Strike Scattershot), not just the
     selected one: no duplicate lines. The rest is rescaled **within each group**: stats still add up to 80%, skills to 20%.
     E.g. stats left 80 − 14.4 = 65.6, so Combat Speed 3.2 × 80/65.6 = 3.902% (shown 3.902%); skills left 18.33,
     so 1.666 × 20/18.33 = 1.818% (shown). Every shown value fits this. So a rerolled line is a stat 80% / a skill 20% of the
-    time, whatever the piece has; whether that allows two skill lines on one piece: not seen. Removing common lines
+    time, whatever the piece has; two skill lines on one piece do happen (helmet, in-game 2026-10-24). Removing common lines
     lifts the rare ones a little (Damage Boost 1.6 → 1.95%) (all inference from the numbers).
     **Consequence:** Sync replaces one bad line at a time (any line can be picked for each Sync, user) and the good lines stay safe, so a piece can collect good
     lines one by one. Each Sync costs material; the rate moves with the new line's fill (see Sync above), maxes don't change.
