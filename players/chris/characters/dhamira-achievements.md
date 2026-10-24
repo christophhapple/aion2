@@ -121,7 +121,7 @@ Speedrun tiers get faster (10 min Exploration, 7 or 20 min Conquest seen).
 | Rare Gear VI | 246/300 | 370 ES |
 | Legendary Gear VII (Epic) | 243/300 | 410 ES |
 | One-of-a-Kind Gear (Unique) | 30/50 | 530 ES |
-| Fashionista IV (skins) | 186/200 | item, 10k Kina |
+| Fashionista V (skins) | 223/300 (2026-10-24) | 2 items, 12k Kina, card |
 | Veteran Wing Collector | 7/12 | item, title card |
 | Transformation Whizz (titles) | 208/250 | title card |
 | Boss Imitator I / Tastes Found in Danger / Au Naturel Orichalcum (skins) | 12/30 · 7/10 · 6/10 | |
