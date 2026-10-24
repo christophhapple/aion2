@@ -35,7 +35,7 @@ found. Sources [n]: `sources.md`. Skin sources (shops, events, achievements): `e
 ## Skin Combine
 - **Where:** Combine button in the Closet [414]. **Window** (in-game 2026-10-24): 4 input slots around a centre
   circle that shows the upgrade chance; grade filter ALL / C / R / E / U on the right; **Auto Register** fills the
-  slots; below the centre a "Top Grade Item Probability" slot with a −/+ counter (Lucky Auras, presumably);
+  slots and can queue **up to 30 combines at once, same grade only** (in-game 2026-10-24); below the centre a "Top Grade Item Probability" slot with a −/+ counter (Lucky Auras, presumably);
   "Probability to Acquire…" info at the bottom left. Matches [415].
 - **Input:** 4 skins of the **same grade** [413][414] ("4 or more" [418, Kinah seller]). **Inputs are consumed**
   [413][415]; a sacrificed skin can be re-obtained by extracting that item again [415].
