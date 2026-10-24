@@ -279,10 +279,11 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
   item is maxed and locked [242][245]. Total Codex needed to reach 100%: not found.
 - **Sync:** costs a same-grade, same-type item (destroyed) or a Sync Stone
   (lower-grade stone: 10% success) [242][243][245]. Unique only, per [245].
-  **Open (2026-10-24):** you pick one line in the Sync view, but whether that line is **kept** (the others reroll)
-  or is the **one that rerolls** (guides [242][243][245]) isn't clear yet (user unsure). The pool tooltip opens from a % icon on the selected line itself, which hints
-  that it's the line being rerolled (inference); a test Sync on a spare item will settle it. Either way the pool rules out
-  the same stat, so "can reroll the same stat" [245] is wrong. Pool: see "Sync pool" under "Which lines on which slot".
+  **The selected line is the one that rerolls** (in-game 2026-10-24, test Sync on a spare Unique Mace at 40.0%):
+  Accuracy 59/70 (31%) became Critical Attack 61/74 (24%); the other three lines didn't change. That matches the
+  guides [242][243][245]. But "can reroll the same stat" [245] is wrong: the pool leaves out every line the piece
+  already has. The Soul Binding Rate dropped 40.0% → 38.1%, and the new line didn't keep the old fill (31% → 24%).
+  Material used and the success chance shown: not recorded. Pool: see "Sync pool" under "Which lines on which slot".
 - **Reset:** reroll all lines, rate back to 0; costs Soul Codex: Reset + Kina (amount unknown) [242][243].
 - **Lines per grade: one per rarity step, Unique = 4 lines** (in-game 2026-10-19), so presumably Common 1, Rare 2,
   Epic 3 (user). Plus one class skill line counted among them (e.g. "Lightning Strike Scattershot Lv. +1").
@@ -345,9 +346,8 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
     so 1.666 × 20/18.33 = 1.818% (shown). Every shown value fits this. So a rerolled line is a stat 80% / a skill 20% of the
     time, whatever the piece has; whether that allows two skill lines on one piece: not seen. Removing common lines
     lifts the rare ones a little (Damage Boost 1.6 → 1.95%) (all inference from the numbers).
-    **Consequence depends on the open question above:** if the selected line is kept, the others can't come back,
-    so with two good lines a further Sync always loses one (Sync while at most one line matters, then stop). If
-    the selected line is the one that rerolls, Sync replaces one bad line at a time and the good ones stay safe.
+    **Consequence:** Sync replaces one bad line at a time and the good lines stay safe, so a piece can collect good
+    lines one by one. Each Sync costs material and a little Soul Binding Rate (−1.9 points in the one test).
 - **Transfer:** base lines carry over [242][243][244] (matches the KR wiki in "Enhancement" above);
   the Soul Fuse line does not.
 - **Soul Codex sources (in-game 2026-10-19):** Transcendence, expeditions (Exploration and Conquest), Sanctuary,
