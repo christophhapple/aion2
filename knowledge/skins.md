@@ -21,7 +21,10 @@ found. Sources [n]: `sources.md`. Skin sources (shops, events, achievements): `e
 - **Collection bonus:** 18 slot tracks [guides; the window shows 8 weapon types, 7 armor, 2 accessory slots, in-game 2026-10-24], 0–500 points each, +0.1% per point (cap +50%) [410][416]. First unlock
   gives Common 1 / Rare 2 / Epic 3 / Unique 4 points (Heroic 5 [416]); **duplicates give nothing** [413][416].
 - Weapon tracks only boost the matching weapon type; other classes' weapon skins give no points [410][416].
-  Whether they still count for Fashionista: yes [414] (not stated explicitly by [416], which is about points).
+  They **do count for Fashionista**: it showed 223 while the Collection Effect window added up to 217 with other
+  classes' weapon skins, 175 without (in-game 2026-10-24; the remaining 6 maybe Decoration, unchecked) [414].
+- **Fashionista tiers** (in-game 2026-10-24): 10 / 50 / 100 / 200 / 300 / 500 skins (Lv 1–6; higher tiers
+  not seen). Rewards include Kina, 4k at Lv 1 rising to 13k at Lv 6.
 - Launch shop (Atelier/premium) skins give no points [416][413].
 - Worn skins give no stats, except Centurion/Decanus skins (PvP stats) [410].
 - **Titles:** Fashionista (100 skins): +1.9% Combat Speed, Crit +5 [410]. **Empty Closet (700+):** +3.5% Combat
