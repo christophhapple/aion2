@@ -382,6 +382,18 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
 
     **Two skill lines on one piece happen:** this helm has Critical Hit Resist 33, Defense 184, Earth's Grace +1,
     Immortal Veil +1 (plus a Soul Fuse line). The % stats all sit at 0.96–2.4%, the rare tier.
+  - **Shoulders (in-game 2026-10-24, Unique +10 Gartua Pauldrons, GS 70(+20)):** same layout as the helmet: same
+    10 passives at 2%, the same 17 common stats at the same chances, Status Effect Resist 2.4%, and its own top lines.
+    Signature **Critical Damage Boost 2.4%, 9.6–11.1%** (fits [427]). Rare 0.96% lines: Regeneration 1.4–1.7%,
+    Double Chance 1.3–1.5%, Defense increase 1.9–2.3%, Endurance Penetration 1.4–1.7%, Perfect Resist 2.4–2.8%.
+    Status Effect Resist 4.1–4.8%. Common stats: Dexterity 13–22, Constitution 8–16, Willpower 17–27, Attack 13–22,
+    Critical Hit 20–30, Accuracy 27–38, Defense 160–191, Evasion 16–25, Critical Damage / Back / Front Defense
+    164–196, Critical Hit Resist 28–39, Block 16–25, MP 61–77, HP 123–148, Natural MP Regen 14–23, Natural HP Regen 28–39.
+  - **Armor pattern so far (helmet, shoulders):** 1 signature line 2.4%, Status Effect Resist 2.4%, 5 rare % lines
+    at 0.96% (Double Chance and Perfect Resist on both, 3 differ), 17 common stats (3.2–4.8%), 10 passives at 2%.
+    **Ranges are set per slot, not only by GS:** the GS 70 shoulders have lower ranges than the GS 54 helmet
+    (Defense 160–191 vs 181–215), and the main stats swap: helmet Constitution 13–22, Dexterity/Willpower 8–16;
+    shoulders Willpower 17–27, Dexterity 13–22, Constitution 8–16.
     Other slots: not read yet (todo).
   - **Sync pool (in-game 2026-10-24, same Mace, Status Effect Chance selected):** the pool drops **all four lines the
     piece already has** (Status Effect Chance, Back Attack, Precision, Lightning Strike Scattershot), not just the
