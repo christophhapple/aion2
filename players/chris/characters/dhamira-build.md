@@ -262,7 +262,7 @@ passives partly 11–13.
 
 **On top (equipped):**
 - Gear skill lines (Soul Binding tooltips 2026-10-24): Mace Healing Light +1 (since 2026-10-24, was Scattershot) · Ring (Berk) Healing Light +1 · Helmet
-  (Vakron) Earth's Grace +1, Immortal Veil +1 · Shoulders Empyrean Lord's Grace +1 · Shoes (Vakron) Immortal Veil +1 ·
+  (Vakron) Earth's Grace +1, Immortal Veil +1 · Shoulders Empyrean Lord's Grace +1 · Gloves (Vakron) Radiant Benediction +1, Empyrean Lord's Grace +1 · Shoes (Vakron) Immortal Veil +1 ·
   Chest (Vakron) Healing Enhancement +1, Radiant Benediction +1 · Necklace Survival Willpower +1. Not seen: guard, Epic ring, Epic earring. ~~Healing Enhancement +1~~ went with the
   Epic shoes (2026-10-24).
 - Arcana (**reworked 2026-10-22**, in-game "Equipped Effect" screenshot): all 5 slots, **4 Vigor + Bell of Magic**
@@ -279,7 +279,7 @@ passives partly 11–13.
 
 **Replace first:** Chalice (Scattershot line wasted) and Mirror (Empyrean Lord's Benediction wasted).
 **Totals (computed 2026-10-24 from Arcana + the gear lines above, not read in-game):** **Immortal Veil 17** ·
-**Healing Light 17** · **Bolt 16, Empyrean Lord's Grace 16, Healing Enhancement 16, Radiant Benediction 16** · Earth's
+**Healing Light 17, Empyrean Lord's Grace 17, Radiant Benediction 17** · **Bolt 16, Healing Enhancement 16** · Earth's
 Retribution, Chain of Torment, Condemnation, Judgment Thunder, Light of Regeneration, Warm Benediction, Earth's Grace,
 Survival Willpower 15 · Prayer of Concentration 9 · Scattershot 2 · Empyrean Lord's Benediction 2 · the rest 14 (incl. Radiant
 Recovery, Debilitating Mark, Defiance, Divine Aura). 
@@ -332,7 +332,7 @@ Might, Precision, Intelligence, Dexterity, Willpower, Constitution: unrated (wha
 | Shoulders | Critical Damage Boost | HP, Dexterity, Defense, Empyrean Lord's Grace (32.5%) | Sync candidate |
 | Chest | Damage Boost | Critical Hit, Natural MP Regen, Healing Enhancement, Radiant Benediction (54.1%) | Keep both skills; Sync a stat line for Damage Boost |
 | Legs | Damage Tolerance | Constitution, Natural MP Regen, Damage Tolerance 8.9%, Accuracy (23.1%) | Keep Damage Tolerance |
-| Gloves | Combat Speed | Natural MP Regen, Status Effect Resist, HP, Defense (17.8%) | Nothing to protect: Sync candidate |
+| Gloves | Combat Speed | Dexterity, MP, Radiant Benediction, Empyrean Lord's Grace (61.5%, Transfer 2026-10-24) | Keep both skills; Sync Dexterity/MP for Combat Speed later |
 | Shoes | Move Speed | Vakron Boots: Block, Back Defense, Constitution, Immortal Veil (48.2%) | Weak: Sync candidate (low priority) |
 | Cloak | Critical Damage Tolerance | Natural HP Regen, Accuracy, Dexterity, Back Defense (20.7%) | Sync candidate |
 | Ring (Unique) | a good active skill | Natural MP Regen, Critical Hit, Natural HP Regen, Healing Light (47.6%) | Good |
