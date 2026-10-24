@@ -286,7 +286,10 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
   The other lines' values and every max stayed the same. **The rate looks like the average of the four line fills**
   (inference): before (5 + 31 + 24 + 100) / 4 = 40.0, after (5 + 24 + 24 + 100) / 4 = 38.25 (shown 38.1, fills are
   rounded); first Mace (5 + 26 + 100 + 100) / 4 = 57.75 (shown 57.9). So it only drops when the new line starts emptier.
-  Material used and the success chance shown: not recorded. Pool: see "Sync pool" under "Which lines on which slot".
+  **Material (user, in-game 2026-10-24):** only Unique pieces are accepted (no Sync Stone tried); the test used a
+  Unique Mace of about GS 35 (user's estimate). Success chance shown with it: not recorded. **Hypothesis (user,
+  unverified):** the new line's fill, and so the rate, depends on the material's GS. Alternative: the fill is random.
+  Test: Sync with a higher-GS piece and compare the new line's fill. Pool: see "Sync pool" under "Which lines on which slot".
 - **Reset:** reroll all lines, rate back to 0; costs Soul Codex: Reset + Kina (amount unknown) [242][243].
 - **Lines per grade: one per rarity step, Unique = 4 lines** (in-game 2026-10-19), so presumably Common 1, Rare 2,
   Epic 3 (user). Plus one class skill line counted among them (e.g. "Lightning Strike Scattershot Lv. +1").
