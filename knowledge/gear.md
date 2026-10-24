@@ -280,7 +280,8 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
 - **Sync:** costs a same-grade, same-type item (destroyed) or a Sync Stone
   (lower-grade stone: 10% success) [242][243][245]. Unique only, per [245].
   **Open (2026-10-24):** you pick one line in the Sync view, but whether that line is **kept** (the others reroll)
-  or is the **one that rerolls** (guides [242][243][245]) isn't clear yet (user unsure). Either way the pool rules out
+  or is the **one that rerolls** (guides [242][243][245]) isn't clear yet (user unsure). The pool tooltip opens from a % icon on the selected line itself, which hints
+  that it's the line being rerolled (inference); a test Sync on a spare item will settle it. Either way the pool rules out
   the same stat, so "can reroll the same stat" [245] is wrong. Pool: see "Sync pool" under "Which lines on which slot".
 - **Reset:** reroll all lines, rate back to 0; costs Soul Codex: Reset + Kina (amount unknown) [242][243].
 - **Lines per grade: one per rarity step, Unique = 4 lines** (in-game 2026-10-19), so presumably Common 1, Rare 2,
