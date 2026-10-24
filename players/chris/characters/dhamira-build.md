@@ -297,6 +297,38 @@ at base 10.
 Everything above is Mastery preset 1; Mastery preset 2 (Heal) is a copy with only the hotbar/macro
 differences listed in "Presets".
 
+## Soul Binding targets (2026-10-24)
+Pools per slot (chances, ranges): `knowledge/gear.md` "Which lines on which slot". Every pool is 80% stats / 20%
+skill lines. Sync rerolls one chosen line and eats any Unique piece (any slot), so good lines are safe; Transfer
+carries the lines to a same-slot, higher-grade piece. Line priorities are from guides (`knowledge/cleric-skills.md`
+"Stats"), not tested.
+
+**Wanted:** damage first (Damage Boost, Critical Damage Boost, Combat Speed, Weapon Damage Boost; Attack, since
+Healing Enhancement turns it into healing), then Critical Hit; for PvP Damage Tolerance and Status Effect Resist.
+Skill lines: actives Healing Light, Light of Regeneration, Radiant Recovery, Condemnation; passives Healing
+Enhancement, Earth's Grace, Warm Benediction, Prayer of Concentration (only Lv 9, so +1 counts most).
+**Weak:** Lightning Strike Scattershot (unused), Heal Block, Empyrean Lord's Benediction, Front/Back Attack.
+Might, Precision, Intelligence, Dexterity, Willpower, Constitution: unrated (what they do isn't known yet).
+
+| Slot | Target line | Current lines (2026-10-24) | Verdict |
+|---|---|---|---|
+| Mace | Damage Boost, Combat Speed, Weapon Damage Boost | Status Effect Chance, Back Attack, Precision, Scattershot (57.9%) | Weakest for its value: first Sync target |
+| Guard | same as the weapon, smaller | 100%, locked | Done |
+| Helmet | Incoming Heal | Critical Hit Resist, Defense, Earth's Grace, Immortal Veil (56.7%) | Keep Earth's Grace |
+| Shoulders | Critical Damage Boost | HP, Dexterity, Defense, Empyrean Lord's Grace (32.5%) | Sync candidate |
+| Chest | Damage Boost | Critical Damage Defense, Constitution, Critical Hit, Defense (30.5%) | Sync candidate (keep Critical Hit) |
+| Legs | Damage Tolerance | Constitution, Natural MP Regen, Damage Tolerance 8.9%, Accuracy (23.1%) | Keep Damage Tolerance |
+| Gloves | Combat Speed | Natural MP Regen, Status Effect Resist, HP, Defense (17.8%) | Nothing to protect: Sync candidate |
+| Shoes (Epic) | Move Speed | Evasion, Constitution, Healing Enhancement (79.2%) | Keep Healing Enhancement; replace with Unique later |
+| Cloak | Critical Damage Tolerance | Natural HP Regen, Accuracy, Dexterity, Back Defense (20.7%) | Sync candidate |
+| Ring (Unique) | a good active skill | Natural MP Regen, Critical Hit, Natural HP Regen, Healing Light (47.6%) | Good |
+| Earring (Unique) | a good passive skill | Accuracy, Natural MP Regen, Might, MP (37.4%) | Low priority |
+| Necklace | a good passive skill, Combat Speed (small) | Block, Might, Evasion, Survival Willpower (42.3%) | Low priority |
+| Bracelets | (tiny lines) | 100%, locked | Done |
+| Belt, amulet | no Soul Binding | | |
+
+Spend Sync on pieces you'll keep; on gear you'll replace soon, rely on Transfer to carry good lines over.
+
 ## Specialties (in-game 2026-10-17, same in both presets)
 Options per skill: `knowledge/cleric-skills.md`. Lv 20 slots locked everywhere (no skill at 20 yet).
 

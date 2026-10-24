@@ -277,8 +277,9 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
   Each line shows current/max (e.g. 19.35%/22.15%) plus a progress % (in-game); that lines grow as the rate
   rises is an inference. Makes the item untradeable. At 100% the
   item is maxed and locked [242][245]. Total Codex needed to reach 100%: not found.
-- **Sync:** costs a same-grade, same-type item (destroyed) or a Sync Stone
-  (lower-grade stone: 10% success) [242][243][245]. Unique only, per [245].
+- **Sync:** costs a Unique piece (destroyed) **of any type, not the same type** (user, in-game 2026-10-24; only
+  Transfer needs the same type). ~~Same-grade, same-type item~~ [242][243][245]. Sync Stone (lower-grade stone: 10%
+  success) [242][243][245]: not tried. Unique only, per [245].
   **The selected line is the one that rerolls** (in-game 2026-10-24, test Sync on a spare Unique Mace at 40.0%):
   Accuracy 59/70 (31%) became Critical Attack 61/74 (24%); the other three lines didn't change. That matches the
   guides [242][243][245]. But "can reroll the same stat" [245] is wrong: the pool leaves out every line the piece
@@ -286,7 +287,7 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
   The other lines' values and every max stayed the same. **The rate looks like the average of the four line fills**
   (inference): before (5 + 31 + 24 + 100) / 4 = 40.0, after (5 + 24 + 24 + 100) / 4 = 38.25 (shown 38.1, fills are
   rounded); first Mace (5 + 26 + 100 + 100) / 4 = 57.75 (shown 57.9). So it only drops when the new line starts emptier.
-  **Material (user, in-game 2026-10-24):** only Unique pieces are accepted (no Sync Stone tried); the test used a
+  **Material (user, in-game 2026-10-24):** only Unique pieces are accepted, any slot; the test used a
   Unique Mace of about GS 35 (user's estimate). Success chance shown with it: not recorded. **Hypothesis (user,
   unverified):** the new line's fill, and so the rate, depends on the material's GS. Alternative: the fill is random.
   Test: Sync with a higher-GS piece and compare the new line's fill. Pool: see "Sync pool" under "Which lines on which slot".
