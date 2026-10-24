@@ -33,16 +33,27 @@ the reset pattern is from KR official notices. Unverified unless tagged `in-game
 - **Weekly trophy points:** completing missions adds trophy points to a weekly bar with milestones at 1,500 / 3,000 /
   4,500 / 6,000 / 8,000; "Expected Weekly Rewards" are paid at the **weekly reset**, then the bar restarts. This matches
   the guides' weekly Season Mission points [224].
-- **Weekly missions (examples):**
-  - Abyss: hunt 200 monsters in the Abyss, spend 1 hour there, kill 5 enemy players, defeat Nahma / Watcher Kaira /
-    Argo / a Dominator of Lower Reshanta, take part in or win 1 Artifact Siege.
-  - Arena: take part 3 times, win once.
-  - Transcendence: clear Transcendence dungeons (6), defeat 10 mini-bosses, extract 10 Arcana.
-  - Nightmare: defeat bosses (10), get 3,000 Phantasmal Fragments, defeat a boss within a time limit.
-  - Challenge: gather Odyle in the Abyss (chain 10 / 20 / 30, in-game 2026-10-23), complete Abyss commands (chain 3 / 6 / 10 per week, in-game), defeat 3 Abyss bosses, take part in
-    **Battlefield** (steps 1 / 2 / 3 matches, in-game 2026-10-19), clear Ascension Trial 3 times, kill enemy players (officers; in Verteron/Altgard).
-  - Event (Halloween): 10 easy ones (hunt in Abyss, one clear each of Transcendence, Conquest, Ascension Trial,
-    Nightmare, log in 3 times, get a Unique piece, use 5 scrolls, Invasion, Shugo).
+- **Weekly missions, full list (in-game 2026-10-24, last step of each chain; Event tab left out).** The weekly
+  Season Missions and the "Season 1 weekly achievements" of the guides are the same thing. Routine ids in brackets.
+  - **Abyss:** kill 20 enemy-faction players (Bare Minimum M…) [pvp-kills] · hunt 2,000 monsters in the Abyss
+    (Purify Reshanta) [abyss-hunt] · Watcher Kaira 10 [abyss-kaira] · Argo, the Spirit King 3 [abyss-argo] · take part in
+    2 Artifact Sieges (Land Grabs) [siege] · defeat 1 Dominator of Lower Reshanta [abyss-dominator] · Guardian Lord
+    Nahma 1 [abyss-nahma] · win 1 Artifact Siege (Down to the Last…) [siege-win] · 1 hour in the Abyss (Hometown of My
+    Heart) [abyss-time]
+  - **Arena:** win 5 (Me, Beyond Myself), take part 10 (Steady Efforts); 1v1 and 5v5 both count (in-game) [arena-solo, arena-team]
+  - **Transcendence:** a clear within a time limit (Transcendence S…, text cut at "within 7…") [transcendence-speed] ·
+    transmute 1 Arcana (Toward Greater P…) [arcana-transmute] · 10 clears (Way of the Transcended) [transcendence] ·
+    3 clears with a condition that's cut off (Transforms Upon…) [transcendence-transforms] · 10 mini-bosses (Time to Go
+    Home) [transcendence-minibosses]
+  - **Nightmare:** 10 boss kills (Friends With a Story) [nightmare] · 3,000 Phantasmal Fragments (Collecting Dream…) ·
+    boss kills within a time limit: 3 Minutes of Nightmare [nightmare-3min], Nightmare Buster and Eternal Rest (times cut
+    off; one is probably the 1-min kill [nightmare-1min])
+  - **Challenge:** kill Asmodian 1–5 Star Officers 20 (Shooting for the…) [pvp-officers] · kill Asmodians First-Class
+    to N… 60 (Baptism of Fire) [pvp-soldiers] · 50 Asmodian players in Altgard (Pride of Elysea) [pvp-altgard] · 50 in
+    "Ve…" (Marching Beneath…) [pvp-ve] · 30 Odyle in the Abyss (Daeva of Enduring Deeds) [abyss-odyle] · 10 Abyss
+    commands (Daeva of Glorious Deeds) [abyss-commands] · 5 Abyss bosses of any kind (Daeva of Extraordinary Deeds) ·
+    Battlefield 3 (Daeva's Book) [battlefield] · Ascension Trial 3 (Hatched Bird) [ascension]
+  - ~~Guides: Friends With a Story 5/10, Nahma 1~~ fit; ~~Transcendence 6 clears~~ was an earlier step.
 - **Season missions (examples):** Abyss: 10 h in the Abyss, fly 60 min, hunt 2,000 monsters, collect 500,000 AP, take
   part in 5 / win 3 sieges, PvP kills/deaths. Arena: 30 matches, 20 wins, 50 kills, 10 assists, 20 deaths.
   Transcendence: clear each stage of Deus Research Base and Shattered Arkanis. Nightmare: clear each boss level

@@ -20,7 +20,12 @@ routines:
     name: Nightmare
     reset: daily
     cap: 2
-    notes: Attempt only consumed on a clear. Unused attempts bank up to 14. Season 1 weekly achievements (guides) - Friends With a Story at 5/10 boss kills a week, plus one each for a boss kill under 3 / 2 / 1 min. The 1-min kill has its own routine, nightmare-1min.
+    notes: Attempt only consumed on a clear. Unused attempts bank up to 14. Weekly Season Missions (in-game 2026-10-24) - Friends With a Story = 10 boss kills a week (covered by 2/day), Collecting Dreams = 3,000 Phantasmal Fragments (comes with the runs), three timed kills (nightmare-3min, nightmare-1min, and one more whose time is cut off).
+
+  - id: nightmare-3min
+    name: Nightmare boss kill within 3 min (Season Mission "3 Minutes of Nightmare")
+    reset: weekly
+    notes: Weekly Season Mission, Nightmare tab (in-game 2026-10-24). A 1-min kill probably counts here too (unverified); log both.
 
   - id: nightmare-1min
     name: Nightmare boss kill under 1 min (Season Mission)
@@ -54,9 +59,15 @@ routines:
   - id: siege
     group: yes
     name: Artifact Siege (Abyss)
-    notes: Mon, Thu, Sat 21:00, 30 min (all three in-game); with the siege bosses after, ~1h of Abyss time (in-game 2026-10-22). Countdown "Next Siege in" on the Chaotic Lower Reshanta card. Mass faction PvP at 3 Artifacts; final hit on a Dimensional Core takes it. PvP is second priority since 2026-10-19 - join when online, ideally with a group, PvP preset (Batch Set 3). A won Artifact opens the corridor. Details knowledge/abyss.md.
+    notes: Cap 2 = Season Mission Land Grabs (participate 2 times, in-game 2026-10-24), though there are 3 sieges a week. Mon, Thu, Sat 21:00, 30 min (all three in-game); with the siege bosses after, ~1h of Abyss time (in-game 2026-10-22). Countdown "Next Siege in" on the Chaotic Lower Reshanta card. Mass faction PvP at 3 Artifacts; final hit on a Dimensional Core takes it. PvP is second priority since 2026-10-19 - join when online, ideally with a group, PvP preset (Batch Set 3). A won Artifact opens the corridor. Details knowledge/abyss.md.
     reset: weekly
-    cap: 3
+    cap: 2
+
+  - id: siege-win
+    group: yes
+    name: Artifact Siege won (Season Mission "Down to the Last…")
+    notes: Weekly Season Mission, Abyss tab - win 1 Artifact Siege (in-game 2026-10-24). Log alongside siege.
+    reset: weekly
 
   - id: corridor
     group: yes
@@ -143,8 +154,8 @@ routines:
     reset: weekly
     cap: 7
 
-  # Season 1 weekly achievements without a routine of their own (until 2026-12-16). Others are noted on
-  # nightmare, ascension, abyss-commands, battlefield, arena-solo, abyss-time. List: knowledge/achievements.md.
+  # Weekly Season Missions (= Season 1 weekly achievements, until 2026-12-16), checked in-game 2026-10-24.
+  # Caps = the last step. Missions that match an existing routine are noted there instead. List: knowledge/seasons.md.
   - id: transcendence
     group: yes
     name: Transcendence clears
@@ -152,8 +163,8 @@ routines:
     reset: weekly
     cap: 10
 
-  # Abyss bosses, one routine per boss (user, 2026-10-24; replaced abyss-boss). Together they also cover the weekly
-  # achievement Daeva of Extraordinary Deeds at 1/3/5 Abyss bosses (820 Oath Coins + 6,000 AP + 3 Silver Medals, guides).
+  # Abyss bosses, one routine per boss (user, 2026-10-24; replaced abyss-boss), caps = Season Missions (in-game 2026-10-24).
+  # Season Mission Daeva of Extraordinary Deeds = 5 Abyss bosses of any kind (in-game), covered by these together.
   # Older abyss-boss log entries (2026-10-22, 10-23) were Argo kills and count as abyss-argo. Timers in knowledge/abyss.md.
   - id: abyss-kaira
     group: yes
@@ -172,15 +183,88 @@ routines:
   - id: abyss-nahma
     group: yes
     name: Guardian Lord Nahma kills
-    notes: Fri and Sun 21:00, three at once (in-game). Cap 2 (user, 2026-10-24) = one kill per spawn day; the weekly achievement asks for 1 (guides).
+    notes: Fri and Sun 21:00, three at once (in-game). Cap 1 = Season Mission Guardian Lord Nahma (in-game 2026-10-24); ~~cap 2~~ set earlier the same day.
     reset: weekly
-    cap: 2
+    cap: 1
 
   - id: abyss-odyle
     name: Gather Odyle in the Abyss
     notes: Weekly Season Mission, Challenge tab - gather Odyle in the Abyss, chain 10/20/30 (in-game 2026-10-23). Rewards per guides (Daeva of Enduring Deeds) - 820 Oath Coins + 6,000 AP + 3 Silver Medals. Log the amount gathered as ×n.
     reset: weekly
     cap: 30
+
+  - id: transcendence-minibosses
+    group: yes
+    name: Transcendence mini-bosses (Season Mission "Time to Go Home")
+    notes: Defeat 10 mini-bosses in Transcendence (in-game 2026-10-24). Comes with the clears.
+    reset: weekly
+    cap: 10
+
+  - id: transcendence-speed
+    group: yes
+    name: Fast Transcendence clear (Season Mission "Transcendence S…")
+    notes: Clear a Transcendence dungeon within a time limit, text cut off at "within 7…" (in-game 2026-10-24; guides said under 15 min for an earlier step).
+    reset: weekly
+
+  - id: transcendence-transforms
+    group: yes
+    name: Transcendence clears with a condition (Season Mission "Transforms Upon…")
+    notes: Clear Transcendence dungeons 3 times, condition cut off (in-game 2026-10-24).
+    reset: weekly
+    cap: 3
+
+  - id: arcana-transmute
+    name: Transmute 1 Arcana (Season Mission "Toward Greater P…")
+    notes: Transcendence tab (in-game 2026-10-24). Transmutation costs 5 Mysterious Crystals + 2M Kina for one chosen line (in-game), so only when it's planned anyway.
+    reset: weekly
+
+  - id: abyss-hunt
+    group: yes
+    name: Abyss monster kills (Season Mission "Purify Reshanta")
+    notes: Hunt 2,000 monsters in the Abyss (in-game 2026-10-24). Log the count as ×n when the user gives it.
+    reset: weekly
+    cap: 2000
+
+  - id: abyss-dominator
+    group: yes
+    name: Dominator of Lower Reshanta (Season Mission)
+    notes: Defeat 1 Dominator of Lower Reshanta (in-game 2026-10-24).
+    reset: weekly
+
+  - id: pvp-kills
+    group: yes
+    name: Enemy player kills (Season Mission "Bare Minimum M…")
+    notes: Kill 20 players of the opposing faction (in-game 2026-10-24), anywhere as far as the text says. Log kills as ×n.
+    reset: weekly
+    cap: 20
+
+  - id: pvp-officers
+    group: yes
+    name: Asmodian officer kills (Season Mission "Shooting for the…")
+    notes: Kill Asmodians of rank 1–5 Star Officer, 20 (in-game 2026-10-24).
+    reset: weekly
+    cap: 20
+
+  - id: pvp-soldiers
+    group: yes
+    name: Asmodian soldier kills (Season Mission "Baptism of Fire")
+    notes: Kill Asmodians of rank First-Class to N… (cut off), 60 (in-game 2026-10-24).
+    reset: weekly
+    cap: 60
+
+  - id: pvp-altgard
+    group: yes
+    name: Asmodian player kills in Altgard (Season Mission "Pride of Elysea")
+    notes: Kill 50 Asmodian players in Altgard (in-game 2026-10-24); Altgard is the Asmodian home region, reached via the Spacetime Rift.
+    reset: weekly
+    cap: 50
+
+  - id: pvp-ve
+    group: yes
+    name: Asmodian player kills in "Ve…" (Season Mission "Marching Beneath…")
+    notes: Kill 50 Asmodian players in a region cut off at "Ve…" (in-game 2026-10-24).
+    reset: weekly
+    cap: 50
 
   - id: season-claim
     name: Claim Season 1 achievement rewards
