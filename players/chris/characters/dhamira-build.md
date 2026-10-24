@@ -319,7 +319,7 @@ Might, Precision, Intelligence, Dexterity, Willpower, Constitution: unrated (wha
 
 | Slot | Target line | Current lines (2026-10-24) | Verdict |
 |---|---|---|---|
-| Mace | Healing Light (or another key active), then Damage Boost, Combat Speed, Weapon Damage Boost | Status Effect Chance, Back Attack, Precision, Scattershot (57.9%) | Plan (2026-10-24): Transfer the spare Holy Spirit Mace (Healing Light +1) onto it, then Sync the stat lines using the two spare Wisdom Maces |
+| Mace | Healing Light (or another key active), then Damage Boost, Combat Speed, Weapon Damage Boost | Status Effect Chance, Back Attack, Precision, Scattershot (57.9%) | Plan (2026-10-24): Transfer the spare Holy Spirit Mace (Healing Light +1) onto it, Sync the stat lines later, when Sync is affordable (user: expensive and random for now) |
 | Guard | same as the weapon, smaller | 100%, locked | Done |
 | Helmet | Incoming Heal | Vakron Helm: Critical Hit Resist, Defense, Earth's Grace, Immortal Veil (52.5%) | Keep Earth's Grace |
 | Shoulders | Critical Damage Boost | HP, Dexterity, Defense, Empyrean Lord's Grace (32.5%) | Sync candidate |
