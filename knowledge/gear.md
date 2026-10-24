@@ -395,14 +395,21 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
     Dexterity 10–19, Constitution 17–27, Willpower 8–16, Attack 20–30, Critical Hit 30–42, Accuracy 41–54, Defense
     240–283, Evasion 24–35, Critical Damage / Back / Front Defense 246–290, Critical Hit Resist 43–56, Block 24–35,
     MP 92–113, HP 185–220, Natural MP Regen 22–32, Natural HP Regen 43–56. Same 10 passives.
-  - **Armor pattern so far (helmet, shoulders, chest):** 1 signature line 2.4%, Status Effect Resist 2.4%, 5 rare %
+  - **Legs (in-game 2026-10-24, Unique +10 Vakron Greaves, GS 70(+15)):** same layout. Signature **Damage Tolerance
+    2.4%, 8.6–10%** (fits [427]). Rare 0.96% lines: Perfect Chance 4–4.6%, Endurance 2.6–3.1%, Attack increase
+    1.8–2.1%, Double Resist 2.6–3.1%, Multi-hit Resist 4–4.6%. Status Effect Resist 5.6–6.6%. Common stats:
+    Dexterity 8–16, Constitution 13–22, Willpower 10–19, Attack 18–28, Critical Hit 28–39, Accuracy 37–50, Defense
+    220–260, Evasion 22–32, Critical Damage / Back / Front Defense 226–267, Critical Hit Resist 39–52, Block 22–32,
+    MP 84–104, HP 169–201, Natural MP Regen 20–30, Natural HP Regen 39–52. Same 10 passives.
+  - **Armor pattern so far (helmet, shoulders, chest, legs):** 1 signature line 2.4%, Status Effect Resist 2.4%, 5 rare %
     lines at 0.96% (a mix from Double Chance/Resist, Perfect Chance/Resist, Regeneration, Defense increase, Endurance,
-    Endurance Penetration, Attack increase, Weapon Damage Tolerance; differs per slot), 17 common stats (3.2–4.8%),
+    Endurance Penetration, Attack increase, Weapon Damage Tolerance, Multi-hit Resist; differs per slot), 17 common stats (3.2–4.8%),
     10 passives at 2%.
     **Ranges are set per slot, not only by GS:** at about the same GS 70 the chest has much higher ranges than the
     shoulders (Defense 240–283 vs 160–191; the GS 54 helmet sits between, 181–215), and the main stats swap:
     helmet Constitution 13–22, Dexterity/Willpower 8–16; shoulders Willpower 17–27, Dexterity 13–22, Constitution 8–16;
-    chest Constitution 17–27, Dexterity 10–19, Willpower 8–16.
+    chest Constitution 17–27, Dexterity 10–19, Willpower 8–16; legs Constitution 13–22, Willpower 10–19, Dexterity 8–16.
+    Size order at GS 70 (Defense): chest 240–283 > legs 220–260 > shoulders 160–191.
     Other slots: not read yet (todo).
   - **Sync pool (in-game 2026-10-24, same Mace, Status Effect Chance selected):** the pool drops **all four lines the
     piece already has** (Status Effect Chance, Back Attack, Precision, Lightning Strike Scattershot), not just the
