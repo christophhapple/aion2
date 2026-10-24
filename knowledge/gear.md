@@ -407,7 +407,7 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
     Dexterity, Constitution, Willpower and Attack all 11–20, Critical Hit 17–27, Accuracy 24–35, Defense 140–168,
     Evasion 14–23, Critical Damage / Back / Front Defense 143–171, Critical Hit Resist 25–36, Block 14–23, MP 53–68,
     HP 108–131, Natural MP Regen 12–21, Natural HP Regen 25–36. Same 10 passives.
-  - **Shoes (in-game 2026-10-24, **Epic** +10 Divine Canyon Boots, GS 42(+15)):** same layout and the same chances as
+  - **Shoes (in-game 2026-10-24, Epic +10 Divine Canyon Boots, GS 42(+15)):** same layout and the same chances as
     the Unique pieces; Epic only changes the line count (3) and the ranges come out lower (but this piece is also
     much lower GS, so grade vs GS can't be told apart yet). No Soul Fuse line (Unique/Heroic only, see below).
     Signature **Move Speed 2.4%, 5.4–6.3%** (fits [427]). Rare 0.96% lines: Perfect Chance 2.3–2.7%, Regeneration
