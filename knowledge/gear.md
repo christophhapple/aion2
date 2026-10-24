@@ -292,7 +292,8 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
   Test: Sync with a higher-GS piece and compare the new line's fill. Pool: see "Sync pool" under "Which lines on which slot".
 - **Reset:** reroll all lines, rate back to 0; costs Soul Codex: Reset + Kina (amount unknown) [242][243].
 - **Lines per grade: one per rarity step, Unique = 4 lines** (in-game 2026-10-19), so presumably Common 1, Rare 2,
-  Epic 3 (user). Plus one class skill line counted among them (e.g. "Lightning Strike Scattershot Lv. +1").
+  Epic 3 (user). A class skill line is often one of them (e.g. "Lightning Strike Scattershot Lv. +1"), but not always:
+  a Unique Guard had four stat lines and no skill (in-game 2026-10-24); each line is a skill ~20% of the time.
   ~~Unique 3–5, Heroic 4–6~~ [242] and ~~all gear 4~~ [246] were both off for Unique; Heroic not seen yet.
 - **Which lines on which slot (researched 2026-10-23, guides, unverified):**
   - **Class skill line:** weapon, guard and rings roll **active** skills (weapon: only that weapon's class);
@@ -344,6 +345,12 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
     Precision 29, Accuracy 70, Back Attack 74 exactly; Status Effect Chance 22.15% and 18.01% vs 22.2% and 18%, the
     range rounded (user's point). So there's no max to roll: a line's quality is only which stat it is, and Bind
     fills it from the range bottom to the top (inference from 6 lines; rounding in the fill % fits too).
+  - **Guard (in-game 2026-10-24, spare Unique Holy Spirit Guard, GS 41):** exactly the Mace's pool: same 16 stats
+    (Weapon Damage Boost included), same 12 Cleric active skills, same chances. Ranges are lower than a Mace of the
+    same GS 41, about 0.77×: Combat Speed 6.1–7.1%, Damage Boost 3.5–4.1%, Multi-hit Chance and Weapon Damage Boost
+    4.7–5.4%, Status Effect Chance 12.5–14.4%, Might and Precision 12–21, Attack 21–31, Critical Hit 33–45,
+    Critical / Back / Front Attack 46–60, Accuracy 44–58, Block 27–38, MP 99–121, HP 200–237.
+    Fits [426]: guard rolls active skills. A guard at 100% rate no longer shows in the Soul Binding menu.
     Other slots: not read yet (todo).
   - **Sync pool (in-game 2026-10-24, same Mace, Status Effect Chance selected):** the pool drops **all four lines the
     piece already has** (Status Effect Chance, Back Attack, Precision, Lightning Strike Scattershot), not just the
