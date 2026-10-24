@@ -38,7 +38,7 @@ Lower Reshanta done: all feathers collected, all Azphel Daevanion Crystals from 
 |---|---|---|---|---|
 | Mace | Unique +10 | | Guard | Unique +10 |
 | Helmet | Unique +10 (Vakron Helm, GS 70(+15), transferred 2026-10-24, Manastones slotted) | | Pauldrons | Unique +10 |
-| Top | Unique **+0** (Vakron Breastplate, Transfer test 2026-10-24; needs +10 again) | | Belt | Unique +10 (2026-10-23) |
+| Top | Unique +10 (Vakron Breastplate, GS 70(+17), 2026-10-24) | | Belt | Unique +10 (2026-10-23) |
 | Legs | Unique +10 | | Gloves | Unique +10 |
 | Cloak | Unique +10 (Courage Cloak, seen 2026-10-24) | | Shoes | Unique +10 (Vakron Boots, GS 70(+15), 2026-10-24) |
 | Earring | Unique +10 | | Earring | Epic +10 |

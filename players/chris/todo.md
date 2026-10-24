@@ -4,7 +4,6 @@ One-off things to do or check in the game. Daily/weekly routines live in `routin
 tracker itself goes in `backlog.md`.
 
 ## Open
-- [ ] Enhance the chest (Vakron Breastplate) back to +10 (Transfer test left it at +0)
 - [ ] **By 2026-12-16 08:00:** use up the 50 Odyle Energy (Bound) items (2,000 Odyle), they expire with Season 1.
   About one extra cube (40) per day on top of the normal regen
 - [ ] Screenshot the **Season Missions** window, all tabs (= metabot's Season 1 achievements: Nightmare
@@ -44,6 +43,7 @@ tracker itself goes in `backlog.md`.
   Does a higher-GS material give a fuller new line (or a better chance)? See `knowledge/gear.md` "Sync"
 
 ## Done
+- [x] Chest (Vakron Breastplate) enhanced back to +10 after the Transfer test (2026-10-24)
 - [x] First Transfer: Bakarma Helm → Vakron Helm +10; 1 Transfer Stone, no Kina; preview exists; lines carry with fill loss, Manastones lost (2026-10-24)
 - [x] Soul Binding pools read for all 11 slots (weapon, guard, 7 armor, ring, earring, necklace) (2026-10-24)
 - [x] Soul Binding Sync tested: the selected line rerolls, the others stay; rate 40.0 → 38.1% (2026-10-24)
