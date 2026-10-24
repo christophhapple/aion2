@@ -327,12 +327,16 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
     The best lines (Damage Boost, Combat Speed, Weapon Damage Boost) are also the rarest.
   - **How a line's value works (in-game 2026-10-24, a Mace at 57.9%):** the value starts at the range minimum and
     grows toward the line's max; the % next to the line is that progress (19.35/22.15 = 5%, Back Attack 76/90 = 26%).
-    Lines grow unevenly: Precision was already 100% at a 57.9% rate. **Ranges depend on the item grade**
-    (in-game 2026-10-24): a lower-grade Mace showed maxes Status Effect Chance 18.01%, Accuracy 70, Back Attack 74,
-    all below the Unique ranges (19.2–22.2%, 68–85, 72–90). A skill line is just +1, shown as 100%.
-    **Open:** is the max always the range top, or rolled inside the range? Back Attack 90 and Precision 29 are the
-    top; Status Effect Chance 22.15% vs the range's 22.2% may just be the range rounded to one decimal (user).
-    A line whose max is clearly below its range top would settle it.
+    Lines grow unevenly: Precision was already 100% at a 57.9% rate. A skill line is just +1, shown as 100%.
+  - **Ranges depend on the item's GS, not only its grade** (in-game 2026-10-24): a second Unique Mace, Holy Spirit
+    Mace (GS 41, 29 below the equipped one; tooltip says "Item Level"), has the same lines and chances but lower
+    ranges: Combat Speed 7.9–9.1%, Damage Boost 4.4–5.2%, Multi-hit Chance and Weapon Damage Boost 5.8–6.8%,
+    Status Effect Chance 15.6–18%, Might and Precision 15–24, Attack 27–38, Critical Hit 41–54, Critical / Back /
+    Front Attack 58–74, Accuracy 55–70, Block 33–45, MP 124–150, HP 250–295.
+  - **A line's max is the top of its range** (in-game 2026-10-24, 6 of 6 lines on two Maces): Back Attack 90,
+    Precision 29, Accuracy 70, Back Attack 74 exactly; Status Effect Chance 22.15% and 18.01% vs 22.2% and 18%, the
+    range rounded (user's point). So there's no max to roll: a line's quality is only which stat it is, and Bind
+    fills it from the range bottom to the top (inference from 6 lines; rounding in the fill % fits too).
     Other slots: not read yet (todo).
   - **Sync pool (in-game 2026-10-24, same Mace, Status Effect Chance selected):** the pool drops **all four lines the
     piece already has** (Status Effect Chance, Back Attack, Precision, Lightning Strike Scattershot), not just the

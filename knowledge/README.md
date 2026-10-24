@@ -6,7 +6,7 @@ Guides and news name patches by date, not version, so tag patch-related facts as
 The client version's suffix (`20261007…`) shows the patch date, so the two can be matched.
 
 ## Terminology
-- **Gear score (GS)** = **item level (IL)**: same number. The game shows no name for it; players
+- **Gear score (GS)** = **item level (IL)**: same number. The item tooltip calls a piece's value "Item Level" (in-game 2026-10-24); players
   in-game say "gear score"/"GS", guides often say "item level". This repo uses **GS**.
 
 - **Factions are mirrored:** Elyos and Asmodian have the same systems, gear and progression; only

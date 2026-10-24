@@ -43,8 +43,7 @@ tracker itself goes in `backlog.md`.
   lines can be kept. See `knowledge/gear.md` "Sync"
 - [ ] Soul Binding pools per slot (Mace done 2026-10-24, the Reset view lists the pool with chances): screenshot it for the guard, one armor piece
   per slot (helmet, shoulders, chest, legs, gloves, shoes, cloak) and one each of ring, earring, necklace. Checks: skill line active on
-  weapon/guard/rings vs passive on armor/earrings/necklace, one signature stat per armor piece, and on
-  bound pieces: is any line's max (x/**max**) clearly below the top of its range in the pool? See
+  weapon/guard/rings vs passive on armor/earrings/necklace, and one signature stat per armor piece. See
   `knowledge/gear.md` "Which lines on which slot"
 
 ## Done
