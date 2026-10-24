@@ -125,7 +125,8 @@ Same template for Fire Temple [372], Draupnir [373], Vakron Sky Island [374], Kr
 | Street Fighter | 50…500 player kills (Abyss) | 16,800 Oath Coins, 33,600 AP, 10 Soul Codex |
 | No Time to Rest / Artifact Assault | join 5/10/15 / win 3/6/10 Artifact Sieges | 4,200 / 6,300 Oath Coins; Assault also 15 Amplify Stones (Unique) |
 | Arena: Piercing the Enemy's Heart | 50…300 Arena kills | 5,500 Oath Coins, **710 Soul Crystals** |
-| Arena: Steady Efforts (weekly) | 3/7/10 Arena matches | 1,080 Oath Coins, 70 Soul Crystals |
+| Arena: Steady Efforts (weekly) | 3/7/10 Arena matches; 1v1 matches count, done with 10 (in-game 2026-10-24) | 1,080 Oath Coins, 70 Soul Crystals |
+| Arena: Me, Beyond Myself (weekly) | 1/3/5 Arena wins; 1v1 wins count, done with 5 (in-game 2026-10-24) | not recorded |
 | Arena: Reaper of the Arena | 20/50/100 wins | 4,200 Oath Coins, 5 Soul Codex |
 
 The weeklies reset every week, so they're the steadiest Oath Coin source. The per-boss Nightmare
