@@ -62,3 +62,8 @@ Lower Reshanta done: all feathers collected, all Azphel Daevanion Crystals from 
   Odyle isn't limiting either: 50 Odyle Energy (Bound) items (40 each = 2,000 Odyle) that expire 2026-12-16,
   plus 60 / 840 Odyle Energy and 300 in the charged pool from used items (in-game 2026-10-23).
 - Titles (2026-10-13): Guardian of Verteron (Attack), Saint of Verteron (Defense), Through Hell and Back owned (Other slot). Hello There, Mysterious Racer, Standing on My Own Two Feet owned (2026-10-13). Catch Me If You Can owned (2026-10-14). Lady of the Lake owned (2026-10-15).
+
+## Skin collection (in-game 2026-10-24)
+Weapons 18/56 (Mace 37 pts, +3.7% Mace Attack) · Armor 132/766 · Accessories 25/117.
+Points (bonus = pts × 0.1%): Helm 29 · Pauldrons 30 · Top 24 · Legs 50 · Gloves 48 · Shoes 36 · Cloak 38 (Defense of that slot) ·
+Earrings 23 · Necklace 31 (Attack and Defense). Other classes' weapon skins (no points): 5, 5, 8, 7, 5, 8, 4.
