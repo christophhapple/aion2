@@ -74,8 +74,8 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
     showed 36 and 200. Skill lines carry as they are (+1, 100%). Rate 56.7% → 52.5%, again the average of the fills.
     So the values land near the bottom of the new range, still higher than before here because the ranges are higher.
   - **Manastones don't carry:** the new helm's 4 slots are empty, the source's stones are gone with it. The target's
-    **Soul Fuse slot stays**. The bracket after GS dropped (+15 → +10): it seems to count Manastones etc. on top of
-    enhancement (inference).
+    **Soul Fuse slot stays**. The bracket after GS dropped (+15 → +10) and went back to +15 once 4 Manastones were
+    slotted: **the bracket counts Manastones on top of enhancement** (in-game 2026-10-24).
 - **What Transfer carries (researched 2026-10-16, guides, unverified; see the in-game test above):**
   - **Carries:** enhancement level, breakthrough, **Soul Binding base lines at their reached values**
     [33, KR][242][243][244][296][297].
