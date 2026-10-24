@@ -14,7 +14,14 @@ from allthings.how stage-2 write-ups (region not stated, probably global) [304][
   the cube = −1; at 0 locked out until Wed reset) [306]. Cube 40 Odyle (in-game 2026-10-19).
 - **Final boss is locked behind a kill counter**; a mini-boss counts ~45 kills [304]. Deus stage 4: 150 [309, unverified].
 - **Time limit:** not documented on global; 30 min on Deus stage 4 per one video [309]. A weekly
-  achievement asks for a clear under 15 min [308]. What happens at timeout: not found.
+  achievement asks for a clear under 15 min [308]; on global the weekly Season Mission asks for **within 7 min**
+  (in-game 2026-10-24). What happens at timeout: not found.
+- **Speed clears** (searched 2026-10-24: no speed-run guide found for either dungeon, global or KR):
+  the kill counter can't be skipped, only the final boss waits on it [303][304]. Deus: one player runs ahead
+  to activate the **teleporter near the second boss's entrance** while the rest clear; an optional balcony
+  shortcut can be blocked by an invisible barrier [435, unverified]. Left branch Gelcos, right branch Nazmun,
+  then fill the counter in the big arena before Atiel [303, KR/TW]. Stage 1 is the obvious pick for the 7 min
+  mission (lowest HP; own inference).
 - **Deaths:** respawn at a Kibelisk between bosses and glide back; mid-fight resurrection works [305].
   Falls and some mechanics can make a death unrecoverable [302]. Revive limit: not found.
 - **Score:** rank + time, penalties for deaths; Rank Points count toward season rewards [300][304].

@@ -526,3 +526,4 @@ Added 2026-10-22 (skins, Closet, Skin Combine).
 432. games.gg, best PC settings, 2026-10-05: https://games.gg/aion-2/guides/aion-2-best-pc-settings/
 433. gearupbooster, fix Aion 2 lag (vendor, low trust), 2026: https://www.gearupbooster.com/en/blog/fix-aion-2-lag.html
 434. gamesfuze, best graphics settings for FPS, lag and stutter, 2026: https://gamesfuze.com/game-fixes/aion-2-best-graphics-settings-for-fps-fix-lag-crashes-stutter/
+435. mobalytics, Deus Research Base guide, 2026 (search snippet only, page 403): https://mobalytics.gg/gamebase/guides/aion-2-deus-research-base
