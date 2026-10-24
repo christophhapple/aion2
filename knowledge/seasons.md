@@ -35,7 +35,7 @@ the reset pattern is from KR official notices. Unverified unless tagged `in-game
   the guides' weekly Season Mission points [224].
 - **Weekly missions, full list (in-game 2026-10-24, last step of each chain; Event tab left out).** The weekly
   Season Missions and the "Season 1 weekly achievements" of the guides are the same thing. Routine ids in brackets.
-  - **Abyss:** kill 20 enemy-faction players (Bare Minimum M…) [pvp-kills] · hunt 2,000 monsters in the Abyss
+  - **Abyss:** kill 20 enemy-faction players (Bare Minimum M…, pays 320 Oath Coins, in-game 2026-10-24) [pvp-kills] · hunt 2,000 monsters in the Abyss
     (Purify Reshanta) [abyss-hunt] · Watcher Kaira 10 [abyss-kaira] · Argo, the Spirit King 3 [abyss-argo] · take part in
     2 Artifact Sieges (Land Grabs) [siege] · defeat 1 Dominator of Lower Reshanta [abyss-dominator] · Guardian Lord
     Nahma 1 [abyss-nahma] · win 1 Artifact Siege (Down to the Last…) [siege-win] · 1 hour in the Abyss (Hometown of My
