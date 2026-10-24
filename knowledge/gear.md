@@ -435,6 +435,13 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
     gloves all four 11–20; shoes (Epic, GS 42) Dexterity 12–21, Willpower 9–17, Constitution 7–15; cloak (GS 41)
     Dexterity and Willpower 12–21, Constitution 7–15.
     Size order at GS 70 (Defense): chest 240–283 > legs 220–260 > shoulders 160–191 > gloves 140–168.
+  - **Ring (in-game 2026-10-24, Unique +10 Berk Ring, GS 54(+15)):** its own pool, **no % stats at all** (no Damage
+    Boost, Combat Speed etc.), 15 flat stats (80%) + the **12 Cleric active skills** at ~1.67% (20%), the weapon's
+    skill list (fits [426]: rings roll active skills). Chance, range: Might, Precision 1.6% each, 5–13; Intelligence
+    1.6%, 8–16; Flight Power 4.8%, 174–200; Attack 4.8%, 15–24; Critical Hit 4.8%, 23–33; Accuracy 4.8%, 31–43;
+    Defense 4.8%, 181–215; Evasion 4.8%, 18–28; Critical Hit Resist, Block, MP, HP 7.6% each: 32–44, 18–28, 69–86,
+    139–167; Natural MP Regen, Natural HP Regen 8% each: 16–25, 32–44. The shared ranges equal the GS 54 helmet's
+    (Defense 181–215, Critical Hit 23–33, Accuracy 31–43). So on a ring the skill line is the valuable part.
     Other slots: not read yet (todo).
   - **Sync pool (in-game 2026-10-24, same Mace, Status Effect Chance selected):** the pool drops **all four lines the
     piece already has** (Status Effect Chance, Back Attack, Precision, Lightning Strike Scattershot), not just the
