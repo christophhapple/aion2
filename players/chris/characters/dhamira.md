@@ -37,7 +37,7 @@ Lower Reshanta done: all feathers collected, all Azphel Daevanion Crystals from 
 | Slot | Grade +level | | Slot | Grade +level |
 |---|---|---|---|---|
 | Mace | Unique +10 | | Guard | Unique +10 |
-| Helmet | Epic +10 | | Pauldrons | Unique +10 |
+| Helmet | Unique +10 (Bakarma Helm, seen 2026-10-24) | | Pauldrons | Unique +10 |
 | Top | Unique +10 | | Belt | Unique +10 (2026-10-23) |
 | Legs | Unique +10 | | Gloves | Unique +10 |
 | Cloak | Epic +10 | | Shoes | Epic +10 |

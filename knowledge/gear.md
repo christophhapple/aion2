@@ -308,7 +308,7 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
     weapons) [426][427]. The clean split exists only for Potential (below).
   - **Contradiction:** [426]'s stat tables (weapon: Accuracy, Attack, Crit, HP, MP, Block, Damage Boost) don't
     contain the Mace's own lines Status Effect Chance, Back Attack, Precision (in-game 2026-10-19), so they're incomplete.
-  - **Full pool, Unique Mace (Cleric) (in-game 2026-10-24, Reset view):** chance per line, value range.
+  - **Full pool, Unique Mace (Cleric) (in-game 2026-10-24, Reset view, +10 Aulamus Mace, GS 70(+23)):** chance per line, value range.
     The chances add up to 100%: stats 80%, skills 20% (fits [426]'s "~1 in 5").
     | Line | Chance | Range |
     |---|---|---|
@@ -338,7 +338,7 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
     Lines grow unevenly: Precision was already 100% at a 57.9% rate. A skill line is just +1, shown as 100%.
   - **Ranges depend on the item's GS, not only its grade** (in-game 2026-10-24): a second Unique Mace, Holy Spirit
     Mace (GS 41, 29 below the equipped one; tooltip says "Item Level"), has the same lines and chances but lower
-    ranges: Combat Speed 7.9–9.1%, Damage Boost 4.4–5.2%, Multi-hit Chance and Weapon Damage Boost 5.8–6.8%,
+    ranges than the GS 70 Aulamus Mace above: Combat Speed 7.9–9.1%, Damage Boost 4.4–5.2%, Multi-hit Chance and Weapon Damage Boost 5.8–6.8%,
     Status Effect Chance 15.6–18%, Might and Precision 15–24, Attack 27–38, Critical Hit 41–54, Critical / Back /
     Front Attack 58–74, Accuracy 55–70, Block 33–45, MP 124–150, HP 250–295.
   - **A line's max is the top of its range** (in-game 2026-10-24, 6 of 6 lines on two Maces): Back Attack 90,
