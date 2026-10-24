@@ -277,8 +277,11 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
   Each line shows current/max (e.g. 19.35%/22.15%) plus a progress % (in-game); that lines grow as the rate
   rises is an inference. Makes the item untradeable. At 100% the
   item is maxed and locked [242][245]. Total Codex needed to reach 100%: not found.
-- **Sync:** reroll one chosen line; costs a same-grade, same-type item (destroyed) or a Sync Stone
-  (lower-grade stone: 10% success) [242][243][245]. Unique only, per [245]. Can reroll the same stat.
+- **Sync:** costs a same-grade, same-type item (destroyed) or a Sync Stone
+  (lower-grade stone: 10% success) [242][243][245]. Unique only, per [245].
+  **In-game 2026-10-24 (user):** you pick one line to lock, the others reroll. ~~Reroll one chosen line, can reroll
+  the same stat~~ [242][243][245] doesn't match that; the pool below rules out the same stat. Pool: see
+  "Sync pool" under "Which lines on which slot".
 - **Reset:** reroll all lines, rate back to 0; costs Soul Codex: Reset + Kina (amount unknown) [242][243].
 - **Lines per grade: one per rarity step, Unique = 4 lines** (in-game 2026-10-19), so presumably Common 1, Rare 2,
   Epic 3 (user). Plus one class skill line counted among them (e.g. "Lightning Strike Scattershot Lv. +1").
@@ -328,6 +331,13 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
     top; Status Effect Chance 22.15% vs the range's 22.2% may just be the range rounded to one decimal (user).
     A line whose max is clearly below its range top would settle it.
     Other slots: not read yet (todo).
+  - **Sync pool (in-game 2026-10-24, same Mace, Status Effect Chance locked):** the pool drops **all four lines the
+    piece already has** (Status Effect Chance, Back Attack, Precision, Lightning Strike Scattershot), not just the
+    locked one: no duplicate lines. The rest is rescaled **within each group**: stats still add up to 80%, skills to 20%.
+    E.g. stats left 80 − 14.4 = 65.6, so Combat Speed 3.2 × 80/65.6 = 3.902% (shown 3.902%); skills left 18.33,
+    so 1.666 × 20/18.33 = 1.818% (shown). Every shown value fits this. So a rerolled line is a stat 80% / a skill 20% of the
+    time, whatever the piece has; whether that allows two skill lines on one piece: not seen. Removing common lines
+    lifts the rare ones a little (Damage Boost 1.6 → 1.95%) (all inference from the numbers).
 - **Transfer:** base lines carry over [242][243][244] (matches the KR wiki in "Enhancement" above);
   the Soul Fuse line does not.
 - **Soul Codex sources (in-game 2026-10-19):** Transcendence, expeditions (Exploration and Conquest), Sanctuary,
