@@ -286,6 +286,12 @@ Stats: Wisdom + Life (god stats), Constitution + Power (primary); Heal Boost (Pv
   piece at once [122]. **Confirmed: the Ascension Bracelet takes Soulstones, not Manastones** (in-game 2026-10-11). [115]'s "Superior Manastone in the bracelet" meant the category (see Naming).
 - **Naming:** "Manastone" is both the item category and one stone type. Tooltips: "Superior Soulstone (Bound): Common Manastone" and "Superior Manastone (Bound): Common Manastone" (in-game 2026-10-11). The part after the colon is the category (+ grade), not the stone type. Metabot lists Soulstones under "Manastone" too [122].
 - Save high-tier stones for pieces you keep (bracelet, belt, amulet); low-tier on gear you'll replace [122].
+- **GS from Manastones (in-game 2026-10-24, user's idea, checked on 13 tooltips):** each slotted stone adds GS by its
+  grade (stat text color): **Common (white) +1, Rare (green) +2, Epic (blue) +3, Unique (gold) +4**. The tooltip's
+  "Item Level 70(+17)" bracket = enhancement level + these. Fits every piece seen, e.g. chest 3 green + 1 white = +7
+  (+10 enhancement → +17), helmet 1 green + 3 white = +5 (+15), Ascension Bracelet gold HP+160 + 2 green + 1 blue =
+  +11 (+21), pauldrons 2 blue + 2 green = +10 (+20). The mace's 2 blue + 2 green = +10 leaves +3 for its Theostone
+  (Zikel's Vestige) (inference). So swapping a white stone for a green one is +1 GS, regardless of the stat.
 
 ## Soul Binding, Soul Codex, Philosopher's Stone (researched 2026-10-14)
 
