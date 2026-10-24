@@ -83,7 +83,7 @@ actives). Names cut off in the header marked "…".
 
 | Passive | Effect |
 |---|---|
-| **Empyrean Lord's Grace** | Critical Hit +160, Double Chance +2.6%, **+862–883 extra damage** when an attack lands (1s CD). Prayer of Amplification Lv 10: ×1.5 for its duration |
+| **Empyrean Lord's Grace** | Critical Hit +160, Double Chance +2.6%, **+862–883 extra damage** when an attack lands (1s CD). Prayer of Amplification Lv 10: ×1.5 for its duration. **Per level: +5 Critical Hit, +0.2% Double Chance, +23 extra damage (~2%)** (in-game 2026-10-24: (+5) 170 / 3% / 1050–1083, (+6) 175 / 3.2% / 1073–1106) |
 | **Earth's Grace** | **Critical Damage Boost +16%**, Accuracy +100. Prayer of Amplification Lv 15: ×1.5 for its duration |
 | **Healing Enhancement** | Heal Boost +26.4% of Attack (why Attack is the healer's main stat) |
 | **Radiant Benediction** | Heals caster + party within 40m for 711–854 when an attack lands (5s CD) |
