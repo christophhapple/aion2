@@ -269,8 +269,8 @@ passives partly 11–13.
   Benediction +1, Empyrean Lord's Grace +1, Immortal Veil +1, Empyrean Lord's Benediction +1, Healing Enhancement +1,
   Radiant Benediction +1. **Only the Parchment changed** (inference: Life 10 → 19, all other lines as before):
   Condemnation +1 gone; Earth's Retribution +2, Debilitating Mark +1, Chain of Torment +1 new. Earth's Retribution +3
-  with only Chalice and Parchment able to carry it (guide pools) means one line gives +2 (inference). Not checked yet:
-  the new Parchment's grade and set (is the Vigor 4-piece still active?).
+  with only Chalice and Parchment able to carry it (guide pools) means one line gives +2 (inference). New Parchment: **Epic,
+  Vigor**, so still 4 Vigor + Bell of Magic and the 4-piece stays active; other four cards unchanged (user, 2026-10-24).
 - Before (**reworked 2026-10-22**, in-game "Equipped Effect" screenshot): all 5 slots, **4 Vigor + Bell of Magic**
   (the target layout), Primal Vigor 4-piece active (+150 PvE Attack at ≥70% HP). All **Common +2** (MAX), item
   level 20 (+2) = 22 GS each (in-game card tooltips 2026-10-22). Table below = that state, Parchment since replaced.
