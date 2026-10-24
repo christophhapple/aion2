@@ -82,6 +82,13 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
   and Soul Binding; the target only gives the base item**, and the target's +10 would be lost (no stone refund).
   Same-GS Transfer is allowed. At the same GS the values carry unchanged (the fill loss above comes from the range
   change). **Rule:** the source must be the piece with the enhancement you want to keep.
+  **Confirmed** (same pair, done 2026-10-24): result +0, source's lines at the same values, rate 54.1%. **The
+  target's own Manastones stayed** (4 stones, all still slotted). With the helmet test (source's stones lost,
+  target's empty slots stayed empty) that fits one rule: **Manastones belong to the target piece; the source's are
+  destroyed.** Not seen yet: a source and a target that both have stones (the rule says the target's stay).
+  So Transfer can keep a good Manastone roll on the target, at the cost of 1 Transfer Stone plus the target's
+  enhancement (lost without refund, re-enhance from +0). Tooltip bracket: 70(+7) with only the 4 stones, so the
+  bracket = enhancement + Manastones (here +10 → +7 for these stones).
 - **What Transfer carries (researched 2026-10-16, guides, unverified; see the in-game test above):**
   - **Carries:** enhancement level, breakthrough, **Soul Binding base lines at their reached values**
     [33, KR][242][243][244][296][297].
