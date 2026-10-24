@@ -116,7 +116,7 @@ Same template for Fire Temple [372], Draupnir [373], Vakron Sky Island [374], Kr
 | Tower of Trials | Ascension Trial score 200 (8 tiers) | 12,660 Oath Coins, Training Arcana |
 | Hatched Bird (weekly) | Ascension Trial 1/2/3 | 1,260 Oath Coins |
 | Daeva of Enduring / Glorious / Extraordinary Deeds, Daeva's Book (weekly) | 10 Abyss Odyle / 3 Abyss commands / 1 Abyss boss / 1 Battlefield | 820 Oath Coins + 6,000 AP + 3 Silver Medals each |
-| Purify Reshanta (weekly) | 200…2,000 Abyss kills (10 tiers) | 5,780 Oath Coins, 10,190 AP, 9 Silver Medals |
+| Purify Reshanta (weekly) | 200…2,000 Abyss kills (10 tiers) | 5,780 Oath Coins, 10,190 AP, 9 Silver Medals. **The 600-kill tier pays 370 Oath Coins** (in-game 2026-10-24) |
 | Hometown of My Heart (weekly) | 1 h in the Abyss | 300 Oath Coins, 450 AP |
 | Watcher Kaira / Argo / Nahma (weekly) | Abyss bosses | 400–1,340 Oath Coins + AP |
 | Peering into the Abyss | 10/30/60 h in the Abyss | 2,940 Oath Coins, 5,280 AP |
