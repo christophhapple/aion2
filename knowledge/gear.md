@@ -389,11 +389,20 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
     Status Effect Resist 4.1–4.8%. Common stats: Dexterity 13–22, Constitution 8–16, Willpower 17–27, Attack 13–22,
     Critical Hit 20–30, Accuracy 27–38, Defense 160–191, Evasion 16–25, Critical Damage / Back / Front Defense
     164–196, Critical Hit Resist 28–39, Block 16–25, MP 61–77, HP 123–148, Natural MP Regen 14–23, Natural HP Regen 28–39.
-  - **Armor pattern so far (helmet, shoulders):** 1 signature line 2.4%, Status Effect Resist 2.4%, 5 rare % lines
-    at 0.96% (Double Chance and Perfect Resist on both, 3 differ), 17 common stats (3.2–4.8%), 10 passives at 2%.
-    **Ranges are set per slot, not only by GS:** the GS 70 shoulders have lower ranges than the GS 54 helmet
-    (Defense 160–191 vs 181–215), and the main stats swap: helmet Constitution 13–22, Dexterity/Willpower 8–16;
-    shoulders Willpower 17–27, Dexterity 13–22, Constitution 8–16.
+  - **Chest (in-game 2026-10-24, Unique +10 Vakron Breastplate, GS 70(+17)):** same layout. Signature **Damage Boost
+    2.4%, 4.9–5.7%** (fits [427]). Rare 0.96% lines: Regeneration 2.2–2.6%, Perfect Chance 4.3–5%, Defense increase
+    2.9–3.4%, Double Resist 2.9–3.4%, Weapon Damage Tolerance 7.2–8.4%. Status Effect Resist 6.2–7.2%. Common stats:
+    Dexterity 10–19, Constitution 17–27, Willpower 8–16, Attack 20–30, Critical Hit 30–42, Accuracy 41–54, Defense
+    240–283, Evasion 24–35, Critical Damage / Back / Front Defense 246–290, Critical Hit Resist 43–56, Block 24–35,
+    MP 92–113, HP 185–220, Natural MP Regen 22–32, Natural HP Regen 43–56. Same 10 passives.
+  - **Armor pattern so far (helmet, shoulders, chest):** 1 signature line 2.4%, Status Effect Resist 2.4%, 5 rare %
+    lines at 0.96% (a mix from Double Chance/Resist, Perfect Chance/Resist, Regeneration, Defense increase, Endurance,
+    Endurance Penetration, Attack increase, Weapon Damage Tolerance; differs per slot), 17 common stats (3.2–4.8%),
+    10 passives at 2%.
+    **Ranges are set per slot, not only by GS:** at about the same GS 70 the chest has much higher ranges than the
+    shoulders (Defense 240–283 vs 160–191; the GS 54 helmet sits between, 181–215), and the main stats swap:
+    helmet Constitution 13–22, Dexterity/Willpower 8–16; shoulders Willpower 17–27, Dexterity 13–22, Constitution 8–16;
+    chest Constitution 17–27, Dexterity 10–19, Willpower 8–16.
     Other slots: not read yet (todo).
   - **Sync pool (in-game 2026-10-24, same Mace, Status Effect Chance selected):** the pool drops **all four lines the
     piece already has** (Status Effect Chance, Back Attack, Precision, Lightning Strike Scattershot), not just the
