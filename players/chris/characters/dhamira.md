@@ -40,7 +40,7 @@ Lower Reshanta done: all feathers collected, all Azphel Daevanion Crystals from 
 | Helmet | Unique +10 (Bakarma Helm, seen 2026-10-24) | | Pauldrons | Unique +10 |
 | Top | Unique +10 | | Belt | Unique +10 (2026-10-23) |
 | Legs | Unique +10 | | Gloves | Unique +10 |
-| Cloak | Epic +10 | | Shoes | Epic +10 |
+| Cloak | Unique +10 (Courage Cloak, seen 2026-10-24) | | Shoes | Epic +10 |
 | Earring | Unique +10 | | Earring | Epic +10 |
 | Necklace | Epic +10 | | Revelation amulet | Unique +10 (2026-10-23) |
 | Ring | Unique +10 | | Ring | Epic +10 |

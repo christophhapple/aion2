@@ -415,7 +415,16 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
     3.2–3.8%. Common stats: Dexterity 12–21, Constitution 7–15, Willpower 9–17, Attack 10–19, Critical Hit 16–25,
     Accuracy 21–31, Defense 126–152, Evasion 12–21, Critical Damage / Back / Front Defense 130–157, Critical Hit
     Resist 23–33, Block 12–21, MP 48–62, HP 97–119, Natural MP Regen 11–20, Natural HP Regen 23–33. Same 10 passives.
-  - **Armor pattern so far (helmet, shoulders, chest, legs, gloves, shoes):** all six signature stats match [427]. 1 signature line 2.4%, Status Effect Resist 2.4%, 5 rare %
+  - **Cloak (in-game 2026-10-24, Unique +10 Courage Cloak, GS 41(+15)):** same layout. Signature **Critical Damage
+    Tolerance 2.4%, 7.8–9%** ([427] lists no cloak stat). Rare 0.96% lines: Double Chance 1–1.3%, Endurance 1.6–1.9%,
+    Attack increase 1–1.3%, Weapon Damage Tolerance 5.8–6.8%, Endurance Penetration 1.2–1.4%. Status Effect Resist
+    3.3–3.9%. Common stats: Dexterity 12–21, Constitution 7–15, Willpower 12–21, Attack 10–19, Critical Hit 16–25,
+    Accuracy 22–32, Defense 130–157, Evasion 13–22, Critical Damage / Back / Front Defense 133–160, Critical Hit Resist
+    23–33, Block 13–22, MP 49–63, HP 100–122, Natural MP Regen 11–20, Natural HP Regen 23–33. Same 10 passives.
+  - **Grade barely changes ranges, GS does:** the Unique GS 41 cloak and the Epic GS 42 shoes have almost the same
+    common ranges (Dexterity 12–21, Constitution 7–15, Attack 10–19, Critical Hit 16–25 on both; Defense 130–157 vs
+    126–152, HP 100–122 vs 97–119). So Epic vs Unique = 3 vs 4 lines (and Soul Fuse), not weaker lines (in-game 2026-10-24).
+  - **Armor pattern (all 7 armor slots, in-game 2026-10-24):** all six signature stats [427] names match, cloak adds Critical Damage Tolerance. 1 signature line 2.4%, Status Effect Resist 2.4%, 5 rare %
     lines at 0.96% (a mix from Double Chance/Resist, Perfect Chance/Resist, Regeneration, Defense increase, Endurance,
     Endurance Penetration, Attack increase, Weapon Damage Tolerance, Multi-hit Resist; differs per slot), 17 common stats (3.2–4.8%),
     10 passives at 2%.
@@ -423,7 +432,8 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
     shoulders (Defense 240–283 vs 160–191; the GS 54 helmet sits between, 181–215), and the main stats swap:
     helmet Constitution 13–22, Dexterity/Willpower 8–16; shoulders Willpower 17–27, Dexterity 13–22, Constitution 8–16;
     chest Constitution 17–27, Dexterity 10–19, Willpower 8–16; legs Constitution 13–22, Willpower 10–19, Dexterity 8–16;
-    gloves all four 11–20; shoes (Epic, GS 42) Dexterity 12–21, Willpower 9–17, Constitution 7–15.
+    gloves all four 11–20; shoes (Epic, GS 42) Dexterity 12–21, Willpower 9–17, Constitution 7–15; cloak (GS 41)
+    Dexterity and Willpower 12–21, Constitution 7–15.
     Size order at GS 70 (Defense): chest 240–283 > legs 220–260 > shoulders 160–191 > gloves 140–168.
     Other slots: not read yet (todo).
   - **Sync pool (in-game 2026-10-24, same Mace, Status Effect Chance selected):** the pool drops **all four lines the
