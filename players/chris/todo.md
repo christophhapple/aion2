@@ -29,7 +29,7 @@ tracker itself goes in `backlog.md`.
   listing). Whenever you have a tradeable Manastone (Lesser, Intermediate, Superior, Abyssal), potion,
   serum, ingot or ore/gem, open its sell window and screenshot it, then cancel. (The browse list has no history,
   2026-10-22.) Also check: is there a record of your own past sales anywhere?
-- [ ] Skin Combine (Closet, Alt+O): note the Fashionista count, do one Common combine (4 spare Common skins,
+- [ ] Skin Combine (Closet, Alt+O): note the Closet count (132/766 on 2026-10-24) and the Fashionista count, do one Common combine (4 spare Common skins,
   600 Kina), check the count again. Does it drop? Also: fee and upgrade chance shown, Lucky Aura slot, can
   dyed/equipped skins go in? See `knowledge/skins.md`
 - [ ] Cube-hunting audio for gathering/pet runs: Master + Sound Effects 100%, Music, Ambient, Monster, Mount, own character + wing sounds low. Save it as its own audio preset (the game supports audio presets, user 2026-10-19). See `knowledge/endgame.md` "Hidden Cubes"
