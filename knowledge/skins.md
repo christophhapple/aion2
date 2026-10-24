@@ -7,6 +7,12 @@ found. Sources [n]: `sources.md`. Skin sources (shops, events, achievements): `e
 ## Closet
 - **Closet** window: Alt+O or the main menu [417]. Skins only count once you **right-click to register** them
   [414].
+- **Collection counter** (in-game 2026-10-24): top left of the Closet, a book icon with **% and owned/total**,
+  e.g. 17% at 132/766. Tabs Armor / Weapons / Decoration, slot filters on the right edge (SET, ALL, per slot).
+  Duplicates show a number badge on the icon and **seem not to count** towards owned (player's impression,
+  not tested). The **Fashionista** achievement counts something else: one character was at 186/200 there on
+  2026-10-20 while the Closet showed 132 on 2026-10-24, so it probably counts duplicates or each skin
+  obtained (inference).
 - **Collection bonus:** 18 slot tracks, 0–500 points each, +0.1% per point (cap +50%) [410][416]. First unlock
   gives Common 1 / Rare 2 / Epic 3 / Unique 4 points (Heroic 5 [416]); **duplicates give nothing** [413][416].
 - Weapon tracks only boost the matching weapon type; other classes' weapon skins give no points [410][416].
