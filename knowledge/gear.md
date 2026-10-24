@@ -50,8 +50,8 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
     consumed", plus an "I have reviewed the contents above" checkbox (in-game 2026-10-24).
   - Needs a **Gear Transfer Material**: **Transfer Stone (Unique) (Bound)**, "Can be used on Unique gear". Made via
     **Substance Morph from spare Unique gear** (pick several pieces; "Include Enhanced" checkbox), 100% success; the
-    recipe says "Quantity to Receive: 10" (in-game 2026-10-19; whether that's per morph or a limit: unclear). How many
-    stones one transfer takes: not checked. **Sync Stone (Unique) (Bound)** (for Soul Binding Sync) comes from the
+    recipe's "Quantity to Receive" is just how many you can make right now: **1 spare Unique piece = 1 stone**
+    (user, in-game 2026-10-24; 16 spares → 16). **One Transfer takes 1 Transfer Stone** (in-game 2026-10-24). **Sync Stone (Unique) (Bound)** (for Soul Binding Sync) comes from the
     same kind of recipe. A spare piece is used up either way: **Extraction destroys the item** (in-game 2026-10-19),
     so it's stones (Extraction) *or* Transfer/Sync Stones (morph), not both. Whether morphing an enhanced piece
     refunds any Enhance Stones: unknown.
