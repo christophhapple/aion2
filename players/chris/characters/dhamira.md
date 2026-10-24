@@ -42,7 +42,7 @@ Lower Reshanta done: all feathers collected, all Azphel Daevanion Crystals from 
 | Legs | Unique +10 | | Gloves | Unique +10 |
 | Cloak | Unique +10 (Courage Cloak, seen 2026-10-24) | | Shoes | Epic +10 |
 | Earring | Unique +10 | | Earring | Epic +10 |
-| Necklace | Epic +10 | | Revelation amulet | Unique +10 (2026-10-23) |
+| Necklace | Unique +10 (Aulamus Necklace, seen 2026-10-24) | | Revelation amulet | Unique +10 (2026-10-23) |
 | Ring | Unique +10 | | Ring | Epic +10 |
 | Bracelet | Unique +10 | | Bracelet | Epic +10 |
 | Clash Rune | +2 | | Clash Rune | +2 |

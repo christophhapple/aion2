@@ -40,12 +40,9 @@ tracker itself goes in `backlog.md`.
 - [ ] *(low priority)* Silver Medal of Merit, in the Trade Shop: what costs Silver Medals (only Centurion skins at 40/80, or gear too)? Do the pieces have stats? Is a rank (Ninth-Class Soldier) required to buy? How many medals do you have? See `knowledge/abyss.md` "Silver Medal of Merit"
 - [ ] Soul Binding Sync, next time: note the material's GS, the success chance shown, and the new line's fill %.
   Does a higher-GS material give a fuller new line (or a better chance)? See `knowledge/gear.md` "Sync"
-- [ ] Soul Binding pools per slot (Mace, Guard, Helmet, Shoulders, Chest, Legs, Gloves, Shoes (Epic), Cloak, Ring, Earring done 2026-10-24, the Reset view lists the pool with chances): screenshot it for
-  the necklace. Checks: skill line active on
-  weapon/guard/rings vs passive on armor/earrings/necklace, and one signature stat per armor piece. See
-  `knowledge/gear.md` "Which lines on which slot"
 
 ## Done
+- [x] Soul Binding pools read for all 11 slots (weapon, guard, 7 armor, ring, earring, necklace) (2026-10-24)
 - [x] Soul Binding Sync tested: the selected line rerolls, the others stay; rate 40.0 → 38.1% (2026-10-24)
 - [x] Ancient Aullea Wings unsealed (10/10 Radiant Odyle) and equipped (2026-10-23)
 - [x] Daily Dungeon gives no Kina, only Enhance Stones (2026-10-23)

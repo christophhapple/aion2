@@ -448,7 +448,19 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
     4.8%, 18–28; Critical Hit 4.8%, 27–38; Accuracy 4.8%, 37–50; Defense 4.8%, 217–257; Evasion 4.8%, 21–31; Critical
     Hit Resist, Block, MP, HP 7.2% each: 39–52, 22–32, 83–102, 167–199; Natural MP Regen, Natural HP Regen 8% each:
     20–30, 39–52. Ranges about 1.2× the ring's at the same GS 54.
-    Other slots: not read yet (todo).
+  - **Necklace (in-game 2026-10-24, Unique +10 Aulamus Necklace, GS 70(+17)):** the earring's layout with **Combat
+    Speed 1.6%, 3.2–3.8%** as its only % line; same 10 passives. Chance, range: Might, Precision 1.6% each, 9–17;
+    Intelligence 1.6%, 13–22; Flight Power 4.8%, 269–309; Attack 4.8%, 23–33; Critical Hit 4.8%, 35–47; Accuracy
+    4.8%, 48–62; Defense 4.8%, 280–329; Evasion 4.8%, 28–39; Critical Hit Resist, Block, MP, HP 7.2% each: 50–65,
+    29–40, 107–130, 216–255; Natural MP Regen, Natural HP Regen 8% each: 25–36, 50–65.
+  - **Summary, all slots (in-game 2026-10-24):** every pool is 80% stats / 20% class skills.
+    | Slots | Skills | Valuable lines |
+    |---|---|---|
+    | Weapon, guard | 12 actives | Damage Boost 1.6%, Combat Speed and Weapon Damage Boost 3.2% (guard ~0.77× the weapon's ranges) |
+    | Armor (7) | 10 passives | one signature line 2.4% (helmet Incoming Heal, shoulders Critical Damage Boost, chest Damage Boost, legs Damage Tolerance, gloves Combat Speed, shoes Move Speed, cloak Critical Damage Tolerance) + 5 rare % lines 0.96% |
+    | Ring | 12 actives | none: flat stats only, the skill line is the prize |
+    | Earring, necklace | 10 passives | one % line 1.6% (earring Move Speed, necklace Combat Speed, both small) |
+    Bracelet, belt, amulet: whether they have Soul Binding at all, not checked.
   - **Sync pool (in-game 2026-10-24, same Mace, Status Effect Chance selected):** the pool drops **all four lines the
     piece already has** (Status Effect Chance, Back Attack, Precision, Lightning Strike Scattershot), not just the
     selected one: no duplicate lines. The rest is rescaled **within each group**: stats still add up to 80%, skills to 20%.
