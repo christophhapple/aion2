@@ -62,7 +62,8 @@ found. Sources [n]: `sources.md`. Skin sources (shops, events, achievements): `e
   registered skins [413][414][419]).
 - **Combining spares doesn't lower the Closet or Fashionista count** (in-game 2026-10-24: Armor 132/766 and
   Fashionista 223 unchanged after a combine). The **badge number = spare copies**: each input took one copy off a
-  stack (6→5, 1→no badge) and the skin itself stayed registered. **The result can be a duplicate**: the
+  stack (6→5, 1→no badge) and the skin itself stayed registered. The Combine window's grid **only lists skins
+  with spares** (every icon there has a badge), so the registered copy can't be put in (in-game 2026-10-24, one combine seen). **The result can be a duplicate**: the
   breastplate was already owned, its badge went 7→8, so no count went up either. Matches [414].
 
 ## Guide advice
