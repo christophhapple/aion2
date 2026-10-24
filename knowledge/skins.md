@@ -9,8 +9,9 @@ found. Sources [n]: `sources.md`. Skin sources (shops, events, achievements): `e
   [414].
 - **Collection counter** (in-game 2026-10-24): top left of the Closet, a book icon with % and owned/total for
   the open tab (Armor showed 17%, 132/766). Tabs Armor / Weapons / Decoration (= the Accessories group in the Collection Effect window; same count, in-game 2026-10-24), slot filters on the right edge
-  (SET, ALL, per slot). Duplicates show a number badge on the icon and **seem not to count** towards owned
-  (player's impression, not tested; matches "duplicates give nothing" below).
+  (SET, ALL, per slot). Duplicates show a number badge on the icon and **don't count** towards owned (in-game
+  2026-10-24: the Decoration tab showed 25/117 with 27 icons on the grid, several with badges of 2–8; counted
+  copies would give far more than 25). Why 27 icons vs 25 owned is unclear (2 icons that give no points?).
 - **Collection Effect window** (in-game 2026-10-24): opened from the counter. Three groups with % and owned/total:
   **Weapons** x/56 (own class's weapon type only; the other 7 weapon types are listed at x/56 each with the note
   "The weapon skins of another class are not added to total collection points"), **Armor** x/766 (Helm 115,
