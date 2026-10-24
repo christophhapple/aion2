@@ -20,17 +20,12 @@ routines:
     name: Nightmare
     reset: daily
     cap: 2
-    notes: Attempt only consumed on a clear. Unused attempts bank up to 14. Weekly Season Missions (in-game 2026-10-24) - Friends With a Story = 10 boss kills a week (covered by 2/day), Collecting Dreams = 3,000 Phantasmal Fragments (comes with the runs), three timed kills (nightmare-3min, nightmare-1min, and one more whose time is cut off).
-
-  - id: nightmare-3min
-    name: Nightmare boss kill within 3 min (Season Mission "3 Minutes of Nightmare")
-    reset: weekly
-    notes: Weekly Season Mission, Nightmare tab (in-game 2026-10-24). A 1-min kill probably counts here too (unverified); log both.
+    notes: Attempt only consumed on a clear. Unused attempts bank up to 14. Weekly Season Missions (in-game 2026-10-24) - Friends With a Story = 10 boss kills a week (covered by 2/day), Collecting Dreams = 3,000 Phantasmal Fragments (comes with the runs), three timed kills within 3 / 2 / 1 min, all covered by nightmare-1min.
 
   - id: nightmare-1min
     name: Nightmare boss kill under 1 min (Season Mission)
     reset: weekly
-    notes: Weekly Season Mission, Nightmare tab (in-game 2026-10-21). Lower the difficulty for one ticket so the kill is fast; that clear also counts as a normal nightmare run, log both.
+    notes: Weekly Season Mission, Nightmare tab (in-game 2026-10-21). Also covers the 3-min and 2-min missions (3 Minutes of Nightmare, Nightmare Buster; Eternal Rest is the 1-min one; user 2026-10-24). One log entry nightmare-3min (2026-10-24) predates this and means the same. Lower the difficulty for one ticket so the kill is fast; that clear also counts as a normal nightmare run, log both.
 
   - id: odyle
     group: yes
@@ -203,14 +198,14 @@ routines:
 
   - id: transcendence-speed
     group: yes
-    name: Fast Transcendence clear (Season Mission "Transcendence S…")
-    notes: Clear a Transcendence dungeon within a time limit, text cut off at "within 7…" (in-game 2026-10-24; guides said under 15 min for an earlier step).
+    name: Transcendence clear within 7 min (Season Mission "Transcendence S…")
+    notes: Clear a Transcendence dungeon within a time limit, within 7 minutes (in-game 2026-10-24; guides said under 15 min, probably an earlier step).
     reset: weekly
 
   - id: transcendence-transforms
     group: yes
-    name: Transcendence clears with a condition (Season Mission "Transforms Upon…")
-    notes: Clear Transcendence dungeons 3 times, condition cut off (in-game 2026-10-24).
+    name: Transcendence clears without dying (Season Mission "Transforms Upon…")
+    notes: Clear Transcendence dungeons 3 times without dying (in-game 2026-10-24).
     reset: weekly
     cap: 3
 
@@ -249,7 +244,7 @@ routines:
   - id: pvp-soldiers
     group: yes
     name: Asmodian soldier kills (Season Mission "Baptism of Fire")
-    notes: Kill Asmodians of rank First-Class to N… (cut off), 60 (in-game 2026-10-24).
+    notes: Kill Asmodians of rank First-Class to Ninth-Class Soldier, 60 (in-game 2026-10-24).
     reset: weekly
     cap: 60
 
@@ -260,10 +255,10 @@ routines:
     reset: weekly
     cap: 50
 
-  - id: pvp-ve
+  - id: pvp-verteron
     group: yes
-    name: Asmodian player kills in "Ve…" (Season Mission "Marching Beneath…")
-    notes: Kill 50 Asmodian players in a region cut off at "Ve…" (in-game 2026-10-24).
+    name: Asmodian player kills in Verteron (Season Mission "Marching Beneath…")
+    notes: Kill 50 Asmodian players in Verteron (in-game 2026-10-24), the Elyos home region, so invaders coming through the Spacetime Rift.
     reset: weekly
     cap: 50
 

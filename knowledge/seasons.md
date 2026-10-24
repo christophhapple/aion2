@@ -41,16 +41,16 @@ the reset pattern is from KR official notices. Unverified unless tagged `in-game
     Nahma 1 [abyss-nahma] · win 1 Artifact Siege (Down to the Last…) [siege-win] · 1 hour in the Abyss (Hometown of My
     Heart) [abyss-time]
   - **Arena:** win 5 (Me, Beyond Myself), take part 10 (Steady Efforts); 1v1 and 5v5 both count (in-game) [arena-solo, arena-team]
-  - **Transcendence:** a clear within a time limit (Transcendence S…, text cut at "within 7…") [transcendence-speed] ·
+  - **Transcendence:** a clear within 7 min (Transcendence S…) [transcendence-speed] ·
     transmute 1 Arcana (Toward Greater P…) [arcana-transmute] · 10 clears (Way of the Transcended) [transcendence] ·
-    3 clears with a condition that's cut off (Transforms Upon…) [transcendence-transforms] · 10 mini-bosses (Time to Go
+    3 clears without dying (Transforms Upon…) [transcendence-transforms] · 10 mini-bosses (Time to Go
     Home) [transcendence-minibosses]
   - **Nightmare:** 10 boss kills (Friends With a Story) [nightmare] · 3,000 Phantasmal Fragments (Collecting Dream…) ·
-    boss kills within a time limit: 3 Minutes of Nightmare [nightmare-3min], Nightmare Buster and Eternal Rest (times cut
-    off; one is probably the 1-min kill [nightmare-1min])
+    boss kills within 3 min (3 Minutes of Nightmare), 2 min (Nightmare Buster), 1 min (Eternal Rest); one 1-min kill
+    covers all three [nightmare-1min]
   - **Challenge:** kill Asmodian 1–5 Star Officers 20 (Shooting for the…) [pvp-officers] · kill Asmodians First-Class
-    to N… 60 (Baptism of Fire) [pvp-soldiers] · 50 Asmodian players in Altgard (Pride of Elysea) [pvp-altgard] · 50 in
-    "Ve…" (Marching Beneath…) [pvp-ve] · 30 Odyle in the Abyss (Daeva of Enduring Deeds) [abyss-odyle] · 10 Abyss
+    to Ninth-Class Soldier 60 (Baptism of Fire) [pvp-soldiers] · 50 Asmodian players in Altgard (Pride of Elysea) [pvp-altgard] · 50 in
+    Verteron (Marching Beneath…) [pvp-verteron] · 30 Odyle in the Abyss (Daeva of Enduring Deeds) [abyss-odyle] · 10 Abyss
     commands (Daeva of Glorious Deeds) [abyss-commands] · 5 Abyss bosses of any kind (Daeva of Extraordinary Deeds) ·
     Battlefield 3 (Daeva's Book) [battlefield] · Ascension Trial 3 (Hatched Bird) [ascension]
   - ~~Guides: Friends With a Story 5/10, Nahma 1~~ fit; ~~Transcendence 6 clears~~ was an earlier step.
