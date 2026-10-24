@@ -152,12 +152,29 @@ routines:
     reset: weekly
     cap: 10
 
-  - id: abyss-boss
+  # Abyss bosses, one routine per boss (user, 2026-10-24; replaced abyss-boss). Together they also cover the weekly
+  # achievement Daeva of Extraordinary Deeds at 1/3/5 Abyss bosses (820 Oath Coins + 6,000 AP + 3 Silver Medals, guides).
+  # Older abyss-boss log entries (2026-10-22, 10-23) were Argo kills and count as abyss-argo. Timers in knowledge/abyss.md.
+  - id: abyss-kaira
     group: yes
-    name: Abyss boss kills
-    notes: Weekly achievement Daeva of Extraordinary Deeds at 1/3/5 Abyss bosses (820 Oath Coins + 6,000 AP + 3 Silver Medals), plus per-boss ones - Watcher Kaira 1/5/10, Argo 1/3, Nahma 1 (guides). Timers in knowledge/abyss.md.
+    name: Watcher Kaira kills
+    notes: Every 3h at 01, 04 … 22 (in-game). Cap 10 = top tier of the weekly achievement Watcher Kaira (1/5/10, guides).
     reset: weekly
-    cap: 5
+    cap: 10
+
+  - id: abyss-argo
+    group: yes
+    name: Argo, the Spirit King kills
+    notes: Respawns 12h after it dies (in-game 2026-10-23); next spawn in the Content Atlas. Cap 3 = top tier of the weekly achievement Argo (1/3, guides).
+    reset: weekly
+    cap: 3
+
+  - id: abyss-nahma
+    group: yes
+    name: Guardian Lord Nahma kills
+    notes: Fri and Sun 21:00, three at once (in-game). Cap 2 (user, 2026-10-24) = one kill per spawn day; the weekly achievement asks for 1 (guides).
+    reset: weekly
+    cap: 2
 
   - id: abyss-odyle
     name: Gather Odyle in the Abyss
