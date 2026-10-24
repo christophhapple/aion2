@@ -522,3 +522,7 @@ Added 2026-10-22 (skins, Closet, Skin Combine).
 428. Steam news, official "[Notice] Temporary Maintenance (EU) | Oct 24 PDT / Oct 25 CEST", 2026-10-24: https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114038363
 429. gamingpromax, Nagarant Guardian Warrior (Cogni) pet guide, 2026-10-08: https://gamingpromax.com/aion-2-nagarant-guardian-warrior-cogni-pet-guide/
 430. expcarry, pet locations, updated 2026-10-18: https://expcarry.com/aion-2-pet-locations
+431. keengamer, best settings (graphics, FPS, controls), 2026-10-06: https://www.keengamer.com/articles/guides/aion-2-best-settings-graphics-fps-controls/
+432. games.gg, best PC settings, 2026-10-05: https://games.gg/aion-2/guides/aion-2-best-pc-settings/
+433. gearupbooster, fix Aion 2 lag (vendor, low trust), 2026: https://www.gearupbooster.com/en/blog/fix-aion-2-lag.html
+434. gamesfuze, best graphics settings for FPS, lag and stutter, 2026: https://gamesfuze.com/game-fixes/aion-2-best-graphics-settings-for-fps-fix-lag-crashes-stutter/

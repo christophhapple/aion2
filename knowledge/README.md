@@ -40,5 +40,6 @@ patch notes, which beat guides. Every fact is tagged with its source and date or
 | `kina.md` | Bound vs normal Kina, income, sinks (F2P) | 2026-10-14 |
 | `membership.md` | Special Quai Membership: price, benefits, the cube "selection count" rule | 2026-10-19 |
 | `dps-meters.md` | Built-in Combat Analysis, third-party meters, ban risk | 2026-10-17 |
+| `performance.md` | Lag in mass combat, graphics settings for sieges and Abyss PvP | 2026-10-24 |
 | `server-transfer.md` | Server transfer window (Launch servers 21–28 Oct), rules, what moves; no faction change | 2026-10-20 |
 | `sources.md` | Numbered source list ([n] references) | — |
