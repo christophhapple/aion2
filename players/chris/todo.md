@@ -6,7 +6,7 @@ tracker itself goes in `backlog.md`.
 ## Open
 - [ ] **2026-10-25:** buy the remaining Mysterious Crystals in the Season Shop (Oath Coins are enough), then
   transmute the Chalice: Vigor, Healing Light or Condemnation, whichever is furthest from Lv 16 (check levels
-  first). Needs 5 crystals + 2M Kina. Then report the result for build + GS
+  first). Needs 5 crystals + 2M Kina; **only ~208k Kina on hand (2026-10-24)**, so farm Kina first. Then report the result for build + GS
 - [ ] **By 2026-12-16 08:00:** use up the 50 Odyle Energy (Bound) items (2,000 Odyle), they expire with Season 1.
   About one extra cube (40) per day on top of the normal regen
 - [ ] Screenshot the **Season Missions** window, all tabs (= metabot's Season 1 achievements: Nightmare
