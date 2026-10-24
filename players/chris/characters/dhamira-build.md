@@ -260,8 +260,11 @@ Arcana. Read with gear and Arcana unequipped: the baseline Arcana builds on. Sti
 Effects + icons: `knowledge/cleric-skills.md` "Passive". Before the 2026-10-17 rework: Scattershot 12,
 passives partly 11–13.
 
-**On top (equipped, 2026-10-17, told by the user):**
-- Gear: Scattershot +1, Healing Light +1, Healing Enhancement +1.
+**On top (equipped):**
+- Gear skill lines (Soul Binding tooltips 2026-10-24): Mace Scattershot +1 · Ring (Berk) Healing Light +1 · Helmet
+  (Vakron) Earth's Grace +1, Immortal Veil +1 · Shoulders Empyrean Lord's Grace +1 · Shoes (Vakron) Immortal Veil +1 ·
+  Necklace Survival Willpower +1. Not seen: guard, Epic ring, Epic earring. ~~Healing Enhancement +1~~ went with the
+  Epic shoes (2026-10-24).
 - Arcana (**reworked 2026-10-22**, in-game "Equipped Effect" screenshot): all 5 slots, **4 Vigor + Bell of Magic**
   (the target layout), Primal Vigor 4-piece active (+150 PvE Attack at ≥70% HP). All **Common +2** (MAX), item
   level 20 (+2) = 22 GS each (in-game card tooltips 2026-10-22).
@@ -275,10 +278,11 @@ passives partly 11–13.
 | Mirror | Vigor (Illusion) | Healing Enhancement +1, Radiant Benediction +1, Empyrean Lord's Benediction +1 (same card as before) |
 
 **Replace first:** Chalice (Scattershot line wasted) and Mirror (Empyrean Lord's Benediction wasted).
-**Totals:** **Healing Light 16, Bolt 16, Healing Enhancement 16** · Earth's Retribution, Chain of Torment,
-Condemnation, Judgment Thunder, Light of Regeneration, Warm Benediction, Empyrean Lord's Grace, Immortal Veil,
-Radiant Benediction 15 · Prayer of Concentration 9 · Scattershot 3 · Empyrean Lord's Benediction 2 · the rest 14
-(incl. Radiant Recovery, Debilitating Mark, Defiance, Divine Aura, Earth's Grace, Survival Willpower).
+**Totals (computed 2026-10-24 from Arcana + the gear lines above, not read in-game):** **Immortal Veil 17** ·
+**Healing Light 16, Bolt 16, Empyrean Lord's Grace 16** · Healing Enhancement, Earth's Retribution, Chain of Torment,
+Condemnation, Judgment Thunder, Light of Regeneration, Warm Benediction, Radiant Benediction, Earth's Grace, Survival
+Willpower 15 · Prayer of Concentration 9 · Scattershot 3 · Empyrean Lord's Benediction 2 · the rest 14 (incl. Radiant
+Recovery, Debilitating Mark, Defiance, Divine Aura). ~~2026-10-22: Healing Enhancement 16~~.
 **Option 5 now selectable on Healing Light (−2s CD) and Bolt (guaranteed Crit)**: both picked 2026-10-22, see
 "Specialties". Wasted lines: Scattershot (1, unused skill), Empyrean Lord's Benediction (1, no points).
 ~~Before (2026-10-19): Chalice + Parchment Magic, Compass + Mirror Vigor, no Bell; Healing Enhancement the only 16.~~
@@ -319,7 +323,7 @@ Might, Precision, Intelligence, Dexterity, Willpower, Constitution: unrated (wha
 | Chest | Damage Boost | Critical Damage Defense, Constitution, Critical Hit, Defense (30.5%) | Sync candidate (keep Critical Hit) |
 | Legs | Damage Tolerance | Constitution, Natural MP Regen, Damage Tolerance 8.9%, Accuracy (23.1%) | Keep Damage Tolerance |
 | Gloves | Combat Speed | Natural MP Regen, Status Effect Resist, HP, Defense (17.8%) | Nothing to protect: Sync candidate |
-| Shoes (Epic) | Move Speed | Evasion, Constitution, Healing Enhancement (79.2%) | Keep Healing Enhancement; replace with Unique later |
+| Shoes | Move Speed | Vakron Boots: Block, Back Defense, Constitution, Immortal Veil (48.2%) | Weak: Sync candidate (low priority) |
 | Cloak | Critical Damage Tolerance | Natural HP Regen, Accuracy, Dexterity, Back Defense (20.7%) | Sync candidate |
 | Ring (Unique) | a good active skill | Natural MP Regen, Critical Hit, Natural HP Regen, Healing Light (47.6%) | Good |
 | Earring (Unique) | a good passive skill | Accuracy, Natural MP Regen, Might, MP (37.4%) | Low priority |
