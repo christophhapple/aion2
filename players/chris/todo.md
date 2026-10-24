@@ -40,7 +40,8 @@ tracker itself goes in `backlog.md`.
 - [ ] *(low priority)* Silver Medal of Merit, in the Trade Shop: what costs Silver Medals (only Centurion skins at 40/80, or gear too)? Do the pieces have stats? Is a rank (Ninth-Class Soldier) required to buy? How many medals do you have? See `knowledge/abyss.md` "Silver Medal of Merit"
 - [ ] Soul Binding pools per slot (Mace done 2026-10-24, the Reset view lists the pool with chances): screenshot it for the guard, one armor piece
   per slot (helmet, shoulders, chest, legs, gloves, shoes, cloak) and one each of ring, earring, necklace. Checks: skill line active on
-  weapon/guard/rings vs passive on armor/earrings/necklace, and one signature stat per armor piece. See
+  weapon/guard/rings vs passive on armor/earrings/necklace, one signature stat per armor piece, and on
+  bound pieces: is any line's max (x/**max**) clearly below the top of its range in the pool? See
   `knowledge/gear.md` "Which lines on which slot"
 
 ## Done

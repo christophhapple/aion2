@@ -321,11 +321,12 @@ Codex, 영혼 결속 Soul Fuse, 현자의 돌 Philosopher's Stone [247]. Some gu
     Skills: Earth's Retribution, Debilitating Mark, Chain of Torment, Condemnation, Radiant Recovery, Bolt,
     Judgment Thunder, Divine Aura, Light of Regeneration, Healing Light, Lightning Strike Scattershot, Defiance.
     The best lines (Damage Boost, Combat Speed, Weapon Damage Boost) are also the rarest.
-  - **How a line's value works (in-game 2026-10-24, a Mace at 57.9%):** each line gets its own max, rolled inside
-    the range above (Status Effect Chance 22.15% of 19.2–22.2; Back Attack 90 and Precision 29, both the range top).
-    The value starts at the range minimum and grows toward that max; the % next to the line is that progress
-    (19.35/22.15 = 5%, Back Attack 76/90 = 26%). Lines grow unevenly: Precision was already 100% at a 57.9% rate.
-    A skill line is just +1, shown as 100%. So the max roll is the line's quality; Bind only fills it up (inference).
+  - **How a line's value works (in-game 2026-10-24, a Mace at 57.9%):** the value starts at the range minimum and
+    grows toward the line's max; the % next to the line is that progress (19.35/22.15 = 5%, Back Attack 76/90 = 26%).
+    Lines grow unevenly: Precision was already 100% at a 57.9% rate. A skill line is just +1, shown as 100%.
+    **Open:** is the max always the range top, or rolled inside the range? Back Attack 90 and Precision 29 are the
+    top; Status Effect Chance 22.15% vs the range's 22.2% may just be the range rounded to one decimal (user).
+    A line whose max is clearly below its range top would settle it.
     Other slots: not read yet (todo).
 - **Transfer:** base lines carry over [242][243][244] (matches the KR wiki in "Enhancement" above);
   the Soul Fuse line does not.
