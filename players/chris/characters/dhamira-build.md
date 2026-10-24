@@ -258,6 +258,14 @@ Arcana. Read with gear and Arcana unequipped: the baseline Arcana builds on. Sti
 Effects + icons: `knowledge/cleric-skills.md` "Passive". Before the 2026-10-17 rework: Scattershot 12,
 passives partly 11–13.
 
+**Lv 20 targets (user, 2026-10-24)**, in order; Lv 20 opens the third specialty slot. Now (computed 2026-10-24):
+1. Condemnation (15)
+2. Healing Light (17) / Radiant Recovery (14)
+3. Light of Regeneration (16) / Bolt (16) / Judgment Thunder (15) / Earth's Retribution (17)
+4. Defiance (14) / Divine Aura (15)
+Arcana pools (guides): Condemnation, Radiant Recovery, Bolt, Earth's Retribution → Parchment; Healing Light, Light of
+Regeneration, Judgment Thunder, Defiance, Divine Aura → Compass; any of them on a Chalice.
+
 **On top (equipped):**
 - Gear skill lines (Soul Binding tooltips 2026-10-24): Mace Healing Light +1 (since 2026-10-24, was Scattershot) · Ring (Berk) Healing Light +1 · Helmet
   (Vakron) Earth's Grace +1, Immortal Veil +1 · Shoulders Empyrean Lord's Grace +1 · Gloves (Vakron) Radiant Benediction +1, Empyrean Lord's Grace +1 · Shoes (Vakron) Immortal Veil +1 ·
