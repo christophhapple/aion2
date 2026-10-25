@@ -25,7 +25,9 @@ reading the global client [61][62][63]; unverified unless tagged `in-game`. Sour
   2026-10-25: Daeva Pass "Valid from 09/30/2026 08:00 – 12/16/2026 08:00", season items "12/16/2026 08:00").
   **Windows show fixed UTC times in the current server offset:** on 2026-10-18 (CEST) the Season window said
   09:00 → 09:00, now (CET) 08:00 → 08:00, i.e. 07:00 UTC both ends, the daily reset time. The two 2026-10-18
-  countdowns pointed an hour later (08:00 UTC); unexplained, possibly misread.
+  countdowns pointed an hour later (08:00 UTC). **Fresh countdowns agree** (in-game 2026-10-25 ~09:14 CET): "Season
+  resets in 51d 22h 46min" and "Event ends in 9d 22h 46min" both land on 08:00 CET. So the old countdowns were an
+  hour off before the clock change (maybe counted in server wall-clock time).
   **Glitch (in-game 2026-10-25):** the first daily recharge after the change gave nothing: no Nightmare attempts
   (still 0/14 after a relog and a game restart, although the timer rolled over at 08:00) and no Shugo keys etc.,
   still nothing after 09:00 either. The daily Supply Requests, Duty Missions and Halloween attendance did reset, so
