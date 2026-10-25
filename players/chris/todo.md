@@ -17,7 +17,7 @@ tracker itself goes in `backlog.md`.
   store items 2 more times (Storage Keeper III, 48/50 → title) · buy 5 more items at the Black Cloud
   Merchants (5/10 → title)
 - [ ] Easy achievement: next Fire Temple **Conquest** run, lie down (emote) in the boss room → title "Kromede Will Remember That" (guide, unverified; whether before or after the kill isn't stated). See `knowledge/achievements.md`
-- [ ] Nightmare: the 2026-10-25 08:00 recharge gave no attempts (still 0/14 after relog and game restart). Check the mailbox and the official notices for compensation over the next days; otherwise report it to support
+- [ ] Daily recharge 2026-10-25 gave nothing: no Nightmare attempts (0/14 after relog and restart), no Shugo keys etc., not at 08:00 and not after 09:00 (Supply Requests did reset). Check the mailbox and the official notices for compensation over the next days; otherwise report it to support
 - [ ] Halloween/Season end: read a fresh "ends in" countdown. Does it end 11/04 at 08:00 or 09:00 CET? (see `knowledge/schedule.md`)
 - [ ] Legion (if you join one): does the Legion menu show missions or Legion Coin? What does the Legion Merchant sell?
 - [ ] Market rules (now with membership; fee 2%, Bound Kina first, and tax 10% known): How many listing slots, and how long does a listing run? Do sales pay normal Kina?
