@@ -5,7 +5,8 @@ reading the global client [61][62][63]; unverified unless tagged `in-game`. Sour
 
 ## Clock basics
 - **EU server time = Central European local time** (in-game 2026-10-10: clock tooltip shows server time
-  equal to local CEST). 21:00 server = 19:00 UTC [61][62][64].
+  equal to local CEST). 21:00 server = 19:00 UTC [61][62][64]. **Follows the DST change:** still equal to the
+  local clock after the switch to CET (in-game 2026-10-25), so in winter 21:00 server = 20:00 UTC.
 - The clock tooltip also shows a third value, **game time** (the in-world day/night clock), 7 hours
   behind server time (in-game 2026-10-10). Event times are server time, not game time.
 - Times below are **server time** = local clock.
