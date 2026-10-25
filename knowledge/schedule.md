@@ -24,7 +24,8 @@ reading the global client [61][62][63]; unverified unless tagged `in-game`. Sour
   show "11/04/2026 08:00" (attendance) and "12/16/2026 08:00" (season items), i.e. 08:00 CET = 07:00 UTC. A fresh
   countdown would settle it.
   **Glitch (in-game 2026-10-25):** the first Nightmare daily recharge after the change (08:00) gave no attempts: still
-  0/14 after a relog and a game restart, although the timer rolled over. Watch for this at the next clock change.
+  0/14 after a relog and a game restart, although the timer rolled over. The daily Supply Requests did reset at
+  08:00, so only Nightmare was hit. Watch for this at the next clock change.
 - KR/TW schedules differ (e.g. Abyss sieges Wed/Sat in KR). Don't use KR timers such as aion2hub's [61].
 
 ## A. Fixed times
