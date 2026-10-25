@@ -17,7 +17,8 @@ tracker itself goes in `backlog.md`.
   store items 2 more times (Storage Keeper III, 48/50 → title) · buy 5 more items at the Black Cloud
   Merchants (5/10 → title)
 - [ ] Easy achievement: next Fire Temple **Conquest** run, lie down (emote) in the boss room → title "Kromede Will Remember That" (guide, unverified; whether before or after the kill isn't stated). See `knowledge/achievements.md`
-- [ ] Verify: after 2026-10-25 (DST change), do event times stay on the local clock (Rift still at 02, 05, 08 … 23)? And is the daily reset at 08:00 or still 09:00 local? (Season/event countdowns hint 09:00; then `routines.yaml` needs 08:00 UTC. But the weekly recharge countdowns on 2026-10-23 pointed to Wed 07:00 UTC = 08:00 CET)
+- [ ] Nightmare: the daily recharge rolled over at 08:00 on 2026-10-25 but attempts stayed 0/14. Reopen the window or relog: did the +2 arrive? If not, it was lost in the time zone maintenance (ask support?)
+- [ ] Halloween/Season end: read a fresh "ends in" countdown. Does it end 11/04 at 08:00 or 09:00 CET? (see `knowledge/schedule.md`)
 - [ ] Legion (if you join one): does the Legion menu show missions or Legion Coin? What does the Legion Merchant sell?
 - [ ] Market rules (now with membership; fee 2%, Bound Kina first, and tax 10% known): How many listing slots, and how long does a listing run? Do sales pay normal Kina?
   See `knowledge/crafting.md` "Market"
@@ -42,6 +43,7 @@ tracker itself goes in `backlog.md`.
   Does a higher-GS material give a fuller new line (or a better chance)? See `knowledge/gear.md` "Sync"
 
 ## Done
+- [x] DST check: daily reset 08:00 CET, Rift still on the local clock (2026-10-25)
 - [x] Skin Combine tested: spares only, counts unchanged, result can be a duplicate (2026-10-24)
 - [x] PvP: Salvation works right after Defiance and the other way around (2026-10-24)
 - [x] Mace (Aulamus) enhanced back to +10 after the Transfer (2026-10-24)
