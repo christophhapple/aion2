@@ -20,9 +20,9 @@ reading the global client [61][62][63]; unverified unless tagged `in-game`. Sour
   **Settled (in-game 2026-10-25, after the change):** event times stay on the local clock (Spacetime Rift opened at
   08:00 CET), and the daily reset is **08:00 CET = 07:00 UTC** (Halloween attendance: "Resets daily at 08:00";
   Nightmare "Daily recharge in 23h 57min" at 08:03). In-game windows show times on this server/local clock.
-  **Still open:** the 2026-10-18 countdowns put the Season and Halloween end at 08:00 UTC (09:00 CET), but the windows
-  show "11/04/2026 08:00" (attendance) and "12/16/2026 08:00" (season items), i.e. 08:00 CET = 07:00 UTC. A fresh
-  countdown would settle it.
+  **Halloween ends 2026-11-04 08:00 CET = 07:00 UTC** (in-game 2026-10-25), at the daily reset; the 2026-10-18
+  countdown (09:00 CET) was off by the clock change. **Season 1 end:** the season items say "12/16/2026 08:00", so
+  probably 08:00 CET too, but its 2026-10-18 countdown also said 09:00 CET: not rechecked.
   **Glitch (in-game 2026-10-25):** the first daily recharge after the change gave nothing: no Nightmare attempts
   (still 0/14 after a relog and a game restart, although the timer rolled over at 08:00) and no Shugo keys etc.,
   still nothing after 09:00 either. The daily Supply Requests did reset at 08:00. Watch for this at the next clock change.

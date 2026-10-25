@@ -64,6 +64,8 @@ the reset pattern is from KR official notices. Unverified unless tagged `in-game
   probably the Ascension Trial's score chain (inference, 2026-10-18).
 - **Countdowns:** "Season resets in 58d 19h 11min" seen 2026-10-18 14:49 CEST → **2026-12-16 08:00 UTC (09:00 CET)**;
   "Event ends in 16d 19h 11min" → 2026-11-04 08:00 UTC (09:00 CET). Matches the "09:00" end date shown in the window.
+  After the 2026-10-25 clock change the Halloween end shows as **08:00 CET** (in-game 2026-10-25), so these countdowns
+  were an hour off; the Season end is probably 08:00 CET too (see `schedule.md`, not rechecked).
 
 ## Oath Coins and the Season Shop
 
