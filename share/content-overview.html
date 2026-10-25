@@ -98,7 +98,7 @@ td strong { font-weight: 700; }
 .timers li.live.down .t-fill { background: var(--down); }
 .timers li.live.down .t-name, .timers li.live.down .t-count, .timers li.live.down .t-state { color: var(--down); }
 .timers li.reset .t-name { color: var(--gold); }
-/* Compact rows: hourly staples (minor) and resets (sep) on one line: name, countdown, thin bar, time. */
+/* Compact rows: minor events and resets (sep) on one line: name, countdown, thin bar, time. */
 .timers li.compact { grid-template-columns: auto auto minmax(2rem, 1fr) auto; gap: 0 0.6rem;
   padding-block: 0.3rem; font-size: 0.92rem; }
 .timers li.compact .t-name { white-space: nowrap; }
@@ -265,9 +265,9 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
   const EVENTS = [
     { name: "Shugo Festival", hours: range(0, 23), minute: 0, dur: 10, tag: GAME, minor: true },
     { name: "Dimensional Invasion", note: "needs a key", hours: range(0, 23), minute: 30, dur: 5, tag: GAME, minor: true },
-    { name: "Spacetime Rift", note: "portals open 10 min", hours: [2, 5, 8, 11, 14, 17, 20, 23], minute: 0, dur: 10, tag: GAME },
+    { name: "Spacetime Rift", note: "portals open 10 min", hours: [2, 5, 8, 11, 14, 17, 20, 23], minute: 0, dur: 10, tag: GAME, minor: true },
     { name: "Watcher Kaira", note: "Abyss boss", hours: [1, 4, 7, 10, 13, 16, 19, 22], minute: 0, dur: 30, tag: GAME },
-    { name: "Battlefield", note: "10v10 queue", windows: [[11, 14], [19, 21]], tag: GAME },
+    { name: "Battlefield", note: "10v10 queue", windows: [[11, 14], [19, 21]], tag: GAME, minor: true },
     { name: "Artifact Siege", note: "Abyss", days: [1, 4, 6], hours: [21], minute: 0, dur: 30, tag: GAME },
     { name: "Siege bosses", note: "Tamasa, Argo, Kaira …", days: [1, 4, 6], hours: [21], minute: 30, dur: 30, tag: d => d === 4 ? GUIDE : GAME },
     { name: "Guardian Lord Nahma", note: "Abyss, three at once", days: [0, 5], hours: [21], minute: 0, dur: 30, tag: GAME },
@@ -426,7 +426,7 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
       seen.add(name);
       const live = o.start <= now;
       const count = live ? o.end - now : o.start - now;
-      // Hourly staples (minor) get a compact, muted row with just the start time.
+      // Minor events (hourly staples, Rift, Battlefield) get a compact, muted row with just the start time.
       list.push({ name, note: o.ev.minor ? "" : o.ev.note, tag: o.tag, live, minor: o.ev.minor, soon: !live && count <= SOON,
         key: live ? o.end - DAY : o.start,
         detail: live ? `until ${timeFmt.format(o.end)}` : o.ev.minor ? when(o.start, now) : `${when(o.start, now)}–${timeFmt.format(o.end)}`,
