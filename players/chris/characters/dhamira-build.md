@@ -259,9 +259,9 @@ Effects + icons: `knowledge/cleric-skills.md` "Passive". Before the 2026-10-17 r
 passives partly 11–13.
 
 **Lv 20 targets (user, 2026-10-24)**, in order; Lv 20 opens the third specialty slot. Now (computed 2026-10-24):
-1. Condemnation (15)
+1. Condemnation (16)
 2. Healing Light (17) / Radiant Recovery (14)
-3. Light of Regeneration (16) / Bolt (16) / Judgment Thunder (15) / Earth's Retribution (17)
+3. Light of Regeneration (16) / Bolt (15) / Judgment Thunder (15) / Earth's Retribution (17)
 4. Defiance (14) / Divine Aura (15)
 Arcana pools (guides): Condemnation, Radiant Recovery, Bolt, Earth's Retribution → Parchment; Healing Light, Light of
 Regeneration, Judgment Thunder, Defiance, Divine Aura → Compass; any of them on a Chalice.
@@ -271,7 +271,11 @@ Regeneration, Judgment Thunder, Defiance, Divine Aura → Compass; any of them o
   (Vakron) Earth's Grace +1, Immortal Veil +1 · Shoulders Empyrean Lord's Grace +1 · Gloves (Vakron) Radiant Benediction +1, Empyrean Lord's Grace +1 · Shoes (Vakron) Immortal Veil +1 ·
   Chest (Vakron) Healing Enhancement +1, Radiant Benediction +1 · Necklace Survival Willpower +1. Not seen: guard, Epic ring, Epic earring. ~~Healing Enhancement +1~~ went with the
   Epic shoes (2026-10-24).
-- Arcana (**new Parchment 2026-10-24**, in-game "Equipped Effect" screenshot): set stats Time 10, **Life 19**,
+- **New Chalice 2026-10-25** (in-game tooltip): **Chalice of Vigor, Unique, item level 80, +0** (1,100/3,000 EXP),
+  Time [Siel] 20, lines **Condemnation +1** (the chosen line), Earth's Grace +1, Earth's Retribution +1, Healing
+  Enhancement +1. Replaced the Common +2 Chalice (Time 10; Earth's Retribution, Bolt, Scattershot). Primal Vigor
+  4-piece still active. Net change: Condemnation, Earth's Grace, Healing Enhancement +1; Bolt, Scattershot −1; Time 10 → 20.
+- Arcana before that (**new Parchment 2026-10-24**, in-game "Equipped Effect" screenshot): set stats Time 10, **Life 19**,
   Freedom 10, Destruction 10, Illusion 10. Lines (18): Earth's Retribution +3, Chain of Torment +2, Bolt +2,
   Debilitating Mark +1, Judgment Thunder +1, Light of Regeneration +1, Healing Light +1, Scattershot +1, Warm
   Benediction +1, Empyrean Lord's Grace +1, Immortal Veil +1, Empyrean Lord's Benediction +1, Healing Enhancement +1,
@@ -285,19 +289,27 @@ Regeneration, Judgment Thunder, Defiance, Divine Aura → Compass; any of them o
 
 | Card | Set (stat 10) | Skill lines |
 |---|---|---|
-| Chalice | Vigor (Time) | Earth's Retribution +1, Bolt +1, Scattershot +1 |
+| Chalice | Vigor (Time) | ~~Earth's Retribution +1, Bolt +1, Scattershot +1~~ → **Unique since 2026-10-25:** Condemnation +1, Earth's Grace +1, Earth's Retribution +1, Healing Enhancement +1 |
 | Parchment | Vigor (Life) | Condemnation +1, Bolt +1, Chain of Torment +1 |
 | Compass | Vigor (Freedom) | Healing Light +1, Light of Regeneration +1, Judgment Thunder +1 |
 | Bell | **Magic** (Destruction) | Empyrean Lord's Grace +1, Immortal Veil +1, Warm Benediction +1 |
 | Mirror | Vigor (Illusion) | Healing Enhancement +1, Radiant Benediction +1, Empyrean Lord's Benediction +1 (same card as before) |
 
-**Replace first:** Chalice (Scattershot line wasted) and Mirror (Empyrean Lord's Benediction wasted).
-**Totals (computed 2026-10-24 after the new Parchment and the Gartua Ring, not read in-game):** **Earth's Retribution 17,
+**Replace first:** Mirror (Empyrean Lord's Benediction wasted). ~~Chalice~~ done 2026-10-25.
+**Totals (computed 2026-10-25 after the new Chalice, not read in-game):** **Earth's Retribution 17, Immortal Veil 17,
+Healing Light 17, Empyrean Lord's Grace 17, Radiant Benediction 17, Healing Enhancement 17** · **Condemnation 16, Chain
+of Torment 16, Light of Regeneration 16, Earth's Grace 16** · **Bolt 15** · Debilitating Mark, Divine Aura, Judgment
+Thunder, Warm Benediction, Survival Willpower 15 · Prayer of Concentration 9 · Scattershot 1 · Empyrean Lord's
+Benediction 2 · the rest 14 (incl. Radiant Recovery, Defiance).
+**Bolt drops to 15, so its option 5 (guaranteed Crit) locks; Condemnation reaches 16, so its option 5 (Multi-Hit)
+opens** (2026-10-25). Check Bolt's specialties in-game.
+~~Totals 2026-10-24: Bolt 16, Condemnation 15, Healing Enhancement 16, Earth's Grace 15, Scattershot 2.~~
+Previous totals (2026-10-24, after the new Parchment and the Gartua Ring): **Earth's Retribution 17,
 Immortal Veil 17, Healing Light 17, Empyrean Lord's Grace 17, Radiant Benediction 17** · **Bolt 16, Chain of Torment 16,
 Light of Regeneration 16, Healing Enhancement 16** · Condemnation, Debilitating Mark, Divine Aura, Judgment Thunder, Warm
 Benediction, Earth's Grace, Survival Willpower 15 · Prayer of Concentration 9 · Scattershot 2 · Empyrean Lord's
 Benediction 2 · the rest 14 (incl. Radiant Recovery, Defiance). 
-**Option 5 now selectable on Healing Light (−2s CD) and Bolt (guaranteed Crit)**: both picked 2026-10-22, see
+**Option 5 selectable on Healing Light (−2s CD) and ~~Bolt~~ (guaranteed Crit, locked again 2026-10-25 at Lv 15)**: both picked 2026-10-22, see
 "Specialties". Wasted lines: Scattershot (1, unused skill), Empyrean Lord's Benediction (1, no points).
 ~~Before (2026-10-19): Chalice + Parchment Magic, Compass + Mirror Vigor, no Bell; Healing Enhancement the only 16.~~
 
@@ -377,10 +389,10 @@ Options per skill: `knowledge/cleric-skills.md`. Lv 20 slots locked everywhere (
 | Chain of Torment | 2 +3s DoT · 4 +10% enemy Damage Tolerance reduction | Debuff skill: maximize debuffs; CC (slow, Knockdown) least important. +3s DoT also widens Condemnation's window |
 | Lightning Strike Scattershot | none from 2026-10-17 (below Lv 8 once lowered to base 1); were 3 mobile · 4 Multi-Hit | Dropped to base Lv 1, unused (not mobile without option 3) |
 | Light of Regeneration | 1 +5% Defense · 4 +5% Move Speed | Always up (cooldown = duration = 30s), so party-wide buffs with 100% uptime beat extra healing. Move Speed also serves mobility. Candidate for the 3rd slot (Lv 20): option 5, +5% PvE Damage Tolerance, same logic |
-| Condemnation | 2 up to +12% damage on fewer targets · 4 cooldown reset on Crit | Cooldown reset is the key pick (more casts inside Chain's window; Crit rate feeds it). No Root (CC), no MP (not needed). Candidate for the 3rd slot (Lv 20): option 5, Multi-Hit |
+| Condemnation | 2 up to +12% damage on fewer targets · 4 cooldown reset on Crit | Cooldown reset is the key pick (more casts inside Chain's window; Crit rate feeds it). No Root (CC), no MP (not needed). Candidate for the 3rd slot (Lv 20): option 5, Multi-Hit. **Lv 16 since 2026-10-25**: option 5 now selectable instead of 2 (user's call) |
 | Healing Light | 1 +2 consecutive uses · **5 −2s cooldown** (since 2026-10-22, Lv 16) | Burst healing; option 5 replaced 2 (+20% healing at ≤50% HP) once Arcana took it to 16. Earlier: 2 · 3 (cleanse). At Lv 20 (3rd slot): option 2 back |
 | Radiant Recovery | 2 +1 consecutive use · 3 -3s CD (12 → 9s) (since 2026-10-17) | More party healing over cleansing 2; it still removes 1 without a specialty, which is enough. Earlier: 1 (cleanse 2) · 3. Candidate for the 3rd slot (Lv 20): option 5, +5% HP restored |
-| Bolt | 3 +30% Skill Speed · **5 guaranteed Crit** (since 2026-10-22, Lv 16) | Skill Speed = faster charging (likely: cast times shown 0.4/0.7/1.1s). Guaranteed Crit on the biggest hit in the kit replaced 4 (+20% damage on fewer targets). No Stun (CC). At Lv 20 (3rd slot): option 4 back |
+| Bolt | 3 +30% Skill Speed · **5 guaranteed Crit** (since 2026-10-22, Lv 16; **Lv 15 since the new Chalice 2026-10-25, so option 5 locks**: re-pick 4 +20% damage on fewer targets) | Skill Speed = faster charging (likely: cast times shown 0.4/0.7/1.1s). Guaranteed Crit on the biggest hit in the kit replaced 4 (+20% damage on fewer targets). No Stun (CC). At Lv 20 (3rd slot): option 4 back |
 | Defiance | 1 chain skill Blessing of Regeneration · 4 +2s Tenacity (slot 2 since 2026-10-17, Lv 14) | Blessing heals ~2.1k + 40% MP, more than option 3's 10% HP at ~13k max HP. Option 4: longer CC immunity. Lv 16 option 5: +50% PvE Damage Tolerance during Tenacity |
 | Earth's Retribution | 2 +20% Discharge trigger chance · 4 -7s Bolt CD on Discharge (since 2026-10-17) | Left click is used a lot, so more Discharge procs (damage + more Bolt CD cuts) add up; MP isn't short. Earlier: 1 +20% MP restored · 4 |
 
@@ -417,7 +429,7 @@ evenly). Further levels come from **Daevanion** (11–14) and **Arcana** (15–2
   Bell of Magic** (4-piece +150 PvE Attack). Why: MP isn't short (2026-10-17), so Magic Armor's MP refill is the
   weaker bonus; top Clerics mostly run a Vigor core with Bell of Magic (Destruction = Attack). Until 4 Vigor cards
   exist, 2 + 2 is fine. Earlier rule: keep both 2-piece bonuses (2 Magic + 2 Vigor).
-- **First Transmutation: Chalice of Vigor**; chosen line (the free first pick) decided **when you transmute**
+- **First Transmutation: Chalice of Vigor** (done 2026-10-25, Condemnation line); chosen line (the free first pick) decided **when you transmute**
   (2026-10-22): whichever of **Healing Light / Condemnation** is further from 16 by then; if both reached 16 via
   Compass/Parchment drops, **Healing Light** (the heal to push to 20). Healing Light only needs +1 and comes on 4 in 6
   Compasses (Deus); Condemnation needs +2 and comes on 4 in 6 Parchments (Arkanis). Both lines at once: +10 crystals

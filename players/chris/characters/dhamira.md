@@ -7,7 +7,7 @@
 | Faction | Elyos (home region: Verteron) |
 | Level | 45 (max) |
 | Campaign | Main story done |
-| Gear score | 2100 |
+| Gear score | 2163 |
 | Combat Power | 111.1K |
 | Skill points | 383 total (in-game 2026-10-15) |
 | Server | Nania (EU) |
