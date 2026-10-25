@@ -302,7 +302,7 @@ of Torment 16, Light of Regeneration 16, Earth's Grace 16** · **Bolt 15** · De
 Thunder, Warm Benediction, Survival Willpower 15 · Prayer of Concentration 9 · Scattershot 1 · Empyrean Lord's
 Benediction 2 · the rest 14 (incl. Radiant Recovery, Defiance).
 **Bolt drops to 15, so its option 5 (guaranteed Crit) locks; Condemnation reaches 16, so its option 5 (Multi-Hit)
-opens** (2026-10-25). Check Bolt's specialties in-game.
+opens** (2026-10-25). Specialties swapped in-game the same day.
 ~~Totals 2026-10-24: Bolt 16, Condemnation 15, Healing Enhancement 16, Earth's Grace 15, Scattershot 2.~~
 Previous totals (2026-10-24, after the new Parchment and the Gartua Ring): **Earth's Retribution 17,
 Immortal Veil 17, Healing Light 17, Empyrean Lord's Grace 17, Radiant Benediction 17** · **Bolt 16, Chain of Torment 16,
@@ -389,10 +389,10 @@ Options per skill: `knowledge/cleric-skills.md`. Lv 20 slots locked everywhere (
 | Chain of Torment | 2 +3s DoT · 4 +10% enemy Damage Tolerance reduction | Debuff skill: maximize debuffs; CC (slow, Knockdown) least important. +3s DoT also widens Condemnation's window |
 | Lightning Strike Scattershot | none from 2026-10-17 (below Lv 8 once lowered to base 1); were 3 mobile · 4 Multi-Hit | Dropped to base Lv 1, unused (not mobile without option 3) |
 | Light of Regeneration | 1 +5% Defense · 4 +5% Move Speed | Always up (cooldown = duration = 30s), so party-wide buffs with 100% uptime beat extra healing. Move Speed also serves mobility. Candidate for the 3rd slot (Lv 20): option 5, +5% PvE Damage Tolerance, same logic |
-| Condemnation | 2 up to +12% damage on fewer targets · 4 cooldown reset on Crit | Cooldown reset is the key pick (more casts inside Chain's window; Crit rate feeds it). No Root (CC), no MP (not needed). Candidate for the 3rd slot (Lv 20): option 5, Multi-Hit. **Lv 16 since 2026-10-25**: option 5 now selectable instead of 2 (user's call) |
+| Condemnation | **5 Multi-Hit** (since 2026-10-25, Lv 16) · 4 cooldown reset on Crit | Cooldown reset is the key pick (more casts inside Chain's window; Crit rate feeds it). No Root (CC), no MP (not needed). Option 5 replaced 2 (up to +12% damage on fewer targets) once the Chalice took it to 16 (2026-10-25). At Lv 20 (3rd slot): option 2 back |
 | Healing Light | 1 +2 consecutive uses · **5 −2s cooldown** (since 2026-10-22, Lv 16) | Burst healing; option 5 replaced 2 (+20% healing at ≤50% HP) once Arcana took it to 16. Earlier: 2 · 3 (cleanse). At Lv 20 (3rd slot): option 2 back |
 | Radiant Recovery | 2 +1 consecutive use · 3 -3s CD (12 → 9s) (since 2026-10-17) | More party healing over cleansing 2; it still removes 1 without a specialty, which is enough. Earlier: 1 (cleanse 2) · 3. Candidate for the 3rd slot (Lv 20): option 5, +5% HP restored |
-| Bolt | 3 +30% Skill Speed · **5 guaranteed Crit** (since 2026-10-22, Lv 16; **Lv 15 since the new Chalice 2026-10-25, so option 5 locks**: re-pick 4 +20% damage on fewer targets) | Skill Speed = faster charging (likely: cast times shown 0.4/0.7/1.1s). Guaranteed Crit on the biggest hit in the kit replaced 4 (+20% damage on fewer targets). No Stun (CC). At Lv 20 (3rd slot): option 4 back |
+| Bolt | 3 +30% Skill Speed · **4 +20% damage on fewer targets** (since 2026-10-25: Lv 15 after the new Chalice, so ~~5 guaranteed Crit~~ (2026-10-22 to 10-25) locked) | Skill Speed = faster charging (likely: cast times shown 0.4/0.7/1.1s). Guaranteed Crit on the biggest hit in the kit replaced 4 (+20% damage on fewer targets). No Stun (CC). At Lv 20 (3rd slot): option 4 back |
 | Defiance | 1 chain skill Blessing of Regeneration · 4 +2s Tenacity (slot 2 since 2026-10-17, Lv 14) | Blessing heals ~2.1k + 40% MP, more than option 3's 10% HP at ~13k max HP. Option 4: longer CC immunity. Lv 16 option 5: +50% PvE Damage Tolerance during Tenacity |
 | Earth's Retribution | 2 +20% Discharge trigger chance · 4 -7s Bolt CD on Discharge (since 2026-10-17) | Left click is used a lot, so more Discharge procs (damage + more Bolt CD cuts) add up; MP isn't short. Earlier: 1 +20% MP restored · 4 |
 
