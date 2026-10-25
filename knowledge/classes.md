@@ -57,10 +57,9 @@ Skill data from [315] (read from a global client build, no date); guide advice f
 ## Party vs force: who your heals and buffs reach (researched 2026-10-25)
 
 - **Force** = up to 4 parties, 24 players; the leader assigns members to parties [438] (KR community, unverified for EU).
-- **Heals and buffs reach your own party only, as far as known.** The user's in-game impression (2026-10-25, not
-  certain): in a force, heals seem to land only on the own party. Guides describe the group heals (Radiant Recovery,
+- **Heals reach your own party only, not the other parties of a force** (in-game 2026-10-25, confirmed). Buffs
+  very likely the same (not tested). Guides describe the group heals (Radiant Recovery,
   Light of Regeneration) as hitting "party members" [437], and a player reports not being able to heal anyone outside
-  the party in the open world [436]. **No source says heals reach other parties of a force**; none says outright
-  that they can't, either. To be sure: in a force, target a member of another party and cast Healing Light.
+  the party in the open world [436].
 - **Exception (KR, 2026-09-22):** while an Abyss boss is up, party buff skills apply to everyone in the Abyss and
   related PvP content; buffs only, heals not mentioned [439]. Unverified for EU.
