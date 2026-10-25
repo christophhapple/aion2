@@ -7,9 +7,9 @@ tracker itself goes in `backlog.md`.
 - [ ] Enhance the new Chalice (transmuted 2026-10-25), then send a screenshot of the card (grade, set, lines, GS) for build + GS
 - [ ] **By 2026-12-16 08:00:** use up the 50 Odyle Energy (Bound) items (2,000 Odyle), they expire with Season 1.
   About one extra cube (40) per day on top of the normal regen
-- [ ] Screenshot the **Season Missions** window, all tabs (= metabot's Season 1 achievements: Nightmare
-  bosses, Transcendence stages, Tower of Trials, Tribulations, Abyss, Arena, weeklies). Fills the "?" in
-  `goals.md` and checks the weekly caps in `routines.yaml`
+- [ ] Screenshot the **non-weekly Season 1 achievements** (Nightmare bosses, Transcendence stages, Tower of
+  Trials, Tribulations, Street Fighter) with current progress and next tier. Fills the "?" in `goals.md`.
+  The weekly Season Missions are done (2026-10-24)
 - [ ] Quick achievements (state 2026-10-20, `characters/dhamira-achievements.md`), then claim them:
   join a Legion (0/1 → title There's No "I" in Team) · use 1 Transformation Candy (Sweet Tooth, 0/1) ·
   store items 2 more times (Storage Keeper III, 48/50 → title) · buy 5 more items at the Black Cloud
@@ -40,6 +40,7 @@ tracker itself goes in `backlog.md`.
   Does a higher-GS material give a fuller new line (or a better chance)? See `knowledge/gear.md` "Sync"
 
 ## Done
+- [x] Season Missions, weekly tabs screenshotted: all weekly missions now routines, caps checked (2026-10-24)
 - [x] Force test: heals reach only the own party (2026-10-25)
 - [x] Chalice transmuted (2026-10-25)
 - [x] Event end times: Halloween 11/04 and Season 1 12/16 both end at 08:00 CET (2026-10-25)
