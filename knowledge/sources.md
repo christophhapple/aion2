@@ -527,3 +527,7 @@ Added 2026-10-22 (skins, Closet, Skin Combine).
 433. gearupbooster, fix Aion 2 lag (vendor, low trust), 2026: https://www.gearupbooster.com/en/blog/fix-aion-2-lag.html
 434. gamesfuze, best graphics settings for FPS, lag and stutter, 2026: https://gamesfuze.com/game-fixes/aion-2-best-graphics-settings-for-fps-fix-lag-crashes-stutter/
 435. mobalytics, Deus Research Base guide, 2026 (search snippet only, page 403): https://mobalytics.gg/gamebase/guides/aion-2-deus-research-base
+436. Steam discussion "and this is supposed to be a MMO?", 2026-10-06 (player posts): https://steamcommunity.com/app/3393110/discussions/6/583936001036200785/
+437. Inven Cleric board, PvE guide (KR), 2026: https://www.inven.co.kr/board/aion2/6452/16524
+438. fmkorea, field boss drops / merit box contribution (KR), 2026: https://www.fmkorea.com/9315978056
+439. gametoc, buff change for Abyss bosses (KR broadcast), 2026-09-22: https://www.gametoc.co.kr/news/articleView.html?idxno=111709
