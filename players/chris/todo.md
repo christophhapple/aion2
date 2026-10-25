@@ -18,7 +18,6 @@ tracker itself goes in `backlog.md`.
   Merchants (5/10 → title)
 - [ ] Easy achievement: next Fire Temple **Conquest** run, lie down (emote) in the boss room → title "Kromede Will Remember That" (guide, unverified; whether before or after the kill isn't stated). See `knowledge/achievements.md`
 - [ ] Daily recharge 2026-10-25 gave nothing: no Nightmare attempts (0/14 after relog and restart), no Shugo keys etc., not at 08:00 and not after 09:00 (Supply Requests did reset). Check the mailbox and the official notices for compensation over the next days; otherwise report it to support
-- [ ] Season 1 end: read a fresh "Season resets in" countdown. Does it end 12/16 at 08:00 or 09:00 CET? (Halloween: 08:00, settled; see `knowledge/schedule.md`)
 - [ ] Legion (if you join one): does the Legion menu show missions or Legion Coin? What does the Legion Merchant sell?
 - [ ] Market rules (now with membership; fee 2%, Bound Kina first, and tax 10% known): How many listing slots, and how long does a listing run? Do sales pay normal Kina?
   See `knowledge/crafting.md` "Market"
@@ -43,6 +42,7 @@ tracker itself goes in `backlog.md`.
   Does a higher-GS material give a fuller new line (or a better chance)? See `knowledge/gear.md` "Sync"
 
 ## Done
+- [x] Event end times: Halloween 11/04 and Season 1 12/16 both end at 08:00 CET (2026-10-25)
 - [x] DST check: daily reset 08:00 CET, Rift still on the local clock (2026-10-25)
 - [x] Skin Combine tested: spares only, counts unchanged, result can be a duplicate (2026-10-24)
 - [x] PvP: Salvation works right after Defiance and the other way around (2026-10-24)
