@@ -395,7 +395,7 @@ Researched 2026-10-13; guides only, thin sources. [196][197] read client data an
   **Arena of Cooperation** (5v5: win by defeating the whole enemy team), Rank, Trade Shop. The **Trade Shop is the
   same as the Abyss shop** (Stigma Shards etc. for Abyss Points) (in-game 2026-10-18).
 - Season ranking: everyone starts at **1,500 RP**; promotion/demotion apply when ranks update. Season shown as
-  2026-09-30 09:00 – 2026-12-16 09:00.
+  2026-09-30 09:00 – 2026-12-16 09:00 (in CEST; = 07:00 UTC, so 08:00 CET after the clock change).
 - **Rewards, per arena:** participation **300 Abyss Points**, victory **500 Abyss Points**. Weekly maximum: 10
   participation rewards + 30 victory rewards, reset Wednesday. So up to 3,000 + 15,000 = **18,000 AP per arena per
   week** (own arithmetic; assumes a win pays only the victory reward).

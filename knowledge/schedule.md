@@ -21,8 +21,11 @@ reading the global client [61][62][63]; unverified unless tagged `in-game`. Sour
   08:00 CET), and the daily reset is **08:00 CET = 07:00 UTC** (Halloween attendance: "Resets daily at 08:00";
   Nightmare "Daily recharge in 23h 57min" at 08:03). In-game windows show times on this server/local clock.
   **Halloween ends 2026-11-04 08:00 CET = 07:00 UTC** (in-game 2026-10-25), at the daily reset; the 2026-10-18
-  countdown (09:00 CET) was off by the clock change. **Season 1 end:** the season items say "12/16/2026 08:00", so
-  probably 08:00 CET too, but its 2026-10-18 countdown also said 09:00 CET: not rechecked.
+  countdown (09:00 CET) was off by the clock change. **Season 1 ends 2026-12-16 08:00 CET = 07:00 UTC** (in-game
+  2026-10-25: Daeva Pass "Valid from 09/30/2026 08:00 – 12/16/2026 08:00", season items "12/16/2026 08:00").
+  **Windows show fixed UTC times in the current server offset:** on 2026-10-18 (CEST) the Season window said
+  09:00 → 09:00, now (CET) 08:00 → 08:00, i.e. 07:00 UTC both ends, the daily reset time. The two 2026-10-18
+  countdowns pointed an hour later (08:00 UTC); unexplained, possibly misread.
   **Glitch (in-game 2026-10-25):** the first daily recharge after the change gave nothing: no Nightmare attempts
   (still 0/14 after a relog and a game restart, although the timer rolled over at 08:00) and no Shugo keys etc.,
   still nothing after 09:00 either. The daily Supply Requests, Duty Missions and Halloween attendance did reset, so
@@ -92,7 +95,7 @@ unobtained Odyle cubes 10 (server) [50].
 | 2026-10-28 | Planet's Call (50-level event pass) ends at maintenance [50][65]. No tasks, only XP from normal play (in-game), so not worth planning around |
 | 2026-11-09 | Community launch events end [67] |
 | 2026-12-01 | Log in before this for pre-registration/wishlist rewards [67] |
-| 2026-12-15 | Daeva Pass Season 1 ends at maintenance (free track) [65][66]; Season 1 ends **2026-12-16 09:00 local = 08:00 UTC** (in-game countdown 2026-10-18; ~~07:00 UTC~~ [222]). **Spend Oath Coins before**, see `seasons.md`. **Proofs of Hero expire** then too (in-game 2026-10-19): craft Merit Chests before |
+| 2026-12-15 | Daeva Pass Season 1 ends at maintenance (free track) [65][66]; Season 1 ends **2026-12-16 08:00 CET = 07:00 UTC** (in-game 2026-10-25, Daeva Pass window; matches [222]; ~~09:00 local~~ from a 2026-10-18 countdown). The Daeva Pass window also says 12/16 08:00. **Spend Oath Coins before**, see `seasons.md`. **Proofs of Hero expire** then too (in-game 2026-10-19): craft Merit Chests before |
 
 ## Timer sites
 daevaguides.com/timers (UTC, EU = NA, reviewed weekly) [61] · shugo.gg/timers (per-region server

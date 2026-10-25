@@ -5,9 +5,10 @@ the reset pattern is from KR official notices. Unverified unless tagged `in-game
 
 ## Global Season 1
 
-- **Runs 2026-09-30 09:00 → 2026-12-16 09:00 local** (in-game 2026-10-18: Season window dates + countdown), i.e. ends
-  **08:00 UTC** (09:00 CET). ~~07:00 UTC / 08:00 local~~ [222]. Season 2 starts then. "16:00 server time" in
-  [223][224] (KST) = 07:00 UTC, an hour earlier than the in-game countdown. `schedule.md` has "Dec 15 at maintenance"
+- **Runs 2026-09-30 07:00 UTC → 2026-12-16 07:00 UTC**, i.e. ends **08:00 CET** (in-game 2026-10-25: Daeva Pass
+  "09/30/2026 08:00 – 12/16/2026 08:00"; on 2026-10-18, in CEST, the Season window showed 09:00 → 09:00, the same
+  instants). Matches [222]. ~~08:00 UTC / 09:00 CET~~ from a 2026-10-18 countdown, see below. Season 2 starts then. "16:00 server time" in
+  [223][224] (KST) = 07:00 UTC, matches. `schedule.md` has "Dec 15 at maintenance"
   for the Daeva Pass [65][66]: likely the same maintenance window. Check the in-game countdown.
 - **Seasonal in S1** [222]: Ascension Trial alternates weekly (Sanctum of Loathing / Nightmare Altar);
   fixed roster of 7 Nightmare bosses; Season 1 achievements; Season Missions; Season Shop; rankings
@@ -65,7 +66,7 @@ the reset pattern is from KR official notices. Unverified unless tagged `in-game
 - **Countdowns:** "Season resets in 58d 19h 11min" seen 2026-10-18 14:49 CEST → **2026-12-16 08:00 UTC (09:00 CET)**;
   "Event ends in 16d 19h 11min" → 2026-11-04 08:00 UTC (09:00 CET). Matches the "09:00" end date shown in the window.
   After the 2026-10-25 clock change the Halloween end shows as **08:00 CET** (in-game 2026-10-25), so these countdowns
-  were an hour off; the Season end is probably 08:00 CET too (see `schedule.md`, not rechecked).
+  were an hour off; the Season end is **08:00 CET** too (in-game 2026-10-25, Daeva Pass window, see `schedule.md`).
 
 ## Oath Coins and the Season Shop
 

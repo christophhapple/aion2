@@ -128,7 +128,7 @@ Guides mostly describe KR/TW; global details may differ. Sources [319]–[321].
 ## Proof of Hero → Merit Chests (researched 2026-10-19, guides, unverified)
 - **What:** boss-specific materials from the Abyss bosses: Proof of Hero (Kaira), (Argo), (Nahma) from those
   bosses' rewards; Proof of Hero: Lower Reshanta from the monsters after the Artifact Siege [329][330]. Not received after a siege boss kill, but only while away respawning at the kill, so inconclusive (in-game 2026-10-19). Special grade,
-  bound, stacks to 1,000, can't be sold [329][331]. **Expire when the season ends** (in-game 2026-10-19; Season 1 ends 2026-12-16 09:00 local, `seasons.md`).
+  bound, stacks to 1,000, can't be sold [329][331]. **Expire when the season ends** (in-game 2026-10-19; Season 1 ends 2026-12-16 08:00 CET, `seasons.md`).
 - **Use:** Substance Morph (Medal tab) → that boss's Merit Chest, 100% success, no Kina [332][333]. Limits are
   **per character per week** and given per recipe; **each grade has its own limit** (in-game 2026-10-22).
 
