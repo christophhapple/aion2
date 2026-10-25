@@ -344,7 +344,7 @@ Grace +1 = +5 Critical Hit, +0.2% Double Chance, ~2% more extra damage (in-game)
 gloves is 17–27). Radiant Benediction +1 = ~3% more party heal, ~30 HP per proc every 5s (in-game). Other
 passives' per-level values: not checked yet.
 Skill lines: actives Healing Light, Light of Regeneration, Radiant Recovery, Condemnation; passives Healing
-Enhancement, Earth's Grace, Warm Benediction, Prayer of Concentration (only Lv 10, so +1 counts most).
+Enhancement, Earth's Grace, Warm Benediction, Prayer of Concentration. ~~Prayer of Concentration +1 counts most because it's low~~: wrong, passives have no known breakpoint and a +1 is worth about the same at any level (user, 2026-10-25).
 Stats: damage first (Damage Boost, Critical Damage Boost, Combat Speed, Weapon Damage Boost; Attack, since
 Healing Enhancement turns it into healing), then Critical Hit; for PvP Damage Tolerance and Status Effect Resist.
 **Weak:** Lightning Strike Scattershot (unused), Heal Block, Empyrean Lord's Benediction, Front/Back Attack.
