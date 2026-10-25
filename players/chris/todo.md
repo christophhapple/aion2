@@ -38,9 +38,9 @@ tracker itself goes in `backlog.md`.
   still unknown. See `knowledge/gear.md` "Summary, all slots"
 - [ ] Soul Binding Sync, next time: note the material's GS, the success chance shown, and the new line's fill %.
   Does a higher-GS material give a fuller new line (or a better chance)? See `knowledge/gear.md` "Sync"
-- [ ] Next time in a force: target a member of **another party** and cast Healing Light. Does it heal? (See `knowledge/classes.md` "Party vs force")
 
 ## Done
+- [x] Force test: heals reach only the own party (2026-10-25)
 - [x] Chalice transmuted (2026-10-25)
 - [x] Event end times: Halloween 11/04 and Season 1 12/16 both end at 08:00 CET (2026-10-25)
 - [x] DST check: daily reset 08:00 CET, Rift still on the local clock (2026-10-25)
