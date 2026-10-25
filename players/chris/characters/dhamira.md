@@ -7,11 +7,11 @@
 | Faction | Elyos (home region: Verteron) |
 | Level | 45 (max) |
 | Campaign | Main story done |
-| Gear score | 2163 |
+| Gear score | 2205 |
 | Combat Power | 111.1K |
 | Skill points | 383 total (in-game 2026-10-15) |
 | Server | Nania (EU) |
-| Updated | 2026-10-24 |
+| Updated | 2026-10-25 |
 
 Build: [dhamira-build.md](dhamira-build.md) · Achievements: [dhamira-achievements.md](dhamira-achievements.md)
 
