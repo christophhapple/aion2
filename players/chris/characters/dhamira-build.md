@@ -299,7 +299,7 @@ Regeneration, Judgment Thunder, Defiance, Divine Aura → Compass; any of them o
 **Totals (computed 2026-10-25 after the new Chalice, not read in-game):** **Earth's Retribution 17, Immortal Veil 17,
 Healing Light 17, Empyrean Lord's Grace 17, Radiant Benediction 17, Healing Enhancement 17** · **Condemnation 16, Chain
 of Torment 16, Light of Regeneration 16, Earth's Grace 16** · **Bolt 15** · Debilitating Mark, Divine Aura, Judgment
-Thunder, Warm Benediction, Survival Willpower 15 · Prayer of Concentration 9 · Scattershot 1 · Empyrean Lord's
+Thunder, Warm Benediction, Survival Willpower 15 · Prayer of Concentration 10 (Vakron Cloak line, 2026-10-25) · Scattershot 1 · Empyrean Lord's
 Benediction 2 · the rest 14 (incl. Radiant Recovery, Defiance).
 **Bolt drops to 15, so its option 5 (guaranteed Crit) locks; Condemnation reaches 16, so its option 5 (Multi-Hit)
 opens** (2026-10-25). Specialties swapped in-game the same day.
@@ -344,7 +344,7 @@ Grace +1 = +5 Critical Hit, +0.2% Double Chance, ~2% more extra damage (in-game)
 gloves is 17–27). Radiant Benediction +1 = ~3% more party heal, ~30 HP per proc every 5s (in-game). Other
 passives' per-level values: not checked yet.
 Skill lines: actives Healing Light, Light of Regeneration, Radiant Recovery, Condemnation; passives Healing
-Enhancement, Earth's Grace, Warm Benediction, Prayer of Concentration (only Lv 9, so +1 counts most).
+Enhancement, Earth's Grace, Warm Benediction, Prayer of Concentration (only Lv 10, so +1 counts most).
 Stats: damage first (Damage Boost, Critical Damage Boost, Combat Speed, Weapon Damage Boost; Attack, since
 Healing Enhancement turns it into healing), then Critical Hit; for PvP Damage Tolerance and Status Effect Resist.
 **Weak:** Lightning Strike Scattershot (unused), Heal Block, Empyrean Lord's Benediction, Front/Back Attack.
@@ -360,8 +360,9 @@ Might, Precision, Intelligence, Dexterity, Willpower, Constitution: unrated (wha
 | Legs | Damage Tolerance | Constitution, Natural MP Regen, Damage Tolerance 8.9%, Accuracy (23.1%) | Keep Damage Tolerance |
 | Gloves | Combat Speed | Dexterity, MP, Radiant Benediction, Empyrean Lord's Grace (61.5%, Transfer 2026-10-24) | Keep both skills; Sync Dexterity/MP for Combat Speed later |
 | Shoes | Move Speed | Vakron Boots: Block, Back Defense, Constitution, Immortal Veil (48.2%) | Weak: Sync candidate (low priority) |
-| Cloak | Critical Damage Tolerance | Natural HP Regen, Accuracy, Dexterity, Back Defense (20.7%) | Sync candidate |
-| Ring (Unique) | a good active skill | Natural MP Regen, Critical Hit, Natural HP Regen, Healing Light (47.6%) | Good |
+| Cloak | Critical Damage Tolerance | **Vakron Cloak** (in-game 2026-10-25): Back Defense 190, MP 61, Weapon Damage Tolerance 7.4%, Prayer of Concentration +1 (51.0%). ~~Courage Cloak: Natural HP Regen, Accuracy, Dexterity, Back Defense~~ | Keep Prayer of Concentration (Lv 9 → 10) and Weapon Damage Tolerance; Sync Back Defense or MP for Critical Damage Tolerance later |
+| Ring (Unique) | a good active skill | Berk Ring: Natural MP Regen, Critical Hit, Natural HP Regen, Healing Light (47.6%) | Good |
+| Ring (Unique) | a good active skill | Gartua Ring (2026-10-24): Critical Hit 25, Divine Aura, Condemnation, Light of Regeneration (77.0%) | Very good: three key actives |
 | Earring (Unique) | a good passive skill | Accuracy, Natural MP Regen, Might, MP (37.4%) | Low priority |
 | Necklace | a good passive skill, Combat Speed (small) | Block, Might, Evasion, Survival Willpower (42.3%) | Low priority |
 | Bracelets | (tiny lines) | 100%, locked | Done |
