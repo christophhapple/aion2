@@ -105,7 +105,8 @@ Global: guides only, except: **Oath Coins don't carry over, and season tickets a
 
 **Season-bound consumables (in-game):** the item **Odyle Energy (Bound)** recharges 40 Odyle Energy, stacks,
 and is "Valid Until 12/16/2026 08:00", i.e. it expires when Season 1 ends (in-game 2026-10-23; the time zone of
-the tooltip isn't stated). Use these up before the season ends instead of hoarding them.
+the tooltip isn't stated, but it still showed 08:00 after the CEST → CET change (in-game 2026-10-25), so it's a
+fixed clock, most likely UTC, matching the season countdown's 08:00 UTC = 09:00 CET). Use these up before the season ends instead of hoarding them.
 
 KR pattern (official notice S3 → Chapter 1 [229]; S1 → S2 [228]; S2 → S3 [230], AI-written post):
 - **Lost:** Oath Coins (old Season Shop removed at the transition); Daeva Pass shop coin **2 weeks later**.
