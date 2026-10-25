@@ -4,9 +4,7 @@ One-off things to do or check in the game. Daily/weekly routines live in `routin
 tracker itself goes in `backlog.md`.
 
 ## Open
-- [ ] **2026-10-25:** buy the remaining Mysterious Crystals in the Season Shop (Oath Coins are enough), then
-  transmute the Chalice: Vigor, Healing Light or Condemnation, whichever is furthest from Lv 16 (check levels
-  first). Needs 5 crystals + 2M Kina; **only ~208k Kina on hand (2026-10-24)**, so farm Kina first. Then report the result for build + GS
+- [ ] Enhance the new Chalice (transmuted 2026-10-25), then send a screenshot of the card (grade, set, lines, GS) for build + GS
 - [ ] **By 2026-12-16 08:00:** use up the 50 Odyle Energy (Bound) items (2,000 Odyle), they expire with Season 1.
   About one extra cube (40) per day on top of the normal regen
 - [ ] Screenshot the **Season Missions** window, all tabs (= metabot's Season 1 achievements: Nightmare
@@ -43,6 +41,7 @@ tracker itself goes in `backlog.md`.
 - [ ] Next time in a force: target a member of **another party** and cast Healing Light. Does it heal? (See `knowledge/classes.md` "Party vs force")
 
 ## Done
+- [x] Chalice transmuted (2026-10-25)
 - [x] Event end times: Halloween 11/04 and Season 1 12/16 both end at 08:00 CET (2026-10-25)
 - [x] DST check: daily reset 08:00 CET, Rift still on the local clock (2026-10-25)
 - [x] Skin Combine tested: spares only, counts unchanged, result can be a duplicate (2026-10-24)
