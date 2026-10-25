@@ -16,6 +16,12 @@ reading the global client [61][62][63]; unverified unless tagged `in-game`. Sour
   **Counter-hint (in-game 2026-10-23):** at Fri 12:07 CEST the weekly recharge countdowns (Daily Dungeon,
   Ascension Trial) showed 4d 20h 52–53min, i.e. Wed 28 Oct 07:00 UTC = **08:00 CET**. So the weekly reset
   looks like it stays on UTC and moves to 08:00 local.
+  **Settled (in-game 2026-10-25, after the change):** event times stay on the local clock (Spacetime Rift opened at
+  08:00 CET), and the daily reset is **08:00 CET = 07:00 UTC** (Halloween attendance: "Resets daily at 08:00";
+  Nightmare "Daily recharge in 23h 57min" at 08:03). In-game windows show times on this server/local clock.
+  **Still open:** the 2026-10-18 countdowns put the Season and Halloween end at 08:00 UTC (09:00 CET), but the windows
+  show "11/04/2026 08:00" (attendance) and "12/16/2026 08:00" (season items), i.e. 08:00 CET = 07:00 UTC. A fresh
+  countdown would settle it.
 - KR/TW schedules differ (e.g. Abyss sieges Wed/Sat in KR). Don't use KR timers such as aion2hub's [61].
 
 ## A. Fixed times
