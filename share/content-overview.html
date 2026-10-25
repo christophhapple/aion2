@@ -142,7 +142,7 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
 
   <section aria-labelledby="timers">
     <h2 id="timers">Up next</h2>
-    <p>Everything on the clock, soonest first, in your local time. The bars show the time left on one shared scale, so a shorter bar means sooner. The scale is logarithmic (marks at 10 min, 1 hour, 6 hours, 1 day, 1 week, 2 months) so that minutes and weeks both fit. A bar turns gold in the last 10 minutes. Running events are on top in green, their bar showing the time until they end on the same scale. Running maintenance is pinned above everything in red. The hourly Shugo Festival and Invasion get slim grey rows, and the resets are slim bands between the events.</p>
+    <p>Everything on the clock, soonest first, in your local time. The bars show the time left on one shared scale, so a shorter bar means sooner. The scale is logarithmic (marks at 10 min, 1 hour, 6 hours, 1 day, 1 week, 2 months) so that minutes and weeks both fit. A bar turns gold in the last 10 minutes. Running events are on top in green, their bar showing the time until they end on the same scale. Running maintenance is pinned above everything in red. The hourly Shugo Festival and Invasion, the Spacetime Rift and the Battlefield get slim grey rows, and the resets are slim bands between the events.</p>
     <p class="dim">The bell next to an event plays three beeps 2 minutes before it starts. Alarms are saved in this browser only, and the page has to stay open (a background tab is fine, but the beep can then come up to a minute late).</p>
     <p class="sound-hint" id="sound-hint" hidden>You have alarms on. Tap or click anywhere on the page once so it's allowed to play sound.</p>
     <div class="table-wrap"><ol class="timers" id="timer-list" aria-live="off"><li><span class="t-name">Loading timers…</span></li></ol></div>
@@ -288,7 +288,7 @@ footer { color: var(--muted); font-size: 0.92rem; display: grid; gap: 0.5rem; bo
   // whichever entry was observed later wins.
   const RESPAWN_SNAPSHOT = {
     "argo": { at: 1792847837297, kind: "spawn", observedAt: 1792840362297 },
-    "gartua-eternal": { at: 1792843776217, kind: "spawn", observedAt: 1792840310217 },
+    "gartua-eternal": { at: 1792843807251, kind: "kill", observedAt: 1792843807251 },
   };
   let respawns = { ...RESPAWN_SNAPSHOT };
   // Fixed in UTC.
