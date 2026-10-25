@@ -181,7 +181,9 @@ grade: Common/Rare +5, Epic +10, Unique +15 [30, snippet].
   Cleric pools: `cleric-skills.md` "Skill levels".
 - Per grade [158]: Common GS 20, 1 skill level, max +2 · Rare GS 40, 2 skill levels, max +3 ·
   Epic GS 60, 3 skill levels, max +4 · Unique GS 80, 4 skill levels, max +5. Skill levels go to skills
-  listed on the card; each upgrade adds +1 to a random skill line already on it [160]. **GS (20 per grade)
+  listed on the card; each upgrade adds +1 to a random skill line already on it [160] (**fits in-game 2026-10-25**: a
+  Unique Chalice +0 → +2 went item level 80 → 82, set stat 20 → 22, two different lines +1 → +2; an Epic card shows item
+  level 60 at +0). **GS (20 per grade)
   and max upgrade (Common +2, one more per grade) confirmed in-game** (2026-10-22, user), so maxed cards are
   Common 22 · Rare 43 · Epic 64 · Unique 85.
   A card's grade can't be raised: a Common stays Common, better grades are new cards (user's impression

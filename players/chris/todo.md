@@ -4,7 +4,6 @@ One-off things to do or check in the game. Daily/weekly routines live in `routin
 tracker itself goes in `backlog.md`.
 
 ## Open
-- [ ] Enhance the new Chalice (transmuted 2026-10-25), then send a screenshot of the card (grade, set, lines, GS) for build + GS
 - [ ] **By 2026-12-16 08:00:** use up the 50 Odyle Energy (Bound) items (2,000 Odyle), they expire with Season 1.
   About one extra cube (40) per day on top of the normal regen
 - [ ] Season Missions, Season tab: the cards only show the last step. Does the "<" arrow on a card page back to
@@ -39,6 +38,7 @@ tracker itself goes in `backlog.md`.
   Does a higher-GS material give a fuller new line (or a better chance)? See `knowledge/gear.md` "Sync"
 
 ## Done
+- [x] Chalice enhanced to +2: Earth's Retribution and Healing Enhancement lines went +1 → +2 (2026-10-25)
 - [x] Season Missions, Season tabs screenshotted: progress in `characters/dhamira-achievements.md` (2026-10-25)
 - [x] Season Missions, weekly tabs screenshotted: all weekly missions now routines, caps checked (2026-10-24)
 - [x] Force test: heals reach only the own party (2026-10-25)

@@ -275,6 +275,11 @@ Regeneration, Judgment Thunder, Defiance, Divine Aura → Compass; any of them o
   Time [Siel] 20, lines **Condemnation +1** (the chosen line), Earth's Grace +1, Earth's Retribution +1, Healing
   Enhancement +1. Replaced the Common +2 Chalice (Time 10; Earth's Retribution, Bolt, Scattershot). Primal Vigor
   4-piece still active. Net change: Condemnation, Earth's Grace, Healing Enhancement +1; Bolt, Scattershot −1; Time 10 → 20.
+  **Enhanced to +2 the same day** (in-game tooltip): item level 82, 1,400/12,000 EXP, Time 22, **Earth's Retribution +2,
+  Healing Enhancement +2** (Condemnation, Earth's Grace stay +1). So enhancing raises some lines, not only GS and the set stat.
+- **New Mirror 2026-10-25** (in-game tooltip): **Mirror of Vigor, Epic, item level 60, +0** (0/1,200), locked, Illusion
+  [Kaisinel] 16, lines Earth's Grace +1, Healing Enhancement +1, Radiant Benediction +1. Replaced the Common +2 Mirror
+  (Empyrean Lord's Benediction wasted). Primal Vigor 4-piece still active (tooltip shows 4).
 - Arcana before that (**new Parchment 2026-10-24**, in-game "Equipped Effect" screenshot): set stats Time 10, **Life 19**,
   Freedom 10, Destruction 10, Illusion 10. Lines (18): Earth's Retribution +3, Chain of Torment +2, Bolt +2,
   Debilitating Mark +1, Judgment Thunder +1, Light of Regeneration +1, Healing Light +1, Scattershot +1, Warm
@@ -289,18 +294,20 @@ Regeneration, Judgment Thunder, Defiance, Divine Aura → Compass; any of them o
 
 | Card | Set (stat 10) | Skill lines |
 |---|---|---|
-| Chalice | Vigor (Time) | ~~Earth's Retribution +1, Bolt +1, Scattershot +1~~ → **Unique since 2026-10-25:** Condemnation +1, Earth's Grace +1, Earth's Retribution +1, Healing Enhancement +1 |
+| Chalice | Vigor (Time) | ~~Earth's Retribution +1, Bolt +1, Scattershot +1~~ → **Unique +2 since 2026-10-25:** Condemnation +1, Earth's Grace +1, Earth's Retribution +2, Healing Enhancement +2 |
 | Parchment | Vigor (Life) | Condemnation +1, Bolt +1, Chain of Torment +1 |
 | Compass | Vigor (Freedom) | Healing Light +1, Light of Regeneration +1, Judgment Thunder +1 |
 | Bell | **Magic** (Destruction) | Empyrean Lord's Grace +1, Immortal Veil +1, Warm Benediction +1 |
-| Mirror | Vigor (Illusion) | Healing Enhancement +1, Radiant Benediction +1, Empyrean Lord's Benediction +1 (same card as before) |
+| Mirror | Vigor (Illusion) | ~~Healing Enhancement +1, Radiant Benediction +1, Empyrean Lord's Benediction +1~~ → **Epic since 2026-10-25:** Earth's Grace +1, Healing Enhancement +1, Radiant Benediction +1 |
 
-**Replace first:** Mirror (Empyrean Lord's Benediction wasted). ~~Chalice~~ done 2026-10-25.
-**Totals (computed 2026-10-25 after the new Chalice, not read in-game):** **Earth's Retribution 17, Immortal Veil 17,
-Healing Light 17, Empyrean Lord's Grace 17, Radiant Benediction 17, Healing Enhancement 17** · **Condemnation 16, Chain
-of Torment 16, Light of Regeneration 16, Earth's Grace 16** · **Bolt 15** · Debilitating Mark, Divine Aura, Judgment
-Thunder, Warm Benediction, Survival Willpower 15 · Prayer of Concentration 10 (Vakron Cloak line, 2026-10-25) · Scattershot 1 · Empyrean Lord's
-Benediction 2 · the rest 14 (incl. Radiant Recovery, Defiance).
+**Replace next:** Compass and Bell (still Common +2). ~~Chalice, Mirror~~ done 2026-10-25.
+**Totals (computed 2026-10-25 after Chalice +2 and the new Mirror, not read in-game):** **Earth's Retribution 18, Healing
+Enhancement 18** · **Immortal Veil 17, Healing Light 17, Empyrean Lord's Grace 17, Radiant Benediction 17, Earth's Grace
+17** · **Condemnation 16, Chain of Torment 16, Light of Regeneration 16** · **Bolt 15** · Debilitating Mark, Divine Aura,
+Judgment Thunder, Warm Benediction, Survival Willpower 15 · Prayer of Concentration 10 (Vakron Cloak line, 2026-10-25) ·
+Scattershot 1 · Empyrean Lord's Benediction 1 · the rest 14 (incl. Radiant Recovery, Defiance).
+~~Totals after the new Chalice +0: Earth's Retribution 17, Healing Enhancement 17, Earth's Grace 16, Empyrean Lord's
+Benediction 2.~~
 **Bolt drops to 15, so its option 5 (guaranteed Crit) locks; Condemnation reaches 16, so its option 5 (Multi-Hit)
 opens** (2026-10-25). Specialties swapped in-game the same day.
 ~~Totals 2026-10-24: Bolt 16, Condemnation 15, Healing Enhancement 16, Earth's Grace 15, Scattershot 2.~~
@@ -439,7 +446,7 @@ evenly). Further levels come from **Daevanion** (11–14) and **Arcana** (15–2
   (2500 GS). The other 3 lines
   are random from 21; only Scattershot, Empyrean Lord's Benediction, Heal Block would be wasted. Costs 5 Mysterious
   Crystals + 2M Kina. Replaces the Common Chalice (Magic), so the Magic 2-piece drops until a Magic Bell comes.
-- Replace cards with Scattershot or Empyrean Lord's Benediction lines first (Compass, Mirror): their levels are wasted.
+- Replace cards with Scattershot or Empyrean Lord's Benediction lines first: their levels are wasted (~~Mirror~~ replaced 2026-10-25).
 - Upgrades add +1 to a random line already on the card (guide), so prefer cards whose lines are all useful.
 
 ## Manual layer: trigger map
