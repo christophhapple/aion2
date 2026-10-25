@@ -2,7 +2,7 @@
 
 Snapshot from screenshots (in-game 2026-10-20). Only open cards are listed, as current/next tier,
 with the next tier's reward where it's useful (ES = Enhance Stones). Finished groups in one line.
-Not in this window: Season 1 achievements (probably the Season Missions window). Which ones matter: `knowledge/achievements.md`,
+Season 1 achievements are in the Season Missions window → Season sub-tabs, see "Season 1" at the end. Which ones matter: `knowledge/achievements.md`,
 the tracked ones are in `goals.md`.
 
 ## Progress
@@ -168,3 +168,28 @@ Done: Common and Rare to +5, Epic to +10.
 | Substance Morph: 10 materials / 5 Fine / 1 Pure / 1 Radiant | 7/10 · 0/5 · 0/1 · 0/1 |
 
 Done: Essence Extraction proficiency 100 (10-10), Lucky Gatherer VII (10-13).
+
+## Season 1 (Season Missions → Season, in-game 2026-10-25)
+All 74/167 steps · Abyss 7/25 · Arena 3/14 · Transcendence 4/24 · Nightmare 48/77 · Challenge 12/27.
+Cards only show the last step, so the count is that step's target. Finished: Scars of Glory II (30/30),
+I Don't Fear Death (20/20), Hand-to-Hand C… (250/250).
+
+| Mission | Progress |
+|---|---|
+| Abyss: 60 h in the Abyss | 9/60 |
+| Abyss: fly 180 min | 145/180 |
+| Abyss: hunt 10,000 monsters | 1,473/10,000 |
+| Abyss: Street Fighter V, 500 player kills | 57/500 |
+| Abyss: collect 1,000,000 AP | 757,541/1,000,000 |
+| Abyss: take part in 15 sieges | 2/15 |
+| Abyss: win 10 sieges | 1/10 |
+| Arena: take part 150 | 33/150 |
+| Arena: win 100 | 17/100 |
+| Arena: defeat an opponent 300 | 28/300 |
+| Arena: 50 assists | 28/50 |
+| Transcendence: Deus + Arkanis Stage 1–4 (8 cards) | last step 0/1 on all |
+| Nightmare: 7 bosses, Lv 11 clear | last step 0/1 on all |
+| Challenge: Tribulation of Apo… (Ascension Trial) | 8/10 |
+| Challenge: Tribulation of Dud… (Ascension Trial) | 4/10 |
+| Challenge: Tower of Trials VIII, final score 6,0… | 0/1 |
+| Challenge: kill Commanders / Generals / 1–5 Star Officers | 0/5 · 0/10 · 0/30 |

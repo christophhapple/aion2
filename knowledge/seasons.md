@@ -55,14 +55,29 @@ the reset pattern is from KR official notices. Unverified unless tagged `in-game
     commands (Daeva of Glorious Deeds) [abyss-commands] · 5 Abyss bosses of any kind (Daeva of Extraordinary Deeds) ·
     Battlefield 3 (Daeva's Book) [battlefield] · Ascension Trial 3 (Hatched Bird) [ascension]
   - ~~Guides: Friends With a Story 5/10, Nahma 1~~ fit; ~~Transcendence 6 clears~~ was an earlier step.
-- **Season missions (examples):** Abyss: 10 h in the Abyss, fly 60 min, hunt 2,000 monsters, collect 500,000 AP, take
-  part in 5 / win 3 sieges, PvP kills/deaths. Arena: 30 matches, 20 wins, 50 kills, 10 assists, 20 deaths.
-  Transcendence: clear each stage of Deus Research Base and Shattered Arkanis. Nightmare: clear each boss level
-  (7 bosses × 11 levels: Gatekeeper Pinopi, Furious Feruk, Fafnir's Poison Blood, Wraith Giselle, Fortress Guardian,
-  Mutated Gerod, Zikel's Apparition). Challenge: Ascension Trial clears, **Tower of Trials** final score, PvP kills.
-- **Battlefield:** the 10v10 PvP mode, see `endgame.md` "Battlefield". **Tower of Trials:** no guide mentions it; it
-  sits among the Ascension Trial missions and asks for a "final score", and the Ascension Trial is scored, so it is
-  probably the Ascension Trial's score chain (inference, 2026-10-18).
+- **Season (one-time) missions, full list (in-game 2026-10-25, Season sub-tab).** Like the weekly tab, each card shows
+  the **last step** of its chain (header "Step 3/3", target of that step); earlier steps aren't shown on the card.
+  Steps per tab: Abyss 25, Arena 14, Transcendence 24, Nightmare 77, Challenge 27 = **167** ("All x/167"); Event has
+  none. Names cut off in the window end in "…".
+  - **Abyss (8):** spend 60 h in the Abyss (Peering into the A…, 3 steps) · fly 180 min in total (All I Have Is Two…, 2) ·
+    hunt 10,000 monsters (Wandering Wraith…, 3) · kill 500 enemy-faction players (Street Fighter V, 5) · collect
+    1,000,000 Abyss Points (Coins to Make Me…, 4) · take part in 15 Artifact Sieges (No Time to Rest III, 3) · win 10
+    Artifact Sieges (Artifact Assault III, 3) · be killed by enemy players 30 times (Scars of Glory II, 2)
+  - **Arena (5):** take part 150 times (Gambler's Path III, 3) · win 100 (Reaper of the Are…, 3) · defeat an opponent 300
+    times (Piercing the Enem…, 4) · 50 assists (Missed by a Hair III, 3) · die 20 times (I Don't Fear Death, 1)
+  - **Transcendence (8):** clear Deus Research Base Stage 1–4 "without…" and Shattered Arkanis Stage 1–4 "with…" (rest cut
+    off), 3 steps each; rewards include a Training Arcana card (gold card on Stage 4)
+  - **Nightmare (7):** clear each boss up to Level 11 (11 steps each): Gatekeeper Pinopi, Furious Feruk, Fafnir's Poison
+    Blood, Wraith Giselle, Fortress Guardian No…, Mutated Gerod, Zikel's Apparition
+  - **Challenge (7):** [Ascension Trial] clear "Nig…" 10 times (Tribulation of Apo…, 3) · clear "San…" 10 times
+    (Tribulation of Dud…, 3), presumably Nightmare Altar and Sanctum of Loathing (the two S1 Ascension Trial dungeons) · Ascension Trial final score 6,0… (cut off; Tower of Trials VIII, 8 steps)
+    · kill Asmodian Commanders 5 (Waltzing with Asm…, 2) · Generals/Ma… 10 (3) · 1–5 Star Officers 30 (3) · First- to
+    Ninth-Class Soldiers 250 (Hand-to-Hand C…, 5)
+  - So **Tower of Trials = the Ascension Trial score chain** (confirmed, was an inference) and the Tribulations are
+    Ascension Trial clears per season dungeon. ~~Guide examples: 10 h Abyss, fly 60 min, 500,000 AP, 5 / 3 sieges,
+    Arena 30 / 20 / 50 / 10 / 20~~ were earlier steps of the same chains.
+- **Battlefield:** the 10v10 PvP mode, see `endgame.md` "Battlefield". **Tower of Trials:** the Ascension Trial's
+  final-score chain (in-game 2026-10-25, see above).
 - **Countdowns:** "Season resets in 58d 19h 11min" seen 2026-10-18 14:49 CEST → **2026-12-16 08:00 UTC (09:00 CET)**;
   "Event ends in 16d 19h 11min" → 2026-11-04 08:00 UTC (09:00 CET). Matches the "09:00" end date shown in the window.
   After the 2026-10-25 clock change the Halloween end shows as **08:00 CET** (in-game 2026-10-25), so these countdowns

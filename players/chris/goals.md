@@ -21,19 +21,14 @@ snapshot: `characters/dhamira-achievements.md`. Season 1 weeklies are routines (
 | Achievement | Current | Next tier | Reward (all tiers) | Why |
 |---|---|---|---|---|
 | **Season 1, ends 2026-12-16** | | | | |
-| Nightmare: Gatekeeper Pinopi | ? | ? | 7,690 Oath Coins, 6,750 Enhance Stones | Biggest Enhance Stone source among achievements |
-| Nightmare: Furious Feruk | ? | ? | same | |
-| Nightmare: Fafnir's Poison Blood | ? | ? | same | |
-| Nightmare: Wraith Giselle | ? | ? | same | |
-| Nightmare: Fortress Guardian Notun | ? | ? | 10,770 Oath Coins, 45 Soul Codex | |
-| Nightmare: Mutated Gerod | ? | ? | same | |
-| Nightmare: Zikel's Apparition | ? | ? | 15,150 Oath Coins, 45 Soul Codex | |
-| Deus Research Base Stage 1–4 | ? | ? | 1,460–5,660 Oath Coins + Training Arcana per stage | Comes with Transcendence |
-| Shattered Arkanis Stage 1–4 | ? | ? | same | |
-| Tower of Trials (Ascension Trial score) | ? | ? | 12,660 Oath Coins, Training Arcana | |
-| Tribulation of Aponos (Nightmare Altar) | ? | ? | 2,940 Oath Coins, 15 Silentium | |
-| Tribulation of Duduri and Dodori (Sanctum of Loathing) | ? | ? | same | |
-| Street Fighter (Abyss player kills) | ? | ? | 16,800 Oath Coins, 33,600 AP, 10 Soul Codex | PvP, slow for a healer |
+| Nightmare: 7 bosses (Pinopi, Feruk, Fafnir, Giselle, Fortress Guardian, Gerod, Zikel) | tab 48/77 steps (2026-10-25); per boss not shown | last step = Lv 11 clear, 0/1 on every boss | 7,690 Oath Coins + 6,750 ES (first four), 10,770 + 45 Soul Codex (Guardian, Gerod), 15,150 + 45 Soul Codex (Zikel) | Biggest Enhance Stone source among achievements |
+| Deus Research Base + Shattered Arkanis, Stage 1–4 each | tab 4/24 steps (2026-10-25); last step 0/1 on all 8 cards | 3 steps per stage | 1,460–5,660 Oath Coins + Training Arcana per stage | Comes with Transcendence |
+| Tower of Trials (Ascension Trial score) | last step (8/8) 0/1 (2026-10-25) | final score 6,0… (cut off) | 12,660 Oath Coins, Training Arcana | |
+| Tribulation of Aponos (Ascension Trial, Nightmare Altar) | 8/10 clears (2026-10-25) | 10 | 2,940 Oath Coins, 15 Silentium | Comes with Ascension Trial; 2 more clears = one Nightmare Altar week |
+| Tribulation of Duduri and Dodori (Ascension Trial, Sanctum of Loathing) | 4/10 clears (2026-10-25) | 10 | same | Comes with Ascension Trial |
+| Street Fighter (Abyss player kills) | 57/500 (2026-10-25) | 500 (step 5/5) | 16,800 Oath Coins, 33,600 AP, 10 Soul Codex | PvP, slow for a healer |
+| Coins to Make Me… (collect Abyss Points) | 757,541/1,000,000 (2026-10-25) | 1M (step 4/4) | ? | Close; comes with the AP routines |
+| All I Have Is Two… (fly in total) | 145/180 min (2026-10-25) | 180 (step 2/2) | ? | Close, just flying |
 | **Permanent** | | | | |
 | Five Veiled Fates (missions) | 45 (2026-10-20) | 50: 540 ES | 3,710 Enhance Stones; title at 30 already earned | Comes with dailies |
 | Herald of Hope (commands) | 36 (2026-10-20) | 50: 540 ES | same | |
