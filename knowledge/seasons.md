@@ -56,7 +56,8 @@ the reset pattern is from KR official notices. Unverified unless tagged `in-game
     Battlefield 3 (Daeva's Book) [battlefield] · Ascension Trial 3 (Hatched Bird) [ascension]
   - ~~Guides: Friends With a Story 5/10, Nahma 1~~ fit; ~~Transcendence 6 clears~~ was an earlier step.
 - **Season (one-time) missions, full list (in-game 2026-10-25, Season sub-tab).** Like the weekly tab, each card shows
-  the **last step** of its chain (header "Step 3/3", target of that step); earlier steps aren't shown on the card.
+  the **last step** of its chain (header "Step 3/3", target of that step); earlier steps aren't shown on the card
+  by default, but the card's "<" arrow pages back through them to the current step (in-game 2026-10-26).
   Steps per tab: Abyss 25, Arena 14, Transcendence 24, Nightmare 77, Challenge 27 = **167** ("All x/167"); Event has
   none. Names cut off in the window end in "…".
   - **Abyss (8):** spend 60 h in the Abyss (Peering into the A…, 3 steps) · fly 180 min in total (All I Have Is Two…, 2) ·

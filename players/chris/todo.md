@@ -6,8 +6,6 @@ tracker itself goes in `backlog.md`.
 ## Open
 - [ ] **By 2026-12-16 08:00:** use up the 50 Odyle Energy (Bound) items (2,000 Odyle), they expire with Season 1.
   About one extra cube (40) per day on top of the normal regen
-- [ ] Season Missions, Season tab: the cards only show the last step. Does the "<" arrow on a card page back to
-  the current step? If so, read the current step for the 7 Nightmare bosses and the 8 Transcendence stages
 - [ ] Quick achievements (state 2026-10-20, `characters/dhamira-achievements.md`), then claim them:
   join a Legion (0/1 → title There's No "I" in Team) · use 1 Transformation Candy (Sweet Tooth, 0/1) ·
   store items 2 more times (Storage Keeper III, 48/50 → title) · buy 5 more items at the Black Cloud
@@ -38,6 +36,7 @@ tracker itself goes in `backlog.md`.
   Does a higher-GS material give a fuller new line (or a better chance)? See `knowledge/gear.md` "Sync"
 
 ## Done
+- [x] Season Missions: the "<" arrow pages back to the current step; not reading every step, just aiming for the last one (2026-10-26)
 - [x] Chalice enhanced to +2: Earth's Retribution and Healing Enhancement lines went +1 → +2 (2026-10-25)
 - [x] Season Missions, Season tabs screenshotted: progress in `characters/dhamira-achievements.md` (2026-10-25)
 - [x] Season Missions, weekly tabs screenshotted: all weekly missions now routines, caps checked (2026-10-24)
